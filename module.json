@@ -1,0 +1,38 @@
+{
+  "id": "starsmith-expanded-oracles",
+  "title": "Starsmith Expanded Oracles",
+  "description": "A collection of fan-created oracles for the Ironsworn: Starforged system.",
+  "version": "0.0.1",
+  "authors": [
+    {
+      "name": "Eric Bright",
+      "url": "https://playeveryrole.com/",
+      "flags": {}
+    },
+    {
+      "name": "David Y. Hudson",
+      "discord": "jendave",
+      "url": "https://github.com/jendave",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": 10,
+    "verified": 11
+  },
+  "packs": [
+    {
+      "name": "module-roll-tables",
+      "label": "Module Roll Tables",
+      "path": "packs/roll-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/module.json",
+  "download": "https://gitlab.com/encounterlibrary/my-content-module/-/raw/main/my-content-module.zip"
+}
