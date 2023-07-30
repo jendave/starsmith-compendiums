@@ -22,10 +22,11 @@
   },
   "packs": [
     {
-      "name": "module-roll-tables",
-      "label": "Module Roll Tables",
-      "path": "packs/roll-tables",
+      "name": "starsmithexpandedoracles",
+      "label": "Starsmith Expanded Oracles",
+      "path": "packs/starsmith-expanded-oracles",
       "type": "RollTable",
+      "system": "foundry-ironsworn",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -34,5 +35,6 @@
     }
   ],
   "manifest": "https://github.com/jendave/starsmith-expanded-oracles/raw/main/module.json",
+  "url": "https://github.com/jendave/starsmith-expanded-oracles",
   "download": "https://github.com/jendave/starsmith-expanded-oracles/archive/refs/heads/main.zip"
 }
