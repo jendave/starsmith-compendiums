@@ -1517,7 +1517,9 @@ d100 FOCUS (5 - 6)
 99  Zero-Gravity
 100 Zone
 
-SPACE SIGHTING Terminus (1 - 2)
+Space
+
+d100 SPACE SIGHTING Terminus (1 - 2)
 1-15    Stellar Object
 16-35   Planet
 36-40   Settlement
@@ -1540,7 +1542,7 @@ SPACE SIGHTING Terminus (1 - 2)
 94-98   Roll twice
 99-100  Roll three times
 
-SPACE SIGHTING Outlands (1 - 2)
+d100 SPACE SIGHTING Outlands (1 - 2)
 1-15   Stellar Object
 16-35  Planet
 36-38  Settlement
@@ -1563,7 +1565,7 @@ SPACE SIGHTING Outlands (1 - 2)
 94-98  Roll twice
 99-100 Roll three times
 
-SPACE SIGHTING Expanse (1 - 2)
+d100 SPACE SIGHTING Expanse (1 - 2)
 1-15   Stellar Object
 16-35  Planet
 36-37  Settlement
@@ -1586,7 +1588,7 @@ SPACE SIGHTING Expanse (1 - 2)
 94-98  Roll twice
 99-100 Roll three times
 
-SPACE SIGHTING Terminus (3 - 4)
+d100 SPACE SIGHTING Terminus (3 - 4)
 1-15   Stellar Object
 16-35  Planet
 36-40  Settlement
@@ -1609,7 +1611,7 @@ SPACE SIGHTING Terminus (3 - 4)
 94-98  Roll twice
 99-100 Roll three times
 
-SPACE SIGHTING Outlands (3 - 4)
+d100 SPACE SIGHTING Outlands (3 - 4)
 1-15   Stellar Object
 16-35  Planet
 36-38  Settlement
@@ -1632,7 +1634,7 @@ SPACE SIGHTING Outlands (3 - 4)
 94-98  Roll twice
 99-100 Roll three times
 
-SPACE SIGHTING Expanse (3 - 4)
+d100 SPACE SIGHTING Expanse (3 - 4)
 1-15   Stellar Object
 16-35  Planet
 36-37  Settlement
@@ -1642,7 +1644,7 @@ SPACE SIGHTING Expanse (3 - 4)
 46-49  Creature
 50-56  Descriptor + Focus
 57-61  Debris field: Oort cloud
-62-64  Debris field: Synestia
+62-64  Debris field: Synestia (A rapidly spinning doughnut-shaped (torus) mass of vaporized rock caused by a colossal impact of objects with high angular momentum)
 65-66  Debris field: Asteroid belt
 67-68  Debris field: Organic matter
 69-70  Debris field: Jettisoned cargo
@@ -1655,11 +1657,7 @@ SPACE SIGHTING Expanse (3 - 4)
 94-98  Roll twice
 99-100 Roll three times
 
-Synestia
-A rapidly spinning doughnut-shaped (torus) mass of vaporized rock caused by
-a colossal impact of objects with high angular momentum.
-
-SPACE SIGHTING Terminus (5 - 6)
+d100 SPACE SIGHTING Terminus (5 - 6)
 1-15   Stellar Object
 16-35  Planet
 36-40  Settlement
@@ -1682,7 +1680,7 @@ SPACE SIGHTING Terminus (5 - 6)
 94-98  Roll twice
 99-100 Roll three times
 
-SPACE SIGHTING Outlands (5 - 6)
+d100 SPACE SIGHTING Outlands (5 - 6)
 1-15   Stellar Object
 16-35  Planet
 36-38  Settlement
@@ -1705,7 +1703,7 @@ SPACE SIGHTING Outlands (5 - 6)
 94-98  Roll twice
 99-100 Roll three times
 
-SPACE SIGHTING Expanse (5 - 6)
+d100 SPACE SIGHTING Expanse (5 - 6)
 1-15   Stellar Object
 16-35  Planet
 36-37  Settlement
@@ -1717,7 +1715,7 @@ SPACE SIGHTING Expanse (5 - 6)
 57-61  Debris field: Colliding asteroid fields
 62-64  Debris field: Meteoroids
 65-66  Debris field: Scattered disc
-67-68  Debris field: Blinding bolides
+67-68  Debris field: Blinding bolides (A large meteor which explodes in the atmosphere)
 69-70  Debris field: Mine field
 71-72  Rogue dwarf planet
 73-74  Planet killing comet
@@ -1728,10 +1726,7 @@ SPACE SIGHTING Expanse (5 - 6)
 94-98  Roll twice
 99-100 Roll three times
 
-Bolide
-A large meteor which explodes in the atmosphere.
-
-SECTOR NAME Prefix (1 - 2)
+d100 SECTOR NAME Prefix (1 - 2)
 1-2    Accursed
 3-4    Ashen
 5-6    Asteria
@@ -1783,7 +1778,7 @@ SECTOR NAME Prefix (1 - 2)
 97-98  Veiled
 99-100 Wasted
 
-SECTOR NAME Suffix (1 - 2)
+d100 SECTOR NAME Suffix (1 - 2)
 1-2    Abyss
 3-4    Anvil
 5-6    Arch
@@ -1835,7 +1830,7 @@ SECTOR NAME Suffix (1 - 2)
 97-98  Web
 99-100 Zenith
 
-SECTOR NAME Prefix (3 - 4)
+d100 SECTOR NAME Prefix (3 - 4)
 1-2    Alpha
 3-4    Amber
 5-6    Amethyst
@@ -1887,7 +1882,7 @@ SECTOR NAME Prefix (3 - 4)
 97-98  Unda
 99-100 Verdant
 
-SECTOR NAME Suffix (3 - 4)
+d100 SECTOR NAME Suffix (3 - 4)
 1-2    Aperture
 3-4    Arm
 5-6    Belt
@@ -1939,7 +1934,7 @@ SECTOR NAME Suffix (3 - 4)
 97-98  Traverse
 99-100 Visage
 
-SECTOR NAME Prefix (5 - 6)
+d100 SECTOR NAME Prefix (5 - 6)
 1-2    Aether
 3-4    Afflicted
 5-6    Aurora
@@ -1991,7 +1986,7 @@ SECTOR NAME Prefix (5 - 6)
 97-98  Wicked
 99-100 Withered
 
-SECTOR NAME Suffix (5 - 6)
+d100 SECTOR NAME Suffix (5 - 6)
 1-2    Altar
 3-4    Arc
 5-6    Band
@@ -2043,7 +2038,7 @@ SECTOR NAME Suffix (5 - 6)
 97-98  Weave
 99-100 Wellspring
 
-STELLAR OBJECT (1 - 2)
+d100 STELLAR OBJECT (1 - 2)
 1-15   Smoldering red star
 16-30  Glowing orange star
 31-45  Burning yellow star
@@ -2058,7 +2053,7 @@ STELLAR OBJECT (1 - 2)
 99     Artificial star constructed by a long-dead civilization
 100    Unstable star showing signs of impending supernova
 
-STELLAR OBJECT (3 - 4)
+d100 STELLAR OBJECT (3 - 4)
 1-15   Sickly green star that absorbs energy as well as emitting it
 16-30  Vibrant pink star crackling with electricity
 31-45  Blinding white star burning hot
@@ -2066,21 +2061,14 @@ STELLAR OBJECT (3 - 4)
 51-60  Protostar just beginning to take form
 61-70  Cooled black dwarf with extreme density
 71-75  Excited star infused with hydrogen
-76-80  Magnetar emitting high energy radiation
+76-80  Magnetar emitting high energy radiation (A neutron star emitting an ultra-strong magnetic field)
 81-85  Cluster of small stars orbiting each other
-86-90  Quasi-star with a black hole at its center
-91-98  Preon star emitting quantum particles
+86-90  Quasi-star with a black hole at its center (An extremely massive star powered by a black hole at the center of it)
+91-98  Preon star emitting quantum particles (A highly dense star made of subatomic particles)
 99     Dyson sphere that is decaying
 100    Dark matter star annihilating matter as it grows
 
-Magnetar
-A neutron star emitting an ultra-strong magnetic field.
-Preon Star
-A highly dense star made of subatomic particles.
-Quasi-Star
-An extremely massive star powered by a black hole at the  center  of  it.
-
-STELLAR OBJECT (5 - 6)
+d100 STELLAR OBJECT (5 - 6)
 1-15   Dull red star burning an element other than hydrogen
 16-30  Flaring orange star with a larger than normal heliosphere
 31-45  Pale blue star surrounded by a ring of plasma
@@ -2095,7 +2083,7 @@ STELLAR OBJECT (5 - 6)
 99     Ringworld megastructure leaking atmosphere
 100    Unstable wormhole drawing in everything nearby
 
-SPACEBORNE PERIL (1 - 2)
+d100 SPACEBORNE PERIL (1 - 2)
 1-3    Artificial gravity generator malfunctions
 4-6    Automated defenses or mines protect this area
 7-9    Compartment catches fire or is breached
@@ -2131,7 +2119,7 @@ SPACEBORNE PERIL (1 - 2)
 97-99  Action + Theme
 100    Roll Twice
 
-SPACEBORNE PERIL (3 - 4)
+d100 SPACEBORNE PERIL (3 - 4)
 1-3    Accused of a crime, the chase begins
 4-6    Air supply dwindles or is damaged
 7-9    Caught in the crossfire of a skirmish
@@ -2167,7 +2155,7 @@ SPACEBORNE PERIL (3 - 4)
 97-99  Action + Theme
 100    Roll Twice
 
-SPACEBORNE PERIL (5 - 6)
+d100 SPACEBORNE PERIL (5 - 6)
 1-3    Access to a critical deck is blocked
 4-6    An objective is in a death spiral towards a star
 7-9    Beacons warn of a quarantined area ahead
@@ -2203,7 +2191,7 @@ SPACEBORNE PERIL (5 - 6)
 97-99  Action + Theme
 100    Roll Twice
 
-SPACEBORNE OPPORTUNITY (1 - 2)
+d100 SPACEBORNE OPPORTUNITY (1 - 2)
 1-4     Advance warning of an environmental threat
 5-8     Automated signal offers a helpful message or warning
 9-12    Cache of cargo or supplies
@@ -2230,7 +2218,7 @@ SPACEBORNE OPPORTUNITY (1 - 2)
 93-96   Sensors reveal helpful or interesting environmental data
 97-100  Vehicle or equipment performs beyond expectations
 
-SPACEBORNE OPPORTUNITY (3 - 4)
+d100 SPACEBORNE OPPORTUNITY (3 - 4)
 1-4     Advance warning of a coming conflict
 5-8     Asteroid belt rich with minerals
 9-12    Base of operations for a foe is discovered
@@ -2257,7 +2245,7 @@ SPACEBORNE OPPORTUNITY (3 - 4)
 93-96   Trading starship offers respite and resupply
 97-100  Your efforts are more effective than expected
 
-SPACEBORNE OPPORTUNITY (5 - 6)
+d100 SPACEBORNE OPPORTUNITY (5 - 6)
 1-4     Abandoned settlement still has supplies
 5-8     Advance warning of a lifeform threat
 9-12    Another adversary of a foe is revealed
@@ -2284,7 +2272,9 @@ SPACEBORNE OPPORTUNITY (5 - 6)
 93-96   Valuable sensor data is recovered from wreckage
 97-100  You find a way to temporarily boost a system's power
 
-PLANET (1 - 2)
+Planets
+
+d100 PLANET (1 - 2)
 DESERT WORLD
 OBSERVED FROM SPACE 1-2
 1-11    Dry seabeds
