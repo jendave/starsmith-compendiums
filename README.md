@@ -1,6 +1,9 @@
 # starsmith-expanded-oracles
 
 ![Download count of latest release](https://img.shields.io/github/downloads/jendave/starsmith-expanded-oracles/archive/refs/heads/main.zip?style=for-the-badge)
+[![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-expanded-oracles/releases/latest)
+![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarsmith-expanded-oracles%2Fmain%2Fmodule.json)
+[![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles?label=License)](LICENSE.md)
 
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
@@ -12,7 +15,9 @@ https://github.com/jendave/starsmith-expanded-oracles/raw/main/module.json
 
 # Credits
 
-Oracles by Eric Bright and licensed for use under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license (creativecommons.org/licenses/by-nc-sa/4.0/).
+Oracles by Eric Bright and licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](creativecommons.org/licenses/by-nc-sa/4.0/).
+
+Module by David Hudson and licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](creativecommons.org/licenses/by-nc-sa/4.0/).
 
 https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles
 
@@ -23,27 +28,9 @@ https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles
 * Tables that are simply copies of official Starforged tables without the arry (some planet and several of the derelict tables for example) are not included since they would be redundant with the Starforged System tables.
 
 # TODOs
-* Fix casing of tables names
+* Fix capitalization of tables names
 * Add descriptions to each table
-* See if there is a way to roll a complete Registry Number Builder.
+* See if there is a good way to roll a complete Registry Number Builder.
 
 # Modules
 [foundryvtt-importer](https://github.com/EthanJWright/foundryvtt-importer): This module was used to import the tables from text to RollTables.
-
-# Text Manipulation Tips
-Some small tips to manipulate the text
-
-## Utilities
-```
-pdftotext -table -nodiag Starsmith-Expanded-Oracles-Dec-17-22.pdf Starsmith-Expanded-Oracles-Dec-17-22-4.txt # export PDF text to text file
-```
-## VIM Tips
-```
-:g/^\s*$/d # Remove blank space
-:%s/\s\+$//e # Remove trailing blanks
-ggVG :left # Remove leading blanks
-:%s/^L//g # ^L using ctrl-V ctrl-L # Remove form feeds
-Visual block mode for copying column text - ctrl-V and use arrow keys
-:%s/13-14/13\r14\r/g # Find string '13-14' and put carriage returns between the numbers and after '-'
-:.,.+99s/ \+/\r/g # Replace spaces with carriage return for current and following 99 lines
-```
