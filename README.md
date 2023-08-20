@@ -24,12 +24,13 @@ https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles
 * Oracle tables from the PDF are included. 
 * Open the compendium and import all RollTables to your World.
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array. 
-* Tables that are simply copies of official Starforged tables without the arry (some planet and several of the derelict tables for example) are not included since they would be redundant with the Starforged System tables.
+* Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the Starforged System tables.
 
 # TODOs
 * Fix capitalization of tables names
 * Add descriptions to each table
 * See if there is a good way to roll a complete Registry Number Builder.
+* Wish List: Integrate with Ironsworn-Starforged System
 
 # Modules
 [foundryvtt-importer](https://github.com/EthanJWright/foundryvtt-importer): This module was used to import the tables from text to RollTables.
