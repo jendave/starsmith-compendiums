@@ -1,6 +1,6 @@
 # Changelog
 
-### [0.0.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-08-18)
+### [1.0.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-08-20)
 
 ### Release Notes
 
