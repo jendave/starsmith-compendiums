@@ -3,7 +3,7 @@
 ![Download count of all releases](https://img.shields.io/github/downloads/jendave/starsmith-expanded-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-expanded-oracles/releases/latest)
 ![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarsmith-expanded-oracles%2Fmain%2Fmodule.json)
-[![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles?label=License)](LICENSE)
+[![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles)](LICENSE)
 
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
