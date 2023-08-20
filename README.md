@@ -16,9 +16,9 @@ https://github.com/jendave/starsmith-expanded-oracles/raw/main/module.json
 
 Oracles by Eric Bright and licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](creativecommons.org/licenses/by-nc-sa/4.0/).
 
-Module by David Hudson and licensed for use under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International license](creativecommons.org/licenses/by-nc-sa/4.0/).
+Download the [Starsmith Expanded Oracles PDF from DriveThruRPG.](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
 
-https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles
+Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 # Features and Notes
 * Oracle tables from the PDF are included. 
