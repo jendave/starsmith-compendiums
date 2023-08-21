@@ -10,7 +10,7 @@ A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged sys
 To install it, use this URL:
 
 ```
-https://github.com/jendave/starsmith-expanded-oracles/raw/main/module.json
+https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
 ```
 
 # Credits
