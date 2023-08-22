@@ -7,11 +7,14 @@
 
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
-To install it, use this URL:
+## Installation
+To install the module, use this URL:
 
 ```
 https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
 ```
+
+Open the `Starsmith Expanded Oracles` compendium and copy the folders into your world's `Rollable Tables` menu.
 
 # Credits
 
