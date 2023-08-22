@@ -28,8 +28,13 @@ jobs:
 
     # Create zip file
     - run: zip -r ./module.zip packs module.json README.md CHANGELOG.md LICENSE LICENSE-Oracles
-
-    - uses: ncipollo/release-action@v1
+    
+    # Update release with zip file
+    - name: Update Release with Files
+      id: create_version_release
+      uses: ncipollo/release-action@v1
       with:
         allowUpdates: true
         artifacts: './module.zip, module.json'
+        tag: ${{ github.event.release.tag_name }}
+        body: ${{ github.event.release.body }}
