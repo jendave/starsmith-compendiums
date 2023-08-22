@@ -1,8 +1,8 @@
 {
   "id": "starsmith-expanded-oracles",
-  "title": "Starsmith Expanded Oracles",
+  "title": "Starsmith Expanded Oracles for Ironsworn: Starforged",
   "description": "A collection of fan-created oracles for the Ironsworn: Starforged system.",
-  "version": "1.0.0",
+  "version": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "authors": [
     {
       "name": "Eric Bright",
@@ -23,7 +23,7 @@
   "packs": [
     {
       "name": "starsmithexpandedoracles",
-      "label": "Starsmith Expanded Oracles",
+      "label": "Starsmith Expanded Oracles for Ironsworn: Starforged",
       "path": "packs/starsmith-expanded-oracles",
       "type": "RollTable",
       "system": "foundry-ironsworn",
@@ -34,9 +34,9 @@
       "flags": {}
     }
   ],
-  "manifest": "https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json",
-  "url": "https://github.com/jendave/starsmith-expanded-oracles",
-  "download": "https://github.com/jendave/starsmith-expanded-oracles/releases/download/1.0.0/module.zip",
+  "manifest": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "url": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
+  "download": "AUTOMATICALLY REPLACED BY GITHUB WORKFLOW ACTION",
   "license": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/LICENSE",
   "changelog": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/CHANGELOG.md",
   "readme": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/README.md",

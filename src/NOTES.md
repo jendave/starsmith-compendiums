@@ -14,4 +14,88 @@ ggVG :left # Remove leading blanks
 Visual block mode for copying column text - ctrl-V and use arrow keys
 :%s/13-14/13\r14\r/g # Find string '13-14' and put carriage returns between the numbers and after '-'
 :.,.+99s/ \+/\r/g # Replace spaces with carriage return for current and following 99 lines
+:/\<[A-Z]\+\> # Find ALL CAPS words
+:/\v<[A-Z]+> # Find ALL CAPS words very magic
+:s/\<\(\w\)\(\S*\)/\u\1\L\2/g # Title Case
+:s#\v(\w)(\S*)#\u\1\L\2#g # title Case very magic
+```
+
+## Notes for Github workflows
+```
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+     # Create zip file
+      - run: zip -r ./module.zip packs module.json README.md CHANGELOG.md LICENSE LICENSE-Oracles
+      
+     # Substitute tag for changelog
+      - name: Substitute tag
+        id: substitute_tag
+        uses: ashley-taylor/regex-property-action@1.3
+        with:
+          value: ${{github.event.release.tag_name}}
+          regex: "[v.]"
+          flags: "g"
+          replacement: ""
+          
+      - name: Get current date
+        id: date
+        run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+
+      # Update release with zip file
+      - name: Update Release with Files
+        id: create_version_release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true
+          artifacts: './module.zip, module.json'
+          body: "Changelog: https://github.com/jendave/starsmith-expanded-oracles/blob/develop/CHANGELOG.md#${{steps.substitute_tag.outputs.value}}---${{steps.date.outputs.date}}"
+          omitDraftDuringUpdate: true
+          omitPrereleaseDuringUpdate: true
+
+
+
+name: Release Creation
+
+on:
+  release:
+    types: [published]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      # Substitute the Manifest and Download URLs in the module.json
+      - name: Substitute Manifest and Download Links For Versioned Ones
+        id: sub_manifest_link_version
+        uses: microsoft/variable-substitution@v1
+        with:
+          files: "module.json"
+        env:
+          version: ${{github.event.release.tag_name}}
+          url: https://github.com/${{github.repository}}
+          manifest: https://github.com/${{github.repository}}/releases/latest/download/module.json
+          download: https://github.com/${{github.repository}}/releases/download/${{github.event.release.tag_name}}/module.zip
+
+      # Create a zip file with all files required by the module to add to the release
+      - run: zip -r ./module.zip module.json packs/ LICENSE OGL.txt
+
+      # Create a release for this specific version
+      - name: Update Release with Files
+        id: create_version_release
+        uses: ncipollo/release-action@v1
+        with:
+          allowUpdates: true Set this to false if you want to prevent updating existing releases
+          name: ${{ github.event.release.name }}
+          draft: false
+          prerelease: false
+          token: ${{ secrets.GITHUB_TOKEN }}
+          artifacts: "./module.json, ./module.zip"
+          tag: ${{ github.event.release.tag_name }}
+          body: ${{ github.event.release.body }}
 ```
