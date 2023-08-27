@@ -1,0 +1,711 @@
+{
+  "name": "Backstory Prompt (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "You abandoned your kin after learning a troubling truth",
+      "range": [
+        1,
+        7
+      ],
+      "_id": "F3du15P8jswhOrAf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You are guided by a vision or prophecy",
+      "range": [
+        8,
+        13
+      ],
+      "_id": "nVqH9Qd4D4u3sWPL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You are haunted by past actions or failures",
+      "range": [
+        14,
+        20
+      ],
+      "_id": "yR5lFXbdbpXlzDd7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You are running from a criminal past",
+      "range": [
+        21,
+        27
+      ],
+      "_id": "ShpsL4snlHwdJpPl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You are the sole survivor of an attack or calamity",
+      "range": [
+        28,
+        34
+      ],
+      "_id": "GFBYF1e6XCsjQ33h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You escaped an abusive or unjust situation",
+      "range": [
+        35,
+        40
+      ],
+      "_id": "IPYb1lDciPll97SE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You have no memory of your former life",
+      "range": [
+        41,
+        46
+      ],
+      "_id": "2NIF6KjqEoGLIHM5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You rejected a duty or destiny",
+      "range": [
+        47,
+        53
+      ],
+      "_id": "Udx3c7oVLWyNyzF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were banished from your former home",
+      "range": [
+        54,
+        60
+      ],
+      "_id": "pTwgcRrA7a03QeVD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were denied a birthright",
+      "range": [
+        61,
+        67
+      ],
+      "_id": "bbGSNJbjQ9rgemzY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were on your own for as long as you can remember",
+      "range": [
+        68,
+        74
+      ],
+      "_id": "fBfifPtidPSCq2ot",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were sent away on a prolonged mission",
+      "range": [
+        75,
+        81
+      ],
+      "_id": "Yqy0dVcQc2MnUkmZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were taken or lured away by someone",
+      "range": [
+        82,
+        87
+      ],
+      "_id": "nhq4KumMro3HY5Ni",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "Your ambitions outgrew your humble origins",
+      "range": [
+        88,
+        94
+      ],
+      "_id": "A91pwCSxE7ZgWFmv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "Your wanderlust carried you far away",
+      "range": [
+        95,
+        100
+      ],
+      "_id": "kpISwdY1PzEuCFnL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    }
+  ],
+  "folder": "Uylg7OA7KprzNn9j",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>For some backstory inspiration, roll or pick from the table below. Then, take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "starforged-test",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.308",
+      "systemVersion": "1.21.7"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676224788,
+    "modifiedTime": 1692923225538,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  }
+}
+{
+  "name": "Backstory Prompt (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "You are plagued by a failed relationship",
+      "range": [
+        1,
+        7
+      ],
+      "_id": "bdVqBqKcgUZbOTBT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You fled an overwhelming debt that came due",
+      "range": [
+        8,
+        13
+      ],
+      "_id": "Ebw3OqEneyphbsUT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You fled an unwanted birthright or family obligation",
+      "range": [
+        14,
+        20
+      ],
+      "_id": "NcHreQNCSGzflos5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You have unexplained knowledge beyond your understanding",
+      "range": [
+        21,
+        27
+      ],
+      "_id": "qte836D6v5c6XKfG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You hold dearly to a noble and philanthropic cause",
+      "range": [
+        28,
+        34
+      ],
+      "_id": "djtH3o0SZMbyOahA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You left a corporation who wanted you to move up or get out",
+      "range": [
+        35,
+        40
+      ],
+      "_id": "btfZz48eztOvzY6h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You participated in a fierce attack and now seek atonement",
+      "range": [
+        41,
+        46
+      ],
+      "_id": "OW5a2B0C0iZmnlgV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You seek to prove yourself worthy of a duty or destiny",
+      "range": [
+        47,
+        53
+      ],
+      "_id": "3gVTmYQEYzKTAxtr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You wander aimlessly after losing a faithful companion",
+      "range": [
+        54,
+        60
+      ],
+      "_id": "Ps2lgGKssUebOdR9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were adrift in space long enough to lose yourself",
+      "range": [
+        61,
+        67
+      ],
+      "_id": "B53WmtVUIvwtoZE6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were away on a long-term research mission when everything changed",
+      "range": [
+        68,
+        74
+      ],
+      "_id": "tltygUJoidSxnFgl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were falsely accused of criminal activity and fled",
+      "range": [
+        75,
+        81
+      ],
+      "_id": "L3R4iYpYVVNl6Cz3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You work to see that a vision or prophecy will not come to pass",
+      "range": [
+        82,
+        87
+      ],
+      "_id": "FlsCeJSUZ7qs6FY1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "Your home did not survive a natural disaster",
+      "range": [
+        88,
+        94
+      ],
+      "_id": "NLoyLSBbvAZxpHWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "Your kin abandoned you after learning a troubling truth",
+      "range": [
+        95,
+        100
+      ],
+      "_id": "Ttbd2GN9LLI3Zo5L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    }
+  ],
+  "folder": "Uylg7OA7KprzNn9j",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>For some backstory inspiration, roll or pick from the table below. Then, take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "starforged-test",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.308",
+      "systemVersion": "1.21.7"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676224796,
+    "modifiedTime": 1692923231547,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  }
+}
+{
+  "name": "Backstory Prompt (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "You abandoned the wealth that made you a target",
+      "range": [
+        1,
+        7
+      ],
+      "_id": "y4ef9Tj5VKMIs0U9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You are guided by a mission passed down to you by kin",
+      "range": [
+        8,
+        13
+      ],
+      "_id": "sHplPTunDFobrPjJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You have knowledge others want to erase",
+      "range": [
+        14,
+        20
+      ],
+      "_id": "iPAzCOY3LUkLmIPb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You just recovered from a dangerous addiction that still tempts you",
+      "range": [
+        21,
+        27
+      ],
+      "_id": "8tDtXOeD5YXAkANv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You know the truth is out there",
+      "range": [
+        28,
+        34
+      ],
+      "_id": "8sfNTNcsH8vBIQi6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You offended a benefactor or patron",
+      "range": [
+        35,
+        40
+      ],
+      "_id": "BDL5nHFYU7JFZuf5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You participated in an unethical or illegal experiment",
+      "range": [
+        41,
+        46
+      ],
+      "_id": "vRC98bj8tY2Q2itF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You squandered the security of a normal life",
+      "range": [
+        47,
+        53
+      ],
+      "_id": "DYvP8YksLXc8kWFj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You survived a crash landing in the Expanse but at a great cost",
+      "range": [
+        54,
+        60
+      ],
+      "_id": "kBrJwpDcw17PUfB7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were duped into a shady action",
+      "range": [
+        61,
+        67
+      ],
+      "_id": "nbS7fgXeENdlmD9s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were shamed by a failed tech experiment",
+      "range": [
+        68,
+        74
+      ],
+      "_id": "uuR9tXTVf2dEmuOo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were shunned for your beliefs",
+      "range": [
+        75,
+        81
+      ],
+      "_id": "J02uARKm4vNAVLAD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "You were viewed as a pariah",
+      "range": [
+        82,
+        87
+      ],
+      "_id": "Mb83hPaYWvpNYhuS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "Your search for knowledge carried you far away",
+      "range": [
+        88,
+        94
+      ],
+      "_id": "cJqKx1IA1QKhlh8Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    },
+    {
+      "text": "Your unique genetic markers make you a target to illegal research",
+      "range": [
+        95,
+        100
+      ],
+      "_id": "eQ3oiIcAIoLVZLrc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg"
+    }
+  ],
+  "folder": "Uylg7OA7KprzNn9j",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>For some backstory inspiration, roll or pick from the table below. Then, take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "exportSource": {
+      "world": "starforged-test",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.308",
+      "systemVersion": "1.21.7"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676224798,
+    "modifiedTime": 1692923238025,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  }
+}
