@@ -1,22 +1,7 @@
-2023/08/20-17:04:40.131347 7000133f8000 Recovering log #8
-2023/08/20-17:04:40.162984 7000133f8000 Level-0 table #10: started
-2023/08/20-17:04:40.191500 7000133f8000 Level-0 table #10: 1049511 bytes OK
-2023/08/20-17:04:40.192867 7000133f8000 Delete type=3 #7
-2023/08/20-17:04:40.193209 7000133f8000 Delete type=0 #8
-2023/08/20-17:04:40.234785 70000dad1000 Compacting 2@0 + 0@1 files
-2023/08/20-17:04:40.266479 70000dad1000 Generated table #12@0: 11682 keys, 1074159 bytes
-2023/08/20-17:04:40.266528 70000dad1000 Compacted 2@0 + 0@1 files => 1074159 bytes
-2023/08/20-17:04:40.266816 70000dad1000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/20-17:04:40.267087 70000dad1000 Delete type=2 #10
-2023/08/20-17:04:40.267654 70000dad1000 Delete type=2 #5
-2023/08/21-15:23:26.387914 70000dad1000 Level-0 table #14: started
-2023/08/21-15:23:26.390578 70000dad1000 Level-0 table #14: 6735 bytes OK
-2023/08/21-15:23:26.392131 70000dad1000 Delete type=0 #11
-2023/08/21-15:23:26.394576 70000dad1000 Manual compaction at level-0 from '!folders!5bRA3nX57NvIds00' @ 72057594037927935 : 1 .. '!tables.results!zzDVpsn7FZPpaeda.uYZMYIbi2CrbDri0' @ 0 : 0; will stop at '!tables.results!qqH8KCS36R03xUX9.xgutZLnQXRI35zss' @ 11991 : 0
-2023/08/21-15:23:26.394608 70000dad1000 Compacting 1@0 + 1@1 files
-2023/08/21-15:23:26.581850 70000dad1000 Generated table #15@0: 11421 keys, 1049602 bytes
-2023/08/21-15:23:26.581937 70000dad1000 Compacted 1@0 + 1@1 files => 1049602 bytes
-2023/08/21-15:23:26.582196 70000dad1000 compacted to: files[ 0 1 0 0 0 0 0 ]
-2023/08/21-15:23:26.582492 70000dad1000 Delete type=2 #14
-2023/08/21-15:23:26.582911 70000dad1000 Delete type=2 #12
-2023/08/21-15:23:26.584133 70000dad1000 Manual compaction at level-0 from '!tables.results!qqH8KCS36R03xUX9.xgutZLnQXRI35zss' @ 11991 : 0 .. '!tables.results!zzDVpsn7FZPpaeda.uYZMYIbi2CrbDri0' @ 0 : 0; will stop at (end)
+2023/08/26-17:42:30.993566 700013f5a000 Recovering log #7
+2023/08/26-17:42:30.996132 700013f5a000 Delete type=0 #7
+2023/08/26-17:42:30.996432 700013f5a000 Delete type=3 #4
+2023/08/26-18:38:54.633759 70000cda7000 Level-0 table #13: started
+2023/08/26-18:38:54.634199 70000cda7000 Level-0 table #13: 0 bytes OK
+2023/08/26-18:38:54.635129 70000cda7000 Delete type=0 #11
+2023/08/26-18:38:54.636131 70000cda7000 Manual compaction at level-0 from '!folders!6cVVQY9tOQiVInzx' @ 72057594037927935 : 1 .. '!tables.results!ztBOckg0G5IMb5OX.spmZ6yv15zGc9UfR' @ 0 : 0; will stop at (end)
