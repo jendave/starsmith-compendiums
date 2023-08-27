@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.0.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-08-27)
+
+* Fixed spacing in titles and table entries
+* Fixed categories of several tables
+* Fixed several typos
+* Updated deprecated fields in Foundry module.json file.
+
 ### [1.0.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-08-21)
 
 * Update capitalization of table names from ALL CAPS to Title Case.
