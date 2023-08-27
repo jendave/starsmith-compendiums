@@ -2,6 +2,7 @@
 
 ### [1.0.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-08-27)
 
+* Added descriptions to tables
 * Fixed spacing in titles and table entries
 * Fixed categories of several tables
 * Fixed several typos

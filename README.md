@@ -25,7 +25,6 @@ Open the `Starsmith Expanded Oracles` compendium and copy the folders into your 
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the Starforged System tables.
 
 # TODOs
-* Add descriptions to each table
 * See if there is a good way to roll a complete Registry Number Builder.
 * Wish List: Integrate with Ironsworn-Starforged System
 
