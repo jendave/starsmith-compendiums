@@ -18,6 +18,8 @@ Visual block mode for copying column text - ctrl-V and use arrow keys
 :/\v<[A-Z]+> # Find ALL CAPS words very magic
 :s/\<\(\w\)\(\S*\)/\u\1\L\2/g # Title Case
 :s#\v(\w)(\S*)#\u\1\L\2#g # title Case very magic
+:%!jq . # Format file as multiline json
+:%!jq -c . # Format file as single-line json
 ```
 
 ## Notes for Github workflows
