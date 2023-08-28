@@ -16,7 +16,16 @@ Or use this URL:
 https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
 ```
 
-Open the `Starsmith Expanded Oracles` compendium and copy the folders into your world's `Rollable Tables` menu.
+## Add to Character Sheet Oracles
+* If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` called:
+  * `Custom Oracles` - EN
+  * `Oráculos personalizados` - ES
+  * `Oracles personnalisés` - FR
+  * `Własne Wyrocznie` - PL
+
+Open the `Starsmith Expanded Oracles` compendium and copy the folders into your world's `Rollable Tables` `Custom Oracles` folder.
+
+The Oracles will be available from the Actor sheet under `Custom Oracles`. The sorting order is not quite right yet.
 
 # Features and Notes
 * Oracle tables from the PDF are included. 
