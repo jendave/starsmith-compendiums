@@ -4,6 +4,15 @@ Some small tips to manipulate the text
 ## Utilities
 ```
 pdftotext -table -nodiag Starsmith-Expanded-Oracles-Dec-17-22.pdf Starsmith-Expanded-Oracles-Dec-17-22-4.txt # export PDF text to text file
+jq -r '.items[] | {name,_id}' starsmith-expanded-oracles-export.json
+jq -r '.items[] | {name,_id} | join(", Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.")' starsmith-expanded-oracles-export.json
+jq -r '.items[] | "displayName: \'"+(.name)+" tables: Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable."+(._id)' starsmith-expanded-oracles-export.json
+
+	starforgedOracles.children[0].children.push({
+		displayName: 'Backstory Prompts (1 - 2)',
+		tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w'],
+		children: []
+	})
 ```
 ## VIM Tips
 ```
