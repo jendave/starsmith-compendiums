@@ -14,6 +14,7 @@
 # [12] Starships aO8e4enqhqWw25H6
 # [13] Vaults N2sObuKzWFZ5LEU2
 */
+
 Hooks.on("ready", async () => {
   await new Promise(r => setTimeout(r, 1000))
 	const starforgedOracles = CONFIG.IRONSWORN.getOracleTree('starforged')
@@ -54,7 +55,7 @@ Hooks.on("ready", async () => {
   let shatteredPlanetIndex = planetFolder.children.indexOf(planetFolder.children.find(children => children.displayName === "Shattered"));
   let taintedPlanetIndex = planetFolder.children.indexOf(planetFolder.children.find(children => children.displayName === "Tainted"));
   let vitalPlanetIndex = planetFolder.children.indexOf(planetFolder.children.find(children => children.displayName === "Vital"));
-
+  
   starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
         displayName: 'Observed From Space (5 - 6)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0LirTYoCP3R8Dgzt'],
@@ -875,11 +876,6 @@ Hooks.on("ready", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV'],
         children: []
     })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Opportunity Lifeless (1 - 2)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF'],
-        children: []
-    })
   starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
         displayName: 'Names (1 - 2)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HJcSLbX4pAVEhTms'],
@@ -898,11 +894,6 @@ Hooks.on("ready", async () => {
   starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
         displayName: 'Planetside Feature (1 - 2)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.K74TKszI8T8HTUId'],
-        children: []
-    })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Peril Lifebearing (1 - 2)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG'],
         children: []
     })
   starforgedOracles.children[starshipsIndex].children.push({
@@ -1310,11 +1301,6 @@ Hooks.on("ready", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P2eGB9bEuZtwAQxq'],
         children: []
     })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Opportunity Lifebearing (5 - 6)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP'],
-        children: []
-    })
   starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
         displayName: 'Names (3 - 4)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Pm2jNTRrEBT2xw8g'],
@@ -1500,11 +1486,6 @@ Hooks.on("ready", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o'],
         children: []
     })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Opportunity Lifebearing (1 - 2)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG'],
-        children: []
-    })
   starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
         displayName: 'Names (5 - 6)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UDcY6Jp7nppzmlCI'],
@@ -1580,11 +1561,6 @@ Hooks.on("ready", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.a8S9E1HghcsyxTjX'],
         children: []
     })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Opportunity Lifeless (3 - 4)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR'],
-        children: []
-    })
   starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
         displayName: 'Observed From Space (3 - 4)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aos2ItE40qIbg8aV'],
@@ -1598,16 +1574,6 @@ Hooks.on("ready", async () => {
   starforgedOracles.children[planetsIndex].children[desertPlanetIndex].children.push({
         displayName: 'Planetside Feature (5 - 6)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bW8E38iRkmFPXJU8'],
-        children: []
-    })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Opportunity Lifeless (5 - 6)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A'],
-        children: []
-    })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Peril Lifeless (3 - 4)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6'],
         children: []
     })
   starforgedOracles.children[coreIndex].children.push({
@@ -1648,11 +1614,6 @@ Hooks.on("ready", async () => {
   starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
         displayName: 'Observed From Space (3 - 4)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.fTHisJyGql8gcVuC'],
-        children: []
-    })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Opportunity Lifebearing (3 - 4)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B'],
         children: []
     })
   starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push({
@@ -1793,11 +1754,6 @@ Hooks.on("ready", async () => {
   starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
         displayName: 'Names (1 - 2)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1fQSqdBI1hcsq53'],
-        children: []
-    })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Peril Lifeless (1 - 2)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr'],
         children: []
     })
   starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
@@ -2090,11 +2046,6 @@ Hooks.on("ready", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uWrqooiiEMOBJ4Jw'],
         children: []
     })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Peril Lifebearing (5 - 6)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2'],
-        children: []
-    })
   starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
         displayName: 'Planetside Feature (3 - 4)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v9dpHyiCM0N18i0f'],
@@ -2121,8 +2072,63 @@ Hooks.on("ready", async () => {
         children: []
     })
   starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Peril Lifebearing (3 - 4)',
+        displayName: 'Peril Lifebearing (1 - 2)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Peril Lifebearing (3 - 4)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Peril Lifebearing (5 - 6)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Peril Lifeless (1 - 2)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Peril Lifeless (3 - 4)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Peril Lifeless (5 - 6)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Opportunity Lifebearing (1 - 2)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Opportunity Lifebearing (3 - 4)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Opportunity Lifebearing (5 - 6)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Opportunity Lifeless (1 - 2)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Opportunity Lifeless (3 - 4)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR'],
+        children: []
+    })
+  starforgedOracles.children[planetsIndex].children.push({
+        displayName: 'Opportunity Lifeless (5 - 6)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A'],
         children: []
     })
   starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
@@ -2133,11 +2139,6 @@ Hooks.on("ready", async () => {
   starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
         displayName: 'Observed From Space (5 - 6)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wX7icUFXfjt33JHV'],
-        children: []
-    })
-  starforgedOracles.children[planetsIndex].children.push({
-        displayName: 'Planetside Peril Lifeless (5 - 6)',
-        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp'],
         children: []
     })
   starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
@@ -2170,6 +2171,6 @@ Hooks.on("ready", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ztBOckg0G5IMb5OX'],
         children: []
     })
-  
+
    CONFIG.IRONSWORN.registerOracleTree('starforged', starforgedOracles)
 })

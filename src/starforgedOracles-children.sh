@@ -160,6 +160,31 @@ do
             sub_folder_index="vitalPlanetIndex"
             oracle_subfolder_parser
             ;;
+        pRHK9NiXjihlEnF1)
+            folder_index="planetsIndex"
+            sub_folder_index="perilPlanetIndex"
+            oracle_subfolder_parser
+            ;;
+        hlkNpGgDqvEvbZcO)
+            folder_index="planetsIndex"
+            sub_folder_index="opportunityPlanetIndex"
+            oracle_subfolder_parser
+            ;;
+        pEtkvDQMjhvaOMWC)
+            folder_index="charactersIndex"
+            sub_folder_index="nameCharactersIndex"
+            oracle_subfolder_parser
+            ;;
+        wWgVqKGopxpyBO0b)
+            folder_index="spaceIndex"
+            sub_folder_index="sightingSpaceIndex"
+            oracle_subfolder_parser
+            ;;
+        tlFrIW2YNKLeIUDV)
+            folder_index="spaceIndex"
+            sub_folder_index="sectorNameSpaceIndex"
+            oracle_subfolder_parser
+            ;;
         *)
             folder_index="planetsIndex"
             oracle_folder_parser
