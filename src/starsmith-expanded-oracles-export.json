@@ -7356,16 +7356,16 @@
       "_id": "0gKPLApYlwxPhSaE"
     },
     {
-      "name": "Names (1 - 2)",
+      "name": "Observed From Space (1 - 2)",
       "formula": "1d100",
       "results": [
         {
-          "text": "Anubis",
+          "text": "Feeble sunlight",
           "range": [
             1,
-            5
+            11
           ],
-          "_id": "MqDuQAkyBl7Or53Y",
+          "_id": "YOfrI4JKpQYPO0pn",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7374,12 +7374,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Banshee",
+          "text": "Frozen oceans",
           "range": [
-            6,
-            10
+            12,
+            22
           ],
-          "_id": "gKlMJ7XNAveJQmci",
+          "_id": "kRq6RcHQ3e4mBtHa",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7388,12 +7388,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Barrow",
+          "text": "Rocky glacial islands",
           "range": [
-            11,
-            15
+            23,
+            33
           ],
-          "_id": "vQuOKk92mVuBdiST",
+          "_id": "n4frMoiFwd12Gmup",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7402,12 +7402,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Cairn",
+          "text": "Snowbound mountains",
           "range": [
-            16,
-            20
+            34,
+            44
           ],
-          "_id": "PQKksUVVCo58OasD",
+          "_id": "JrN4ayUxkrXgALHD",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7416,96 +7416,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Cerberus",
+          "text": "Sky-breaching geysers",
           "range": [
-            21,
-            25
-          ],
-          "_id": "QegRRvlM6BSx3q5T",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Charon",
-          "range": [
-            26,
-            30
-          ],
-          "_id": "iLHWZ5ZEmT5AVFLu",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Elysia",
-          "range": [
-            31,
-            35
-          ],
-          "_id": "EdJr60Q7PdTiOcXF",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Keen",
-          "range": [
-            36,
-            40
-          ],
-          "_id": "rNl3ra9JYTnKrQkv",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kur",
-          "range": [
-            41,
-            45
-          ],
-          "_id": "78ij94uMHsoHMwfK",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Lament",
-          "range": [
-            46,
-            50
-          ],
-          "_id": "KBjfxL4doTNaCb8s",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mantus",
-          "range": [
-            51,
+            45,
             55
           ],
-          "_id": "m7wOIxvd950wFC3o",
+          "_id": "zVXOi1CWtqRleZyi",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7514,12 +7430,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Morrigan",
+          "text": "Supersized ice volcano",
           "range": [
             56,
-            60
+            66
           ],
-          "_id": "Mpja3s9716LyfgAB",
+          "_id": "daFY4NJI5x65a95s",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7528,285 +7444,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Mourn",
+          "text": "Vibrantly colored ice",
           "range": [
-            61,
-            65
-          ],
-          "_id": "nzou1JxeyrdiA1hc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Necropolis",
-          "range": [
-            66,
-            70
-          ],
-          "_id": "vxycCStYfPQoDT57",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Orcus",
-          "range": [
-            71,
-            75
-          ],
-          "_id": "Xfrp0sszxuVO3HCp",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Osiris",
-          "range": [
-            76,
-            80
-          ],
-          "_id": "tMG0mVz5NIIJclCk",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Requiem",
-          "range": [
-            81,
-            85
-          ],
-          "_id": "31TtaQgfMc0ORR02",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Stygia",
-          "range": [
-            86,
-            90
-          ],
-          "_id": "TQmO0TyEQ9rFxP98",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Tartarus",
-          "range": [
-            91,
-            95
-          ],
-          "_id": "rOMJfvFL3SVATBSz",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Thrace",
-          "range": [
-            96,
-            100
-          ],
-          "_id": "8Fk31VuQMIHVP9gj",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401807,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "0vFf0yYmD1Kdc9TC"
-    },
-    {
-      "name": "Planetside Feature (5 - 6)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Bombed military complexes",
-          "range": [
-            1,
-            7
-          ],
-          "_id": "wIzFEAWKdVDO2TQd",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Broken infrastructure for mass transit systems",
-          "range": [
-            8,
-            14
-          ],
-          "_id": "Awskh3KZqfaf8FjJ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Crumbling monuments to power",
-          "range": [
-            15,
-            21
-          ],
-          "_id": "SOLckx1ILW6Njae5",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Deep trenches dug for warfare",
-          "range": [
-            22,
-            28
-          ],
-          "_id": "mLgyEG8yimt2n07i",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Desert sands turned to glass",
-          "range": [
-            29,
-            35
-          ],
-          "_id": "Co2YJFDZLmvRRnB9",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Dry riverbed",
-          "range": [
-            36,
-            42
-          ],
-          "_id": "Cn4U0GalLuOhQYCW",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Evidence of the use of weapons of mass destruction",
-          "range": [
-            43,
-            49
-          ],
-          "_id": "P8up4ifDtpNVUStS",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Flotsam littered shoreline",
-          "range": [
-            50,
-            56
-          ],
-          "_id": "oAy0Uv7vdYXEPGPo",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Humanoid remains still in life-like poses",
-          "range": [
-            57,
-            63
-          ],
-          "_id": "IgbIwJDGzOesSlbZ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Indications of a corrupt or brutal system of justice",
-          "range": [
-            64,
-            70
-          ],
-          "_id": "b68sjHP4AkefWQ8v",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Poisoned spring waters",
-          "range": [
-            71,
+            67,
             77
           ],
-          "_id": "omyd8AO5qmEMA59C",
+          "_id": "BDC8RWVIvi3pNyeR",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7815,26 +7458,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Rotted vertical farms",
+          "text": "World-spanning ice canyon",
           "range": [
             78,
-            84
+            88
           ],
-          "_id": "frAvPvzePsZo2JG9",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Stash of time-worn weapons",
-          "range": [
-            85,
-            91
-          ],
-          "_id": "PojCywRVpEIbg6Ch",
+          "_id": "kAq8lamdzoHJkOag",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7845,10 +7474,10 @@
         {
           "text": "Descriptor + Focus",
           "range": [
-            92,
+            89,
             98
           ],
-          "_id": "ozCMkT8MfYrKbMU5",
+          "_id": "nyp8c4sCB0Wbnsnr",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7857,12 +7486,12 @@
           "img": "icons/dice/d10black.svg"
         },
         {
-          "text": "Precursor Vault (planetside)",
+          "text": "Precursor Vault (orbital)",
           "range": [
             99,
             100
           ],
-          "_id": "zWZasZTNcLU4Tb4d",
+          "_id": "6yDt4uZe5MGNd789",
           "type": 0,
           "documentId": null,
           "weight": 1,
@@ -7871,7 +7500,7 @@
           "img": "icons/dice/d10black.svg"
         }
       ],
-      "folder": "EJoSoFU1mGwf60NT",
+      "folder": "NxLWkP3u1WpG2vuX",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -7881,11 +7510,172 @@
         "systemId": "foundry-ironsworn",
         "systemVersion": "1.21.7",
         "coreVersion": "11.308",
-        "createdTime": 1692676401825,
+        "createdTime": 1692676401834,
         "modifiedTime": 1693035144149,
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
-      "_id": "2JAxDfpav0IlsZLK"
+      "_id": "Uq1ybjzg3WVNH50Q"
+    },
+    {
+      "name": "Observed From Space (3 - 4)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Active volcanoes with swiftly hardening lava",
+          "range": [
+            1,
+            11
+          ],
+          "_id": "lHx78ITku46LxV8m",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Ancient river beds now frozen solid",
+          "range": [
+            12,
+            22
+          ],
+          "_id": "hU6qtIqCMjX3egZC",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Deep fjords carved by ice",
+          "range": [
+            23,
+            33
+          ],
+          "_id": "9BwTYseUFxFZ2l0M",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Glaciers with smooth, windswept tops",
+          "range": [
+            34,
+            44
+          ],
+          "_id": "e8PQZDMGZt9fzcYW",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mountains of pure ice in the midst of the ocean",
+          "range": [
+            45,
+            55
+          ],
+          "_id": "Byn6icskjqxNw5Wm",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Solitary island that appears unfrozen",
+          "range": [
+            56,
+            66
+          ],
+          "_id": "LnjQZDiBYnFGdKKX",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Thick magnetosphere reflecting most light",
+          "range": [
+            67,
+            77
+          ],
+          "_id": "SxafHImXTe01sCPl",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Turbulent jet streams filled with ice and snow",
+          "range": [
+            78,
+            88
+          ],
+          "_id": "aJaQlkcSvWPjCEEc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            89,
+            98
+          ],
+          "_id": "TgSlajsHa33YhKmm",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (orbital)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "EeQaR0RjUoMzPqUq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401848,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "fTHisJyGql8gcVuC"
     },
     {
       "name": "Observed From Space (5 - 6)",
@@ -8047,6 +7837,1602 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "2bbW8GapNrUbkBiD"
+    },
+    {
+      "name": "Planetside Feature (1 - 2)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Abyssal ice fissures",
+          "range": [
+            1,
+            7
+          ],
+          "_id": "spD7imRDz9FVavob",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Blinding snow storms",
+          "range": [
+            8,
+            14
+          ],
+          "_id": "5uZjV0apNC7dFWYP",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Clusters of ice spikes",
+          "range": [
+            15,
+            21
+          ],
+          "_id": "Aqy52CFOj4Cug65C",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Colossal ice caves",
+          "range": [
+            22,
+            28
+          ],
+          "_id": "ywOmCGFXN5viHGPO",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Glistening ice spires",
+          "range": [
+            29,
+            35
+          ],
+          "_id": "vigTb5m6YUVy5DWJ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Massive snow drifts",
+          "range": [
+            36,
+            42
+          ],
+          "_id": "rcILH0akZGwofPkK",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Preserved carcasses",
+          "range": [
+            43,
+            49
+          ],
+          "_id": "WB2nxERLxrr2Q5ZV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Rocky islands amid icy wastes",
+          "range": [
+            50,
+            56
+          ],
+          "_id": "EIITPKWdYfEvbujD",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Shattered plains of pack ice",
+          "range": [
+            57,
+            63
+          ],
+          "_id": "J2svHbqOqHdAfGB3",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Steaming hot springs",
+          "range": [
+            64,
+            70
+          ],
+          "_id": "CAAKsI01rwq0WSw8",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Subsurface liquid oceans",
+          "range": [
+            71,
+            77
+          ],
+          "_id": "gUcvlrg4WGkXuedJ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Vibrant auroras",
+          "range": [
+            78,
+            84
+          ],
+          "_id": "2ZMlsrfBq8gAEprl",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Wind-carved ice formations",
+          "range": [
+            85,
+            91
+          ],
+          "_id": "WvY495cN5EbZQcJs",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            92,
+            98
+          ],
+          "_id": "rDpoHzgvNXwatS6n",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (planetside)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "oZzFgytyso5JqsMp",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401837,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "3eZVI73pFd2Vq1Vn"
+    },
+    {
+      "name": "Planetside Feature (3 - 4)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Avalanche of ice and snow",
+          "range": [
+            1,
+            7
+          ],
+          "_id": "TL3XQIOxj5HPdyR1",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Bridge of ice connecting glaciers",
+          "range": [
+            8,
+            14
+          ],
+          "_id": "EYBHGn4fnRBdoTPj",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Devastating hail storms",
+          "range": [
+            15,
+            21
+          ],
+          "_id": "D3aC7dTw3bZDNsGe",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Emeralds of ice",
+          "range": [
+            22,
+            28
+          ],
+          "_id": "FoobltlT5CZBbJZV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Fierce lightning fueled by solar radiation",
+          "range": [
+            29,
+            35
+          ],
+          "_id": "gLbbRBXeQPsRsv30",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Hidden valley with relatively little snow",
+          "range": [
+            36,
+            42
+          ],
+          "_id": "QCdndLcji9YxTTyP",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Preserved midden heap of an ancient people",
+          "range": [
+            43,
+            49
+          ],
+          "_id": "jMj6BiTec6BYbMeE",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "River of glacial melt",
+          "range": [
+            50,
+            56
+          ],
+          "_id": "yRbWABmbjecacOE3",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Sections of ice jutting up at odd angles",
+          "range": [
+            57,
+            63
+          ],
+          "_id": "20G5xlP5apD16vlG",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Spheres of ice rounded by the wind",
+          "range": [
+            64,
+            70
+          ],
+          "_id": "0OJmnm8baRj70mKj",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Sprawling tunnels through the ice",
+          "range": [
+            71,
+            77
+          ],
+          "_id": "WC2neLmmp6pBrI3E",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Thin ice covering a deep lake",
+          "range": [
+            78,
+            84
+          ],
+          "_id": "gHipLjhDs3GcQelB",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Whirlpool dragging icebergs to the depths",
+          "range": [
+            85,
+            91
+          ],
+          "_id": "PedXEQ1DCQrjHYnR",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            92,
+            98
+          ],
+          "_id": "LVBRRMt5EHzN72aV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (planetside)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "cknaMrZMHdzqq7eX",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401851,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "wUhTOw2fAMtUYXUn"
+    },
+    {
+      "name": "Planetside Feature (5 - 6)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Columns of ice",
+          "range": [
+            1,
+            7
+          ],
+          "_id": "73EXDkezcnmrdlbJ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Crystal clear ice reflecting the stars",
+          "range": [
+            8,
+            14
+          ],
+          "_id": "8nTLkTH7YAtWFulY",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cylinders of snow gathering speed as they roll",
+          "range": [
+            15,
+            21
+          ],
+          "_id": "6wya2ie7FiVLAvAF",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Dark ice formed into geometric patterns",
+          "range": [
+            22,
+            28
+          ],
+          "_id": "xGqTgPts1lxBDAsB",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Deep cave with steamy atmosphere",
+          "range": [
+            29,
+            35
+          ],
+          "_id": "m3fSv2mdtsfTKYVM",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Freezing rain",
+          "range": [
+            36,
+            42
+          ],
+          "_id": "ReNpQqaptezFTkzt",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Hollow dome of ice",
+          "range": [
+            43,
+            49
+          ],
+          "_id": "KgdxMtltljzeldZt",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Impact crater that has shattered the ice",
+          "range": [
+            50,
+            56
+          ],
+          "_id": "SWl6OaDPxTkQKLVs",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Liquid lake warmed by geothermal heat",
+          "range": [
+            57,
+            63
+          ],
+          "_id": "J06HEtxDPEIajDJN",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Plains of tightly packed snow and howling wind",
+          "range": [
+            64,
+            70
+          ],
+          "_id": "Bdjda8Yy6IKGc9jS",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Pockets of gas frozen in ice",
+          "range": [
+            71,
+            77
+          ],
+          "_id": "nrrtPWeBWINAsOmT",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Sea with super-dense ice on the floor",
+          "range": [
+            78,
+            84
+          ],
+          "_id": "b64uqupoRUSCINiL",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Vertical cliffs of ice",
+          "range": [
+            85,
+            91
+          ],
+          "_id": "HQwMZZ6BnmXQNrwJ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            92,
+            98
+          ],
+          "_id": "ceOhqqhsKCzFXRwQ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (planetside)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "pLNpB2O9PakbRbCq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401862,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "pma1szGfHplWS97Q"
+    },
+    {
+      "name": "Names (1 - 2)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Beira",
+          "range": [
+            1,
+            5
+          ],
+          "_id": "iLoY2lROu8lMBLDp",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Boreas",
+          "range": [
+            6,
+            10
+          ],
+          "_id": "6eWWAjquvzUOi2fb",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Caradhras",
+          "range": [
+            11,
+            15
+          ],
+          "_id": "wHkblu8MvKZSEUpc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cicero",
+          "range": [
+            16,
+            20
+          ],
+          "_id": "VRkNWFEuQORJMSIr",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Demetria",
+          "range": [
+            21,
+            25
+          ],
+          "_id": "7vZrNNG4H0DlmDZv",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Enten",
+          "range": [
+            26,
+            30
+          ],
+          "_id": "grQXIXi9lANTQQyc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Fissure",
+          "range": [
+            31,
+            35
+          ],
+          "_id": "PBuJMHLxsFLDaIyi",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Frost",
+          "range": [
+            36,
+            40
+          ],
+          "_id": "zpPGb9CNOp8yg6MF",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Gelida",
+          "range": [
+            41,
+            45
+          ],
+          "_id": "nbOY3dUbMJIrYwPe",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Jotunn",
+          "range": [
+            46,
+            50
+          ],
+          "_id": "0uWovxLUrFmuUqmV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kanna",
+          "range": [
+            51,
+            55
+          ],
+          "_id": "hjVV1AjBjErRdH7t",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Karn,",
+          "range": [
+            56,
+            60
+          ],
+          "_id": "NIBVOjLCxeXomFPk",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kheimon",
+          "range": [
+            61,
+            65
+          ],
+          "_id": "EWbSsvQSj3q89JhZ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Moroz",
+          "range": [
+            66,
+            70
+          ],
+          "_id": "zPUkfWrmbWZPDSgr",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Nix",
+          "range": [
+            71,
+            75
+          ],
+          "_id": "EJELEn9pE4wGOhVU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Olwen",
+          "range": [
+            76,
+            80
+          ],
+          "_id": "0i7UJMPhdxdgmnN2",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Osolok",
+          "range": [
+            81,
+            85
+          ],
+          "_id": "XI6YIBC5zYj0DYvv",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Taiga",
+          "range": [
+            86,
+            90
+          ],
+          "_id": "WeCCmIzuwb0UTKqy",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Thule",
+          "range": [
+            91,
+            95
+          ],
+          "_id": "RZna0UArF9UTdB2l",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Varnholme",
+          "range": [
+            96,
+            100
+          ],
+          "_id": "Vsk1F2o6g0QUyRj5",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401840,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "JrTmSctB5pxFZJyb"
+    },
+    {
+      "name": "Names (3 - 4)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Ao Shun",
+          "range": [
+            1,
+            5
+          ],
+          "_id": "l22ht1j0NidppOWK",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Aster",
+          "range": [
+            6,
+            10
+          ],
+          "_id": "7ekbwD1JDf1SSo9P",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Baraf",
+          "range": [
+            11,
+            15
+          ],
+          "_id": "15w8wdHwO8ZKeNnA",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Chuun",
+          "range": [
+            16,
+            20
+          ],
+          "_id": "7o8f7dlHIDwFULPD",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Deigh",
+          "range": [
+            21,
+            25
+          ],
+          "_id": "8aAedn2mfixYWEmG",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Glass",
+          "range": [
+            26,
+            30
+          ],
+          "_id": "IikDzeHZBB6N4SQu",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Hemant",
+          "range": [
+            31,
+            35
+          ],
+          "_id": "lk3nmE16wiogi9CD",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Jalid",
+          "range": [
+            36,
+            40
+          ],
+          "_id": "WUebboZDnaQaxWq6",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Juniper",
+          "range": [
+            41,
+            45
+          ],
+          "_id": "tlb1PyP8LGm04BG6",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Khione",
+          "range": [
+            46,
+            50
+          ],
+          "_id": "T0mm2PRjemz5SQPt",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kori",
+          "range": [
+            51,
+            55
+          ],
+          "_id": "5G8qD4yRboJcUROA",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kylma",
+          "range": [
+            56,
+            60
+          ],
+          "_id": "B308CP17iMd7Hx5B",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Marzanna",
+          "range": [
+            61,
+            65
+          ],
+          "_id": "MijUSem9sOpsKVx5",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Nakheng",
+          "range": [
+            66,
+            70
+          ],
+          "_id": "tArfgrUNHRAy3naX",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Nuocda",
+          "range": [
+            71,
+            75
+          ],
+          "_id": "EGm3Hnbo3KunIf9Z",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Poli'ahu",
+          "range": [
+            76,
+            80
+          ],
+          "_id": "VV0UewBuPDIDfKh1",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Samui",
+          "range": [
+            81,
+            85
+          ],
+          "_id": "sqar2jFURBwS8Awd",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Silg",
+          "range": [
+            86,
+            90
+          ],
+          "_id": "o4iifSmwkSrVXa8e",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Tengliu",
+          "range": [
+            91,
+            95
+          ],
+          "_id": "0SPP7tAnf18mw2hx",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Urmas",
+          "range": [
+            96,
+            100
+          ],
+          "_id": "Yxy3ujFlf4xRy1n1",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401855,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "S04gzGykXCDArYhc"
+    },
+    {
+      "name": "Names (5 - 6)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Aquilo",
+          "range": [
+            1,
+            5
+          ],
+          "_id": "yrA10roPLiWllEkQ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Ayaz",
+          "range": [
+            6,
+            10
+          ],
+          "_id": "El0URg40iRmEnGAS",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Choladna",
+          "range": [
+            11,
+            15
+          ],
+          "_id": "OrzCND4HprQUwVsV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cypress",
+          "range": [
+            16,
+            20
+          ],
+          "_id": "brLbNwogcQTBZkNR",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Fria",
+          "range": [
+            21,
+            25
+          ],
+          "_id": "sHw4JHEFXAtZ1aNW",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Hanleng",
+          "range": [
+            26,
+            30
+          ],
+          "_id": "rmZudBBOEiiBP30P",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Izotz",
+          "range": [
+            31,
+            35
+          ],
+          "_id": "XpMXnM59U7115M5B",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Jokull",
+          "range": [
+            36,
+            40
+          ],
+          "_id": "qIdirvQ6Dv7LHFtg",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kalt",
+          "range": [
+            41,
+            45
+          ],
+          "_id": "jmSqlMVDcBcs5fUv",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Khuno",
+          "range": [
+            46,
+            50
+          ],
+          "_id": "1Ll7BLKBW2zlE6CU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kurao",
+          "range": [
+            51,
+            55
+          ],
+          "_id": "9QkhTdgA85XuDL5f",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Makari",
+          "range": [
+            56,
+            60
+          ],
+          "_id": "0xwgAQ98kGFrxwvU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mraz",
+          "range": [
+            61,
+            65
+          ],
+          "_id": "Z4G6J5NW9GyNjDnq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Nieva",
+          "range": [
+            66,
+            70
+          ],
+          "_id": "kmGaAmqxR8z31nqM",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Oighear",
+          "range": [
+            71,
+            75
+          ],
+          "_id": "1aSjDT66k464eT6x",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Rhew",
+          "range": [
+            76,
+            80
+          ],
+          "_id": "9pY0HOFOV4Xo6GFp",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Shakok",
+          "range": [
+            81,
+            85
+          ],
+          "_id": "RGIe9dUDeipCpfVq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Skadi",
+          "range": [
+            86,
+            90
+          ],
+          "_id": "k55A6N35Dj9p9SOW",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Thanda",
+          "range": [
+            91,
+            95
+          ],
+          "_id": "4Fgqlelpr7W1zw5x",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Yukio",
+          "range": [
+            96,
+            100
+          ],
+          "_id": "6utOFTIzp60LgvFU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "NxLWkP3u1WpG2vuX",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401865,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "m41bieZDQIJBVVbB"
     },
     {
       "name": "Planetside Feature (3 - 4)",
@@ -8284,538 +9670,6 @@
       "formula": "1d100",
       "results": [
         {
-          "text": "Abyssal ice fissures",
-          "range": [
-            1,
-            7
-          ],
-          "_id": "spD7imRDz9FVavob",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Blinding snow storms",
-          "range": [
-            8,
-            14
-          ],
-          "_id": "5uZjV0apNC7dFWYP",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Clusters of ice spikes",
-          "range": [
-            15,
-            21
-          ],
-          "_id": "Aqy52CFOj4Cug65C",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Colossal ice caves",
-          "range": [
-            22,
-            28
-          ],
-          "_id": "ywOmCGFXN5viHGPO",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Glistening ice spires",
-          "range": [
-            29,
-            35
-          ],
-          "_id": "vigTb5m6YUVy5DWJ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Massive snow drifts",
-          "range": [
-            36,
-            42
-          ],
-          "_id": "rcILH0akZGwofPkK",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Preserved carcasses",
-          "range": [
-            43,
-            49
-          ],
-          "_id": "WB2nxERLxrr2Q5ZV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Rocky islands amid icy wastes",
-          "range": [
-            50,
-            56
-          ],
-          "_id": "EIITPKWdYfEvbujD",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Shattered plains of pack ice",
-          "range": [
-            57,
-            63
-          ],
-          "_id": "J2svHbqOqHdAfGB3",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Steaming hot springs",
-          "range": [
-            64,
-            70
-          ],
-          "_id": "CAAKsI01rwq0WSw8",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Subsurface liquid oceans",
-          "range": [
-            71,
-            77
-          ],
-          "_id": "gUcvlrg4WGkXuedJ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Vibrant auroras",
-          "range": [
-            78,
-            84
-          ],
-          "_id": "2ZMlsrfBq8gAEprl",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Wind-carved ice formations",
-          "range": [
-            85,
-            91
-          ],
-          "_id": "WvY495cN5EbZQcJs",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            92,
-            98
-          ],
-          "_id": "rDpoHzgvNXwatS6n",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (planetside)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "oZzFgytyso5JqsMp",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401837,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "3eZVI73pFd2Vq1Vn"
-    },
-    {
-      "name": "Names (3 - 4)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Adonis",
-          "range": [
-            1,
-            5
-          ],
-          "_id": "jaF3wXhdOQdAG8I1",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Almawat",
-          "range": [
-            6,
-            10
-          ],
-          "_id": "GDMVWMGFrKCDEaZi",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Chet",
-          "range": [
-            11,
-            15
-          ],
-          "_id": "kAlyC0DIofG14rSc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Creatlach",
-          "range": [
-            16,
-            20
-          ],
-          "_id": "wugR3rIXVga6gtHW",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Efile",
-          "range": [
-            21,
-            25
-          ],
-          "_id": "wpnbznxsK8pVnm9S",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Fantasma",
-          "range": [
-            26,
-            30
-          ],
-          "_id": "5MMZbOE0lV3aMCVd",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Geist",
-          "range": [
-            31,
-            35
-          ],
-          "_id": "B0sDhAq2EdfjrSRY",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Hectate",
-          "range": [
-            36,
-            40
-          ],
-          "_id": "oUYf8SCOmmKDtr3u",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mal",
-          "range": [
-            41,
-            45
-          ],
-          "_id": "mHfkaElN9kEMrO6e",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mortus",
-          "range": [
-            46,
-            50
-          ],
-          "_id": "sna1vkFNAG5LYrrn",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Oti",
-          "range": [
-            51,
-            55
-          ],
-          "_id": "iG2lY8DJ6yC4Kczq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Puka",
-          "range": [
-            56,
-            60
-          ],
-          "_id": "vimmtTGVzhGE4QVP",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sekhmet",
-          "range": [
-            61,
-            65
-          ],
-          "_id": "6ey7lnbDtbHSCxMm",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Shabah",
-          "range": [
-            66,
-            70
-          ],
-          "_id": "DKelnXIfAXQ5zXsS",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Siwang",
-          "range": [
-            71,
-            75
-          ],
-          "_id": "yZP6myeJn6mdWBDs",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Surma",
-          "range": [
-            76,
-            80
-          ],
-          "_id": "tsFTE6q3quiA0xnw",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Tenebrous",
-          "range": [
-            81,
-            85
-          ],
-          "_id": "jw27MqyZNHyFR4GF",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Twilight",
-          "range": [
-            86,
-            90
-          ],
-          "_id": "qKSdhv9GOySKLwjU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Vanth",
-          "range": [
-            91,
-            95
-          ],
-          "_id": "zJ1EAbL15kHFOWMq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Xipe Totec",
-          "range": [
-            96,
-            100
-          ],
-          "_id": "LbweZLuQuKFKV5is",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401817,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "4Jqgfo9tNEmg6SiL"
-    },
-    {
-      "name": "Planetside Feature (1 - 2)",
-      "formula": "1d100",
-      "results": [
-        {
           "text": "Crystalline formations",
           "range": [
             1,
@@ -9041,237 +9895,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "5R7eSgr0otB7ggVi"
-    },
-    {
-      "name": "Planetside Feature (1 - 2)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Acid pools",
-          "range": [
-            1,
-            7
-          ],
-          "_id": "QMssC2dYrBW5Sg9k",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Ash dunes",
-          "range": [
-            8,
-            14
-          ],
-          "_id": "tlZrmYSRMj1C1qwD",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Corrosive rains",
-          "range": [
-            15,
-            21
-          ],
-          "_id": "9ABpcZqFM6stXh0D",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Dead forests",
-          "range": [
-            22,
-            28
-          ],
-          "_id": "bN61jz0Y6792KQij",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Fetid mudflats",
-          "range": [
-            29,
-            35
-          ],
-          "_id": "8O3Vs908Z6Rf7pUY",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mass graves",
-          "range": [
-            36,
-            42
-          ],
-          "_id": "DhnlNMF4mrkGOVDG",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Moldering bones",
-          "range": [
-            43,
-            49
-          ],
-          "_id": "TtkD7AmDG4BGSv2L",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Noxious fog",
-          "range": [
-            50,
-            56
-          ],
-          "_id": "xuo4nJU3uighrmBi",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Radioactive hotspots",
-          "range": [
-            57,
-            63
-          ],
-          "_id": "HhHgZDSKQCguAWYF",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Ravaged cities",
-          "range": [
-            64,
-            70
-          ],
-          "_id": "04qCIw1dEymn66w2",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Scarred battlefields",
-          "range": [
-            71,
-            77
-          ],
-          "_id": "ckrc1eWsw4DDklpz",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Ship graveyards",
-          "range": [
-            78,
-            84
-          ],
-          "_id": "WndMmEz25grMLCpV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Whispers of the dead",
-          "range": [
-            85,
-            91
-          ],
-          "_id": "WIvsde5qPqcwP9gq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            92,
-            98
-          ],
-          "_id": "MdJe9eqEfQhVz3Ae",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (planetside)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "yexxVvcEo9bI1hxp",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401801,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "6l5Hqitvc4RFxpra"
     },
     {
       "name": "Names (5 - 6)",
@@ -19345,167 +19968,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "AtmwcrDFmiL5KiZY"
-    },
-    {
-      "name": "Observed From Space (1 - 2)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Broken moon",
-          "range": [
-            1,
-            11
-          ],
-          "_id": "dXMCDOppFOxXPt45",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Cratered surface",
-          "range": [
-            12,
-            22
-          ],
-          "_id": "hHojzGO9lsRiNRFz",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Dry seabeds",
-          "range": [
-            23,
-            33
-          ],
-          "_id": "9GqMOCvmc2VRuVcA",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Irradiated atmosphere",
-          "range": [
-            34,
-            44
-          ],
-          "_id": "X971cvZeALBKYdq1",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Orbiting ship graveyard",
-          "range": [
-            45,
-            55
-          ],
-          "_id": "dRUA8HC4MvB4n42D",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Perpetual overcast",
-          "range": [
-            56,
-            66
-          ],
-          "_id": "PZmI3XZQlqHFbX3x",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sky-breaching ruins",
-          "range": [
-            67,
-            77
-          ],
-          "_id": "weXaTgLYdYb2A8yl",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Vast wastelands",
-          "range": [
-            78,
-            88
-          ],
-          "_id": "6N4abkZMtBHcWd6G",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            89,
-            98
-          ],
-          "_id": "GFVqefRm8dFeiAIc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (orbital)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "6koBeEdiwd101MNT",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401800,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "BrE1gQtsBLvg9tSx"
     },
     {
       "name": "Inner First Look (1 - 2)",
@@ -46830,307 +47292,6 @@
       "_id": "IV7IsgbLgtpPJ0yp"
     },
     {
-      "name": "Names (1 - 2)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Beira",
-          "range": [
-            1,
-            5
-          ],
-          "_id": "iLoY2lROu8lMBLDp",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Boreas",
-          "range": [
-            6,
-            10
-          ],
-          "_id": "6eWWAjquvzUOi2fb",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Caradhras",
-          "range": [
-            11,
-            15
-          ],
-          "_id": "wHkblu8MvKZSEUpc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Cicero",
-          "range": [
-            16,
-            20
-          ],
-          "_id": "VRkNWFEuQORJMSIr",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Demetria",
-          "range": [
-            21,
-            25
-          ],
-          "_id": "7vZrNNG4H0DlmDZv",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Enten",
-          "range": [
-            26,
-            30
-          ],
-          "_id": "grQXIXi9lANTQQyc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Fissure",
-          "range": [
-            31,
-            35
-          ],
-          "_id": "PBuJMHLxsFLDaIyi",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Frost",
-          "range": [
-            36,
-            40
-          ],
-          "_id": "zpPGb9CNOp8yg6MF",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Gelida",
-          "range": [
-            41,
-            45
-          ],
-          "_id": "nbOY3dUbMJIrYwPe",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Jotunn",
-          "range": [
-            46,
-            50
-          ],
-          "_id": "0uWovxLUrFmuUqmV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kanna",
-          "range": [
-            51,
-            55
-          ],
-          "_id": "hjVV1AjBjErRdH7t",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Karn,",
-          "range": [
-            56,
-            60
-          ],
-          "_id": "NIBVOjLCxeXomFPk",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kheimon",
-          "range": [
-            61,
-            65
-          ],
-          "_id": "EWbSsvQSj3q89JhZ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Moroz",
-          "range": [
-            66,
-            70
-          ],
-          "_id": "zPUkfWrmbWZPDSgr",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Nix",
-          "range": [
-            71,
-            75
-          ],
-          "_id": "EJELEn9pE4wGOhVU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Olwen",
-          "range": [
-            76,
-            80
-          ],
-          "_id": "0i7UJMPhdxdgmnN2",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Osolok",
-          "range": [
-            81,
-            85
-          ],
-          "_id": "XI6YIBC5zYj0DYvv",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Taiga",
-          "range": [
-            86,
-            90
-          ],
-          "_id": "WeCCmIzuwb0UTKqy",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Thule",
-          "range": [
-            91,
-            95
-          ],
-          "_id": "RZna0UArF9UTdB2l",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Varnholme",
-          "range": [
-            96,
-            100
-          ],
-          "_id": "Vsk1F2o6g0QUyRj5",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401840,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "JrTmSctB5pxFZJyb"
-    },
-    {
       "name": "Planetside Feature (1 - 2)",
       "formula": "1d100",
       "results": [
@@ -61898,237 +62059,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "xOro3zYQOldpg6oK"
-    },
-    {
-      "name": "Planetside Feature (3 - 4)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Abandoned engines of war",
-          "range": [
-            1,
-            7
-          ],
-          "_id": "Dv2dhcvwCF7iuR31",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Boiling lake",
-          "range": [
-            8,
-            14
-          ],
-          "_id": "VuXUkhxr0nHn2UXm",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Breached bunker",
-          "range": [
-            15,
-            21
-          ],
-          "_id": "toayCwgjHCFePKTR",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Destroyed data hubs",
-          "range": [
-            22,
-            28
-          ],
-          "_id": "Cxd99VNwuxruFnMi",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Fireballs from falling space debris",
-          "range": [
-            29,
-            35
-          ],
-          "_id": "lMDo7EiW6LCpaYKu",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Layers of hardened dust from chemical   attacks",
-          "range": [
-            36,
-            42
-          ],
-          "_id": "ikw2oM0BNlIvtwoE",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Looted industrial complexes",
-          "range": [
-            43,
-            49
-          ],
-          "_id": "s5JSqiVosl5xTPYR",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Messages left by those who perished",
-          "range": [
-            50,
-            56
-          ],
-          "_id": "izcsPAZqxXCCskMM",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mountains of waste",
-          "range": [
-            57,
-            63
-          ],
-          "_id": "xzWJhkLAwOxKMrcx",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Quagmire of pollution",
-          "range": [
-            64,
-            70
-          ],
-          "_id": "3wnEcGDZV8sPhhtQ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Remains of a gigantic creature",
-          "range": [
-            71,
-            77
-          ],
-          "_id": "olj5ABJCHk9Luo7c",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Shipyard with unfinished starships",
-          "range": [
-            78,
-            84
-          ],
-          "_id": "jlRqf5ThLlbE9d4W",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Storm swirling with detritus",
-          "range": [
-            85,
-            91
-          ],
-          "_id": "BJYjcUyynUuthCYw",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            92,
-            98
-          ],
-          "_id": "c0FhiPKBkT0L4kO4",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (planetside)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "nvlXfyO5j3zJvraU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401813,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "Lf2FvABUcYtgv6Ae"
     },
     {
       "name": "First Look (1 - 2)",
@@ -89936,307 +89866,6 @@
       "_id": "NtsgKYiw3MDWIRCY"
     },
     {
-      "name": "Names (5 - 6)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Aitu",
-          "range": [
-            1,
-            5
-          ],
-          "_id": "wC4MRyGovNrAknAH",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Carrion",
-          "range": [
-            6,
-            10
-          ],
-          "_id": "F7XcdymbETfpfh5W",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Cizin",
-          "range": [
-            11,
-            15
-          ],
-          "_id": "6NMeaAkRYPQpSRaX",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Draugur",
-          "range": [
-            16,
-            20
-          ],
-          "_id": "98HFfqo4i3kYNNNp",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Eshu",
-          "range": [
-            21,
-            25
-          ],
-          "_id": "MplZ2UEW3WnODLqW",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Garm",
-          "range": [
-            26,
-            30
-          ],
-          "_id": "BWRn7VhtDUxepvyA",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Gloom",
-          "range": [
-            31,
-            35
-          ],
-          "_id": "5a8LewQPio1Wczgc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Isipoki",
-          "range": [
-            36,
-            40
-          ],
-          "_id": "n2dJcDMTUQN4sfOR",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mephisto",
-          "range": [
-            41,
-            45
-          ],
-          "_id": "IYXfS6juJWoRY1JS",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Oti",
-          "range": [
-            46,
-            50
-          ],
-          "_id": "nqIzCfkwkZ5MXGRl",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Prizrak",
-          "range": [
-            51,
-            55
-          ],
-          "_id": "MP7wgIdVF25ORIQQ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Repose",
-          "range": [
-            56,
-            60
-          ],
-          "_id": "jEtIhkuJ0US6O0Ho",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sepulcher",
-          "range": [
-            61,
-            65
-          ],
-          "_id": "F2fjoDBlCMooOa8P",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Shadow",
-          "range": [
-            66,
-            70
-          ],
-          "_id": "u3VDQksPU0QpqXxU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Spectre",
-          "range": [
-            71,
-            75
-          ],
-          "_id": "7I4YNLXCmgbN6Izx",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Tay",
-          "range": [
-            76,
-            80
-          ],
-          "_id": "LDVgpyjRTJMFxSB4",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Thanatos",
-          "range": [
-            81,
-            85
-          ],
-          "_id": "LXMYvnkOSinjWy4O",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Urvakan",
-          "range": [
-            86,
-            90
-          ],
-          "_id": "iSjBT7fj5ZnwmMxZ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Whisper",
-          "range": [
-            91,
-            95
-          ],
-          "_id": "tnPr2g9dFp0mBHJc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Yurei",
-          "range": [
-            96,
-            100
-          ],
-          "_id": "VJF10enrC01Lwf3K",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401829,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "O4WIISBXLxsJdOnU"
-    },
-    {
       "name": "Action (1 - 2)",
       "formula": "1d100",
       "results": [
@@ -100226,307 +99855,6 @@
       "_id": "QhVbCgtgVq1tBmPQ"
     },
     {
-      "name": "Names (3 - 4)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Ao Shun",
-          "range": [
-            1,
-            5
-          ],
-          "_id": "l22ht1j0NidppOWK",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Aster",
-          "range": [
-            6,
-            10
-          ],
-          "_id": "7ekbwD1JDf1SSo9P",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Baraf",
-          "range": [
-            11,
-            15
-          ],
-          "_id": "15w8wdHwO8ZKeNnA",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Chuun",
-          "range": [
-            16,
-            20
-          ],
-          "_id": "7o8f7dlHIDwFULPD",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Deigh",
-          "range": [
-            21,
-            25
-          ],
-          "_id": "8aAedn2mfixYWEmG",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Glass",
-          "range": [
-            26,
-            30
-          ],
-          "_id": "IikDzeHZBB6N4SQu",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Hemant",
-          "range": [
-            31,
-            35
-          ],
-          "_id": "lk3nmE16wiogi9CD",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Jalid",
-          "range": [
-            36,
-            40
-          ],
-          "_id": "WUebboZDnaQaxWq6",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Juniper",
-          "range": [
-            41,
-            45
-          ],
-          "_id": "tlb1PyP8LGm04BG6",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Khione",
-          "range": [
-            46,
-            50
-          ],
-          "_id": "T0mm2PRjemz5SQPt",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kori",
-          "range": [
-            51,
-            55
-          ],
-          "_id": "5G8qD4yRboJcUROA",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kylma",
-          "range": [
-            56,
-            60
-          ],
-          "_id": "B308CP17iMd7Hx5B",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Marzanna",
-          "range": [
-            61,
-            65
-          ],
-          "_id": "MijUSem9sOpsKVx5",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Nakheng",
-          "range": [
-            66,
-            70
-          ],
-          "_id": "tArfgrUNHRAy3naX",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Nuocda",
-          "range": [
-            71,
-            75
-          ],
-          "_id": "EGm3Hnbo3KunIf9Z",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Poli'ahu",
-          "range": [
-            76,
-            80
-          ],
-          "_id": "VV0UewBuPDIDfKh1",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Samui",
-          "range": [
-            81,
-            85
-          ],
-          "_id": "sqar2jFURBwS8Awd",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Silg",
-          "range": [
-            86,
-            90
-          ],
-          "_id": "o4iifSmwkSrVXa8e",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Tengliu",
-          "range": [
-            91,
-            95
-          ],
-          "_id": "0SPP7tAnf18mw2hx",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Urmas",
-          "range": [
-            96,
-            100
-          ],
-          "_id": "Yxy3ujFlf4xRy1n1",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401855,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "S04gzGykXCDArYhc"
-    },
-    {
       "name": "Names (1 - 2)",
       "formula": "1d100",
       "results": [
@@ -101449,167 +100777,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "UZEhVGNsNKw67juE"
-    },
-    {
-      "name": "Observed From Space (1 - 2)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Feeble sunlight",
-          "range": [
-            1,
-            11
-          ],
-          "_id": "YOfrI4JKpQYPO0pn",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Frozen oceans",
-          "range": [
-            12,
-            22
-          ],
-          "_id": "kRq6RcHQ3e4mBtHa",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Rocky glacial islands",
-          "range": [
-            23,
-            33
-          ],
-          "_id": "n4frMoiFwd12Gmup",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Snowbound mountains",
-          "range": [
-            34,
-            44
-          ],
-          "_id": "JrN4ayUxkrXgALHD",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sky-breaching geysers",
-          "range": [
-            45,
-            55
-          ],
-          "_id": "zVXOi1CWtqRleZyi",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Supersized ice volcano",
-          "range": [
-            56,
-            66
-          ],
-          "_id": "daFY4NJI5x65a95s",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Vibrantly colored ice",
-          "range": [
-            67,
-            77
-          ],
-          "_id": "BDC8RWVIvi3pNyeR",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "World-spanning ice canyon",
-          "range": [
-            78,
-            88
-          ],
-          "_id": "kAq8lamdzoHJkOag",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            89,
-            98
-          ],
-          "_id": "nyp8c4sCB0Wbnsnr",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (orbital)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "6yDt4uZe5MGNd789",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401834,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "Uq1ybjzg3WVNH50Q"
     },
     {
       "name": "Observed From Space (5 - 6)",
@@ -110376,6 +109543,328 @@
       "_id": "eBsfgJ5xK9YNVxoB"
     },
     {
+      "name": "Observed From Space (1 - 2)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Broken moon",
+          "range": [
+            1,
+            11
+          ],
+          "_id": "dXMCDOppFOxXPt45",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cratered surface",
+          "range": [
+            12,
+            22
+          ],
+          "_id": "hHojzGO9lsRiNRFz",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Dry seabeds",
+          "range": [
+            23,
+            33
+          ],
+          "_id": "9GqMOCvmc2VRuVcA",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Irradiated atmosphere",
+          "range": [
+            34,
+            44
+          ],
+          "_id": "X971cvZeALBKYdq1",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Orbiting ship graveyard",
+          "range": [
+            45,
+            55
+          ],
+          "_id": "dRUA8HC4MvB4n42D",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Perpetual overcast",
+          "range": [
+            56,
+            66
+          ],
+          "_id": "PZmI3XZQlqHFbX3x",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Sky-breaching ruins",
+          "range": [
+            67,
+            77
+          ],
+          "_id": "weXaTgLYdYb2A8yl",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Vast wastelands",
+          "range": [
+            78,
+            88
+          ],
+          "_id": "6N4abkZMtBHcWd6G",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            89,
+            98
+          ],
+          "_id": "GFVqefRm8dFeiAIc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (orbital)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "6koBeEdiwd101MNT",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401800,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "BrE1gQtsBLvg9tSx"
+    },
+    {
+      "name": "Observed From Space (3 - 4)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Artificial moon in a decaying orbit",
+          "range": [
+            1,
+            11
+          ],
+          "_id": "0tAeUCq8M2ScoSyr",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Crumbling domed cities",
+          "range": [
+            12,
+            22
+          ],
+          "_id": "LsTKaPK3oDgTwwTV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Debris field of dead satellites",
+          "range": [
+            23,
+            33
+          ],
+          "_id": "kYG3OMyGDupUjx9S",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Massive areas of strip mining",
+          "range": [
+            34,
+            44
+          ],
+          "_id": "QNpOmlsQHv3aABje",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Tiny polar ice caps nearly melted away",
+          "range": [
+            45,
+            55
+          ],
+          "_id": "LSiHPe2oLChusj12",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Tracts of scorched earth",
+          "range": [
+            56,
+            66
+          ],
+          "_id": "8VfJfVw4JyOqU7Ga",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Violent weather systems",
+          "range": [
+            67,
+            77
+          ],
+          "_id": "7c76d3QnY1qm1Stc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Weakened and sporadic magnetosphere",
+          "range": [
+            78,
+            88
+          ],
+          "_id": "CVwIqET9SI9ET0ju",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            89,
+            98
+          ],
+          "_id": "vZMLcnedv1HtRld9",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (orbital)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "uQkwYiOM7IV1oglB",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401811,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "vBC6s29505G4SVUW"
+    },
+    {
       "name": "Observed From Space (5 - 6)",
       "formula": "1d100",
       "results": [
@@ -110537,6 +110026,1602 @@
       "_id": "eCoLvpIQrVfmDUgO"
     },
     {
+      "name": "Planetside Feature (1 - 2)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Acid pools",
+          "range": [
+            1,
+            7
+          ],
+          "_id": "QMssC2dYrBW5Sg9k",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Ash dunes",
+          "range": [
+            8,
+            14
+          ],
+          "_id": "tlZrmYSRMj1C1qwD",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Corrosive rains",
+          "range": [
+            15,
+            21
+          ],
+          "_id": "9ABpcZqFM6stXh0D",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Dead forests",
+          "range": [
+            22,
+            28
+          ],
+          "_id": "bN61jz0Y6792KQij",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Fetid mudflats",
+          "range": [
+            29,
+            35
+          ],
+          "_id": "8O3Vs908Z6Rf7pUY",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mass graves",
+          "range": [
+            36,
+            42
+          ],
+          "_id": "DhnlNMF4mrkGOVDG",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Moldering bones",
+          "range": [
+            43,
+            49
+          ],
+          "_id": "TtkD7AmDG4BGSv2L",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Noxious fog",
+          "range": [
+            50,
+            56
+          ],
+          "_id": "xuo4nJU3uighrmBi",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Radioactive hotspots",
+          "range": [
+            57,
+            63
+          ],
+          "_id": "HhHgZDSKQCguAWYF",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Ravaged cities",
+          "range": [
+            64,
+            70
+          ],
+          "_id": "04qCIw1dEymn66w2",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Scarred battlefields",
+          "range": [
+            71,
+            77
+          ],
+          "_id": "ckrc1eWsw4DDklpz",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Ship graveyards",
+          "range": [
+            78,
+            84
+          ],
+          "_id": "WndMmEz25grMLCpV",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Whispers of the dead",
+          "range": [
+            85,
+            91
+          ],
+          "_id": "WIvsde5qPqcwP9gq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            92,
+            98
+          ],
+          "_id": "MdJe9eqEfQhVz3Ae",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (planetside)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "yexxVvcEo9bI1hxp",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401801,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "6l5Hqitvc4RFxpra"
+    },
+    {
+      "name": "Planetside Feature (3 - 4)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Abandoned engines of war",
+          "range": [
+            1,
+            7
+          ],
+          "_id": "Dv2dhcvwCF7iuR31",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Boiling lake",
+          "range": [
+            8,
+            14
+          ],
+          "_id": "VuXUkhxr0nHn2UXm",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Breached bunker",
+          "range": [
+            15,
+            21
+          ],
+          "_id": "toayCwgjHCFePKTR",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Destroyed data hubs",
+          "range": [
+            22,
+            28
+          ],
+          "_id": "Cxd99VNwuxruFnMi",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Fireballs from falling space debris",
+          "range": [
+            29,
+            35
+          ],
+          "_id": "lMDo7EiW6LCpaYKu",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Layers of hardened dust from chemical   attacks",
+          "range": [
+            36,
+            42
+          ],
+          "_id": "ikw2oM0BNlIvtwoE",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Looted industrial complexes",
+          "range": [
+            43,
+            49
+          ],
+          "_id": "s5JSqiVosl5xTPYR",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Messages left by those who perished",
+          "range": [
+            50,
+            56
+          ],
+          "_id": "izcsPAZqxXCCskMM",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mountains of waste",
+          "range": [
+            57,
+            63
+          ],
+          "_id": "xzWJhkLAwOxKMrcx",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Quagmire of pollution",
+          "range": [
+            64,
+            70
+          ],
+          "_id": "3wnEcGDZV8sPhhtQ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Remains of a gigantic creature",
+          "range": [
+            71,
+            77
+          ],
+          "_id": "olj5ABJCHk9Luo7c",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Shipyard with unfinished starships",
+          "range": [
+            78,
+            84
+          ],
+          "_id": "jlRqf5ThLlbE9d4W",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Storm swirling with detritus",
+          "range": [
+            85,
+            91
+          ],
+          "_id": "BJYjcUyynUuthCYw",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            92,
+            98
+          ],
+          "_id": "c0FhiPKBkT0L4kO4",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (planetside)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "nvlXfyO5j3zJvraU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401813,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "Lf2FvABUcYtgv6Ae"
+    },
+    {
+      "name": "Planetside Feature (5 - 6)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Bombed military complexes",
+          "range": [
+            1,
+            7
+          ],
+          "_id": "wIzFEAWKdVDO2TQd",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Broken infrastructure for mass transit systems",
+          "range": [
+            8,
+            14
+          ],
+          "_id": "Awskh3KZqfaf8FjJ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Crumbling monuments to power",
+          "range": [
+            15,
+            21
+          ],
+          "_id": "SOLckx1ILW6Njae5",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Deep trenches dug for warfare",
+          "range": [
+            22,
+            28
+          ],
+          "_id": "mLgyEG8yimt2n07i",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Desert sands turned to glass",
+          "range": [
+            29,
+            35
+          ],
+          "_id": "Co2YJFDZLmvRRnB9",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Dry riverbed",
+          "range": [
+            36,
+            42
+          ],
+          "_id": "Cn4U0GalLuOhQYCW",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Evidence of the use of weapons of mass destruction",
+          "range": [
+            43,
+            49
+          ],
+          "_id": "P8up4ifDtpNVUStS",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Flotsam littered shoreline",
+          "range": [
+            50,
+            56
+          ],
+          "_id": "oAy0Uv7vdYXEPGPo",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Humanoid remains still in life-like poses",
+          "range": [
+            57,
+            63
+          ],
+          "_id": "IgbIwJDGzOesSlbZ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Indications of a corrupt or brutal system of justice",
+          "range": [
+            64,
+            70
+          ],
+          "_id": "b68sjHP4AkefWQ8v",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Poisoned spring waters",
+          "range": [
+            71,
+            77
+          ],
+          "_id": "omyd8AO5qmEMA59C",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Rotted vertical farms",
+          "range": [
+            78,
+            84
+          ],
+          "_id": "frAvPvzePsZo2JG9",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Stash of time-worn weapons",
+          "range": [
+            85,
+            91
+          ],
+          "_id": "PojCywRVpEIbg6Ch",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Descriptor + Focus",
+          "range": [
+            92,
+            98
+          ],
+          "_id": "ozCMkT8MfYrKbMU5",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Precursor Vault (planetside)",
+          "range": [
+            99,
+            100
+          ],
+          "_id": "zWZasZTNcLU4Tb4d",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401825,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "2JAxDfpav0IlsZLK"
+    },
+    {
+      "name": "Names (1 - 2)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Anubis",
+          "range": [
+            1,
+            5
+          ],
+          "_id": "MqDuQAkyBl7Or53Y",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Banshee",
+          "range": [
+            6,
+            10
+          ],
+          "_id": "gKlMJ7XNAveJQmci",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Barrow",
+          "range": [
+            11,
+            15
+          ],
+          "_id": "vQuOKk92mVuBdiST",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cairn",
+          "range": [
+            16,
+            20
+          ],
+          "_id": "PQKksUVVCo58OasD",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cerberus",
+          "range": [
+            21,
+            25
+          ],
+          "_id": "QegRRvlM6BSx3q5T",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Charon",
+          "range": [
+            26,
+            30
+          ],
+          "_id": "iLHWZ5ZEmT5AVFLu",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Elysia",
+          "range": [
+            31,
+            35
+          ],
+          "_id": "EdJr60Q7PdTiOcXF",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Keen",
+          "range": [
+            36,
+            40
+          ],
+          "_id": "rNl3ra9JYTnKrQkv",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Kur",
+          "range": [
+            41,
+            45
+          ],
+          "_id": "78ij94uMHsoHMwfK",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Lament",
+          "range": [
+            46,
+            50
+          ],
+          "_id": "KBjfxL4doTNaCb8s",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mantus",
+          "range": [
+            51,
+            55
+          ],
+          "_id": "m7wOIxvd950wFC3o",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Morrigan",
+          "range": [
+            56,
+            60
+          ],
+          "_id": "Mpja3s9716LyfgAB",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mourn",
+          "range": [
+            61,
+            65
+          ],
+          "_id": "nzou1JxeyrdiA1hc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Necropolis",
+          "range": [
+            66,
+            70
+          ],
+          "_id": "vxycCStYfPQoDT57",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Orcus",
+          "range": [
+            71,
+            75
+          ],
+          "_id": "Xfrp0sszxuVO3HCp",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Osiris",
+          "range": [
+            76,
+            80
+          ],
+          "_id": "tMG0mVz5NIIJclCk",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Requiem",
+          "range": [
+            81,
+            85
+          ],
+          "_id": "31TtaQgfMc0ORR02",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Stygia",
+          "range": [
+            86,
+            90
+          ],
+          "_id": "TQmO0TyEQ9rFxP98",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Tartarus",
+          "range": [
+            91,
+            95
+          ],
+          "_id": "rOMJfvFL3SVATBSz",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Thrace",
+          "range": [
+            96,
+            100
+          ],
+          "_id": "8Fk31VuQMIHVP9gj",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401807,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "0vFf0yYmD1Kdc9TC"
+    },
+    {
+      "name": "Names (3 - 4)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Adonis",
+          "range": [
+            1,
+            5
+          ],
+          "_id": "jaF3wXhdOQdAG8I1",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Almawat",
+          "range": [
+            6,
+            10
+          ],
+          "_id": "GDMVWMGFrKCDEaZi",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Chet",
+          "range": [
+            11,
+            15
+          ],
+          "_id": "kAlyC0DIofG14rSc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Creatlach",
+          "range": [
+            16,
+            20
+          ],
+          "_id": "wugR3rIXVga6gtHW",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Efile",
+          "range": [
+            21,
+            25
+          ],
+          "_id": "wpnbznxsK8pVnm9S",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Fantasma",
+          "range": [
+            26,
+            30
+          ],
+          "_id": "5MMZbOE0lV3aMCVd",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Geist",
+          "range": [
+            31,
+            35
+          ],
+          "_id": "B0sDhAq2EdfjrSRY",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Hectate",
+          "range": [
+            36,
+            40
+          ],
+          "_id": "oUYf8SCOmmKDtr3u",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mal",
+          "range": [
+            41,
+            45
+          ],
+          "_id": "mHfkaElN9kEMrO6e",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mortus",
+          "range": [
+            46,
+            50
+          ],
+          "_id": "sna1vkFNAG5LYrrn",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Oti",
+          "range": [
+            51,
+            55
+          ],
+          "_id": "iG2lY8DJ6yC4Kczq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Puka",
+          "range": [
+            56,
+            60
+          ],
+          "_id": "vimmtTGVzhGE4QVP",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Sekhmet",
+          "range": [
+            61,
+            65
+          ],
+          "_id": "6ey7lnbDtbHSCxMm",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Shabah",
+          "range": [
+            66,
+            70
+          ],
+          "_id": "DKelnXIfAXQ5zXsS",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Siwang",
+          "range": [
+            71,
+            75
+          ],
+          "_id": "yZP6myeJn6mdWBDs",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Surma",
+          "range": [
+            76,
+            80
+          ],
+          "_id": "tsFTE6q3quiA0xnw",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Tenebrous",
+          "range": [
+            81,
+            85
+          ],
+          "_id": "jw27MqyZNHyFR4GF",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Twilight",
+          "range": [
+            86,
+            90
+          ],
+          "_id": "qKSdhv9GOySKLwjU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Vanth",
+          "range": [
+            91,
+            95
+          ],
+          "_id": "zJ1EAbL15kHFOWMq",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Xipe Totec",
+          "range": [
+            96,
+            100
+          ],
+          "_id": "LbweZLuQuKFKV5is",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401817,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "4Jqgfo9tNEmg6SiL"
+    },
+    {
+      "name": "Names (5 - 6)",
+      "formula": "1d100",
+      "results": [
+        {
+          "text": "Aitu",
+          "range": [
+            1,
+            5
+          ],
+          "_id": "wC4MRyGovNrAknAH",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Carrion",
+          "range": [
+            6,
+            10
+          ],
+          "_id": "F7XcdymbETfpfh5W",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Cizin",
+          "range": [
+            11,
+            15
+          ],
+          "_id": "6NMeaAkRYPQpSRaX",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Draugur",
+          "range": [
+            16,
+            20
+          ],
+          "_id": "98HFfqo4i3kYNNNp",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Eshu",
+          "range": [
+            21,
+            25
+          ],
+          "_id": "MplZ2UEW3WnODLqW",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Garm",
+          "range": [
+            26,
+            30
+          ],
+          "_id": "BWRn7VhtDUxepvyA",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Gloom",
+          "range": [
+            31,
+            35
+          ],
+          "_id": "5a8LewQPio1Wczgc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Isipoki",
+          "range": [
+            36,
+            40
+          ],
+          "_id": "n2dJcDMTUQN4sfOR",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Mephisto",
+          "range": [
+            41,
+            45
+          ],
+          "_id": "IYXfS6juJWoRY1JS",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Oti",
+          "range": [
+            46,
+            50
+          ],
+          "_id": "nqIzCfkwkZ5MXGRl",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Prizrak",
+          "range": [
+            51,
+            55
+          ],
+          "_id": "MP7wgIdVF25ORIQQ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Repose",
+          "range": [
+            56,
+            60
+          ],
+          "_id": "jEtIhkuJ0US6O0Ho",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Sepulcher",
+          "range": [
+            61,
+            65
+          ],
+          "_id": "F2fjoDBlCMooOa8P",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Shadow",
+          "range": [
+            66,
+            70
+          ],
+          "_id": "u3VDQksPU0QpqXxU",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Spectre",
+          "range": [
+            71,
+            75
+          ],
+          "_id": "7I4YNLXCmgbN6Izx",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Tay",
+          "range": [
+            76,
+            80
+          ],
+          "_id": "LDVgpyjRTJMFxSB4",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Thanatos",
+          "range": [
+            81,
+            85
+          ],
+          "_id": "LXMYvnkOSinjWy4O",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Urvakan",
+          "range": [
+            86,
+            90
+          ],
+          "_id": "iSjBT7fj5ZnwmMxZ",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Whisper",
+          "range": [
+            91,
+            95
+          ],
+          "_id": "tnPr2g9dFp0mBHJc",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        },
+        {
+          "text": "Yurei",
+          "range": [
+            96,
+            100
+          ],
+          "_id": "VJF10enrC01Lwf3K",
+          "type": 0,
+          "documentId": null,
+          "weight": 1,
+          "drawn": false,
+          "flags": {},
+          "img": "icons/dice/d10black.svg"
+        }
+      ],
+      "folder": "EJoSoFU1mGwf60NT",
+      "img": "icons/dice/d10black.svg",
+      "description": "",
+      "replacement": true,
+      "displayRoll": true,
+      "flags": {},
+      "_stats": {
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.21.7",
+        "coreVersion": "11.308",
+        "createdTime": 1692676401829,
+        "modifiedTime": 1693035144149,
+        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+      },
+      "_id": "O4WIISBXLxsJdOnU"
+    },
+    {
       "name": "Observed From Space (3 - 4)",
       "formula": "1d100",
       "results": [
@@ -110696,167 +111781,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "fJV0agGCQh7hfzW8"
-    },
-    {
-      "name": "Observed From Space (3 - 4)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Active volcanoes with swiftly hardening lava",
-          "range": [
-            1,
-            11
-          ],
-          "_id": "lHx78ITku46LxV8m",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Ancient river beds now frozen solid",
-          "range": [
-            12,
-            22
-          ],
-          "_id": "hU6qtIqCMjX3egZC",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Deep fjords carved by ice",
-          "range": [
-            23,
-            33
-          ],
-          "_id": "9BwTYseUFxFZ2l0M",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Glaciers with smooth, windswept tops",
-          "range": [
-            34,
-            44
-          ],
-          "_id": "e8PQZDMGZt9fzcYW",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mountains of pure ice in the midst of the ocean",
-          "range": [
-            45,
-            55
-          ],
-          "_id": "Byn6icskjqxNw5Wm",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Solitary island that appears unfrozen",
-          "range": [
-            56,
-            66
-          ],
-          "_id": "LnjQZDiBYnFGdKKX",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Thick magnetosphere reflecting most light",
-          "range": [
-            67,
-            77
-          ],
-          "_id": "SxafHImXTe01sCPl",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Turbulent jet streams filled with ice and snow",
-          "range": [
-            78,
-            88
-          ],
-          "_id": "aJaQlkcSvWPjCEEc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            89,
-            98
-          ],
-          "_id": "TgSlajsHa33YhKmm",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (orbital)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "EeQaR0RjUoMzPqUq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401848,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "fTHisJyGql8gcVuC"
     },
     {
       "name": "Observed From Space (1 - 2)",
@@ -118773,307 +119697,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "kqNvGwKvGSC0jmtx"
-    },
-    {
-      "name": "Names (5 - 6)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Aquilo",
-          "range": [
-            1,
-            5
-          ],
-          "_id": "yrA10roPLiWllEkQ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Ayaz",
-          "range": [
-            6,
-            10
-          ],
-          "_id": "El0URg40iRmEnGAS",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Choladna",
-          "range": [
-            11,
-            15
-          ],
-          "_id": "OrzCND4HprQUwVsV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Cypress",
-          "range": [
-            16,
-            20
-          ],
-          "_id": "brLbNwogcQTBZkNR",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Fria",
-          "range": [
-            21,
-            25
-          ],
-          "_id": "sHw4JHEFXAtZ1aNW",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Hanleng",
-          "range": [
-            26,
-            30
-          ],
-          "_id": "rmZudBBOEiiBP30P",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Izotz",
-          "range": [
-            31,
-            35
-          ],
-          "_id": "XpMXnM59U7115M5B",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Jokull",
-          "range": [
-            36,
-            40
-          ],
-          "_id": "qIdirvQ6Dv7LHFtg",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kalt",
-          "range": [
-            41,
-            45
-          ],
-          "_id": "jmSqlMVDcBcs5fUv",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Khuno",
-          "range": [
-            46,
-            50
-          ],
-          "_id": "1Ll7BLKBW2zlE6CU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Kurao",
-          "range": [
-            51,
-            55
-          ],
-          "_id": "9QkhTdgA85XuDL5f",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Makari",
-          "range": [
-            56,
-            60
-          ],
-          "_id": "0xwgAQ98kGFrxwvU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Mraz",
-          "range": [
-            61,
-            65
-          ],
-          "_id": "Z4G6J5NW9GyNjDnq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Nieva",
-          "range": [
-            66,
-            70
-          ],
-          "_id": "kmGaAmqxR8z31nqM",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Oighear",
-          "range": [
-            71,
-            75
-          ],
-          "_id": "1aSjDT66k464eT6x",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Rhew",
-          "range": [
-            76,
-            80
-          ],
-          "_id": "9pY0HOFOV4Xo6GFp",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Shakok",
-          "range": [
-            81,
-            85
-          ],
-          "_id": "RGIe9dUDeipCpfVq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Skadi",
-          "range": [
-            86,
-            90
-          ],
-          "_id": "k55A6N35Dj9p9SOW",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Thanda",
-          "range": [
-            91,
-            95
-          ],
-          "_id": "4Fgqlelpr7W1zw5x",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Yukio",
-          "range": [
-            96,
-            100
-          ],
-          "_id": "6utOFTIzp60LgvFU",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401865,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "m41bieZDQIJBVVbB"
     },
     {
       "name": "Planetside Feature (3 - 4)",
@@ -140680,237 +141303,6 @@
       "_id": "pfwQG72bYwf6sxwt"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Columns of ice",
-          "range": [
-            1,
-            7
-          ],
-          "_id": "73EXDkezcnmrdlbJ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Crystal clear ice reflecting the stars",
-          "range": [
-            8,
-            14
-          ],
-          "_id": "8nTLkTH7YAtWFulY",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Cylinders of snow gathering speed as they roll",
-          "range": [
-            15,
-            21
-          ],
-          "_id": "6wya2ie7FiVLAvAF",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Dark ice formed into geometric patterns",
-          "range": [
-            22,
-            28
-          ],
-          "_id": "xGqTgPts1lxBDAsB",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Deep cave with steamy atmosphere",
-          "range": [
-            29,
-            35
-          ],
-          "_id": "m3fSv2mdtsfTKYVM",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Freezing rain",
-          "range": [
-            36,
-            42
-          ],
-          "_id": "ReNpQqaptezFTkzt",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Hollow dome of ice",
-          "range": [
-            43,
-            49
-          ],
-          "_id": "KgdxMtltljzeldZt",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Impact crater that has shattered the ice",
-          "range": [
-            50,
-            56
-          ],
-          "_id": "SWl6OaDPxTkQKLVs",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Liquid lake warmed by geothermal heat",
-          "range": [
-            57,
-            63
-          ],
-          "_id": "J06HEtxDPEIajDJN",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Plains of tightly packed snow and howling wind",
-          "range": [
-            64,
-            70
-          ],
-          "_id": "Bdjda8Yy6IKGc9jS",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Pockets of gas frozen in ice",
-          "range": [
-            71,
-            77
-          ],
-          "_id": "nrrtPWeBWINAsOmT",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sea with super-dense ice on the floor",
-          "range": [
-            78,
-            84
-          ],
-          "_id": "b64uqupoRUSCINiL",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Vertical cliffs of ice",
-          "range": [
-            85,
-            91
-          ],
-          "_id": "HQwMZZ6BnmXQNrwJ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            92,
-            98
-          ],
-          "_id": "ceOhqqhsKCzFXRwQ",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (planetside)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "pLNpB2O9PakbRbCq",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401862,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "pma1szGfHplWS97Q"
-    },
-    {
       "name": "Names (3 - 4)",
       "formula": "1d100",
       "results": [
@@ -153217,167 +153609,6 @@
       "_id": "vAi4oyM0iN9Xaku3"
     },
     {
-      "name": "Observed From Space (3 - 4)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Artificial moon in a decaying orbit",
-          "range": [
-            1,
-            11
-          ],
-          "_id": "0tAeUCq8M2ScoSyr",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Crumbling domed cities",
-          "range": [
-            12,
-            22
-          ],
-          "_id": "LsTKaPK3oDgTwwTV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Debris field of dead satellites",
-          "range": [
-            23,
-            33
-          ],
-          "_id": "kYG3OMyGDupUjx9S",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Massive areas of strip mining",
-          "range": [
-            34,
-            44
-          ],
-          "_id": "QNpOmlsQHv3aABje",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Tiny polar ice caps nearly melted away",
-          "range": [
-            45,
-            55
-          ],
-          "_id": "LSiHPe2oLChusj12",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Tracts of scorched earth",
-          "range": [
-            56,
-            66
-          ],
-          "_id": "8VfJfVw4JyOqU7Ga",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Violent weather systems",
-          "range": [
-            67,
-            77
-          ],
-          "_id": "7c76d3QnY1qm1Stc",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Weakened and sporadic magnetosphere",
-          "range": [
-            78,
-            88
-          ],
-          "_id": "CVwIqET9SI9ET0ju",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            89,
-            98
-          ],
-          "_id": "vZMLcnedv1HtRld9",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (orbital)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "uQkwYiOM7IV1oglB",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "EJoSoFU1mGwf60NT",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401811,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "vBC6s29505G4SVUW"
-    },
-    {
       "name": "Planetside Feature (1 - 2)",
       "formula": "1d100",
       "results": [
@@ -158430,237 +158661,6 @@
         "lastModifiedBy": "pvGXRm1tqcLrB73Z"
       },
       "_id": "bdMFP8LItOBEaL9A"
-    },
-    {
-      "name": "Planetside Feature (3 - 4)",
-      "formula": "1d100",
-      "results": [
-        {
-          "text": "Avalanche of ice and snow",
-          "range": [
-            1,
-            7
-          ],
-          "_id": "TL3XQIOxj5HPdyR1",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Bridge of ice connecting glaciers",
-          "range": [
-            8,
-            14
-          ],
-          "_id": "EYBHGn4fnRBdoTPj",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Devastating hail storms",
-          "range": [
-            15,
-            21
-          ],
-          "_id": "D3aC7dTw3bZDNsGe",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Emeralds of ice",
-          "range": [
-            22,
-            28
-          ],
-          "_id": "FoobltlT5CZBbJZV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Fierce lightning fueled by solar radiation",
-          "range": [
-            29,
-            35
-          ],
-          "_id": "gLbbRBXeQPsRsv30",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Hidden valley with relatively little snow",
-          "range": [
-            36,
-            42
-          ],
-          "_id": "QCdndLcji9YxTTyP",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Preserved midden heap of an ancient people",
-          "range": [
-            43,
-            49
-          ],
-          "_id": "jMj6BiTec6BYbMeE",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "River of glacial melt",
-          "range": [
-            50,
-            56
-          ],
-          "_id": "yRbWABmbjecacOE3",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sections of ice jutting up at odd angles",
-          "range": [
-            57,
-            63
-          ],
-          "_id": "20G5xlP5apD16vlG",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Spheres of ice rounded by the wind",
-          "range": [
-            64,
-            70
-          ],
-          "_id": "0OJmnm8baRj70mKj",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Sprawling tunnels through the ice",
-          "range": [
-            71,
-            77
-          ],
-          "_id": "WC2neLmmp6pBrI3E",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Thin ice covering a deep lake",
-          "range": [
-            78,
-            84
-          ],
-          "_id": "gHipLjhDs3GcQelB",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Whirlpool dragging icebergs to the depths",
-          "range": [
-            85,
-            91
-          ],
-          "_id": "PedXEQ1DCQrjHYnR",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Descriptor + Focus",
-          "range": [
-            92,
-            98
-          ],
-          "_id": "LVBRRMt5EHzN72aV",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        },
-        {
-          "text": "Precursor Vault (planetside)",
-          "range": [
-            99,
-            100
-          ],
-          "_id": "cknaMrZMHdzqq7eX",
-          "type": 0,
-          "documentId": null,
-          "weight": 1,
-          "drawn": false,
-          "flags": {},
-          "img": "icons/dice/d10black.svg"
-        }
-      ],
-      "folder": "NxLWkP3u1WpG2vuX",
-      "img": "icons/dice/d10black.svg",
-      "description": "",
-      "replacement": true,
-      "displayRoll": true,
-      "flags": {},
-      "_stats": {
-        "systemId": "foundry-ironsworn",
-        "systemVersion": "1.21.7",
-        "coreVersion": "11.308",
-        "createdTime": 1692676401851,
-        "modifiedTime": 1693035144149,
-        "lastModifiedBy": "pvGXRm1tqcLrB73Z"
-      },
-      "_id": "wUhTOw2fAMtUYXUn"
     },
     {
       "name": "Observed From Space (5 - 6)",
