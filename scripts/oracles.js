@@ -69,7 +69,6 @@ Hooks.on("ready", async () => {
   let sightingSpaceIndex = spaceFolder.children.indexOf(spaceFolder.children.find(children => children.displayName === "Sighting"));
   let sectorNameSpaceIndex = spaceFolder.children.indexOf(spaceFolder.children.find(children => children.displayName === "Sector Name"));
 
-  // TODO: Mission
   let starshipsFolder = starforgedOracles.children.find(children => children.displayName === "Starships");
   let missionStarshipsIndex = starshipsFolder.children.indexOf(starshipsFolder.children.find(children => children.displayName === "Mission"));
 

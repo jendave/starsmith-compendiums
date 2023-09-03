@@ -51,4 +51,5 @@ Original oracles by Shawn Tomkin from the Ironsworn: Starforged Reference Guide 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 # Acknowledgements
-The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) was used to import the tables from text to RollTables.
+The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) and [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer) were used to import and export the tables during the development process.
+

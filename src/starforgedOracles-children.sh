@@ -190,6 +190,16 @@ do
             sub_folder_index="missionStarshipsIndex"
             oracle_subfolder_parser
             ;;
+        reboTGPCPcT7xbZK)
+            folder_index="vaultsIndex"
+            sub_folder_index="interiorVaultsIndex"
+            oracle_subfolder_parser
+            ;;
+        fOVVYUiCcQXTLVrH)
+            folder_index="vaultsIndex"
+            sub_folder_index="sanctumVaultsIndex"
+            oracle_subfolder_parser
+            ;;
         *)
             folder_index="planetsIndex"
             oracle_folder_parser
