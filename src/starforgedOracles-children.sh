@@ -185,6 +185,11 @@ do
             sub_folder_index="sectorNameSpaceIndex"
             oracle_subfolder_parser
             ;;
+        bo8ruejwx9kV7n4Q)
+            folder_index="starshipsIndex"
+            sub_folder_index="missionStarshipsIndex"
+            oracle_subfolder_parser
+            ;;
         *)
             folder_index="planetsIndex"
             oracle_folder_parser
