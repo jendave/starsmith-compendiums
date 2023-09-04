@@ -200,6 +200,56 @@ do
             sub_folder_index="sanctumVaultsIndex"
             oracle_subfolder_parser
             ;;
+        6iMY3W9GZoAFfoT6)
+            folder_index="locationThemesIndex"
+            sub_folder_index="aridlocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        lDaq1N4eYS6ir6he)
+            folder_index="locationThemesIndex"
+            sub_folder_index="chronallocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        zAFPSN5e3T57IPe4)
+            folder_index="locationThemesIndex"
+            sub_folder_index="floatinglocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        ltBD1cVU386etX6l)
+            folder_index="locationThemesIndex"
+            sub_folder_index="floodedlocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        29i0Qfdk8Mh4M5fX)
+            folder_index="locationThemesIndex"
+            sub_folder_index="frozenlocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        btT240SEzccoORFJ)
+            folder_index="locationThemesIndex"
+            sub_folder_index="infernolocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        uiKUIjuvGrcU7gx0)
+            folder_index="locationThemesIndex"
+            sub_folder_index="lifeformlocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        ON4JbgHNhFhb81EP)
+            folder_index="locationThemesIndex"
+            sub_folder_index="mysticallocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        2RzgxItHIp8TYLG5)
+            folder_index="locationThemesIndex"
+            sub_folder_index="overgrownlocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
+        rb078vNpkjwXsLBL)
+            folder_index="locationThemesIndex"
+            sub_folder_index="warZonelocationThemesIndex"
+            oracle_subfolder_parser
+            ;;
         *)
             folder_index="planetsIndex"
             oracle_folder_parser
