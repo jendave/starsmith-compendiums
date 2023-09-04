@@ -46,7 +46,57 @@ Hooks.on("ready", async () => {
   let charactersFolder = starforgedOracles.children.find(children => children.displayName === "Characters");
   let nameCharactersIndex = charactersFolder.children.indexOf(charactersFolder.children.find(children => children.displayName === "Name"));
 
-  // TODO: Lots of folders to create
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Access',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Community',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Engineering',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Living',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Medical',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Operations',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Production',
+    tables: [],
+    children: []
+  })
+  starforgedOracles.children[districtsIndex].children.push({
+    displayName: 'Research',
+    tables: [],
+    children: []
+  })
+
+  let districtsFolder = starforgedOracles.children.find(children => children.displayName === "Districts");
+  let accessDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Access"));
+  let communityDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Community"));
+  let engineeringDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Engineering"));
+  let livingDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Living"));
+  let medicalDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Medical"));
+  let operationsDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Operations"));
+  let productionDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Production"));
+  let researchDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Research"));
+
   starforgedOracles.children[locationThemesIndex].children.push({
     displayName: 'Arid',
     tables: [],
@@ -167,167 +217,167 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'District Zones',
+          displayName: 'Zones',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nUFEtdo8YAyJs0Qp'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Access: Area',
+    starforgedOracles.children[districtsIndex].children[accessDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aSjZRfT6EHRM31QA'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Access: Feature',
+    starforgedOracles.children[districtsIndex].children[accessDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.SikQ2DDDW9EziJu3'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Access: Peril',
+    starforgedOracles.children[districtsIndex].children[accessDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wn19PGDzUPZ0WYZ'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Access: Opportunity',
+    starforgedOracles.children[districtsIndex].children[accessDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4Dp4wHxjlsAt4lt7'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Community: Area',
+    starforgedOracles.children[districtsIndex].children[communityDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4wVqFfxiMfxdj0oe'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Community: Feature',
+    starforgedOracles.children[districtsIndex].children[communityDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Xw44xq8doKvVmMuU'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Community: Peril',
+    starforgedOracles.children[districtsIndex].children[communityDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DZ9Kg7DYxnSGARKp'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Community: Opportunity',
+    starforgedOracles.children[districtsIndex].children[communityDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZNrrr54PJP2qLSjJ'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Engineering: Area',
+    starforgedOracles.children[districtsIndex].children[engineeringDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vOp4EtWnZwtkVOM4'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Engineering: Feature',
+    starforgedOracles.children[districtsIndex].children[engineeringDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NAjhJFfOfnI4RUhG'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Engineering: Peril',
+    starforgedOracles.children[districtsIndex].children[engineeringDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0n1W7xeDuAVmLvNx'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Engineering: Opportunity',
+    starforgedOracles.children[districtsIndex].children[engineeringDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YThREKgerZp3np4n'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Living: Area',
+    starforgedOracles.children[districtsIndex].children[livingDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n7A455CGVfpjJmJi'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Living: Feature',
+    starforgedOracles.children[districtsIndex].children[livingDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0XWUJFkDOKtYBGpe'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Living: Peril',
+    starforgedOracles.children[districtsIndex].children[livingDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eLfhvpqzGzQTwkoz'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Living: Opportunity',
+    starforgedOracles.children[districtsIndex].children[livingDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7A3TS1p0xJx9O8Ws'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Medical: Area',
+    starforgedOracles.children[districtsIndex].children[medicalDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WBCxyfoLNtzvELvC'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Medical: Feature',
+    starforgedOracles.children[districtsIndex].children[medicalDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qlLVFSJQFchy8GtD'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Medical: Peril',
+    starforgedOracles.children[districtsIndex].children[medicalDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.cNwrs8hGV1Y3duZ2'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Medical: Opportunity',
+    starforgedOracles.children[districtsIndex].children[medicalDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.93LcFghu4VA3VTmW'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Operations: Area',
+    starforgedOracles.children[districtsIndex].children[operationsDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4AJ3CSAW3R38267w'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Operations: Feature',
+    starforgedOracles.children[districtsIndex].children[operationsDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vaQHHuBfLrQvUWqe'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Operations: Peril',
+    starforgedOracles.children[districtsIndex].children[operationsDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FJ3pwO45zt7McRK9'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Operations: Opportunity',
+    starforgedOracles.children[districtsIndex].children[operationsDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XplkuU7q0umRy0ST'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Production: Area',
+    starforgedOracles.children[districtsIndex].children[productionDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DvXahtGuzoYnWYDZ'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Production: Feature',
+    starforgedOracles.children[districtsIndex].children[productionDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.G1kgbuN1Cimyz0SE'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Production: Peril',
+    starforgedOracles.children[districtsIndex].children[productionDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6LLdhY15KByiIv8q'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Production: Opportunity',
+    starforgedOracles.children[districtsIndex].children[productionDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Y72fnZxkJlhDKUAY'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Research: Area',
+    starforgedOracles.children[districtsIndex].children[researchDistrictsIndex].children.push({
+          displayName: 'Area',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ejV4G8ApVQPPCSg4'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Research: Feature',
+    starforgedOracles.children[districtsIndex].children[researchDistrictsIndex].children.push({
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Sd4YeQHAaF4HdMKy'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Research: Peril',
+    starforgedOracles.children[districtsIndex].children[researchDistrictsIndex].children.push({
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3wgJC3d2grqpsm5I'],
           children: []
       })
-    starforgedOracles.children[districtsIndex].children.push({
-          displayName: 'Research: Opportunity',
+    starforgedOracles.children[districtsIndex].children[researchDistrictsIndex].children.push({
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Tdq9XQsqjUo2iE3G'],
           children: []
       })
@@ -347,17 +397,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.K74TKszI8T8HTUId'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XlUqt5BZzlHelXVu'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DsGW7fo4iF64qhWf'],
           children: []
       })
@@ -392,17 +442,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3eZVI73pFd2Vq1Vn'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wUhTOw2fAMtUYXUn'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pma1szGfHplWS97Q'],
           children: []
       })
@@ -527,122 +577,122 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Inner First Look (1 - 2)',
+          displayName: 'First Look (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CJlBnWFAMRRSD2XK'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Inner First Look (3 - 4)',
+          displayName: 'First Look (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.otjCnngJ1Yw74rjt'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Inner First Look (5 - 6)',
+          displayName: 'First Look (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7c2TaEWTUaaJlOdG'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.GiMZuPESMrzCW4sO'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.JAM3ft7utYoihnlf'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0DWXYSJfD5kotHW3'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Peril (1 - 2)',
+          displayName: 'Peril (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4DINDAOyS576i0uC'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Peril (3 - 4)',
+          displayName: 'Peril (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CO2a43NmZ4Ui8KHr'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Peril (5 - 6)',
+          displayName: 'Peril (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O7AobPhngMyKVX0u'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Opportunity (1 - 2)',
+          displayName: 'Opportunity (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FKcW0ngd4tAteFul'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Opportunity (3 - 4)',
+          displayName: 'Opportunity (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Q0CvTCMrIsZJPjW4'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[interiorVaultsIndex].children.push({
-          displayName: 'Interior Opportunity (5 - 6)',
+          displayName: 'Opportunity (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.h9DmNX5Hw3OyNrB6'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Purpose (1 - 2)',
+          displayName: 'Purpose (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.hbSxvEVDrXKp3nfh'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Purpose (3 - 4)',
+          displayName: 'Purpose (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.f11tgzgGHAk3EF5H'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Purpose (5 - 6)',
+          displayName: 'Purpose (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jB7Jc9SEkxuhlH2g'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tMI4HdhdS3uPcQ7A'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.GA2VJG2Z4Pud10Xj'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lMMPTGXOGCxKHj1n'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Peril (1 - 2)',
+          displayName: 'Peril (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.U3zbLYTj8aYT7jZ5'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Peril (3 - 4)',
+          displayName: 'Peril (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C3UBEjh7hWTgY16S'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Peril (5 - 6)',
+          displayName: 'Peril (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.E9NXVGkiTpxDLadk'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Opportunity (1 - 2)',
+          displayName: 'Opportunity (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6wZ3tNjg9YB24ksU'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Opportunity (3 - 4)',
+          displayName: 'Opportunity (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.m2fmYWlfXiAkiGJM'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children[sanctumVaultsIndex].children.push({
-          displayName: 'Sanctum Opportunity (5 - 6)',
+          displayName: 'Opportunity (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jNZY2f4GGlhdTxwj'],
           children: []
       })
@@ -1292,152 +1342,152 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[aridlocationThemesIndex].children.push({
-          displayName: 'Arid: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LfXTtfdk79cjfExo'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[aridlocationThemesIndex].children.push({
-          displayName: 'Arid: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nBvFLLQmvnCvBApN'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[aridlocationThemesIndex].children.push({
-          displayName: 'Arid: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qB6VRHyHz8h9UVAg'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[chronallocationThemesIndex].children.push({
-          displayName: 'Chronal: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.E3FNowqcuhoPBfO0'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[chronallocationThemesIndex].children.push({
-          displayName: 'Chronal: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aPKWBWjBMujwlLkO'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[chronallocationThemesIndex].children.push({
-          displayName: 'Chronal: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LUu4dLLMs5kXPDEe'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[floatinglocationThemesIndex].children.push({
-          displayName: 'Floating: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0cb49aXSgIa3bzrK'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[floatinglocationThemesIndex].children.push({
-          displayName: 'Floating: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HTFxriwbDFoMcYLW'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[floatinglocationThemesIndex].children.push({
-          displayName: 'Floating: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtqoQOiHw2S4sbUd'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push({
-          displayName: 'Flooded: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.X0BVY0u1oEFvyrzx'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push({
-          displayName: 'Flooded: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.74ke9AgaF8XXelLr'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push({
-          displayName: 'Flooded: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O39GKpnyMuyam9pl'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push({
-          displayName: 'Frozen: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZqubM8Y5GsmhsaKj'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push({
-          displayName: 'Frozen: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3uVKQgKm3EmY7n8T'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push({
-          displayName: 'Frozen: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.dr075E2JijU2kCFz'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push({
-          displayName: 'Inferno: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qDumRuCiRh386guP'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push({
-          displayName: 'Inferno: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push({
-          displayName: 'Inferno: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xdvA8s2XoL7eKI7O'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push({
-          displayName: 'Lifeform: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.oDv2cXFa85vpTDVr'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push({
-          displayName: 'Lifeform: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yprDpKuUVhNBpGYK'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push({
-          displayName: 'Lifeform: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQO4HP5VjRmCvb81'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push({
-          displayName: 'Mystical: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ubR5MCShmCM98tN6'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push({
-          displayName: 'Mystical: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s9DxdLwfESICjln5'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push({
-          displayName: 'Mystical: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4C5yA2j3JjxOQfNc'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push({
-          displayName: 'Overgrown: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Z1uRFYQVc71TBfQ0'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push({
-          displayName: 'Overgrown: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push({
-          displayName: 'Overgrown: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LJTBPHnLEvjBF4ku'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push({
-          displayName: 'War Zone: Feature',
+          displayName: 'Feature',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H1G8RPwsZSNB9w9m'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push({
-          displayName: 'War Zone: Peril',
+          displayName: 'Peril',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7OWQYSOYnTGTHS1w'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push({
-          displayName: 'War Zone: Opportunity',
+          displayName: 'Opportunity',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XZTTvhEtcmJ08Cin'],
           children: []
       })
@@ -1457,17 +1507,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP'],
           children: []
       })
@@ -1502,17 +1552,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jhnjSjXc9PmfTMd4'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uE01iOVQTLPPTdoB'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQyQUAuGZkemZtLh'],
           children: []
       })
@@ -1622,17 +1672,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gxozVy6LZuhqjSeC'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhrRDafdMmbZTMBq'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jtCNxmrr3miVoZvr'],
           children: []
       })
@@ -1667,17 +1717,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6l5Hqitvc4RFxpra'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lf2FvABUcYtgv6Ae'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2JAxDfpav0IlsZLK'],
           children: []
       })
@@ -1832,17 +1882,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.raTeFRB4wM1tpaa6'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v9dpHyiCM0N18i0f'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.p8ho6XAqC9ubRJLb'],
           children: []
       })
@@ -1877,17 +1927,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV'],
           children: []
       })
@@ -2222,17 +2272,17 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
+          displayName: 'Feature (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5R7eSgr0otB7ggVi'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
+          displayName: 'Feature (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtmwcrDFmiL5KiZY'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
+          displayName: 'Feature (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ztBOckg0G5IMb5OX'],
           children: []
       })

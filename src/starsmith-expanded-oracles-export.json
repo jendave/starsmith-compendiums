@@ -1782,7 +1782,7 @@
       "_id": "kRKzDv4anjxlaqzy"
     },
     {
-      "name": "District Zones",
+      "name": "Zones",
       "formula": "1d100",
       "results": [
         {
@@ -1901,7 +1901,7 @@
       "_id": "nUFEtdo8YAyJs0Qp"
     },
     {
-      "name": "Access: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -2061,7 +2061,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "jGf292ABmjuYsQn2",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -2078,7 +2078,7 @@
       "_id": "aSjZRfT6EHRM31QA"
     },
     {
-      "name": "Access: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -2238,7 +2238,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "jGf292ABmjuYsQn2",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -2255,7 +2255,7 @@
       "_id": "SikQ2DDDW9EziJu3"
     },
     {
-      "name": "Access: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -2402,7 +2402,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "jGf292ABmjuYsQn2",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -2419,7 +2419,7 @@
       "_id": "9wn19PGDzUPZ0WYZ"
     },
     {
-      "name": "Access: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -2488,7 +2488,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "jGf292ABmjuYsQn2",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -2505,7 +2505,7 @@
       "_id": "4Dp4wHxjlsAt4lt7"
     },
     {
-      "name": "Community: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -2665,7 +2665,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "0KOsVPtcqTvj6Tbz",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -2682,7 +2682,7 @@
       "_id": "4wVqFfxiMfxdj0oe"
     },
     {
-      "name": "Community: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -2842,7 +2842,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "0KOsVPtcqTvj6Tbz",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -2859,7 +2859,7 @@
       "_id": "Xw44xq8doKvVmMuU"
     },
     {
-      "name": "Community: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -3006,7 +3006,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "0KOsVPtcqTvj6Tbz",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3023,7 +3023,7 @@
       "_id": "DZ9Kg7DYxnSGARKp"
     },
     {
-      "name": "Community: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -3092,7 +3092,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "0KOsVPtcqTvj6Tbz",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3109,7 +3109,7 @@
       "_id": "ZNrrr54PJP2qLSjJ"
     },
     {
-      "name": "Engineering: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -3269,7 +3269,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "yIrjqo4T2v8hXe7o",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3286,7 +3286,7 @@
       "_id": "vOp4EtWnZwtkVOM4"
     },
     {
-      "name": "Engineering: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -3446,7 +3446,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "yIrjqo4T2v8hXe7o",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3463,7 +3463,7 @@
       "_id": "NAjhJFfOfnI4RUhG"
     },
     {
-      "name": "Engineering: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -3610,7 +3610,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "yIrjqo4T2v8hXe7o",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3627,7 +3627,7 @@
       "_id": "0n1W7xeDuAVmLvNx"
     },
     {
-      "name": "Engineering: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -3696,7 +3696,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "yIrjqo4T2v8hXe7o",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3713,7 +3713,7 @@
       "_id": "YThREKgerZp3np4n"
     },
     {
-      "name": "Living: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -3873,7 +3873,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "nnXmNsTGKj2qsDbm",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -3890,7 +3890,7 @@
       "_id": "n7A455CGVfpjJmJi"
     },
     {
-      "name": "Living: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -4050,7 +4050,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "nnXmNsTGKj2qsDbm",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4067,7 +4067,7 @@
       "_id": "0XWUJFkDOKtYBGpe"
     },
     {
-      "name": "Living: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -4214,7 +4214,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "nnXmNsTGKj2qsDbm",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4231,7 +4231,7 @@
       "_id": "eLfhvpqzGzQTwkoz"
     },
     {
-      "name": "Living: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -4300,7 +4300,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "nnXmNsTGKj2qsDbm",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4317,7 +4317,7 @@
       "_id": "7A3TS1p0xJx9O8Ws"
     },
     {
-      "name": "Medical: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -4477,7 +4477,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "pRX4NVjQHMScCo6G",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4494,7 +4494,7 @@
       "_id": "WBCxyfoLNtzvELvC"
     },
     {
-      "name": "Medical: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -4654,7 +4654,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "pRX4NVjQHMScCo6G",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4671,7 +4671,7 @@
       "_id": "qlLVFSJQFchy8GtD"
     },
     {
-      "name": "Medical: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -4818,7 +4818,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "pRX4NVjQHMScCo6G",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4835,7 +4835,7 @@
       "_id": "cNwrs8hGV1Y3duZ2"
     },
     {
-      "name": "Medical: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -4904,7 +4904,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "pRX4NVjQHMScCo6G",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -4921,7 +4921,7 @@
       "_id": "93LcFghu4VA3VTmW"
     },
     {
-      "name": "Operations: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -5081,7 +5081,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "tqS3sJ4uJqhLhQVD",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -5098,7 +5098,7 @@
       "_id": "4AJ3CSAW3R38267w"
     },
     {
-      "name": "Operations: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -5258,7 +5258,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "tqS3sJ4uJqhLhQVD",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -5275,7 +5275,7 @@
       "_id": "vaQHHuBfLrQvUWqe"
     },
     {
-      "name": "Operations: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -5422,7 +5422,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "tqS3sJ4uJqhLhQVD",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -5439,7 +5439,7 @@
       "_id": "FJ3pwO45zt7McRK9"
     },
     {
-      "name": "Operations: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -5508,7 +5508,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "tqS3sJ4uJqhLhQVD",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -5525,7 +5525,7 @@
       "_id": "XplkuU7q0umRy0ST"
     },
     {
-      "name": "Production: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -5685,7 +5685,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "Px5AroYzQ1mF5jOi",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -5702,7 +5702,7 @@
       "_id": "DvXahtGuzoYnWYDZ"
     },
     {
-      "name": "Production: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -5862,7 +5862,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "Px5AroYzQ1mF5jOi",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -5879,7 +5879,7 @@
       "_id": "G1kgbuN1Cimyz0SE"
     },
     {
-      "name": "Production: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -6026,7 +6026,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "Px5AroYzQ1mF5jOi",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -6043,7 +6043,7 @@
       "_id": "6LLdhY15KByiIv8q"
     },
     {
-      "name": "Production: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -6112,7 +6112,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "Px5AroYzQ1mF5jOi",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -6129,7 +6129,7 @@
       "_id": "Y72fnZxkJlhDKUAY"
     },
     {
-      "name": "Research: Area",
+      "name": "Area",
       "formula": "1d100",
       "results": [
         {
@@ -6289,7 +6289,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "1B0kNT3mWZDFVFFC",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -6306,7 +6306,7 @@
       "_id": "ejV4G8ApVQPPCSg4"
     },
     {
-      "name": "Research: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -6466,7 +6466,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "1B0kNT3mWZDFVFFC",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -6483,7 +6483,7 @@
       "_id": "Sd4YeQHAaF4HdMKy"
     },
     {
-      "name": "Research: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -6630,7 +6630,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "1B0kNT3mWZDFVFFC",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -6647,7 +6647,7 @@
       "_id": "3wgJC3d2grqpsm5I"
     },
     {
-      "name": "Research: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -6716,7 +6716,7 @@
           "flags": {}
         }
       ],
-      "folder": "zBzW0zEkqjmtSZrH",
+      "folder": "1B0kNT3mWZDFVFFC",
       "img": "icons/dice/d10black.svg",
       "description": "",
       "replacement": true,
@@ -7216,7 +7216,7 @@
       "_id": "VD3Q2RTuFjSouslM"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -7447,7 +7447,7 @@
       "_id": "K74TKszI8T8HTUId"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -7678,7 +7678,7 @@
       "_id": "XlUqt5BZzlHelXVu"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -9295,7 +9295,7 @@
       "_id": "2bbW8GapNrUbkBiD"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -9526,7 +9526,7 @@
       "_id": "3eZVI73pFd2Vq1Vn"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -9757,7 +9757,7 @@
       "_id": "wUhTOw2fAMtUYXUn"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -20005,7 +20005,7 @@
       "_id": "ce7JLAwBAGqLYgHo"
     },
     {
-      "name": "Inner First Look (1 - 2)",
+      "name": "First Look (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -20474,7 +20474,7 @@
       "_id": "CJlBnWFAMRRSD2XK"
     },
     {
-      "name": "Inner First Look (3 - 4)",
+      "name": "First Look (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -20943,7 +20943,7 @@
       "_id": "otjCnngJ1Yw74rjt"
     },
     {
-      "name": "Inner First Look (5 - 6)",
+      "name": "First Look (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -21412,7 +21412,7 @@
       "_id": "7c2TaEWTUaaJlOdG"
     },
     {
-      "name": "Interior Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -21888,7 +21888,7 @@
       "_id": "GiMZuPESMrzCW4sO"
     },
     {
-      "name": "Interior Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -22364,7 +22364,7 @@
       "_id": "JAM3ft7utYoihnlf"
     },
     {
-      "name": "Interior Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -22840,7 +22840,7 @@
       "_id": "0DWXYSJfD5kotHW3"
     },
     {
-      "name": "Interior Peril (1 - 2)",
+      "name": "Peril (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -23155,7 +23155,7 @@
       "_id": "4DINDAOyS576i0uC"
     },
     {
-      "name": "Interior Peril (3 - 4)",
+      "name": "Peril (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -23470,7 +23470,7 @@
       "_id": "CO2a43NmZ4Ui8KHr"
     },
     {
-      "name": "Interior Peril (5 - 6)",
+      "name": "Peril (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -23785,7 +23785,7 @@
       "_id": "O7AobPhngMyKVX0u"
     },
     {
-      "name": "Interior Opportunity (1 - 2)",
+      "name": "Opportunity (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -23946,7 +23946,7 @@
       "_id": "FKcW0ngd4tAteFul"
     },
     {
-      "name": "Interior Opportunity (3 - 4)",
+      "name": "Opportunity (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -24107,7 +24107,7 @@
       "_id": "Q0CvTCMrIsZJPjW4"
     },
     {
-      "name": "Interior Opportunity (5 - 6)",
+      "name": "Opportunity (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -24268,7 +24268,7 @@
       "_id": "h9DmNX5Hw3OyNrB6"
     },
     {
-      "name": "Sanctum Purpose (1 - 2)",
+      "name": "Purpose (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -24695,7 +24695,7 @@
       "_id": "hbSxvEVDrXKp3nfh"
     },
     {
-      "name": "Sanctum Purpose (3 - 4)",
+      "name": "Purpose (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -25122,7 +25122,7 @@
       "_id": "f11tgzgGHAk3EF5H"
     },
     {
-      "name": "Sanctum Purpose (5 - 6)",
+      "name": "Purpose (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -25549,7 +25549,7 @@
       "_id": "jB7Jc9SEkxuhlH2g"
     },
     {
-      "name": "Sanctum Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -26025,7 +26025,7 @@
       "_id": "tMI4HdhdS3uPcQ7A"
     },
     {
-      "name": "Sanctum Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -26501,7 +26501,7 @@
       "_id": "GA2VJG2Z4Pud10Xj"
     },
     {
-      "name": "Sanctum Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -26977,7 +26977,7 @@
       "_id": "lMMPTGXOGCxKHj1n"
     },
     {
-      "name": "Sanctum Peril (1 - 2)",
+      "name": "Peril (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -27271,7 +27271,7 @@
       "_id": "U3zbLYTj8aYT7jZ5"
     },
     {
-      "name": "Sanctum Peril (3 - 4)",
+      "name": "Peril (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -27565,7 +27565,7 @@
       "_id": "C3UBEjh7hWTgY16S"
     },
     {
-      "name": "Sanctum Peril (5 - 6)",
+      "name": "Peril (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -27859,7 +27859,7 @@
       "_id": "E9NXVGkiTpxDLadk"
     },
     {
-      "name": "Sanctum Opportunity (1 - 2)",
+      "name": "Opportunity (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -28010,7 +28010,7 @@
       "_id": "6wZ3tNjg9YB24ksU"
     },
     {
-      "name": "Sanctum Opportunity (3 - 4)",
+      "name": "Opportunity (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -28161,7 +28161,7 @@
       "_id": "m2fmYWlfXiAkiGJM"
     },
     {
-      "name": "Sanctum Opportunity (5 - 6)",
+      "name": "Opportunity (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -92610,7 +92610,7 @@
       "_id": "LFxOkncnKTFTisw3"
     },
     {
-      "name": "Arid: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -92813,7 +92813,7 @@
       "_id": "LfXTtfdk79cjfExo"
     },
     {
-      "name": "Arid: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -93002,7 +93002,7 @@
       "_id": "nBvFLLQmvnCvBApN"
     },
     {
-      "name": "Arid: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -93093,7 +93093,7 @@
       "_id": "qB6VRHyHz8h9UVAg"
     },
     {
-      "name": "Chronal: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -93296,7 +93296,7 @@
       "_id": "E3FNowqcuhoPBfO0"
     },
     {
-      "name": "Chronal: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -93485,7 +93485,7 @@
       "_id": "aPKWBWjBMujwlLkO"
     },
     {
-      "name": "Chronal: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -93576,7 +93576,7 @@
       "_id": "LUu4dLLMs5kXPDEe"
     },
     {
-      "name": "Floating: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -93779,7 +93779,7 @@
       "_id": "0cb49aXSgIa3bzrK"
     },
     {
-      "name": "Floating: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -93968,7 +93968,7 @@
       "_id": "HTFxriwbDFoMcYLW"
     },
     {
-      "name": "Floating: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -94059,7 +94059,7 @@
       "_id": "AtqoQOiHw2S4sbUd"
     },
     {
-      "name": "Flooded: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -94262,7 +94262,7 @@
       "_id": "X0BVY0u1oEFvyrzx"
     },
     {
-      "name": "Flooded: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -94451,7 +94451,7 @@
       "_id": "74ke9AgaF8XXelLr"
     },
     {
-      "name": "Flooded: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -94542,7 +94542,7 @@
       "_id": "O39GKpnyMuyam9pl"
     },
     {
-      "name": "Frozen: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -94745,7 +94745,7 @@
       "_id": "ZqubM8Y5GsmhsaKj"
     },
     {
-      "name": "Frozen: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -94934,7 +94934,7 @@
       "_id": "3uVKQgKm3EmY7n8T"
     },
     {
-      "name": "Frozen: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -95025,7 +95025,7 @@
       "_id": "dr075E2JijU2kCFz"
     },
     {
-      "name": "Inferno: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -95228,7 +95228,7 @@
       "_id": "qDumRuCiRh386guP"
     },
     {
-      "name": "Inferno: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -95417,7 +95417,7 @@
       "_id": "FWkBb1FiTgjbJZyu"
     },
     {
-      "name": "Inferno: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -95508,7 +95508,7 @@
       "_id": "xdvA8s2XoL7eKI7O"
     },
     {
-      "name": "Lifeform: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -95711,7 +95711,7 @@
       "_id": "oDv2cXFa85vpTDVr"
     },
     {
-      "name": "Lifeform: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -95900,7 +95900,7 @@
       "_id": "yprDpKuUVhNBpGYK"
     },
     {
-      "name": "Lifeform: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -95991,7 +95991,7 @@
       "_id": "nQO4HP5VjRmCvb81"
     },
     {
-      "name": "Mystical: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -96194,7 +96194,7 @@
       "_id": "ubR5MCShmCM98tN6"
     },
     {
-      "name": "Mystical: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -96383,7 +96383,7 @@
       "_id": "s9DxdLwfESICjln5"
     },
     {
-      "name": "Mystical: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -96474,7 +96474,7 @@
       "_id": "4C5yA2j3JjxOQfNc"
     },
     {
-      "name": "Overgrown: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -96677,7 +96677,7 @@
       "_id": "Z1uRFYQVc71TBfQ0"
     },
     {
-      "name": "Overgrown: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -96866,7 +96866,7 @@
       "_id": "NnQj1XGs3MgeAdha"
     },
     {
-      "name": "Overgrown: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -96957,7 +96957,7 @@
       "_id": "LJTBPHnLEvjBF4ku"
     },
     {
-      "name": "War Zone: Feature",
+      "name": "Feature",
       "formula": "1d100",
       "results": [
         {
@@ -97160,7 +97160,7 @@
       "_id": "H1G8RPwsZSNB9w9m"
     },
     {
-      "name": "War Zone: Peril",
+      "name": "Peril",
       "formula": "1d100",
       "results": [
         {
@@ -97349,7 +97349,7 @@
       "_id": "7OWQYSOYnTGTHS1w"
     },
     {
-      "name": "War Zone: Opportunity",
+      "name": "Opportunity",
       "formula": "1d100",
       "results": [
         {
@@ -97923,7 +97923,7 @@
       "_id": "TMaAUj4wwzIRZu5o"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -98154,7 +98154,7 @@
       "_id": "gV7Wxz4tmajgxe54"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -98385,7 +98385,7 @@
       "_id": "yergAChxtcH7BcKf"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -100002,7 +100002,7 @@
       "_id": "UZEhVGNsNKw67juE"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -100233,7 +100233,7 @@
       "_id": "jhnjSjXc9PmfTMd4"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -100464,7 +100464,7 @@
       "_id": "uE01iOVQTLPPTdoB"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -108850,7 +108850,7 @@
       "_id": "0LirTYoCP3R8Dgzt"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -109081,7 +109081,7 @@
       "_id": "gxozVy6LZuhqjSeC"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -109312,7 +109312,7 @@
       "_id": "mhrRDafdMmbZTMBq"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -110929,7 +110929,7 @@
       "_id": "eCoLvpIQrVfmDUgO"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -111160,7 +111160,7 @@
       "_id": "6l5Hqitvc4RFxpra"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -111391,7 +111391,7 @@
       "_id": "Lf2FvABUcYtgv6Ae"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -118936,7 +118936,7 @@
       "_id": "YFa3euIzF3Iu3EVs"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -119167,7 +119167,7 @@
       "_id": "raTeFRB4wM1tpaa6"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -119398,7 +119398,7 @@
       "_id": "v9dpHyiCM0N18i0f"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -121015,7 +121015,7 @@
       "_id": "nFaY8oF7Qg0yKzQn"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -121246,7 +121246,7 @@
       "_id": "vdR5AogzuYvRKWHo"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -121477,7 +121477,7 @@
       "_id": "2uFx0KwWCty8dBMm"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {
@@ -158593,7 +158593,7 @@
       "_id": "wX7icUFXfjt33JHV"
     },
     {
-      "name": "Planetside Feature (1 - 2)",
+      "name": "Feature (1 - 2)",
       "formula": "1d100",
       "results": [
         {
@@ -158824,7 +158824,7 @@
       "_id": "5R7eSgr0otB7ggVi"
     },
     {
-      "name": "Planetside Feature (3 - 4)",
+      "name": "Feature (3 - 4)",
       "formula": "1d100",
       "results": [
         {
@@ -159055,7 +159055,7 @@
       "_id": "AtmwcrDFmiL5KiZY"
     },
     {
-      "name": "Planetside Feature (5 - 6)",
+      "name": "Feature (5 - 6)",
       "formula": "1d100",
       "results": [
         {

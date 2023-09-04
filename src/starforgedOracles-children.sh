@@ -250,6 +250,46 @@ do
             sub_folder_index="warZonelocationThemesIndex"
             oracle_subfolder_parser
             ;;
+        jGf292ABmjuYsQn2)
+            folder_index="districtsIndex"
+            sub_folder_index="accessDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        0KOsVPtcqTvj6Tbz)
+            folder_index="districtsIndex"
+            sub_folder_index="communityDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        yIrjqo4T2v8hXe7o)
+            folder_index="districtsIndex"
+            sub_folder_index="engineeringDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        nnXmNsTGKj2qsDbm)
+            folder_index="districtsIndex"
+            sub_folder_index="livingDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        pRX4NVjQHMScCo6G)
+            folder_index="districtsIndex"
+            sub_folder_index="medicalDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        tqS3sJ4uJqhLhQVD)
+            folder_index="districtsIndex"
+            sub_folder_index="operationsDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        Px5AroYzQ1mF5jOi)
+            folder_index="districtsIndex"
+            sub_folder_index="productionDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
+        1B0kNT3mWZDFVFFC)
+            folder_index="districtsIndex"
+            sub_folder_index="researchDistrictsIndex"
+            oracle_subfolder_parser
+            ;;
         *)
             folder_index="planetsIndex"
             oracle_folder_parser
