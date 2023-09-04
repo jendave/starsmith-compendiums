@@ -127,11 +127,6 @@ Hooks.on("ready", async () => {
   let interiorVaultsIndex = vaultsFolder.children.indexOf(vaultsFolder.children.find(children => children.displayName === "Interior"));
   let sanctumVaultsIndex = vaultsFolder.children.indexOf(vaultsFolder.children.find(children => children.displayName === "Sanctum"));
   
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Observed From Space (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0LirTYoCP3R8Dgzt'],
-          children: []
-      })
     starforgedOracles.children[derelictsIndex].children.push({
           displayName: 'Outer First Look (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mLDIiGSS9a6Stemt'],
@@ -333,8 +328,43 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Observed From Space (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.fJV0agGCQh7hfzW8'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Observed From Space (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.VD3Q2RTuFjSouslM'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Planetside Feature (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.K74TKszI8T8HTUId'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Planetside Feature (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XlUqt5BZzlHelXVu'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Planetside Feature (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DsGW7fo4iF64qhWf'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
           displayName: 'Names (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0gKPLApYlwxPhSaE'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Names (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YV6Aysnedk3A7tfo'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.kdHE1vWwFy5TRxqN'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
@@ -380,26 +410,6 @@ Hooks.on("ready", async () => {
     starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push({
           displayName: 'Names (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.m41bieZDQIJBVVbB'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5R7eSgr0otB7ggVi'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6qKWL6r9sN5h4fHg'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Quick Flora First Look',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7JNNleZeFXvXs9Yv'],
           children: []
       })
     starforgedOracles.children[settlementsIndex].children.push({
@@ -505,21 +515,6 @@ Hooks.on("ready", async () => {
     starforgedOracles.children[settlementsIndex].children.push({
           displayName: 'Name (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ce7JLAwBAGqLYgHo'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Observed From Space (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8NCFv7yLKaxIjARl'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Observed From Space (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wCWNV5mg80zJCzz'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtmwcrDFmiL5KiZY'],
           children: []
       })
     starforgedOracles.children[vaultsIndex].children.push({
@@ -912,36 +907,6 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6hXWxSEdrjiY7K7f'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DsGW7fo4iF64qhWf'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Names (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HJcSLbX4pAVEhTms'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IV7IsgbLgtpPJ0yp'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.K74TKszI8T8HTUId'],
-          children: []
-      })
     starforgedOracles.children[starshipsIndex].children.push({
           displayName: 'Registry Number Initializer Letters',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.byBI6d46QtVH1goo'],
@@ -1292,16 +1257,6 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uUtEx6wDCzRhMDth'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Observed From Space (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.N54KUtDcuuChzF3r'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Quick Flora Characteristics',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NtsgKYiw3MDWIRCY'],
-          children: []
-      })
     starforgedOracles.children[coreIndex].children.push({
           displayName: 'Action (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OSpHuphKhIOcJy6e'],
@@ -1315,11 +1270,6 @@ Hooks.on("ready", async () => {
     starforgedOracles.children[coreIndex].children.push({
           displayName: 'Action (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P2eGB9bEuZtwAQxq'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Pm2jNTRrEBT2xw8g'],
           children: []
       })
     starforgedOracles.children[locationThemesIndex].children.push({
@@ -1482,34 +1432,9 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XZTTvhEtcmJ08Cin'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.QhVbCgtgVq1tBmPQ'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Names (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.SMgvAe3GhveAOgOg'],
-          children: []
-      })
     starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Observed From Space (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UDcY6Jp7nppzmlCI'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Observed From Space (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UZEhVGNsNKw67juE'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Observed From Space (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.VD3Q2RTuFjSouslM'],
+          displayName: 'Observed From Space (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.w5yprOoOTFfjZjZj'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
@@ -1517,34 +1442,99 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Vh4sPOoSMhQK1Mvs'],
           children: []
       })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Observed From Space (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Planetside Feature (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Planetside Feature (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Planetside Feature (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Names (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.kqNvGwKvGSC0jmtx'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Names (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.axzyF0OuGXwVzhmh'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6qKWL6r9sN5h4fHg'],
+          children: []
+      })
     starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
           displayName: 'Observed From Space (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WF7PRchsM9oevTjM'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Observed From Space (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WVdSiIWYWSpIUCTN'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XlUqt5BZzlHelXVu'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Observed From Space (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YFa3euIzF3Iu3EVs'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YV6Aysnedk3A7tfo'],
-          children: []
-      })
     starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
           displayName: 'Observed From Space (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YdzwvZU2wgPhmQ7d'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Observed From Space (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UZEhVGNsNKw67juE'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Planetside Feature (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jhnjSjXc9PmfTMd4'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Planetside Feature (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uE01iOVQTLPPTdoB'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Planetside Feature (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQyQUAuGZkemZtLh'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Names (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.imKbV7dPHMQ4awnO'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Names (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eBsfgJ5xK9YNVxoB'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t4NRCKhjxiKFpELH'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Quick Flora Plant Type',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uWrqooiiEMOBJ4Jw'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Quick Flora Characteristics',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NtsgKYiw3MDWIRCY'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+          displayName: 'Quick Flora First Look',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7JNNleZeFXvXs9Yv'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[desertPlanetIndex].children.push({
@@ -1592,16 +1582,6 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MVnD2orENFUEJrOU'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-          displayName: 'Observed From Space (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aos2ItE40qIbg8aV'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.axzyF0OuGXwVzhmh'],
-          children: []
-      })
     starforgedOracles.children[coreIndex].children.push({
           displayName: 'Theme (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mgGRUu62QCdo0n2Z'],
@@ -1618,13 +1598,48 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Observed From Space (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WVdSiIWYWSpIUCTN'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
           displayName: 'Observed From Space (3 - 4)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.cSZDLj0BqZDc4hbF'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Observed From Space (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0LirTYoCP3R8Dgzt'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Planetside Feature (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gxozVy6LZuhqjSeC'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Planetside Feature (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhrRDafdMmbZTMBq'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Planetside Feature (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jtCNxmrr3miVoZvr'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Names (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.y1kZTpBlrThTET3H'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
           displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eBsfgJ5xK9YNVxoB'],
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ynZJHvrD1MSxw3N0'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.QhVbCgtgVq1tBmPQ'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
@@ -1672,11 +1687,6 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O4WIISBXLxsJdOnU'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Observed From Space (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.fJV0agGCQh7hfzW8'],
-          children: []
-      })
     starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push({
           displayName: 'Observed From Space (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mXE7W7P7Vll5qPo4'],
@@ -1720,16 +1730,6 @@ Hooks.on("ready", async () => {
     starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push({
           displayName: 'Names (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XiribiolFLhw9KcB'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gxozVy6LZuhqjSeC'],
           children: []
       })
     starforgedOracles.children[characterCreationIndex].children.push({
@@ -1807,9 +1807,9 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KexJMZU3NBzMxO5F'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Names (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.imKbV7dPHMQ4awnO'],
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
+          displayName: 'Observed From Space (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vAi4oyM0iN9Xaku3'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
@@ -1817,34 +1817,49 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jGM8ouMCAMH7a9Ac'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
+          displayName: 'Observed From Space (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YFa3euIzF3Iu3EVs'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
           displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jhnjSjXc9PmfTMd4'],
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.raTeFRB4wM1tpaa6'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jtCNxmrr3miVoZvr'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[shatteredPlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.kdHE1vWwFy5TRxqN'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Names (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.kqNvGwKvGSC0jmtx'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
           displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhrRDafdMmbZTMBq'],
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v9dpHyiCM0N18i0f'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
+          displayName: 'Planetside Feature (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.p8ho6XAqC9ubRJLb'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
           displayName: 'Names (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1fQSqdBI1hcsq53'],
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HJcSLbX4pAVEhTms'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
+          displayName: 'Names (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Pm2jNTRrEBT2xw8g'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pfwQG72bYwf6sxwt'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Observed From Space (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wCWNV5mg80zJCzz'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Observed From Space (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8NCFv7yLKaxIjARl'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
@@ -1852,9 +1867,34 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nFaY8oF7Qg0yKzQn'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Planetside Feature (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Planetside Feature (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
           displayName: 'Planetside Feature (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQyQUAuGZkemZtLh'],
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Names (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.SMgvAe3GhveAOgOg'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Names (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.rZ9zTYxHP3s4ejZ4'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ytmG9KxquuHDyL0s'],
           children: []
       })
     starforgedOracles.children[miscIndex].children.push({
@@ -2052,26 +2092,6 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t1AOwc3lKoqF9cJ8'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Planetside Feature (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.p8ho6XAqC9ubRJLb'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pfwQG72bYwf6sxwt'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.rZ9zTYxHP3s4ejZ4'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.raTeFRB4wM1tpaa6'],
-          children: []
-      })
     starforgedOracles.children[coreIndex].children.push({
           displayName: 'Descriptor (1 - 2)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.886Dxrj4VbhJWWH8'],
@@ -2115,41 +2135,6 @@ Hooks.on("ready", async () => {
     starforgedOracles.children[creaturesIndex].children.push({
           displayName: 'Revealed Aspect (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P0xAOu6mSQjDOQE0'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t4NRCKhjxiKFpELH'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uE01iOVQTLPPTdoB'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-          displayName: 'Quick Flora Plant Type',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uWrqooiiEMOBJ4Jw'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v9dpHyiCM0N18i0f'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-          displayName: 'Observed From Space (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vAi4oyM0iN9Xaku3'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Planetside Feature (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-          displayName: 'Observed From Space (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.w5yprOoOTFfjZjZj'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[perilPlanetIndex].children.push({
@@ -2213,28 +2198,28 @@ Hooks.on("ready", async () => {
           children: []
       })
     starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+          displayName: 'Observed From Space (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.N54KUtDcuuChzF3r'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+          displayName: 'Observed From Space (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aos2ItE40qIbg8aV'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
           displayName: 'Observed From Space (5 - 6)',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wX7icUFXfjt33JHV'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Names (1 - 2)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.y1kZTpBlrThTET3H'],
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+          displayName: 'Planetside Feature (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5R7eSgr0otB7ggVi'],
           children: []
       })
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
           displayName: 'Planetside Feature (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-          displayName: 'Names (3 - 4)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ynZJHvrD1MSxw3N0'],
-          children: []
-      })
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-          displayName: 'Names (5 - 6)',
-          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ytmG9KxquuHDyL0s'],
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtmwcrDFmiL5KiZY'],
           children: []
       })
     starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
@@ -2242,6 +2227,21 @@ Hooks.on("ready", async () => {
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ztBOckg0G5IMb5OX'],
           children: []
       })
-  
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+          displayName: 'Names (1 - 2)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1fQSqdBI1hcsq53'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+          displayName: 'Names (3 - 4)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IV7IsgbLgtpPJ0yp'],
+          children: []
+      })
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
+          displayName: 'Names (5 - 6)',
+          tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UDcY6Jp7nppzmlCI'],
+          children: []
+      })
+ 
    CONFIG.IRONSWORN.registerOracleTree('starforged', starforgedOracles)
 })
