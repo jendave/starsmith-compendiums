@@ -1,5 +1,12 @@
 # Changelog
 
+### [1.1.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-25)
+
+* Integrated and sorted tables into the Character Sheet Oracles tab.
+* Updated the compendium and code to include folders to greatly reduce clutter.
+* Renamed Starsmith Oracles to more closely match the standard Starforged Oracle names.
+* Added Game Setting to toggle Oracle tree integration.
+
 ### [1.0.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-08-27)
 
 * Added descriptions to tables
