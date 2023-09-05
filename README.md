@@ -16,7 +16,13 @@ Or use this URL:
 https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
 ```
 
-## Add to Character Sheet Oracles
+By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
+![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
+
+If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game setting. The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
+
+## (Optional) Use Custom Folders to add Character Sheet Oracles 
+* If integrating the Starsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Starsmith Oracles.
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
   * `Custom Oracles` - EN
   * `Oráculos personalizados` - ES
@@ -27,19 +33,17 @@ Open the `Starsmith Expanded Oracles` compendium and copy the folders into the `
 
 ![Rollable Tables - Custom Oracles](./docs/custom-oracles-rollable-tables.jpg)
 
-The Oracles will be available from the Character sheet under `Custom Oracles`. The sorting order is not quite right yet.
+The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
 
 # Features and Notes
 * Oracle tables from the PDF are included. 
-* Open the compendium and import all RollTables to your World.
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array. 
-* Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the Starforged System tables.
+* Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 
 # TODOs
-* See if there is a good way to roll a complete Registry Number Builder.
-* Wish List: Integrate with Ironsworn-Starforged System
+* See if there is a good way to generate a complete Registry Number Builder.
 
 # Credits
 Expanded oracles by Eric Bright and licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
@@ -51,4 +55,4 @@ Original oracles by Shawn Tomkin from the Ironsworn: Starforged Reference Guide 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 # Acknowledgements
-The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) was used to import the tables from text to RollTables.
+The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) and [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer) were used to import and export the tables during the development process.
