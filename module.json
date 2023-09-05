@@ -33,7 +33,7 @@
     }
   ],
   "scripts": [
-    "scripts/oracles.js"
+    "./scripts/oracles.js"
   ],
   "manifest": "https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json",
   "url": "https://github.com/jendave/starsmith-expanded-oracles",
