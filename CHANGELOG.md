@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.1.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-05)
+### [1.1.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-09)
 
 * Integrated into the Character Sheet Oracles tab.
 * Updated the compendium and code to include folders to greatly reduce clutter.
