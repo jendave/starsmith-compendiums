@@ -16,25 +16,21 @@
 */
 
 Hooks.once("init", async () => {
+  // CONFIG.debug.hooks = true;
   const debouncedReload = foundry.utils.debounce(() => window.location.reload(), 100);
   console.log('starsmith-expanded-oracles | Initializing Starsmith Expanded Oracles');
-  if (game === {})
-    return;
-  else {
-    game.settings.register('starsmith-expanded-oracles', 'enableOraclesInTree', {
-      name: 'Enable Oracles in Default Tree',
-      hint: 'Enable Oracles in the character sheet tree.',
-      scope: 'world',
-      config: true,
-      type: Boolean,
-      default: true,
-      onChange: debouncedReload
-    });
-  }
+  game.settings.register('starsmith-expanded-oracles', 'enableOraclesInTree', {
+    name: 'Enable Oracles in Default Tree',
+    hint: 'Enable Oracles in the character sheet tree.',
+    scope: 'world',
+    config: true,
+    type: Boolean,
+    default: true,
+    onChange: debouncedReload
+  });
 });
 
-Hooks.once("ready", async () => {
-  await new Promise(r => setTimeout(r, 1000))
+Hooks.once("renderStarforgedCharacterSheet", async () => {
   if (game.settings.get('starsmith-expanded-oracles', 'enableOraclesInTree')) {
     const starforgedOracles = CONFIG.IRONSWORN.getOracleTree('starforged')
 

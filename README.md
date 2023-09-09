@@ -21,7 +21,7 @@ By default, the Oracles will be integrated into the Oracle Tree in the Character
 
 If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game setting. The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
-## (Optional) Use Custom Folders to add Character Sheet Oracles 
+## (Optional Installation) Use Custom Folders to add Character Sheet Oracles 
 * If integrating the Starsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Starsmith Oracles.
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
   * `Custom Oracles` - EN
