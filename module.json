@@ -18,20 +18,41 @@
       "url": "https://playeveryrole.com/"
     }
   ],
-  "packs": [
+  "packFolders": [
     {
-      "name": "starsmithexpandedoracles",
-      "label": "Starsmith Expanded Oracles for Ironsworn: Starforged",
-      "path": "./packs/starsmith-expanded-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      "name": "Starsmith Expanded Oracles",
+      "packs": [
+        "starsmithexpandedoracles",
+        "starsmithexpandedoraclesmacros"
+      ]
     }
-  ],
+],
+"packs": [
+    {
+        "name": "starsmithexpandedoracles",
+        "label": "Starsmith Expanded Oracles",
+        "path": "./packs/starsmith-expanded-oracles",
+        "type": "RollTable",
+        "system": "foundry-ironsworn",
+        "ownership": {
+            "PLAYER": "OBSERVER",
+            "ASSISTANT": "OWNER"
+        },
+        "flags": {}
+    },
+    {
+        "name": "starsmithexpandedoraclesmacros",
+        "label": "Starsmith Expanded Oracles Macros",
+        "path": "./packs/starsmith-expanded-oracles-macros",
+        "type": "Macro",
+        "system": "foundry-ironsworn",
+        "ownership": {
+            "PLAYER": "OBSERVER",
+            "ASSISTANT": "OWNER"
+        },
+        "flags": {}
+    }
+],
   "scripts": [
     "./scripts/oracles.js"
   ],
