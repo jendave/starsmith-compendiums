@@ -2,7 +2,7 @@
 
 ### [1.1.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-12)
 
-* Updated "ready" hook to use new `foundry-ironsworn` feature.
+* Updated hook to use new `foundry-ironsworn` feature for integrating into the Oracle Tree. Requires v1.22.0.
 * Added macro for Starship Registry number
 * Added Action, Progress and Oracle Roll macros for convenience.
 
