@@ -1,5 +1,11 @@
 # Changelog
 
+### [1.1.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-12)
+
+* Updated "ready" hook to use new `foundry-ironsworn` feature.
+* Added macro for Starship Registry number
+* Added Action, Progress and Oracle Roll macros for convenience.
+
 ### [1.1.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-09)
 
 * Integrated into the Character Sheet Oracles tab.

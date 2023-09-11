@@ -21,6 +21,8 @@ By default, the Oracles will be integrated into the Oracle Tree in the Character
 
 If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game setting. The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
+Macros for Starship Registry Number and Dice rolling can be found in the `Starsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
+
 ## (Optional Installation) Use Custom Folders to add Character Sheet Oracles 
 * If integrating the Starsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Starsmith Oracles.
 * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
@@ -42,9 +44,6 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array. 
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 
-# TODOs
-* See if there is a good way to generate a complete Registry Number Builder.
-
 # Credits
 Expanded oracles by Eric Bright and licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
@@ -55,4 +54,6 @@ Original oracles by Shawn Tomkin from the Ironsworn: Starforged Reference Guide 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 # Acknowledgements
+Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
+
 The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) and [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer) were used to import and export the tables during the development process.

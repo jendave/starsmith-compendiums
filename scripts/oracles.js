@@ -30,7 +30,7 @@ Hooks.once("init", async () => {
   });
 });
 
-Hooks.once("renderStarforgedCharacterSheet", async () => {
+Hooks.once("ironswornOracleTreesReady", async () => {
   if (game.settings.get('starsmith-expanded-oracles', 'enableOraclesInTree')) {
     const starforgedOracles = CONFIG.IRONSWORN.getOracleTree('starforged')
 
