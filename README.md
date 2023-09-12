@@ -7,6 +7,11 @@
 
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
+# Features and Notes
+* Oracle tables from the PDF are included.
+* Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array.
+* Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
+
 ## Installation
 To install the module search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of Foundry.
 
@@ -38,11 +43,6 @@ Open the `Starsmith Expanded Oracles` compendium and copy the folders into the `
 The Oracles will be available in the Character sheet under `Custom Oracles`.
 
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
-
-# Features and Notes
-* Oracle tables from the PDF are included. 
-* Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array. 
-* Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 
 # Credits
 Expanded oracles by Eric Bright and licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
