@@ -982,7 +982,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       children: []
     })
     starforgedOracles.children[starshipsIndex].children.push({
-      displayName: 'Registry Number Initializer Letters',
+      displayName: 'Registry Number Initials',
       tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.byBI6d46QtVH1goo'],
       children: []
     })
