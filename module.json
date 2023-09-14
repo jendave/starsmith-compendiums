@@ -24,24 +24,14 @@
       "label": "Starsmith Expanded Oracles",
       "path": "./packs/starsmith-expanded-oracles",
       "type": "RollTable",
-      "system": "foundry-ironsworn",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      "system": "foundry-ironsworn"
     },
     {
       "name": "starsmithexpandedoraclesmacros",
       "label": "Starsmith Expanded Oracles Macros",
       "path": "./packs/starsmith-expanded-oracles-macros",
       "type": "Macro",
-      "system": "foundry-ironsworn",
-      "ownership": {
-        "PLAYER": "OBSERVER",
-        "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -54,8 +44,8 @@
       ]
     }
   ],
-  "scripts": [
-    "./scripts/oracles.js"
+  "esmodules": [
+    "./esmodules/oracles.js"
   ],
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
