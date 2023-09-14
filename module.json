@@ -21,6 +21,7 @@
   "packFolders": [
     {
       "name": "Starsmith Expanded Oracles",
+      "sorting": "m",
       "packs": [
         "starsmithexpandedoracles",
         "starsmithexpandedoraclesmacros"
@@ -70,7 +71,7 @@
         "type": "system",
         "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
         "compatibility": {
-          "minimum": "1.22.0",
+          "minimum": "1.22.1",
           "verified": "1.22"
         }
       }
