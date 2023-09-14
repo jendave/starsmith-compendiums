@@ -53,7 +53,7 @@ Original oracles by Shawn Tomkin from the Ironsworn: Starforged Reference Guide 
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
-The Starship Regsitry number generator macro was contributed by @el_reverend (Discord).
+The Starship Registry number generator macro was contributed by @el_reverend (Discord).
 
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
