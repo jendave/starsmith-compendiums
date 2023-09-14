@@ -18,16 +18,6 @@
       "url": "https://playeveryrole.com/"
     }
   ],
-  "packFolders": [
-    {
-      "name": "Starsmith Expanded Oracles",
-      "sorting": "m",
-      "packs": [
-        "starsmithexpandedoracles",
-        "starsmithexpandedoraclesmacros"
-      ]
-    }
-  ],
   "packs": [
     {
       "name": "starsmithexpandedoracles",
@@ -52,6 +42,16 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    }
+  ],
+  "packFolders": [
+    {
+      "name": "Starsmith Expanded Oracles",
+      "sorting": "m",
+      "packs": [
+        "starsmithexpandedoracles",
+        "starsmithexpandedoraclesmacros"
+      ]
     }
   ],
   "scripts": [
