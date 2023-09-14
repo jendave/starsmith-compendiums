@@ -1,5 +1,10 @@
 # Changelog
 
+### [1.1.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-13)
+
+* Added updated macro for Starship Registry number. Thanks @el_reverend (Discord)
+* Updated file for release procedure.
+
 ### [1.1.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-12)
 
 * Updated hook to use new `foundry-ironsworn` feature for integrating into the Oracle Tree. Requires v1.22.0.
