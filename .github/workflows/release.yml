@@ -67,7 +67,7 @@ jobs:
 
     steps:
       - name: Checkout Repository
-        uses: actions/checkout@v4.0.0
+        uses: actions/checkout@v4
 
       # Extract version embedded in the tag.
       # This step expects the tag to be one of the following formats:
@@ -78,7 +78,7 @@ jobs:
       # "version" key required for a valid module manifest.
       - name: Extract Version From Tag
         id: get_version
-        uses: battila7/get-version-action@v2.2.1
+        uses: battila7/get-version-action@v2
 
       # Modify "module.json" with values specific to the release.
       # Since the values for the "version" and "url" keys aren't known ahead of
@@ -88,7 +88,7 @@ jobs:
       # commited to the repository, and only exist in the action's filesystem.
       - name: Modify Module Manifest With Release-Specific Values
         id: sub_manifest_link_version
-        uses: cschleiden/replace-tokens@v1.2
+        uses: cschleiden/replace-tokens@v1
         with:
           files: 'module.json'
         env:
@@ -125,7 +125,7 @@ jobs:
       # Update the GitHub release with the manifest and module archive files.
       - name: Update Release With Files
         id: create_version_release
-        uses: ncipollo/release-action@v1.13.0
+        uses: ncipollo/release-action@v1
         with:
           allowUpdates: true
           name: ${{ github.event.release.name }}
