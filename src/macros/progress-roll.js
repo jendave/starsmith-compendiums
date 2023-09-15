@@ -1,5 +1,3 @@
-let challengeDie_1 = new Roll('1d10');
-let challengeDie_2 = new Roll('1d10');
 try {
     let progressScoreDialog = await Dialog.prompt({
         title: "Progress Score",
@@ -8,9 +6,13 @@ try {
         callback: (html) => html.find('input').val()
     });
 
+    let challengeDie_1 = new Roll('1d10');
+    let challengeDie_2 = new Roll('1d10');
     let progressScore = parseInt(progressScoreDialog);
     await challengeDie_1.evaluate();
     await challengeDie_2.evaluate();
+    challengeDie_1.toMessage();
+    challengeDie_2.toMessage();
 
     let successes = 0;
     let match = false;
@@ -24,13 +26,6 @@ try {
     if (challengeDie_1.total == challengeDie_2.total) {
         match = true;
     }
-
-    //console.log("progressScore: " + progressScore.total); 
-    //console.log("Modifiers: " + modifiers);
-    //console.log("challengeDie_1: " + challengeDie_1.total); 
-    //console.log("challengeDie_2: " + challengeDie_2.total); 
-    //console.log("successes: " + successes);
-    //console.log("match: " + match);
 
     let result = "Miss";
     switch (successes) {
@@ -50,8 +45,14 @@ try {
             }
     }
 
+    //console.log("progressScore: " + progressScore.total); 
+    //console.log("Modifiers: " + modifiers);
+    //console.log("challengeDie_1: " + challengeDie_1.total); 
+    //console.log("challengeDie_2: " + challengeDie_2.total); 
+    //console.log("successes: " + successes);
+    //console.log("match: " + match);
     //console.log("Result: " + result);
-    let message = "<p>Progress Score: " + progressScore + "</p>" + "<p>Challenge Die 1: " + challengeDie_1.total + "</p>" + "<p>Challenge Die 2: " + challengeDie_2.total + "</p>" + "<h3>Result: " + result + "</h3>";
+    let message = "<p>Progress Score: " + progressScore + "</p>" + "<h3>Result: " + result + "</h3>";
     ChatMessage.create({ content: message });
 }
 catch (e) {

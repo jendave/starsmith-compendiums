@@ -1,0 +1,332 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Character_Creation/Starship_Quirks",
+      "category": "Starforged/Oracles/Character_Creation"
+    },
+    "core": {},
+    "exportSource": {
+      "world": "starforged",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.306",
+      "systemVersion": "1.21.7"
+    }
+  },
+  "name": "Starship Quirks (1 - 2)",
+  "description": "<p>Your ship is an important aspect of your character—and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below.</p>",
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "c8f79d82755fa422",
+      "range": [
+        1,
+        5
+      ],
+      "text": "Engine room is scorched with old burn marks",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "81e9033c8bc2636c",
+      "range": [
+        6,
+        10
+      ],
+      "text": "Exterior is marred by rust and grime",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "e00caaaae6a4d2dc",
+      "range": [
+        11,
+        15
+      ],
+      "text": "Faint, phantom music sometimes echoes through the corridors",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "a36d676fa06284f2",
+      "range": [
+        16,
+        20
+      ],
+      "text": "Gravity generator is notoriously fickle",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "da236b33a8169036",
+      "range": [
+        21,
+        25
+      ],
+      "text": "Hull is fused with organic growths",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "862ad41d2e4545d6",
+      "range": [
+        26,
+        30
+      ],
+      "text": "Hull rattles and groans in atmospheric flight",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "cca8ca9c23a0541e",
+      "range": [
+        31,
+        35
+      ],
+      "text": "Interior spaces are crowded with exposed cables and conduits",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "33cc3960d2228cd2",
+      "range": [
+        36,
+        40
+      ],
+      "text": "Looks defenseless, but exterior panels open to reveal weapons",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "adee58e528f9324a",
+      "range": [
+        41,
+        45
+      ],
+      "text": "Navigation logs contain coordinates to locations that do not—or should not—exist",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "6235d2171aa0e16d",
+      "range": [
+        46,
+        50
+      ],
+      "text": "Old bloodstain in the airlock reappears even when painted over",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "d9082ef98792fe1f",
+      "range": [
+        51,
+        55
+      ],
+      "text": "Once a beautiful ship, now scarred by a devastating battle",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "eb3e8427e4b9dd61",
+      "range": [
+        56,
+        60
+      ],
+      "text": "Patched hull covers a recent catastrophic breach",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "db01adf62539bde8",
+      "range": [
+        61,
+        65
+      ],
+      "text": "Placards and control labels are in an uncommon language",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "4340937e5dad6579",
+      "range": [
+        66,
+        70
+      ],
+      "text": "Removable plate decks provide access to hidden storage",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "6f6eca3019dae5f8",
+      "range": [
+        71,
+        75
+      ],
+      "text": "Segmented landing gear unfold like gangly spider legs",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "35d24710ebf33305",
+      "range": [
+        76,
+        80
+      ],
+      "text": "Ship is powered by an ancient precursor device",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "8bfd04905d6fcba2",
+      "range": [
+        81,
+        85
+      ],
+      "text": "Someone marked the hull with graffiti during a recent layover",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "26c6c2ea33cd2534",
+      "range": [
+        86,
+        90
+      ],
+      "text": "Strange symbols are scrawled on the deck and bulkheads in the main corridor",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "70858732c1bd1da7",
+      "range": [
+        91,
+        95
+      ],
+      "text": "Things tend to go missing for no logical reason",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "2f2dbe500b99ab2c",
+      "range": [
+        96,
+        100
+      ],
+      "text": "Timers and clocks are always just a bit off",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "folder": null,
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.306",
+    "createdTime": 1682136784751,
+    "modifiedTime": 1691183611608,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  }
+}

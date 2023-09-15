@@ -1,0 +1,212 @@
+{
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starforged/Oracles/Character_Creation/Starship_History",
+      "category": "Starforged/Oracles/Character_Creation"
+    },
+    "core": {},
+    "exportSource": {
+      "world": "starforged",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.306",
+      "systemVersion": "1.21.7"
+    }
+  },
+  "name": "Starship History (1 - 2)",
+  "description": "<p>Envision how you obtained or earned this ship. You can come up with your own origin, or roll or pick from the table below. If you use a result from the table, take a moment to consider and elaborate on the suggestion.</p>",
+  "formula": "d100",
+  "replacement": true,
+  "displayRoll": true,
+  "results": [
+    {
+      "_id": "8f97db8afdeb7f6a",
+      "range": [
+        1,
+        8
+      ],
+      "text": "Acquired in trade for a precious family heirloom",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "387bc243f62da0c6",
+      "range": [
+        9,
+        17
+      ],
+      "text": "Built out of repurposed scrap",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "7e5199d5b79f890e",
+      "range": [
+        18,
+        25
+      ],
+      "text": "Claimed as spoils of war",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "cae148f49d7f3a71",
+      "range": [
+        26,
+        34
+      ],
+      "text": "Discovered as a derelict, and patched back together",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "7dade36d8be7dead",
+      "range": [
+        35,
+        42
+      ],
+      "text": "Earned in exchange for a promise or vow",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "9de8921d409232b7",
+      "range": [
+        43,
+        50
+      ],
+      "text": "Found abandoned in perfect condition",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "016f679f8653230d",
+      "range": [
+        51,
+        58
+      ],
+      "text": "Granted by an organization or community",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "eefafdab4227ce2d",
+      "range": [
+        59,
+        67
+      ],
+      "text": "Inherited from a relative or mentor",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "dda312d1e6a82867",
+      "range": [
+        68,
+        75
+      ],
+      "text": "Purchased at a suspiciously cheap price",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "f73069f45fda9040",
+      "range": [
+        76,
+        84
+      ],
+      "text": "Stolen from a notorious crime boss or criminal organization",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "bdc63cd54c64accf",
+      "range": [
+        85,
+        92
+      ],
+      "text": "Taken while fleeing an attack or disaster",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    },
+    {
+      "_id": "4e3bfcf16bde72b2",
+      "range": [
+        93,
+        100
+      ],
+      "text": "Won in a bet",
+      "type": 0,
+      "img": "icons/dice/d10black.svg",
+      "documentCollection": "",
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {}
+    }
+  ],
+  "img": "icons/dice/d10black.svg",
+  "folder": null,
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.306",
+    "createdTime": 1682136784750,
+    "modifiedTime": 1691183604084,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  }
+}

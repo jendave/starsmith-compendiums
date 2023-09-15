@@ -1,6 +1,14 @@
 # Text Manipulation Tips
 Some small tips to manipulate the text
 
+# Foundry Tips
+
+## Dice
+```
+Action Roll 2d10cs<(1d6 + mod)
+Progress Roll 2d10cs<(mod)
+```
+
 ## Utilities
 ```
 pdftotext -table -nodiag Starsmith-Expanded-Oracles-Dec-17-22.pdf Starsmith-Expanded-Oracles-Dec-17-22-4.txt # export PDF text to text file
