@@ -1,9 +1,10 @@
 # Changelog
 
-### [1.1.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-13)
+### [1.1.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-15)
 
-* Added updated macro for Starship Registry number. Thanks @el_reverend (Discord)
-* Updated file for release procedure.
+* Added updated macro for Starship Registry number so now it prints out the full result.  Thanks @el_reverend (Discord).
+* Improved Action and Progress rolls so `Dice So Nice` will trigger.
+* Updated Github workflows file improve release procedure.
 
 ### [1.1.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-12)
 
