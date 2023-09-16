@@ -6,9 +6,13 @@ function processInitialsResult(result) {
 }
 
 (async () => {
-    let roll = new Roll("1d10000-1");
-    await roll.evaluate({ async: true });
-    let sequence = roll.terms[0].results[0]?.result.toString().padStart(4, "0");
+    let sequence = "";
+    for (let i = 0; i < 4; i++) {
+        let roll = new Roll("1d10-1");
+        await roll.evaluate({ async: true });
+        sequence = sequence.concat(roll.total);
+        roll.toMessage();
+    }
 
     // Fetch results from the tables
     let initials = await fromUuid("Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.byBI6d46QtVH1goo");
