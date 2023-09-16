@@ -21,7 +21,7 @@ oracle_folder_parser () {
           displayName: '$name',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.$id'],
           children: []
-      })
+      });
 EOF
 }
 
@@ -31,7 +31,7 @@ oracle_subfolder_parser () {
           displayName: '$name',
           tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.$id'],
           children: []
-      })
+      });
 EOF
 }
 
