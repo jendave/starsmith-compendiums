@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.2.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-25)
+
+* Fix version number token for deployment package.
+
 ### [1.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-25)
 
 * Add Starsmith oracles to arrays in each tree node. This allows each table to be randomly chosen when the parent is clicked. Thanks @benstraub#3706 (Discord) for the tip!
