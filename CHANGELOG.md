@@ -6,7 +6,7 @@
 
 ### [1.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-25)
 
-* Add Starsmith oracles to arrays in each tree node. This allows each table to be randomly chosen when the parent is clicked. Thanks @benstraub#3706 (Discord) for the tip!
+* Add Starsmith oracles to arrays in each tree node. This allows each table to be randomly chosen when the parent is clicked. Thanks @benstraub (Discord) for the tip!
 * Added updated macro for Starship Registry number so now it prints out the full result.  Thanks @el_reverend (Discord)!
 * Improved Action and Progress rolls so `Dice So Nice` will trigger.
 * Updated Github workflows file to improve release procedure.
