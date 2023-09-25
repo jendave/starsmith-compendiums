@@ -24,7 +24,10 @@ https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/m
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
 ![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
 
-If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game setting. The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
+If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game setting. 
+![Module Game Settings](./docs/module-game-settings.jpg)
+
+The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 
 Macros for Starship Registry Number and Dice rolling can be found in the `Starsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
 
