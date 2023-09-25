@@ -1,6 +1,6 @@
 # Changelog
 
-### [1.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-25)
+### [1.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-24)
 
 * Add each Starsmith oracle to an array for each tree node which allows each table to be randomly chosen. Thanks @benstraub#3706 (discord) for the tip!
 * Added updated macro for Starship Registry number so now it prints out the full result.  Thanks @el_reverend (Discord).
