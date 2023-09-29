@@ -12,8 +12,8 @@ A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged sys
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 
-## Installation
-To install the module search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of Foundry.
+# Module Installation
+To install the module, search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of Foundry.
 
 Or use this URL:
 
@@ -21,10 +21,11 @@ Or use this URL:
 https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
 ```
 
+# Tabletop Integration
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
 ![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
 
-If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game setting. 
+If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings. 
 ![Module Game Settings](./docs/module-game-settings.jpg)
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
@@ -48,11 +49,9 @@ The Oracles will be available in the Character sheet under `Custom Oracles`.
 ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
 
 # Credits
-Expanded oracles by Eric Bright and licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+[Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Download the [Starsmith Expanded Oracles PDF from DriveThruRPG.](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
-
-Original oracles by Shawn Tomkin from the Ironsworn: Starforged Reference Guide and used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://preview.drivethrurpg.com/en/product/391653/ironsworn-starforged) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
