@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.2.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-11-xx)
+
+* Added "Sworn Quest" Oracle mad-lib from Starforged rulebook p.386.
+
 ### [1.2.1](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-09-25)
 
 * Fix version number token for deployment package.

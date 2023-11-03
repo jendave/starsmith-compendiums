@@ -1,3 +1,5 @@
+// Macro by el_reverend with modifications by David Hudson
+
 function processInitialsResult(result) {
     if (result == "Use Faction Initials") {
         return "Faction Initials";

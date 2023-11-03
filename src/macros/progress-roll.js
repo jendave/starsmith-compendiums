@@ -1,6 +1,8 @@
+// Macro by David Hudson under the MIT License.
+
 try {
     let progressScoreDialog = await Dialog.prompt({
-        title: "Progress Score",
+        title: "Progress Roll",
         content: `<p>Enter Progress Score:</p><input type="number" id="modifier" name="modifier" min="-10" max="10" value="0"/>`,
         rejectClose: true,
         callback: (html) => html.find('input').val()
@@ -52,7 +54,7 @@ try {
     //console.log("successes: " + successes);
     //console.log("match: " + match);
     //console.log("Result: " + result);
-    let message = "<p>Progress Score: " + progressScore + "</p>" + "<h3>Result: " + result + "</h3>";
+    let message = "<h3>Progress Roll</h3><p>Progress Score: " + progressScore + "</p>" + "<h3>Result: " + result + "</h3>";
     ChatMessage.create({ content: message });
 }
 catch (e) {
