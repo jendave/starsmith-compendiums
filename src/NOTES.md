@@ -40,6 +40,38 @@ Visual block mode for copying column text - ctrl-V and use arrow keys
 :g/^$/d # Remove blank lines
 ```
 
+## Rolltable Links
+```
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Descriptor"><i class="fa fa-caret-right"></i> Descriptor</a> + <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Focus"><i class="fa fa-caret-right"></i> Focus</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Location_Themes"><i class="fa fa-caret-right"></i> Location Themes</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Characters/Role"><i class="fa fa-caret-right"></i> Character Role</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Action"><i class="fa fa-caret-right"></i> Action</a> + <a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Core/Theme"><i class="fa fa-caret-right"></i> Theme</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Vaults"><i class="fa fa-caret-right"></i> Precursor Vault</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Space/Stellar_Object"><i class="fa fa-caret-right"></i> Stellar Object</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Planets"><i class="fa fa-caret-right"></i> Planet</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Settlements"><i class="fa fa-caret-right"></i> Settlement</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Starships"><i class="fa fa-caret-right"></i> Starship</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Derelicts"><i class="fa fa-caret-right"></i> Derelict</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Vaults"><i class="fa fa-caret-right"></i> Precursor Vault</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Creatures"><i class="fa fa-caret-right"></i> Creature</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Vaults"><i class="fa fa-caret-right"></i> Precursor Vault (planetside)</a>
+
+<a class="entity-link oracle-category-link" data-dfid="Starforged/Oracles/Vaults"><i class="fa fa-caret-right"></i> Precursor Vault (orbital)</a>
+
+```
+
 ## Notes for Github workflows
 ```
 jobs:
