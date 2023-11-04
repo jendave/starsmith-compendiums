@@ -689,6 +689,11 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         displayName: 'Encountered Behavior (Starsmith)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lKHbFR2SJbazZyMM', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LcRLOp7oBP2zOiIT', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xOro3zYQOldpg6oK'],
         children: []
+      },
+      {
+        displayName: 'Revealed Aspect (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.se7xt3pePCsteqqW', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n2OENgk435wG7mS1', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P0xAOu6mSQjDOQE0'],
+        children: []
       }
     );
 
@@ -853,378 +858,439 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
-    starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.X0BVY0u1oEFvyrzx'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.74ke9AgaF8XXelLr'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O39GKpnyMuyam9pl'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZqubM8Y5GsmhsaKj'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3uVKQgKm3EmY7n8T'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.dr075E2JijU2kCFz'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qDumRuCiRh386guP'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xdvA8s2XoL7eKI7O'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.oDv2cXFa85vpTDVr'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yprDpKuUVhNBpGYK'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQO4HP5VjRmCvb81'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ubR5MCShmCM98tN6'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s9DxdLwfESICjln5'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4C5yA2j3JjxOQfNc'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Z1uRFYQVc71TBfQ0'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LJTBPHnLEvjBF4ku'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push({
-      displayName: 'Feature',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H1G8RPwsZSNB9w9m'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push({
-      displayName: 'Peril',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7OWQYSOYnTGTHS1w'],
-      children: []
-    });
-    starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push({
-      displayName: 'Opportunity',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XZTTvhEtcmJ08Cin'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.w5yprOoOTFfjZjZj', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Vh4sPOoSMhQK1Mvs', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.kqNvGwKvGSC0jmtx', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.axzyF0OuGXwVzhmh', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6qKWL6r9sN5h4fHg'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WF7PRchsM9oevTjM', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YdzwvZU2wgPhmQ7d', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UZEhVGNsNKw67juE'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jhnjSjXc9PmfTMd4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uE01iOVQTLPPTdoB', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQyQUAuGZkemZtLh'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.imKbV7dPHMQ4awnO', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eBsfgJ5xK9YNVxoB', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t4NRCKhjxiKFpELH'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-      displayName: 'Quick Flora Plant Type',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uWrqooiiEMOBJ4Jw'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-      displayName: 'Quick Flora Characteristics',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NtsgKYiw3MDWIRCY'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push({
-      displayName: 'Quick Flora First Look',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7JNNleZeFXvXs9Yv'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[desertPlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lfk0gDNUJecpYuRi', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.60DIGlrsawAmJuYR', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wfVw6xyf8BY0Fmkw'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[desertPlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EjrmKEYy4ESfBo7C', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UgIpgaYYzFkd424z', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bW8E38iRkmFPXJU8'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[desertPlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.BdbEFPelmQqkGDxs', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.a8S9E1HghcsyxTjX', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MVnD2orENFUEJrOU'],
-      children: []
-    });
+    starforgedOracles.children[locationThemesIndex].childen[floodedlocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.X0BVY0u1oEFvyrzx'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.74ke9AgaF8XXelLr'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O39GKpnyMuyam9pl'],
+        children: []
+      }
+    );
 
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WVdSiIWYWSpIUCTN', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.cSZDLj0BqZDc4hbF', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0LirTYoCP3R8Dgzt'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gxozVy6LZuhqjSeC', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhrRDafdMmbZTMBq', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jtCNxmrr3miVoZvr'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.y1kZTpBlrThTET3H', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ynZJHvrD1MSxw3N0', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.QhVbCgtgVq1tBmPQ'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.BrE1gQtsBLvg9tSx', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vBC6s29505G4SVUW', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eCoLvpIQrVfmDUgO'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6l5Hqitvc4RFxpra', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lf2FvABUcYtgv6Ae', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2JAxDfpav0IlsZLK'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0vFf0yYmD1Kdc9TC', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4Jqgfo9tNEmg6SiL', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O4WIISBXLxsJdOnU'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mXE7W7P7Vll5qPo4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gLIiu5sGdkM62Ruo', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1sLkhxEaVUaPy57w'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WIAW8H36hzbjshr0', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5esl8jSbsIyPkLZV', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zlAXlAtOLtqIPqvr'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XkWfdDGklRXgyoVW', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DZ27gXKmeNZvQBq8', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XiribiolFLhw9KcB'],
-      children: []
-    });
-    starforgedOracles.children[characterCreationIndex].children.push({
-      displayName: 'Backstory Prompts (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.iFPWcG2DSiAy1SBh', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2Mq84Jf27YJHmYac'],
-      children: []
-    });
-    starforgedOracles.children[characterCreationIndex].children.push({
-      displayName: 'Starship History (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vqKkxkHXIlUQPRJ1', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aHafyXedMkIO8YAG', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8ofw7lFejvLDKsTf'],
-      children: []
-    });
-    starforgedOracles.children[characterCreationIndex].children.push({
-      displayName: 'Starship Quirks (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MnwK7DgFqYQffQGX', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ngWfv15bDdfLoNp9', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.e8K4CQZ02BaWlPd3'],
-      children: []
-    });
-    starforgedOracles.children[characterCreationIndex].children.push({
-      displayName: 'Sector Trouble (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.65Q1iiumixImppo3', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TOoNVdWtoACPc6uJ', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.idw2Om2jWKCJtZ0F'],
-      children: []
-    });
-    starforgedOracles.children[characterCreationIndex].children.push({
-      displayName: 'Inciting Incident (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3sdEY6TacfHlzdeV', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HPjyLGuRT9orXBYO', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KexJMZU3NBzMxO5F'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vAi4oyM0iN9Xaku3', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jGM8ouMCAMH7a9Ac', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YFa3euIzF3Iu3EVs'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.raTeFRB4wM1tpaa6', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v9dpHyiCM0N18i0f', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.p8ho6XAqC9ubRJLb'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HJcSLbX4pAVEhTms', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Pm2jNTRrEBT2xw8g', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pfwQG72bYwf6sxwt'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wCWNV5mg80zJCzz', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8NCFv7yLKaxIjARl', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nFaY8oF7Qg0yKzQn'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.SMgvAe3GhveAOgOg', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.rZ9zTYxHP3s4ejZ4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ytmG9KxquuHDyL0s'],
-      children: []
-    });
-    starforgedOracles.children[miscIndex].children.push({
-      displayName: 'Story Complication (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy'],
-      children: []
-    });
-    starforgedOracles.children[miscIndex].children.push({
-      displayName: 'Story Clue (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte'],
-      children: []
-    });
-    starforgedOracles.children[miscIndex].children.push({
-      displayName: 'Anomaly Effect (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LDZn0zQu8ZUERzyw', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tSkFbuKgAMurqmr2', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1JCwlvrXH5QnyceQ'],
-      children: []
-    });
-    starforgedOracles.children[miscIndex].children.push({
-      displayName: 'Combat Action (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OKjUBLf07BQt7C3P', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OnDA9kOWpOiQEjN7', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ot3tdcJQecMZcoDJ'],
-      children: []
-    });
-    starforgedOracles.children[miscIndex].children.push({
-      displayName: 'Item Of Significance (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pgeFss8cl7LDC1fO', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ONylXJvvAC9hwDmT', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lmGHgjJtjVjRZCRZ'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children[sightingSpaceIndex].children.push({
-      displayName: 'Terminus (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HAVQK27TE8slQu60', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.U07ucsEg2i6NPNVb', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nV1RjQlEGnMChpzA'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children[sightingSpaceIndex].children.push({
-      displayName: 'Outlands (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aiRMDaf1F4ZOTUZM', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3udObEySl0mUNtbr', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pljXdRpqxaNfzlLW'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children[sightingSpaceIndex].children.push({
-      displayName: 'Expanse (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.iuepGP5QpCa8k4hu', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.d3wRe8JyFn8ScAxY', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children[sectorNameSpaceIndex].children.push({
-      displayName: 'Prefix (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OBgw20hZhAlacN3n', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1qgTxhg1qpPATkiu', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vk6vBQsstREMx9AV'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children[sectorNameSpaceIndex].children.push({
-      displayName: 'Suffix (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KOB1e7oQ9qA5lZIB', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KGTJ4kSSkeyHxgZy', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MQFMTMilYVltbR0q'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children.push({
-      displayName: 'Stellar Object (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lZotf8hb5262ZC9y', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.hwmEnxGWjNH5yxv4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KCXgXQVMkPiEkqbe'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children.push({
-      displayName: 'Peril (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.G90eIxEM1jKH5YY4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.B6tAK1uWbSAEFUKz', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aRRBZvovBw2M28CM'],
-      children: []
-    });
-    starforgedOracles.children[spaceIndex].children.push({
-      displayName: 'Opportunity (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Us6oXnDxSfqSetSL', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Poyn3CNftqVhkoeD', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t1AOwc3lKoqF9cJ8'],
-      children: []
-    });
+    starforgedOracles.children[locationThemesIndex].children[frozenlocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZqubM8Y5GsmhsaKj'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3uVKQgKm3EmY7n8T'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.dr075E2JijU2kCFz'],
+        children: []
+      }
+    );
 
-    starforgedOracles.children[creaturesIndex].children.push({
-      displayName: 'Revealed Aspect (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.se7xt3pePCsteqqW', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n2OENgk435wG7mS1', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P0xAOu6mSQjDOQE0'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[perilPlanetIndex].children.push({
-      displayName: 'Lifebearing (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[perilPlanetIndex].children.push({
-      displayName: 'Lifeless (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[opportunityPlanetIndex].children.push({
-      displayName: 'Lifebearing (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[opportunityPlanetIndex].children.push({
-      displayName: 'Lifeless (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-      displayName: 'Observed From Space (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.N54KUtDcuuChzF3r', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aos2ItE40qIbg8aV', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wX7icUFXfjt33JHV'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-      displayName: 'Feature (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5R7eSgr0otB7ggVi', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtmwcrDFmiL5KiZY', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ztBOckg0G5IMb5OX'],
-      children: []
-    });
-    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push({
-      displayName: 'Names (Starsmith)',
-      tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1fQSqdBI1hcsq53', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IV7IsgbLgtpPJ0yp', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UDcY6Jp7nppzmlCI'],
-      children: []
-    });
+    starforgedOracles.children[locationThemesIndex].children[infernolocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.qDumRuCiRh386guP'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xdvA8s2XoL7eKI7O'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[locationThemesIndex].children[lifeformlocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.oDv2cXFa85vpTDVr'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yprDpKuUVhNBpGYK'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQO4HP5VjRmCvb81'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[locationThemesIndex].children[mysticallocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ubR5MCShmCM98tN6'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s9DxdLwfESICjln5'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4C5yA2j3JjxOQfNc'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[locationThemesIndex].children[overgrownlocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Z1uRFYQVc71TBfQ0'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LJTBPHnLEvjBF4ku'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[locationThemesIndex].children[warZonelocationThemesIndex].children.push(
+      {
+        displayName: 'Feature',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H1G8RPwsZSNB9w9m'],
+        children: []
+      },
+      {
+        displayName: 'Peril',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7OWQYSOYnTGTHS1w'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XZTTvhEtcmJ08Cin'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[jovianPlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.w5yprOoOTFfjZjZj', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Vh4sPOoSMhQK1Mvs', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TMaAUj4wwzIRZu5o'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gV7Wxz4tmajgxe54', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yergAChxtcH7BcKf', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EqSN5ENCg0MqyoCP'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.kqNvGwKvGSC0jmtx', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.axzyF0OuGXwVzhmh', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6qKWL6r9sN5h4fHg'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[vitalPlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WF7PRchsM9oevTjM', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YdzwvZU2wgPhmQ7d', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UZEhVGNsNKw67juE'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jhnjSjXc9PmfTMd4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uE01iOVQTLPPTdoB', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nQyQUAuGZkemZtLh'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.imKbV7dPHMQ4awnO', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eBsfgJ5xK9YNVxoB', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t4NRCKhjxiKFpELH'],
+        children: []
+      },
+      {
+        displayName: 'Quick Flora Plant Type',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uWrqooiiEMOBJ4Jw'],
+        children: []
+      },
+      {
+        displayName: 'Quick Flora Characteristics',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NtsgKYiw3MDWIRCY'],
+        children: []
+      },
+      {
+        displayName: 'Quick Flora First Look',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.7JNNleZeFXvXs9Yv'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[desertPlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lfk0gDNUJecpYuRi', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.60DIGlrsawAmJuYR', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wfVw6xyf8BY0Fmkw'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EjrmKEYy4ESfBo7C', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UgIpgaYYzFkd424z', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bW8E38iRkmFPXJU8'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.BdbEFPelmQqkGDxs', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.a8S9E1HghcsyxTjX', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MVnD2orENFUEJrOU'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[taintedPlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WVdSiIWYWSpIUCTN', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.cSZDLj0BqZDc4hbF', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0LirTYoCP3R8Dgzt'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gxozVy6LZuhqjSeC', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhrRDafdMmbZTMBq', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jtCNxmrr3miVoZvr'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.y1kZTpBlrThTET3H', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ynZJHvrD1MSxw3N0', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.QhVbCgtgVq1tBmPQ'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[gravePlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.BrE1gQtsBLvg9tSx', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vBC6s29505G4SVUW', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eCoLvpIQrVfmDUgO'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6l5Hqitvc4RFxpra', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Lf2FvABUcYtgv6Ae', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2JAxDfpav0IlsZLK'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0vFf0yYmD1Kdc9TC', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4Jqgfo9tNEmg6SiL', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O4WIISBXLxsJdOnU'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[furnacePlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mXE7W7P7Vll5qPo4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.gLIiu5sGdkM62Ruo', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1sLkhxEaVUaPy57w'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.WIAW8H36hzbjshr0', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5esl8jSbsIyPkLZV', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.zlAXlAtOLtqIPqvr'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XkWfdDGklRXgyoVW', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DZ27gXKmeNZvQBq8', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XiribiolFLhw9KcB'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[characterCreationIndex].children.push(
+      {
+        displayName: 'Backstory Prompts (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bROdhxvU3ConRO7w', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.iFPWcG2DSiAy1SBh', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2Mq84Jf27YJHmYac'],
+        children: []
+      },
+      {
+        displayName: 'Starship History (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vqKkxkHXIlUQPRJ1', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aHafyXedMkIO8YAG', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8ofw7lFejvLDKsTf'],
+        children: []
+      },
+      {
+        displayName: 'Starship Quirks (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MnwK7DgFqYQffQGX', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ngWfv15bDdfLoNp9', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.e8K4CQZ02BaWlPd3'],
+        children: []
+      },
+      {
+        displayName: 'Sector Trouble (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.65Q1iiumixImppo3', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.TOoNVdWtoACPc6uJ', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.idw2Om2jWKCJtZ0F'],
+        children: []
+      },
+      {
+        displayName: 'Inciting Incident (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3sdEY6TacfHlzdeV', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HPjyLGuRT9orXBYO', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KexJMZU3NBzMxO5F'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[oceanPlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vAi4oyM0iN9Xaku3', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jGM8ouMCAMH7a9Ac', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YFa3euIzF3Iu3EVs'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.raTeFRB4wM1tpaa6', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v9dpHyiCM0N18i0f', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.p8ho6XAqC9ubRJLb'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HJcSLbX4pAVEhTms', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Pm2jNTRrEBT2xw8g', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pfwQG72bYwf6sxwt'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[junglePlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wCWNV5mg80zJCzz', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.8NCFv7yLKaxIjARl', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nFaY8oF7Qg0yKzQn'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vdR5AogzuYvRKWHo', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2uFx0KwWCty8dBMm', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FFmsU2Mxni5t0kAV'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.SMgvAe3GhveAOgOg', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.rZ9zTYxHP3s4ejZ4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ytmG9KxquuHDyL0s'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[miscIndex].children.push(
+      {
+        displayName: 'Story Complication (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C8Kw3VVvAj63jrYK', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy'],
+        children: []
+      },
+      {
+        displayName: 'Story Clue (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DTxCBCBqmiXt725r', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4QVpJ82UxmEfapht', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.YeI3VaHANGw2Yhte'],
+        children: []
+      },
+      {
+        displayName: 'Anomaly Effect (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LDZn0zQu8ZUERzyw', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tSkFbuKgAMurqmr2', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1JCwlvrXH5QnyceQ'],
+        children: []
+      },
+      {
+        displayName: 'Combat Action (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OKjUBLf07BQt7C3P', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OnDA9kOWpOiQEjN7', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ot3tdcJQecMZcoDJ'],
+        children: []
+      },
+      {
+        displayName: 'Item Of Significance (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pgeFss8cl7LDC1fO', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ONylXJvvAC9hwDmT', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lmGHgjJtjVjRZCRZ'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[spaceIndex].children[sightingSpaceIndex].children.push(
+      {
+        displayName: 'Terminus (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HAVQK27TE8slQu60', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.U07ucsEg2i6NPNVb', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nV1RjQlEGnMChpzA'],
+        children: []
+      },
+      {
+        displayName: 'Outlands (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aiRMDaf1F4ZOTUZM', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3udObEySl0mUNtbr', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pljXdRpqxaNfzlLW'],
+        children: []
+      },
+      {
+        displayName: 'Expanse (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.iuepGP5QpCa8k4hu', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.d3wRe8JyFn8ScAxY', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[spaceIndex].children[sectorNameSpaceIndex].children.push(
+      {
+        displayName: 'Prefix (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OBgw20hZhAlacN3n', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.1qgTxhg1qpPATkiu', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.vk6vBQsstREMx9AV'],
+        children: []
+      },
+      {
+        displayName: 'Suffix (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KOB1e7oQ9qA5lZIB', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KGTJ4kSSkeyHxgZy', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.MQFMTMilYVltbR0q'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[spaceIndex].children.push(
+      {
+        displayName: 'Stellar Object (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.lZotf8hb5262ZC9y', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.hwmEnxGWjNH5yxv4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KCXgXQVMkPiEkqbe'],
+        children: []
+      },
+      {
+        displayName: 'Peril (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.G90eIxEM1jKH5YY4', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.B6tAK1uWbSAEFUKz', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aRRBZvovBw2M28CM'],
+        children: []
+      },
+      {
+        displayName: 'Opportunity (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Us6oXnDxSfqSetSL', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Poyn3CNftqVhkoeD', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.t1AOwc3lKoqF9cJ8'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[perilPlanetIndex].children.push(
+      {
+        displayName: 'Lifebearing (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KD84vncPvRKsl4aG', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wFb1T0jnPFAxosb1', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.v8O2QC6q6nhGtDs2'],
+        children: []
+      },
+      {
+        displayName: 'Lifeless (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1gXDGsSkn2kDcGr', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[opportunityPlanetIndex].children.push(
+      {
+        displayName: 'Lifebearing (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.Trq6J1gDaYlU4bsG', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.frnLEGzyEM9CgA9B', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.P6GDb3IVTDA86AZP'],
+        children: []
+      },
+      {
+        displayName: 'Lifeless (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.H8uvbUai3jQTFjQF', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aGmgSngtTVR383aR', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.bdMFP8LItOBEaL9A'],
+        children: []
+      }
+    );
+
+    starforgedOracles.children[planetsIndex].children[rockyPlanetIndex].children.push(
+      {
+        displayName: 'Observed From Space (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.N54KUtDcuuChzF3r', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.aos2ItE40qIbg8aV', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.wX7icUFXfjt33JHV'],
+        children: []
+      },
+      {
+        displayName: 'Feature (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.5R7eSgr0otB7ggVi', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AtmwcrDFmiL5KiZY', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ztBOckg0G5IMb5OX'],
+        children: []
+      },
+      {
+        displayName: 'Names (Starsmith)',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.n1fQSqdBI1hcsq53', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IV7IsgbLgtpPJ0yp', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.UDcY6Jp7nppzmlCI'],
+        children: []
+      }
+    );
 
     CONFIG.IRONSWORN.registerOracleTree('starforged', starforgedOracles)
   }
