@@ -65,4 +65,8 @@ The Starship Registry number generator macro was contributed by @el_reverend (Di
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
-The [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer) and [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer) were used to import and export the tables during the development process.
+## Modules
+The following modules were used in the development process
+* [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
+* [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer)
+* [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
