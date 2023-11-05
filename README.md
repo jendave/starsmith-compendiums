@@ -8,6 +8,10 @@
 # About
 A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
 
+# Contact
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
+* [GitHub Repository](https://github.com/jendave/starsmith-expanded-oracles)
+
 # Features and Notes
 * Oracle tables from the PDF are included.
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array.
