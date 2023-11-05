@@ -858,7 +858,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
-    starforgedOracles.children[locationThemesIndex].childen[floodedlocationThemesIndex].children.push(
+    starforgedOracles.children[locationThemesIndex].children[floodedlocationThemesIndex].children.push(
       {
         displayName: 'Feature',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.X0BVY0u1oEFvyrzx'],
