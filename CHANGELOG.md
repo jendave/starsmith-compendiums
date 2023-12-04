@@ -1,5 +1,9 @@
 # Changelog
 
+### [1.2.3](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-03)
+
+* Fixed some typos (Thanks Tyberial!)
+
 ### [1.2.2](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-11-05)
 
 * Added "Sworn Quest" Oracle mad-lib from Starforged rulebook p.386.

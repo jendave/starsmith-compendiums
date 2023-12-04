@@ -18,9 +18,9 @@ A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged sys
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 
 # Module Installation
-To install the module, search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of Foundry.
+To install the module, search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of of the Foundry VTT game setup screen. Then click on `Install`.
 
-Or use this URL:
+Or use this URL and click on `Install`:
 
 ```
 https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
@@ -61,6 +61,8 @@ Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://preview.dr
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
 The Starship Registry number generator macro was contributed by @el_reverend (Discord).
+
+Licenses and permissions for the macros are listed in the source code.
 
 # Acknowledgements
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
