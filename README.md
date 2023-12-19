@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of fan-created oracles for the Ironsworn: Starforged system.
+A FoundryVTT compendium of the supplement by Eric Bright adds two additional tables for nearly every table for the Ironsworn: Starforged system.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
