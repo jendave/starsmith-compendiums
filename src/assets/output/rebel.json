@@ -23,7 +23,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} against forces of that faction, you may choose an approach.\n     * Call them out: Roll +heart and add +2.\n     * Make them pay: Roll +iron and mark progress on a hit.</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} against forces of that faction, you may choose an approach.\n<ul>\n<li>Call them out: Roll +heart and add +2.</li>\n<li>Make them pay: Roll +iron and mark progress on a hit.</li>\n</ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,

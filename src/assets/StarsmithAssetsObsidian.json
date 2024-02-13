@@ -23,7 +23,7 @@
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
          "Color":"774b93",
          "Ability1":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) to oppose an invader within your vehicle, boost. On a strong hit, they were unprepared for your firepower. Add +1 to all moves until you roll a one on your action die.",
-         "Ability2":"You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you [Enter the Fray](Moves/Combat/Enter_the_Fray), choose your approach.\n     * Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.\n     * Gain the upper hand: Add +2.",
+         "Ability2":"You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you [Enter the Fray](Moves/Combat/Enter_the_Fray), choose your approach.\n<ul>\n<li>Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.</li>\n<li>Gain the upper hand: Add +2.</li>\n</ul>",
          "Ability3":"You may prepare for a drawn-out battle by taking specialized ammunition. If you do, during a single combat scene only, you may reroll any action die showing a one when you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash)."
       },
       {
@@ -231,7 +231,7 @@
          "Color":"467cae",
          "Ability1":"When you take this asset, declare an oppressive faction that you are actively working against. When you [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice. When you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow) and score a hit, also mark 2 ticks on your bonds legacy track.",
          "Ability2":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) by sabotaging the equipment or resources of that faction, boost.",
-         "Ability3":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) against forces of that faction, you may choose an approach.\n     * Call them out: Roll +heart and add +2.\n     * Make them pay: Roll +iron and mark progress on a hit.",
+         "Ability3":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) against forces of that faction, you may choose an approach.\n<ul>\n<li>Call them out: Roll +heart and add +2.</li>\n<li>Make them pay: Roll +iron and mark progress on a hit.</li>\n</ul>",
          "Input":"Faction"
       },
       {
@@ -410,10 +410,10 @@
          "Date":"March 9, 2023",
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
          "Color":"469a46",
-         "Ability1":"You no longer benefit from [Heal](Moves/Recover/Heal). Instead, you must [Repair](Moves/Recover/Repair) to regain health as a mechanical companion would. Also, add the following options to spend repair points\n     * Clear wounded: 2 points\n     * Clear permanently harmed: 4 points",
+         "Ability1":"You no longer benefit from [Heal](Moves/Recover/Heal). Instead, you must [Repair](Moves/Recover/Repair) to regain health as a mechanical companion would. Also, add the following options to spend repair points\n<ul>\n<li>Clear wounded: 2 points</li>\n<li>Clear permanently harmed: 4 points</li>\n</ul>",
          "Ability2":"Your command vehicle can store a copy of your consciousness. When you take several hours, you may update your back-up. You may also selectively erase memories with this process. If you do, [Endure Stress](Moves/Suffer/Endure_Stress) (-2).",
          "Ability3":"Your command vehicle houses a simulacrum printer. When you die, a subspace signal stops pinging your ship. If your ship survives and detects the signal loss, its systems will automatically take a day or so to install your saved consciousness into a new body.",
-         "Foreword":"Once you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow) (rank\nextreme or epic) to transfer your consciousness to an artificial body…"
+         "Foreword":"Once you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow) (rank\nextreme or epic) to transfer your consciousness to an artificial body..."
       },
       {
          "Name":"Indefatigable",
@@ -425,9 +425,9 @@
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
          "Color":"469a46",
          "Ability1":"When you use your status as a rough and tough survivor to [Compel](Moves/Adventure/Compel) people who know of your previous ship's destruction, boost.",
-         "Ability2":"When you [Sojourn](Moves/Recover/Sojourn) and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n     * Revel in your tenacity: Take +2 momentum.\n     * Leverage your status: [Gather Information](Moves/Adventure/Gather_Information) +heart (instead of +wits).",
+         "Ability2":"When you [Sojourn](Moves/Recover/Sojourn) and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n<ul>\n<li>Revel in your tenacity: Take +2 momentum.</li>\n<li>Leverage your status: [Gather Information](Moves/Adventure/Gather_Information) +heart (instead of +wits).</li>\n</ul>",
          "Ability3":"When you [Withstand Damage](Moves/Suffer/Withstand_Damage), roll with advantage. Then, if you score a strong hit and choose to ride it out, take +2 momentum (instead of +1).",
-         "Foreword":"Once you have cleared indebted…"
+         "Foreword":"Once you have cleared indebted..."
       },
       {
          "Name":"Soulless",
@@ -441,7 +441,7 @@
          "Ability1":"When you are at 0 spirit and [Endure Stress](Moves/Suffer/Endure_Stress) or [Face Desolation](Moves/Threshold/Face_Desolation), add +1. You may then reroll your action die if its value is less than your health.",
          "Ability2":"When you [Compel](Moves/Adventure/Compel) someone to act against their will or to their own detriment, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die. If you do, erase one tick from your bonds legacy track.",
          "Ability3":"When you [Gather Information](Moves/Adventure/Gather_Information) by studying a place where suffering or torment left its mark, you may confront the visceral nature of the scene and roll +iron. If you do, take +1 momentum on a hit. On a strong hit with a match, you experience an insightful vision or disturbing revelation of what occurred here. Take +1 momentum more.",
-         "Foreword":"Once you [Face Desolation](Moves/Threshold/Face_Desolation)…"
+         "Foreword":"Once you [Face Desolation](Moves/Threshold/Face_Desolation)..."
       },
       {
          "Name":"Traveler",
@@ -455,7 +455,7 @@
          "Ability1":"When you overcome a miss by shuffling through realities and calling forth one where you succeed, improve the result to a strong hit. Then, fill one segment of a six-segment clock representing stress on reality. When the clock is filled, a localized crack in the multiverse forms. Envision the dire consequences and reset the clock.",
          "Ability2":"When you search the timeline for possible futures, enact the first ability of the Seer path asset.",
          "Ability3":"When you create a link to the current point in time, enact the second ability on the Looper path asset but add options for the time gap of +1 if weeks, +0 if months, and -1 if years.",
-         "Foreword":"Once you have returned from an alternate reality or timeline touched by the chaotic energy of the multiverse…",
+         "Foreword":"Once you have returned from an alternate reality or timeline touched by the chaotic energy of the multiverse...",
          "TrackLabel":"Damage",
          "TrackMax":6,
          "TrackCondition":"Temporal Rift"

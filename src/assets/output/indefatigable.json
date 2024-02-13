@@ -16,7 +16,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3de42d2d3cb78855]{Sojourn} and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n     * Revel in your tenacity: Take +2 momentum.\n     * Leverage your status: @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} +heart (instead of +wits).</p>",
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3de42d2d3cb78855]{Sojourn} and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n<ul>\n<li>Revel in your tenacity: Take +2 momentum.</li>\n<li>Leverage your status: @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} +heart (instead of +wits).</li>\n</ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": null
+        "description": "Once you have cleared indebted..."
     }
 }

@@ -16,7 +16,7 @@
                 "clockTicks": 0
             },
             {
-                "description": "<p>You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, choose your approach.\n     * Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.\n     * Gain the upper hand: Add +2.</p>",
+                "description": "<p>You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, choose your approach.\n<ul>\n<li>Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.</li>\n<li>Gain the upper hand: Add +2.</li>\n</ul></p>",
                 "enabled": "false",
                 "hasClock": "false",
                 "clockMax": 4,
