@@ -1,5 +1,11 @@
 # Changelog
 
+### [2.0.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-13)
+
+* Added [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets).
+  * New compendium
+  * May require reinstalling the module.
+
 ### [1.2.3](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-03)
 
 * Fixed some typos (Thanks Tyberial!)
