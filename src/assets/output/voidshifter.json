@@ -1,0 +1,44 @@
+{
+    "name": "Voidshifter",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Chaotic void energies altered your physiology allowing you to shapeshift your appearance for short periods of time. When you make a move to deceive or avoid notice by altering your physical appearance, boost. On a weak hit, it is painful. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-1). On a miss, the transformation fails. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you shapeshift your body to increase your battle prowess, envision the change and roll +iron or +health. On a strong hit, set aside an action die with a value of 6. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} leveraging this change, boost and reduce the value of the die by 1. When the die would be set to 0, the transformation ends. On a weak hit, as above but it is painful. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-1). On a miss, the transformation fails. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} due to dangerous environmental conditions, boost as your body shifts to handle the conditions better.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Soulless",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Deed",
+        "color": "#40834F",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you are at 0 spirit and @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff17e67a59539df4]{Face Desolation}, add +1. You may then reroll your action die if its value is less than your health.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} someone to act against their will or to their own detriment, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die. If you do, erase one tick from your bonds legacy track.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} by studying a place where suffering or torment left its mark, you may confront the visceral nature of the scene and roll +iron. If you do, take +1 momentum on a hit. On a strong hit with a match, you experience an insightful vision or disturbing revelation of what occurred here. Take +1 momentum more.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

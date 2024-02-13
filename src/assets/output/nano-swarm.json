@@ -1,0 +1,49 @@
+{
+    "name": "Nano-Swarm",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Companion",
+        "color": "#3D8B8A",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Utility: Your swarm can access a system, analyze a mechanical issue, or become a small tool to help work on equipment.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Surveillance: You can observe a situation remotely from your swarm's perspective.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Combat: You swarm can attack a foe by consuming small bits of its matter.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 2,
+            "value": 2,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Out of Action",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

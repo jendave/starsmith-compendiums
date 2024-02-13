@@ -1,0 +1,49 @@
+{
+    "name": "Drones",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Module",
+        "color": "#7F5A90",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your set of hoverbike-sized drones are equipped with combat analytics to fight at your side.  When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} aided by the drones, add +1.  When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash}, take +1 momentum on a hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your drones are equipped with triangulating astronavigation sensors. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} (+wits) using the drones to help guide your command vehicle on a journey, boost and suffer -1 integrity to the drones.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your drones are equipped with stealth plating, false signal projectors and sensor jamming systems. When you make a move against a specific foe or threat to avoid detection with their help, boost and suffer -1 integrity to the drones.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Integrity",
+            "max": 3,
+            "value": 3,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Broken",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Holodeck",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Module",
+        "color": "#7F5A90",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your holodeck helps you practice and prepare. Declare a path asset you are training for, and set your training cycle to 0. Once per journey when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}, you may train in the holodeck. If you do, roll +integrity or +an appropriate stat. On a hit, take +1 training cycle. When your training cycle is at 4 and you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d602da2ce0c05f2c]{Advance} to gain or upgrade the declared asset, it costs -1 XP. Then, set your training cycle to zero and declare a new path asset.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by talking to a holographic facsimile of an expert, add +1.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you take time for yourself and @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} using a favorite recreational program, add +1.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Training",
+            "max": 4,
+            "value": 4,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

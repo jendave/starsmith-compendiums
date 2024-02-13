@@ -1,0 +1,44 @@
+{
+    "name": "External Refit",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Module",
+        "color": "#7F5A90",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your command vehicle is sealed against high pressure environments and can travel underwater. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} to traverse hazardous underwater currents or areas of dangerous debris, boost.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your command vehicle is equipped with radiation reflective plating. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} from a hostile space environment, boost.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your command vehicle has a modular design that shifts its physical form to fit the situation. If you take time to reconfigure your ship or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} to do it swiftly, declare a stat. Thereafter, when you make a move with your command vehicle utilizing that stat, roll with advantage. With all other stats, roll with disadvantage.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

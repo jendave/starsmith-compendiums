@@ -1,0 +1,44 @@
+{
+    "name": "Telepath",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you attempt to establish a telepathic link with another person who is physically present, roll +wits and boost. On a strong hit, you can speak with them telepathically from any distance. On a weak hit, as above, but the bond fades after a time. On a miss, as a weak hit, but it is stressful. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-2).  Only twice your wits score of links may be active at a time.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you edit a person or being's memories from a 24-hour period, roll +wits a three dice challenge. On a strong hit, the memories are altered. On a weak hit, the memories are altered, but it is stressful. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-2). On a miss, something goes wrong. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.78baa51694fe37c5]{Pay the Price}. Altered memories return after several hours or several days.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by observing through another person's senses, roll +wits with advantage.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

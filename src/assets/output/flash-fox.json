@@ -1,0 +1,49 @@
+{
+    "name": "Flash Fox",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Companion",
+        "color": "#3D8B8A",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your flash fox uses its short-range teleportation to bypass obstacles. When you make a move by directing your flash fox to teleport you a short distance away, roll +its health and boost.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your flash fox attempts to teleport you out of harm's way. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm}, you may roll +its health with advantage. If you do and score a hit, reduce the loss of health you suffered by 1. On a miss, your @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} as well.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your flash fox has learned to coordinate its teleporting attacks with your own. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} aided by the flash fox, add +1. If you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash}, take +1 momentum on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Health",
+            "max": 3,
+            "value": 3,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Out of Action",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Rebel",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you take this asset, declare an oppressive faction that you are actively working against. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} and score a hit, also mark 2 ticks on your bonds legacy track.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by sabotaging the equipment or resources of that faction, boost.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} against forces of that faction, you may choose an approach.\n     * Call them out: Roll +heart and add +2.\n     * Make them pay: Roll +iron and mark progress on a hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

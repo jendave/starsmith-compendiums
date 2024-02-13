@@ -1,0 +1,46 @@
+{
+    "name": "Aeroponics",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Module",
+        "color": "#7F5A90",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>You have a high yield aeroponics bay to enrich your food supply. When you [Resupply](Moves/Recover/Resupply) at a settlement in need of fresh food, add +1 or take +2 momentum on a hit. The food takes some time to regrow.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>You have cultivated part of the bay into a meditative arboretum. Once per journey when you [Undertake an Expedition](Moves/Exploration/Undertake_an_Expedition), you may take time to recenter yourself and [Hearten](Moves/Recover/Hearten). If you do, add +2.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>You have an ideal growing environment for a specialized herb. Envision what this herb does. Then, when you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by using this herb, add +2. Once pruned, this herb takes significant time to regrow.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": 5,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            null
+        ],
+        "description": null
+    }
+}

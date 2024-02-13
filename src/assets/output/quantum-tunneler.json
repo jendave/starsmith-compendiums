@@ -1,0 +1,44 @@
+{
+    "name": "Quantum Tunneler",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by quantum tunneling to a position nearby and within sight, add +2 but treat a weak hit as a miss. If through an obstacle to a nearby but unseen location, treat a weak hit as a miss but take +2 momentum on a strong hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} and score a weak hit, you may forgo marking progress to be in control as you tunnel away. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} and score a weak hit, you may mark progress only once (instead of twice) to be in control as you tunnel to reposition.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you attempt to quantum entangle yourself to a location, roll +heart or +wits. On a hit, you may quantum tunnel to that location from any distance, but it is dangerous. On a miss, as above but the entangling is harmful. @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-2). When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} to do so, treat a weak hit as a miss. Once used, the entanglement fades.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

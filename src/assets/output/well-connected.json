@@ -1,0 +1,44 @@
+{
+    "name": "Well-Connected",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by finding a person with knowledge or experience about a specific topic, you may add +2. If you do, treat a weak hit as miss.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.05909d6310d209a6]{Make a Connection} with someone who has a favorable relationship with another person you already have connection with, add +1. On a hit, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.141aec8b92efd14b]{Develop Your Relationship} with your original connection.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by leveraging the fact that you have a relationship with a connection, you may reroll any dice. If you do and score a miss, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.8704c945023355fb]{Test Your Relationship} when next you communicate with that connection.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

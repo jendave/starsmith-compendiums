@@ -1,0 +1,66 @@
+{
+  "name": "Aeroponics",
+  "type": "asset",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "requirement": "",
+    "category": "Module",
+    "color": "#7f5a90",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You have a high yield aeroponics bay to enrich your food supply. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} at a settlement in need of fresh food, add +1 or take +2 momentum on a hit. The food takes some time to regrow.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You have cultivated part of the bay into a meditative arboretum. Once per journey when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}, you may take time to recenter yourself and @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten}. If you do, add +2.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You have an ideal growing environment for a specialized herb. Envision what this herb does. Then, when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by using this herb, add +2. Once pruned, this herb takes significant time to regrow.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Health",
+      "max": 5,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "effects": [],
+  "folder": "uV43MFn5cMoOZkcg",
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": true
+    },
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.315",
+      "systemVersion": "1.22.11"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1707591784083,
+    "modifiedTime": 1707780999472,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  }
+}

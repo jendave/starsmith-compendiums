@@ -1,0 +1,44 @@
+{
+    "name": "Indefatigable",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Deed",
+        "color": "#40834F",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you use your status as a rough and tough survivor to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} people who know of your previous ship's destruction, boost.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3de42d2d3cb78855]{Sojourn} and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n     * Revel in your tenacity: Take +2 momentum.\n     * Leverage your status: @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.13b2d777c6fb719d]{Gather Information} +heart (instead of +wits).</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage}, roll with advantage. Then, if you score a strong hit and choose to ride it out, take +2 momentum (instead of +1).</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "name": "Enhanced",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your DNA was spliced with that of another species, known or unknown. Envision a permanent change this bestows upon your body and how others react to it when they find out. When you make a move directly aided by this change, add +1. On a strong hit, take +2 momentum. On a miss with a match, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} (-2) as your body temporarily rejects the DNA.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>A second change permanently affects your body as above, but the benefits of the two changes do not stack.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Encoded in your altered DNA is something that could change humanity forever. If you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} to uncover this change (rank extreme or epic), reroll any dice. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} and score a hit, mark two boxes on your discoveries legacy track.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

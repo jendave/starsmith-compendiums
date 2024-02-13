@@ -1,0 +1,44 @@
+{
+    "name": "Rocketeer",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Path",
+        "color": "#3F7FAA",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your jet pack allows you to hover mid-air, make jet-assisted leaps, or fly over short distances. It has a max of 5 fuel and can be refueled on your command vehicle. When you make a move using your jet pack to overcome an obstacle or gain a better position, add +2 and suffer -1 fuel.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you make a move reacting to an imminent threat by rapidly relocating using\na burst from your jet pack, boost and suffer -1 fuel.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition} (+edge) across difficult terrain assisted by your jet pack, suffer -1 fuel and take +1 momentum on a hit. On a strong hit with a match, you surge ahead. Mark progress.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Fuel",
+            "max": 5,
+            "value": 5,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

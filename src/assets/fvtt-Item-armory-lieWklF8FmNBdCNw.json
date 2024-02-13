@@ -1,0 +1,65 @@
+{
+  "type": "asset",
+  "folder": null,
+  "name": "Armory",
+  "system": {
+    "requirement": "",
+    "category": "Module",
+    "color": "#7F5A90",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} to oppose an invader within your vehicle, boost. On a strong hit, they were unprepared for your firepower. Add +1 to all moves until you roll a one on your action die.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}, choose your approach.\n     * Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.\n     * Gain the upper hand: Add +2.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>You may prepare for a drawn-out battle by taking specialized ammunition. If you do, during a single combat scene only, you may reroll any action die showing a one when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash}.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.315",
+      "systemVersion": "1.22.11"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1707810893505,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  }
+}
