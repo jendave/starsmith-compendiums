@@ -1,0 +1,66 @@
+{
+  "type": "asset",
+  "folder": null,
+  "name": "Traveler",
+  "system": {
+    "requirement": "",
+    "category": "Deed",
+    "color": "#40834F",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you overcome a miss by shuffling through realities and calling forth one where you succeed, improve the result to a strong hit. Then, fill one segment of a six-segment clock representing stress on reality. When the clock is filled, a localized crack in the multiverse forms. Envision the dire consequences and reset the clock.</p>",
+        "enabled": true,
+        "hasClock": true,
+        "clockMax": 6,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you search the timeline for possible futures, enact the first ability of the Seer path asset.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you create a link to the current point in time, enact the second ability on the Looper path asset but add options for the time gap of +1 if weeks, +0 if months, and -1 if years.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Damage",
+      "max": 6,
+      "value": 6,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": "Once you have returned from an alternate reality or timeline touched by the chaotic energy of the multiverse..."
+  },
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "core": {},
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.315",
+      "systemVersion": "1.22.11"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1707849818097,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  }
+}
