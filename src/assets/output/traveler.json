@@ -11,8 +11,8 @@
             {
                 "description": "<p>When you overcome a miss by shuffling through realities and calling forth one where you succeed, improve the result to a strong hit. Then, fill one segment of a six-segment clock representing stress on reality. When the clock is filled, a localized crack in the multiverse forms. Envision the dire consequences and reset the clock.</p>",
                 "enabled": "true",
-                "hasClock": "false",
-                "clockMax": 4,
+                "hasClock": "true",
+                "clockMax": 6,
                 "clockTicks": 0
             },
             {
@@ -31,19 +31,14 @@
             }
         ],
         "track": {
-            "enabled": "true",
+            "enabled": "false",
             "name": "Damage",
             "max": 6,
             "value": 6,
             "min": 0
         },
         "exclusiveOptions": [],
-        "conditions": [
-            {
-                "name": "Temporal Rift",
-                "ticked": "false"
-            }
-        ],
+        "conditions": [],
         "description": "Once you have returned from an alternate reality or timeline touched by the chaotic energy of the multiverse..."
     }
 }

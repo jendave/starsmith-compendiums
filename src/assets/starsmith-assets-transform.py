@@ -61,17 +61,17 @@ for asset in starsmith_assets['Assets']:
     ability_2 = update_ability(asset.get('Ability2'))
     ability_3 = update_ability(asset.get('Ability3'))
     has_clock_1 = "true" if asset_name == "Traveler" else "false"
-    clock_max_1 = 6 if asset_name == "Traveler" else 0
+    clock_max_1 = 6 if asset_name == "Traveler" else 4
     category = asset.get('Category')
     color = asset.get('Color')
     track_name = asset.get('TrackLabel')
     track_max = asset.get('TrackMax')
     track_value = 0 if asset_name == "Holodeck" else track_max
     track_condition_temp = asset.get('TrackCondition')
-    track_condition_string = """[{ "name" : "%s", "ticked" : "false"}]""" % (track_condition_temp) if track_condition_temp else None # if track_condition_temp else None
+    track_condition_string = """[{ "name" : "%s", "ticked" : "false"}]""" % (track_condition_temp) if (track_condition_temp is not None and asset_name != "Traveler") else None
     print("track_condition_string: %s" % (track_condition_string))
-    track_condition = json.loads(track_condition_string) if track_condition_temp else []
-    track_enabled = "true" if track_max or track_name else "false" #track_condition_temp or 
+    track_condition = json.loads(track_condition_string) if (track_condition_temp is not None and asset_name != "Traveler") else []
+    track_enabled = "true" if (track_max or track_name) and asset_name != "Traveler" else "false"
     forward = update_ability(asset.get('Foreword'))
     input_item = asset.get('Input')
 
@@ -89,7 +89,7 @@ for asset in starsmith_assets['Assets']:
         case _:
             color = '#7F5A90'
 
-    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": [], "abilities": [{"description": "<p>" + ability_1 + "</p>", "enabled": "true", "hasClock": has_clock_1, "clockMax": clock_max_1, "clockTicks": 0 }, { "description": "<p>" + ability_2 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>" + ability_3 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ], "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4) #[ { "name" : track_condition, "ticked" : "false" } ]
+    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": [], "abilities": [{"description": "<p>" + ability_1 + "</p>", "enabled": "true", "hasClock": has_clock_1, "clockMax": clock_max_1, "clockTicks": 0 }, { "description": "<p>" + ability_2 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>" + ability_3 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ], "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
 
     file_asset = open("output/" + asset_name.lower().replace(' ', '-') + ".json", "w")
 
