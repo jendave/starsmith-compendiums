@@ -1,4 +1,4 @@
-# starsmith-expanded-oracles
+# Starsmith Oracles and Assets for Ironsworn: Starforged
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/starsmith-expanded-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-expanded-oracles/releases/latest)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of the supplements by Eric Bright that adds oracles and assets for the Ironsworn: Starforged system.
+A FoundryVTT compendium of supplements by Eric Bright that add oracles and assets for the Ironsworn: Starforged system.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
@@ -58,9 +58,16 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
   * Open the `Starsmith Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
+    * ![Items - Custom Assets](./docs/custom-assets-items.jpg)
+  * The Assets will be available in the Character sheet under `Custom Assets`.
+
+# Troubleshooting
+* Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
 # Credits
 [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
+[Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://preview.drivethrurpg.com/en/product/391653/ironsworn-starforged) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
