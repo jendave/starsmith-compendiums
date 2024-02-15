@@ -1,6 +1,6 @@
 # Changelog
 
-### [2.0.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-13)
+### [2.0.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-14)
 
 * Added [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets).
   * New compendium
