@@ -31,10 +31,10 @@ https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/m
 
 # Tabletop Integration
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
-![Character Sheet - Oracles Tree](./docs/oracle-tree-character-sheet.jpg)
+![Character Sheet - Oracles Tree](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
 If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings. 
-![Module Game Settings](./docs/module-game-settings.jpg)
+![Module Game Settings](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/module-game-settings.jpg?raw=true)
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 The Assets can be added to the character sheet by using the `Custom Folders` method below.
@@ -50,9 +50,9 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Własne Wyrocznie` - PL
     * `Свои оракулы` - RU
   * Open the `Starsmith Expanded Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
-    * ![Rollable Tables - Custom Oracles](./docs/custom-oracles-rollable-tables.jpg)
+    * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
   * The Oracles will be available in the Character sheet under `Custom Oracles`.
-    * ![Character Sheet - Custom Oracles](./docs/custom-oracles-character-sheet.jpg)
+    * ![Character Sheet - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
 * Use the following method to integrate the Starsmith Assets into the character sheet.
   * Create a `Custom Assets` folder in the `Items` tab called:
     * `Custom Assets` - EN
@@ -60,9 +60,9 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
   * Open the `Starsmith Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
-    * ![Items - Custom Assets](./docs/custom-assets-items.jpg)
+    * ![Items - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
-    * ![Character Sheet - Custom Assets](./docs/custom-assets-character-sheet.jpg)
+    * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
 
 # Troubleshooting
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
