@@ -1,7 +1,7 @@
 {
   "id": "starsmith-expanded-oracles",
-  "title": "Starsmith Oracles and Assets for Ironsworn: Starforged",
-  "description": "This supplement by Eric Bright adds additional tables and assets for the Ironsworn: Starforged system.",
+  "title": "Starsmith Compendiums for Ironsworn: Starforged",
+  "description": "FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by Eric Bright.",
   "version": "#{VERSION}#",
   "compatibility": {
     "minimum": 11,
@@ -43,7 +43,7 @@
   ],
   "packFolders": [
     {
-      "name": "Starsmith Oracles and Assets",
+      "name": "Starsmith",
       "packs": [
         "starsmithexpandedoracles",
         "starsmithexpandedoraclesmacros",

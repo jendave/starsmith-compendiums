@@ -1,4 +1,4 @@
-# Starsmith Supplements for Ironsworn: Starforged
+# Starsmith Compendiums for Ironsworn: Starforged
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/starsmith-expanded-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-expanded-oracles/releases/latest)
@@ -6,7 +6,7 @@
 [![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles)](LICENSE)
 
 # About
-A FoundryVTT compendium of supplements by Eric Bright that add oracles and assets for the Ironsworn: Starforged system.
+FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by Eric Bright.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
