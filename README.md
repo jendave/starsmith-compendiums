@@ -1,4 +1,4 @@
-# Starsmith Oracles and Assets for Ironsworn: Starforged
+# Starsmith Supplements for Ironsworn: Starforged
 
 ![GitHub all releases](https://img.shields.io/github/downloads/jendave/starsmith-expanded-oracles/total)
 [![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-expanded-oracles/releases/latest)
@@ -14,6 +14,8 @@ A FoundryVTT compendium of supplements by Eric Bright that add oracles and asset
 
 # Features and Notes
 * Oracles and Assets from the PDFs are included.
+  * [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
+  * [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets)
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 * Assets can be imported and used on the character sheet.
@@ -60,6 +62,7 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
   * Open the `Starsmith Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
     * ![Items - Custom Assets](./docs/custom-assets-items.jpg)
   * The Assets will be available in the Character sheet under `Custom Assets`.
+    * ![Character Sheet - Custom Assets](./docs/custom-assets-character-sheet.jpg)
 
 # Troubleshooting
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.

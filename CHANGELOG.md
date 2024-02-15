@@ -4,7 +4,7 @@
 
 * Added [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets).
   * New compendium
-  * May require uninstalling and reinstalling the module.
+  * Name of module has slightly changed and may require uninstalling/reinstalling the module.
 
 ### [1.2.3](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2023-12-03)
 
