@@ -1,0 +1,30 @@
+{
+    "name": "Inertial Dampeners",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage}, add +1. On a strong hit, take +1 momentum.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

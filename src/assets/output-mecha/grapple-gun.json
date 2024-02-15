@@ -1,0 +1,30 @@
+{
+    "name": "Grapple Gun",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your mech can @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by firing a magnetically charged anchor and tether. On a hit, the grapple finds its target. When you may make a move leveraging this tether, add +1 and take +1 momentum on a hit. The grapple stays anchored until you score a miss on a move leveraging it or you take the time to detach it from your frame. Only one such grapple can be attached at a time.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

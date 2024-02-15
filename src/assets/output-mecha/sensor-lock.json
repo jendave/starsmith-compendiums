@@ -1,0 +1,30 @@
+{
+    "name": "Sensor Lock",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>You can @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by taking the time to lock your sensors on a target. If you do and score a strong hit, for the rest of the scene, add +1 any time you make a move leveraging that sensor lock. The sensor lock is lost when you roll a 1 on the action die on any move against the target. On a weak hit, the same as above but the sensor lock is lost when you roll a 1, 2, or 3 on the action die on any move against the target. You may only have a sensor lock on one target at a time.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

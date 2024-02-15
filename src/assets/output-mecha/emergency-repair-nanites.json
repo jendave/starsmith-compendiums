@@ -1,0 +1,30 @@
+{
+    "name": "Emergency Repair Nanites",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Once per fight, you can @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.eece9a67d1961f70]{Repair} by releasing a nanite swarm that reinforces and repairs your armor. If you do, add +1 and treat your result as if you were 'In the field' instead of 'Under fire.' On a hit, add 'Take +2 momentum: 1 point' to your list of options.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "name": "Countermeasures",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your countermeasure array is armed with 3 chaff. If you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} in a place where your countermeasures can be replenished, you may exchange any earned +supply for +chaff.<p><p>When a threat attacks while they have a sensor lock on you and you React Under Fire, you may fire chaff in an attempt to throw off their targeting matrix. If you do, suffer -1 chaff and treat a weak hit as a strong hit.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Chaff",
+            "max": 3,
+            "value": 3,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Out of Chaff",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

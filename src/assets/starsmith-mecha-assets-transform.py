@@ -2,7 +2,7 @@
 
 import json
 
-original_data_file="StarsmithAssets.json"
+original_data_file="StarsmithAssetsMecha.json"
 
 # Colors
 # Module (127 90 144) 7F5A90
@@ -60,9 +60,14 @@ for asset in starsmith_assets['Assets']:
     ability_1 = update_ability(asset.get('Ability1'))
     ability_2 = update_ability(asset.get('Ability2'))
     ability_3 = update_ability(asset.get('Ability3'))
+    ability = update_ability(asset.get('Ability'))
     has_clock_1 = "true" if asset_name == "Traveler" else "false"
     clock_max_1 = 6 if asset_name == "Traveler" else 4
     category = asset.get('Category')
+    ability123_string = """[{"description": "<p>%s</p>", "enabled": "true", "hasClock": "%s", "clockMax": "%s", "clockTicks": 0 }, { "description": "<p>%s</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>%s</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ]""" % (ability_1, has_clock_1, clock_max_1, ability_2, ability_3)
+    ability_string = """[{"description": "<p>%s</p>", "enabled": "true", "hasClock": "%s", "clockMax": "%s", "clockTicks": 0 } ]""" % (ability, has_clock_1, clock_max_1)
+    print(ability123_string)
+    ability_final = json.loads(ability_string) if (ability) else json.loads(ability123_string)
     color = asset.get('Color')
     track_name = asset.get('TrackLabel')
     track_max = asset.get('TrackMax')
@@ -93,9 +98,9 @@ for asset in starsmith_assets['Assets']:
         case _:
             color = '#905b0d'
 
-    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": [], "abilities": [{"description": "<p>" + ability_1 + "</p>", "enabled": "true", "hasClock": has_clock_1, "clockMax": clock_max_1, "clockTicks": 0 }, { "description": "<p>" + ability_2 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>" + ability_3 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ], "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
+    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": [], "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
 
-    file_asset = open("output/" + asset_name.lower().replace(' ', '-') + ".json", "w")
+    file_asset = open("output-mecha/" + asset_name.lower().replace(' ', '-') + ".json", "w")
 
     print(asset_foundry)
     file_asset.write(asset_foundry)

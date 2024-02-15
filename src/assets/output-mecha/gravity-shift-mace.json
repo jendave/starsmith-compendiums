@@ -1,0 +1,30 @@
+{
+    "name": "Gravity-Shift Mace",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you make a move to attack, damage or destroy by altering the gravity of your mace, choose the gravitational force before rolling: 2 g, 3 g, or 4 g.<p><p>If either challenge die is equal to or less than the gravitational force, count a strong hit as a strong hit with a match and a weak hit as a strong hit.<p><p>If both challenge dice are greater than the gravitational force and your action die is equal to or less than the gravitational force, you are put at a disadvantage or set off an unintended effect; count a weak hit as a miss.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

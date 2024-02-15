@@ -1,0 +1,30 @@
+{
+    "name": "Kinetic Hammer",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you score a hit with a @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} with this hammer, mark this module as charged.<p><p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash} with your charged hammer, you may release the stored kinetic energy. If you release the energy on a @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike}, count a miss as a weak hit. If you release the energy on a @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.723192c97fec4fe2]{Clash}, count a weak hit as a strong hit. After you resolve the move, the hammer loses its charge.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

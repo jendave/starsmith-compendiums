@@ -1,0 +1,35 @@
+{
+    "name": "Concussive Missiles",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your missile array is armed with 5 ammo. If you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} in a place where your missiles can be replenished, you may exchange any earned +supply for +ammo.<p><p>When you make a move by launching a concussive missile, suffer -1 ammo. On a hit, take +1 momentum and add +1 to your next move (not a progress move).</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Ammo",
+            "max": 5,
+            "value": 5,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Out of Ammo",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

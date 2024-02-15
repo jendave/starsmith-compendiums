@@ -1,0 +1,35 @@
+{
+    "name": "Energy Shields",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you raise your shields, roll +your mech\u2019s integrity or +wits. On a strong hit, set your shields to 4. On a weak hit, make them 3. On a miss, make them 2 but @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1).<p><p>With shields raised, if you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage}, ignore damage up to the value of your shields and suffer -1 shields. Raised shields last for a few minutes. If reduced to 0, they cannot be raised again for an hour or so.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Energy",
+            "max": 4,
+            "value": 4,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Shields Down",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

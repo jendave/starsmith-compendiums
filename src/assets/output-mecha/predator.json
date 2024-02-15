@@ -1,0 +1,49 @@
+{
+    "name": "Predator",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech",
+        "color": "#4F5A69",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you are cloaked and make a move against a specific foe or threat to avoid detection, you may preset your action die to the Predator's integrity.  If utilizing cover, make it one more (up to six).</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} while cloaked, add +1 and mark progress on a strong hit.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} while cloaked, you may roll +shadow.  If you do, choose one (before rolling):<ul><li>Strike true: Reroll any dice.</li><li>Strike hard: Mark progress on a hit.</li></ul>On a strong hit with a match, you also remain totally undetected; take +2 momentum and add +1 if your next move is a @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike}.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "true",
+            "name": "Integrity",
+            "max": 6,
+            "value": 6,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [
+            {
+                "name": "Battered",
+                "ticked": "false"
+            }
+        ],
+        "description": null
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Adaptive Subroutines",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you make a move to hack or disrupt a specific foe, threat, or secure system and miss, set aside a d6 set to a value of 1 known as an invasion die. Until the end of the scene, when you make a move to hack or disrupt the same target, add +invasion die. On a miss, increase the value of your invasion die by 1. On a hit, remove the invasion die.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

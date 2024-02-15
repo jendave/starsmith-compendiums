@@ -1,0 +1,30 @@
+{
+    "name": "Flight System",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your mech can hover mid-air, take flight in the atmosphere with the same maneuverability as a shuttle craft, travel at sub-light speeds when in space, make thrust-assisted leaps, and drop to a surface from altitude.<p><p>When you burn fuel to overcome a critical obstacle (decide after rolling), you may reroll any dice. If you do, [Sacrifice Resources](Moves/Suffer/Sacrifice_Resources) (-1).</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

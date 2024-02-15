@@ -1,0 +1,30 @@
+{
+    "name": "Omega Cannon",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you begin charging your omega cannon, set aside a d6 set to a value of 1 known as the omega die. When you have time to line up a devastating @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} with your omega cannon, you may add +omega die and mark progress on a hit a number of additional times equal to the charge/2 (rounded up). If you do, remove the omega die after resolving the @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike}.<p><p>If you make a move other than @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} while the omega cannon is charging, increase the value of the omega die by one. If the omega die is at a value of 6 when you would increase it or if the omega die increases above your mech\u2019s integrity, the cannon overloads. Suffer -2 integrity and remove the omega die.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

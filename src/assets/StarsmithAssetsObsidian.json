@@ -23,8 +23,8 @@
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
          "Color":"774b93",
          "Ability1":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) to oppose an invader within your vehicle, boost. On a strong hit, they were unprepared for your firepower. Add +1 to all moves until you roll a one on your action die.",
-         "Ability2":"You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you [Enter the Fray](Moves/Combat/Enter_the_Fray), choose your approach.\n<ul>\n<li>Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.</li>\n<li>Gain the upper hand: Add +2.</li>\n</ul>",
-         "Ability3":"You may prepare for a drawn-out battle by taking specialized ammunition. If you do, during a single combat scene only, you may reroll any action die showing a one when you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash)."
+         "Ability2":"You may prepare for engaging in combat by taking limited-use armaments from your armory. If you do, one time only, when you [Enter the Fray](Moves/Combat/Enter_the_Fray), choose your approach.\n     * Going in hot: On a hit, take +2 momentum. On a strong hit with a match, also mark progress.\n     * Gain the upper hand: Add +2.",
+         "Ability3":"You may prepare for a drawn-out battle by taking specialized ammunition. If you do, during a single combat scene only, you may reroll any action die showing a one when you [[Strike](Moves/Combat/Strike)](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash)."
       },
       {
          "Name":"Drones",
@@ -231,7 +231,7 @@
          "Color":"467cae",
          "Ability1":"When you take this asset, declare an oppressive faction that you are actively working against. When you [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice. When you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow) and score a hit, also mark 2 ticks on your bonds legacy track.",
          "Ability2":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) by sabotaging the equipment or resources of that faction, boost.",
-         "Ability3":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) against forces of that faction, you may choose an approach.\n<ul>\n<li>Call them out: Roll +heart and add +2.</li>\n<li>Make them pay: Roll +iron and mark progress on a hit.</li>\n</ul>",
+         "Ability3":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) against forces of that faction, you may choose an approach.\n     * Call them out: Roll +heart and add +2.\n     * Make them pay: Roll +iron and mark progress on a hit.",
          "Input":"Faction"
       },
       {
@@ -410,10 +410,10 @@
          "Date":"March 9, 2023",
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
          "Color":"469a46",
-         "Ability1":"You no longer benefit from [Heal](Moves/Recover/Heal). Instead, you must [Repair](Moves/Recover/Repair) to regain health as a mechanical companion would. Also, add the following options to spend repair points\n<ul>\n<li>Clear wounded: 2 points</li>\n<li>Clear permanently harmed: 4 points</li>\n</ul>",
+         "Ability1":"You no longer benefit from [Heal](Moves/Recover/Heal). Instead, you must [Repair](Moves/Recover/Repair) to regain health as a mechanical companion would. Also, add the following options to spend repair points\n     * Clear wounded: 2 points\n     * Clear permanently harmed: 4 points",
          "Ability2":"Your command vehicle can store a copy of your consciousness. When you take several hours, you may update your back-up. You may also selectively erase memories with this process. If you do, [Endure Stress](Moves/Suffer/Endure_Stress) (-2).",
          "Ability3":"Your command vehicle houses a simulacrum printer. When you die, a subspace signal stops pinging your ship. If your ship survives and detects the signal loss, its systems will automatically take a day or so to install your saved consciousness into a new body.",
-         "Foreword":"Once you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow) (rank\nextreme or epic) to transfer your consciousness to an artificial body..."
+         "Foreword":"Once you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow) (rank\nextreme or epic) to transfer your consciousness to an artificial body…"
       },
       {
          "Name":"Indefatigable",
@@ -425,9 +425,9 @@
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
          "Color":"469a46",
          "Ability1":"When you use your status as a rough and tough survivor to [Compel](Moves/Adventure/Compel) people who know of your previous ship's destruction, boost.",
-         "Ability2":"When you [Sojourn](Moves/Recover/Sojourn) and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n<ul>\n<li>Revel in your tenacity: Take +2 momentum.</li>\n<li>Leverage your status: [Gather Information](Moves/Adventure/Gather_Information) +heart (instead of +wits).</li>\n</ul>",
+         "Ability2":"When you [Sojourn](Moves/Recover/Sojourn) and score a hit, you may regale the local community with the story of how you lost your previous ship. If you do, choose one:\n     * Revel in your tenacity: Take +2 momentum.\n     * Leverage your status: [Gather Information](Moves/Adventure/Gather_Information) +heart (instead of +wits).",
          "Ability3":"When you [Withstand Damage](Moves/Suffer/Withstand_Damage), roll with advantage. Then, if you score a strong hit and choose to ride it out, take +2 momentum (instead of +1).",
-         "Foreword":"Once you have cleared indebted..."
+         "Foreword":"Once you have cleared indebted…"
       },
       {
          "Name":"Soulless",
@@ -441,7 +441,7 @@
          "Ability1":"When you are at 0 spirit and [Endure Stress](Moves/Suffer/Endure_Stress) or [Face Desolation](Moves/Threshold/Face_Desolation), add +1. You may then reroll your action die if its value is less than your health.",
          "Ability2":"When you [Compel](Moves/Adventure/Compel) someone to act against their will or to their own detriment, you may burn momentum to zero out one (not both) of the challenge dice if your momentum is greater than the value of that die. If you do, erase one tick from your bonds legacy track.",
          "Ability3":"When you [Gather Information](Moves/Adventure/Gather_Information) by studying a place where suffering or torment left its mark, you may confront the visceral nature of the scene and roll +iron. If you do, take +1 momentum on a hit. On a strong hit with a match, you experience an insightful vision or disturbing revelation of what occurred here. Take +1 momentum more.",
-         "Foreword":"Once you [Face Desolation](Moves/Threshold/Face_Desolation)..."
+         "Foreword":"Once you [Face Desolation](Moves/Threshold/Face_Desolation)…"
       },
       {
          "Name":"Traveler",
@@ -455,10 +455,407 @@
          "Ability1":"When you overcome a miss by shuffling through realities and calling forth one where you succeed, improve the result to a strong hit. Then, fill one segment of a six-segment clock representing stress on reality. When the clock is filled, a localized crack in the multiverse forms. Envision the dire consequences and reset the clock.",
          "Ability2":"When you search the timeline for possible futures, enact the first ability of the Seer path asset.",
          "Ability3":"When you create a link to the current point in time, enact the second ability on the Looper path asset but add options for the time gap of +1 if weeks, +0 if months, and -1 if years.",
-         "Foreword":"Once you have returned from an alternate reality or timeline touched by the chaotic energy of the multiverse...",
+         "Foreword":"Once you have returned from an alternate reality or timeline touched by the chaotic energy of the multiverse…",
          "TrackLabel":"Damage",
          "TrackMax":6,
          "TrackCondition":"Temporal Rift"
+      },
+      {
+         "Name":"Mech Printer",
+         "Category":"Module",
+         "Filename":"Module/Mech_Printer",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Color":"774b93",
+         "Ability1":"Your starship carries a specialized 3D printer for building mechs.  When you have time and resources to spend, you may spend three experience points or four wealth to print a mech chassis of your choice.",
+         "Ability2":"Your printer can now print modules for your mech.  When you have time and resources to spend, you may spend two experience points or three wealth to print and attach a mech module of your choice.",
+         "Ability3":"After printing a mech, maintaining it, adding modules to it, and surviving a significant battle with it, you may name the mech.  If you do, mark it as your primary mech.  When you [Withstand Damage](Moves/Suffer/Withstand_Damage) in your primary mech, you may roll +heart.  If you do, [Endure Stress](Moves/Suffer/Endure_Stress) (-1) on a weak hit or miss."
+      },
+      {
+         "Name":"Wealth Management",
+         "Category":"Path",
+         "Filename":"Path/Wealth_Management",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Color":"467cae",
+         "Ability1":"When you [Swear an Iron Vow](Moves/Quest/Swear_an_Iron_Vow) to complete a job for payment, reroll any dice.  When you [Fulfill Your Vow](Moves/Quest/Fulfill_Your_Vow), take +wealth equal to the rank of the vow.  If you leverage wealth on a move, add +wealth and suffer -1 wealth.  Additionally, you may suffer -6 wealth to clear the Indebted burden or to make a game-changing investment.",
+         "Ability2":"When in a place you can [Resupply](Moves/Recover/Resupply), you may either suffer -2 wealth and take +1 supply or suffer -2 supply and take +1 wealth.",
+         "Ability3":"When you search a wreck, ruin, or abandoned site for something of monetary value, roll +wits twice and keep the lower action die value.  On a hit, take +1 wealth.  On a strong hit, make it +2.",
+         "TrackLabel":"Wealth",
+         "TrackMax":6
+      },
+      {
+         "Name":"Medusa",
+         "Category":"Mech",
+         "Filename":"Mech/Medusa",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Color":"6465a4",
+         "Ability1":"When you make a move to disrtupt or hack a specific foe, threat or secure system, add +1 and take +1 momentum on a hit.",
+         "Ability2":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gather Information](Moves/Adventure/Gather_Information) by scanning your surroundings or analyzing a nearby object, choose one (before rolling) and take +1 momentum on a hit.\n  * Manual scan: Add +1.\n  * Automated scan: Preset your action die to the Medusa's integrity.",
+         "Ability3":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) against an ambush, or [Face Danger](Moves/Adventure/Face_Danger) to detect a hidden threat, you may roll +integrity.  If you do, reroll any dice and take +1 momentum on a hit.",
+         "TrackLabel":"Integrity",
+         "TrackMax":6,
+         "TrackCondition":"Battered",
+         "Input":"Name"
+      },
+      {
+         "Name":"Predator",
+         "Category":"Mech",
+         "Filename":"Mech/Predator",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Color":"526b3f",
+         "Ability1":"When you are cloaked and make a move against a specific foe or threat to avoid detection, you may preset your action die to the Predator's integrity.  If utilizing cover, make it one more (up to six).",
+         "Ability2":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) while cloaked, add +1 and mark progress on a strong hit.",
+         "Ability3":"When you [Strike](Moves/Combat/Strike) while cloaked, you may roll +shadow.  If you do, choose one (before rolling):\n  * Strike true: Reroll any dice.\n  * Strike hard: Mark progress on a hit.\nOn a strong hit with a match, you also remain totally undetected; take +2 momentum and add +1 if your next move is a [Strike](Moves/Combat/Strike).",
+         "TrackLabel":"Integrity",
+         "TrackMax":6,
+         "TrackCondition":"Battered",
+         "Input":"Name"
+      },
+      {
+         "Name":"Gladiator",
+         "Category":"Mech",
+         "Filename":"Mech/Gladiator",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Color":"62281c",
+         "Ability1":"When you [Face Danger](Moves/Adventure/Face_Danger) or [React Under Fire](Moves/Combat/React_Under_Fire) by taking a hit or crashing through an obstacle, you may (after rolling) replace the value of your action die with the Gladiator's integrity; if you do, [Lose Momentum](Moves/Suffer/Lose_Momentum) (-1).",
+         "Ability2":"When you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with brutal power by overcharging weapons or overloading melee servos, you may add +integrity/2 (rounded up).  If you do, count a weak hit as a miss.",
+         "Ability3":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) using the staggering strength or resistance of the Gladiator, add +1 and take +1 momentum on a hit.",
+         "TrackLabel":"Integrity",
+         "TrackMax":6,
+         "TrackCondition":"Battered",
+         "Input":"Name"
+      },
+      {
+         "Name":"Zephyr",
+         "Category":"Mech",
+         "Filename":"Mech/Zephyr",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Color":"35577d",
+         "Ability1":"When you [Face Danger](Moves/Adventure/Face_Danger) or [React Under Fire](Moves/Combat/React_Under_Fire) to navigate through hazardous skies, avoid obstacles, or evade an attack, add +1 and take +1 momentum on a hit.",
+         "Ability2":"When you [Enter the Fray](Moves/Combat/Enter_the_Fray) by speeding towards a strategic position, you may reroll any dice.  On a strong hit, add +1 to your next move.",
+         "Ability3":"When you fire your afterburner to [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) to perform a risky maneuver, you may add +integrity/2 (rounded up) and take +2 momentum on a strong hit.  If you do, count a weak hit as a miss.",
+         "TrackLabel":"Integrity",
+         "TrackMax":6,
+         "TrackCondition":"Battered",
+         "Input":"Name"
+      },
+      {
+         "Name":"Concussive Missiles",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Concussive_Missiles",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your missile array is armed with 5 ammo. If you [Resupply](Moves/Recover/Resupply) in a place where your missiles can be replenished, you may exchange any earned +supply for +ammo.\n\nWhen you make a move by launching a concussive missile, suffer -1 ammo. On a hit, take +1 momentum and add +1 to your next move (not a progress move).",
+         "TrackLabel":"Ammo",
+         "TrackMax":5,
+         "TrackCondition":"Out of Ammo"
+      },
+      {
+         "Name":"Energy Whip",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Energy_Whip",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech wields a chain whip that can be charged with ionized particles. When you charge your whip, roll +iron. On a hit, take up to +3 energy. On a weak hit, take up to +2. On a miss, take up to +2 but suffer -1 integrity. The whip’s max energy is 3. When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 energy.",
+         "TrackLabel":"Energy",
+         "TrackMax":3,
+         "TrackCondition":"Out of Energy"
+      },
+      {
+         "Name":"Gatling Gun",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Gatling_Gun",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by laying down suppression fire and score a hit, add an additional +1 to your next move or take an additional +1 momentum. When you [Strike](Moves/Combat/Strike) with a hail of bullets (decide before rolling), mark an additional progress on a hit but [Lose Momentum](Moves/Suffer/Lose_Momentum) (-1)."
+      },
+      {
+         "Name":"Gravity-Shift Mace",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Gravity-Shift_Mace",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you make a move to attack, damage or destroy by altering the gravity of your mace, choose the gravitational force before rolling: 2 g, 3 g, or 4 g.\n\nIf either challenge die is equal to or less than the gravitational force, count a strong hit as a strong hit with a match and a weak hit as a strong hit.\n\nIf both challenge dice are greater than the gravitational force and your action die is equal to or less than the gravitational force, you are put at a disadvantage or set off an unintended effect; count a weak hit as a miss."
+      },
+      {
+         "Name":"Kinetic Hammer",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Kinetic_Hammer",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you score a hit with a [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with this hammer, mark this module as charged.\n\nWhen you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with your charged hammer, you may release the stored kinetic energy. If you release the energy on a [Strike](Moves/Combat/Strike), count a miss as a weak hit. If you release the energy on a [Clash](Moves/Combat/Clash), count a weak hit as a strong hit. After you resolve the move, the hammer loses its charge."
+      },
+      {
+         "Name":"Nanocarbon Blade",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Nanocarbon_Blade",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) in close quarters, add +1. On a strong hit with a match, you are unstoppable; mark progress."
+      },
+      {
+         "Name":"Omega Cannon",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Omega_Cannon",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you begin charging your omega cannon, set aside a d6 set to a value of 1 known as the omega die. When you have time to line up a devastating [Strike](Moves/Combat/Strike) with your omega cannon, you may add +omega die and mark progress on a hit a number of additional times equal to the charge/2 (rounded up). If you do, remove the omega die after resolving the [Strike](Moves/Combat/Strike).\n\nIf you make a move other than [Strike](Moves/Combat/Strike) while the omega cannon is charging, increase the value of the omega die by one. If the omega die is at a value of 6 when you would increase it or if the omega die increases above your mech’s integrity, the cannon overloads. Suffer -2 integrity and remove the omega die."
+      },
+      {
+         "Name":"Smart Missiles",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Smart Missiles",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your missile array is armed with 5 ammo. If you [Resupply](Moves/Recover/Resupply) in a place where your missiles can be replenished, you may exchange any earned +supply for +ammo.\n\nWhen you make a move by launching a smart missile, suffer -1 ammo and roll +wits as the on-board targeting systems take over.",
+         "TrackLabel":"Ammo",
+         "TrackMax":5,
+         "TrackCondition":"Out of Ammo"
+      },
+      {
+         "Name":"Sniper Rail Gun",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Sniper_Rail_Gun",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you have time to line up a shot and [Strike](Moves/Combat/Strike) from a distance with your sniper rail gun, choose one (before rolling).\n  * Body shot: Add +1 and take +1 momentum on a hit.\n  * Head shot: Mark progress on a hit.\n\nWhen you are hidden and score a hit with this weapon, you may remain hidden from that foe."
+      },
+      {
+         "Name":"Deployable Cover",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Deployable_Cover",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Aid Your Ally](Moves/Adventure/Aid_Your_Ally), [Face Danger](Moves/Adventure/Face_Danger), or [React Under Fire](Moves/Combat/React_Under_Fire) by extending interlocking plates as cover for a friend, companion, or ally, add +1 and take +1 momentum. If your action die shows a 1, mark this module as broken."
+      },
+      {
+         "Name":"Energy Shields",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Energy_Shields",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you raise your shields, roll +your mech’s integrity or +wits. On a strong hit, set your shields to 4. On a weak hit, make them 3. On a miss, make them 2 but [Lose Momentum](Moves/Suffer/Lose_Momentum) (-1).\n\nWith shields raised, if you [Withstand Damage](Moves/Suffer/Withstand_Damage), ignore damage up to the value of your shields and suffer -1 shields. Raised shields last for a few minutes. If reduced to 0, they cannot be raised again for an hour or so.",
+         "TrackLabel":"Energy",
+         "TrackMax":4,
+         "TrackCondition":"Shields Down"
+      },
+      {
+         "Name":"Heavy Armor",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Heavy_Armor",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Withstand Damage](Moves/Suffer/Withstand_Damage), you may reroll one challenge die."
+      },
+      {
+         "Name":"Inertial Dampeners",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Inertial Dampeners",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Withstand Damage](Moves/Suffer/Withstand_Damage), add +1. On a strong hit, take +1 momentum."
+      },
+      {
+         "Name":"Reactive Shields",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Reactive_Shields",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Withstand Damage](Moves/Suffer/Withstand_Damage) in a fight from close combat with a foe or threat and score a strong hit, mark progress as your armor lashes out at your foe with destructive energy."
+      },
+      {
+         "Name":"Adaptive Subroutines",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Adaptive_Subroutines",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you make a move to hack or disrupt a specific foe, threat, or secure system and miss, set aside a d6 set to a value of 1 known as an invasion die. Until the end of the scene, when you make a move to hack or disrupt the same target, add +invasion die. On a miss, increase the value of your invasion die by 1. On a hit, remove the invasion die."
+      },
+      {
+         "Name":"Countermeasures",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Countermeasures",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your countermeasure array is armed with 3 chaff. If you [Resupply](Moves/Recover/Resupply) in a place where your countermeasures can be replenished, you may exchange any earned +supply for +chaff.\n\nWhen a threat attacks while they have a sensor lock on you and you React Under Fire, you may fire chaff in an attempt to throw off their targeting matrix. If you do, suffer -1 chaff and treat a weak hit as a strong hit.",
+         "TrackLabel":"Chaff",
+         "TrackMax":3,
+         "TrackCondition":"Out of Chaff"
+      },
+      {
+         "Name":"Puppet Protocol",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Puppet_Protocol",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech has aggressive viral coding allowing you to attempt controlling another mech. When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) by controlling another mech, add +1. On a strong hit, you may [Strike](Moves/Combat/Strike) +wits (one time) by directing the enemy mech to attack on your behalf."
+      },
+      {
+         "Name":"Sensor Lock",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Sensor_Lock",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"You can [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by taking the time to lock your sensors on a target. If you do and score a strong hit, for the rest of the scene, add +1 any time you make a move leveraging that sensor lock. The sensor lock is lost when you roll a 1 on the action die on any move against the target. On a weak hit, the same as above but the sensor lock is lost when you roll a 1, 2, or 3 on the action die on any move against the target. You may only have a sensor lock on one target at a time."
+      },
+      {
+         "Name":"Silent Running",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Silent_Running",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you make a move against a specific foe or threat to avoid detection, add +1 and take +1 momentum on a hit."
+      },
+      {
+         "Name":"Arachnos Arms",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Arachnos Arms",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech has additional limbs with some that are capable of finer manipulations and some that are meant for entangling foes. Envision how many limbs and their configuration. When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) by attempting to disarm, trip, shove, grapple, or remove a module from an enemy mech, add +1 and take +1 momentum on a hit."
+      },
+      {
+         "Name":"Drones",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Drones",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech can release a small swarm of drones which function as the Combat Bot asset with only the first ability unlocked and 3 integrity. You must [Repair](Moves/Recover/Repair) damaged drones as with a normal mechanical companion.",
+         "TrackLabel":"Integrity",
+         "TrackMax":3,
+         "TrackCondition":"Broken"
+      },
+      {
+         "Name":"Emergency Repair Nanites",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Emergency_Repair_Nanites",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Once per fight, you can [Repair](Moves/Recover/Repair) by releasing a nanite swarm that reinforces and repairs your armor. If you do, add +1 and treat your result as if you were \"In the field\" instead of \"Under fire.\" On a hit, add \"Take +2 momentum: 1 point\" to your list of options."
+      },
+      {
+         "Name":"EVA Module",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/EVA_Module",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech is equipped with maneuvering thrusters and pressurized for activity in space or underwater."
+      },
+      {
+         "Name":"Flight System",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Flight_System",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech can hover mid-air, take flight in the atmosphere with the same maneuverability as a shuttle craft, travel at sub-light speeds when in space, make thrust-assisted leaps, and drop to a surface from altitude.\n\nWhen you burn fuel to overcome a critical obstacle (decide after rolling), you may reroll any dice. If you do, [Sacrifice Resources](Moves/Suffer/Sacrifice_Resources) (-1)."
+      },
+      {
+         "Name":"Gel Charges",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Gel_Charges",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech carries 3 explosive gel packs that can be launched from a ranged weapon designed to take out structural supports. If you [Resupply](Moves/Recover/Resupply) in a place where these specialized explosives can be replenished, you may exchange any earned +supply for +gel pack.\n\nWhen you make a move to attack, damage, destroy, or sabotage an object or structure by firing a gel charge, suffer -1 gel pack and roll +edge if you fire it from your weapon or roll +wits if you have time to place it manually. When you roll, roll the action die twice and keep the greater value. Then, if your action die alone is greater than both challenge dice, treat it as a strong hit with a match. If your action die alone is greater than one of the challenge dice, treat it as a strong hit.",
+         "TrackLabel":"Charges",
+         "TrackMax":3,
+         "TrackCondition":"Out of Charges"
+      },
+      {
+         "Name":"Grapple Gun",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Grapple_Gun",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech can [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by firing a magnetically charged anchor and tether. On a hit, the grapple finds its target. When you may make a move leveraging this tether, add +1 and take +1 momentum on a hit. The grapple stays anchored until you score a miss on a move leveraging it or you take the time to detach it from your frame. Only one such grapple can be attached at a time."
+      },
+      {
+         "Name":"Radioactive Core",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Radioactive_Core",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"When you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) in close quarters while your mech has 2 or less integrity, you may vent radiation from your core (decide before rolling). If you do, mark (an additional) progress on a hit but suffer -1 health on a miss."
+      },
+      {
+         "Name":"Ram Jets",
+         "Category":"Mech_Module",
+         "Filename":"Mech_Module/Ram_Jets",
+         "Source":"Starsmith: Mecha Mercs",
+         "Author":"Eric Bright",
+         "Date":"March 9, 2023",
+         "License":"https://creativecommons.org/licenses/by-sa/4.0/",
+         "Ability":"Your mech is equipped with a reinforced ramming surface and a short-burst hyper-acceleration jet.\n\nWhen you [Strike](Moves/Combat/Strike) or [Gain Ground](Moves/Combat/Gain_Ground) by ramming a foe or obstacle at jet speed, you may roll +integrity. If you do, take +1 momentum on a hit. No matter the result, if the lowest challenge die is greater than your integrity, suffer -1 integrity."
       }
    ]
 }

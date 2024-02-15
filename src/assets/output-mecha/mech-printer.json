@@ -1,0 +1,44 @@
+{
+    "name": "Mech Printer",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Module",
+        "color": "#7F5A90",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>Your starship carries a specialized 3D printer for building mechs.  When you have time and resources to spend, you may spend three experience points or four wealth to print a mech chassis of your choice.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>Your printer can now print modules for your mech.  When you have time and resources to spend, you may spend two experience points or three wealth to print and attach a mech module of your choice.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            },
+            {
+                "description": "<p>After printing a mech, maintaining it, adding modules to it, and surviving a significant battle with it, you may name the mech.  If you do, mark it as your primary mech.  When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage} in your primary mech, you may roll +heart.  If you do, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1) on a weak hit or miss.</p>",
+                "enabled": "false",
+                "hasClock": "false",
+                "clockMax": 4,
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "name": "Deployable Cover",
+    "type": "asset",
+    "img": "icons/svg/item-bag.svg",
+    "system": {
+        "requirement": "",
+        "category": "Mech Module",
+        "color": "#883529",
+        "fields": [],
+        "abilities": [
+            {
+                "description": "<p>When you [Aid Your Ally](Moves/Adventure/Aid_Your_Ally), @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger}, or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Fire} by extending interlocking plates as cover for a friend, companion, or ally, add +1 and take +1 momentum. If your action die shows a 1, mark this module as broken.</p>",
+                "enabled": "true",
+                "hasClock": "false",
+                "clockMax": "4",
+                "clockTicks": 0
+            }
+        ],
+        "track": {
+            "enabled": "false",
+            "name": null,
+            "max": null,
+            "value": null,
+            "min": 0
+        },
+        "exclusiveOptions": [],
+        "conditions": [],
+        "description": null
+    }
+}
