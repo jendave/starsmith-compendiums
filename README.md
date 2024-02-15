@@ -30,10 +30,12 @@ https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/m
 ```
 
 # Tabletop Integration
-By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. 
+By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet.
+
 ![Character Sheet - Oracles Tree](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
-If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings. 
+If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings.
+
 ![Module Game Settings](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/module-game-settings.jpg?raw=true)
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
