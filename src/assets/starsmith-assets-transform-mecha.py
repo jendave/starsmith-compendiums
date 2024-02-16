@@ -14,6 +14,7 @@ def update_ability(ability):
     if ability is None:
         return None
     ability_updated = ability
+    ability_updated = ability_updated.replace("[Aid Your Ally](Moves/Adventure/Aid_Your_Ally)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.f4dec946415d8e57]{Aid Your Ally}")
     ability_updated = ability_updated.replace("[Resupply](Moves/Recover/Resupply)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply}")
     ability_updated = ability_updated.replace("[Enter the Fray](Moves/Combat/Enter_the_Fray)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}")
     ability_updated = ability_updated.replace("[Undertake an Expedition](Moves/Exploration/Undertake_an_Expedition)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}")
@@ -99,7 +100,7 @@ for asset in starsmith_assets['Assets']:
             track_value = 6
         else:
             track_value = 5
-    track_value = None if asset_name == "Wealth Management" else track_value
+    track_value = None if asset_name == "Wealth Management" or asset_name ==  "Energy Shields" else track_value
     track_condition_temp = asset.get('TrackCondition')
     track_condition_string = """[{ "name" : "%s", "ticked" : "false"}]""" % (track_condition_temp) if (track_condition_temp is not None and asset_name != "Traveler") else None
     print("track_condition_string: %s" % (track_condition_string))
