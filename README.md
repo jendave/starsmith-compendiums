@@ -16,9 +16,11 @@ FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by
 * Oracles and Assets from the PDFs are included.
   * [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
   * [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets)
+  * [Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs)
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 * Assets can be imported and used on the character sheet.
+* Truths can be imported into the Journal tab.
 
 # Module Installation
 To install the module, search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of of the Foundry VTT game setup screen. Then click on `Install`.
@@ -55,16 +57,17 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
   * The Oracles will be available in the Character sheet under `Custom Oracles`.
     * ![Character Sheet - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
-* Use the following method to integrate the Starsmith Assets into the character sheet.
+* Use the following method to integrate the Starsmith Assets and Starsmith Mecha Mercs Assets into the character sheet.
   * Create a `Custom Assets` folder in the `Items` tab called:
     * `Custom Assets` - EN
     * `Recursos Personalizados` - ES
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
-  * Open the `Starsmith Assets` compendium and copy the Items into the `Items` `Custom Assets` folder.
+  * Open the `Starsmith Assets` and the `Starsmith Mecha Mercs Assets` compendiums and copy the Items into the `Items` `Custom Assets` folder.
     * ![Items - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
     * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
+  * Copy the Journal entries from the `Starsmith Mecha Mercs Truths` compendium to the `Journal` tab.
 
 # Troubleshooting
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
@@ -73,6 +76,8 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
 [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
+[Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://preview.drivethrurpg.com/en/product/391653/ironsworn-starforged) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
