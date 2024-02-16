@@ -39,6 +39,20 @@
       "path": "./packs/starsmith-assets",
       "type": "Item",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithmechaassets",
+      "label": "Starsmith Mecha Mercs Assets",
+      "path": "./packs/starsmith-mecha-mercs-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithmechatruths",
+      "label": "Starsmith Mecha Mercs Truths",
+      "path": "./packs/starsmith-mecha-mercs-assets",
+      "type": "Item",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -47,7 +61,9 @@
       "packs": [
         "starsmithexpandedoracles",
         "starsmithexpandedoraclesmacros",
-        "starsmithassets"
+        "starsmithassets",
+        "starsmithmechaassets",
+        "starsmithmechatruths"
       ]
     }
   ],
