@@ -9,7 +9,7 @@
         "fields": [],
         "abilities": [
             {
-                "description": "<p>Your mech can hover mid-air, take flight in the atmosphere with the same maneuverability as a shuttle craft, travel at sub-light speeds when in space, make thrust-assisted leaps, and drop to a surface from altitude.<p><p>When you burn fuel to overcome a critical obstacle (decide after rolling), you may reroll any dice. If you do, [Sacrifice Resources](Moves/Suffer/Sacrifice_Resources) (-1).</p>",
+                "description": "<p>Your mech can hover mid-air, take flight in the atmosphere with the same maneuverability as a shuttle craft, travel at sub-light speeds when in space, make thrust-assisted leaps, and drop to a surface from altitude.<p><p>When you burn fuel to overcome a critical obstacle (decide after rolling), you may reroll any dice. If you do, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",

@@ -15,6 +15,7 @@ def update_ability(ability):
         return None
     ability_updated = ability
     ability_updated = ability_updated.replace("[Aid Your Ally](Moves/Adventure/Aid_Your_Ally)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.f4dec946415d8e57]{Aid Your Ally}")
+    ability_updated = ability_updated.replace("[Sacrifice Resources](Moves/Suffer/Sacrifice_Resources)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources}")
     ability_updated = ability_updated.replace("[Resupply](Moves/Recover/Resupply)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply}")
     ability_updated = ability_updated.replace("[Enter the Fray](Moves/Combat/Enter_the_Fray)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray}")
     ability_updated = ability_updated.replace("[Undertake an Expedition](Moves/Exploration/Undertake_an_Expedition)", "@UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}")
