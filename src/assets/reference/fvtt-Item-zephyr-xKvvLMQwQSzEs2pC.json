@@ -1,0 +1,100 @@
+{
+  "type": "asset",
+  "folder": "5yvSVrZRfpcgN0JV",
+  "name": "Zephyr",
+  "system": {
+    "requirement": "",
+    "category": "Mech",
+    "color": "#4F5A69",
+    "fields": [
+      {
+        "name": "Name",
+        "value": ""
+      },
+      {
+        "name": "Edge",
+        "value": ""
+      },
+      {
+        "name": "Iron",
+        "value": ""
+      },
+      {
+        "name": "Shadow",
+        "value": ""
+      },
+      {
+        "name": "Wits",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Fire} to navigate through hazardous skies, avoid obstacles, or evade an attack, add +1 and take +1 momentum on a hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} by speeding towards a strategic position, you may reroll any dice.  On a strong hit, add +1 to your next move.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you fire your afterburner to @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} to perform a risky maneuver, you may add +integrity/2 (rounded up) and take +2 momentum on a strong hit.  If you do, count a weak hit as a miss.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Integrity",
+      "max": 6,
+      "value": 5,
+      "min": 0
+    },
+    "exclusiveOptions": [
+      {
+        "name": "Favored Stat: Edge",
+        "selected": false
+      },
+      {
+        "name": "Starting Module: Flight System",
+        "selected": true
+      }
+    ],
+    "conditions": [
+      {
+        "name": "Battered",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "icons/svg/item-bag.svg",
+  "effects": [],
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": true
+    },
+    "exportSource": {
+      "world": "starforged-development",
+      "system": "foundry-ironsworn",
+      "coreVersion": "11.315",
+      "systemVersion": "1.22.11"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": null,
+    "modifiedTime": 1708061380595,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  }
+}

@@ -66,12 +66,20 @@ for asset in starsmith_assets['Assets']:
     category = asset.get('Category')
     ability123_string = """[{"description": "<p>%s</p>", "enabled": "true", "hasClock": "%s", "clockMax": "%s", "clockTicks": 0 }, { "description": "<p>%s</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>%s</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ]""" % (ability_1, has_clock_1, clock_max_1, ability_2, ability_3)
     ability_string = """[{"description": "<p>%s</p>", "enabled": "true", "hasClock": "%s", "clockMax": "%s", "clockTicks": 0 } ]""" % (ability, has_clock_1, clock_max_1)
-    print(ability123_string)
+    # print(ability123_string)
     ability_final = json.loads(ability_string) if (ability) else json.loads(ability123_string)
+    fields_mech = """[{"name": "Name", "value": "" }, { "name": "Edge", "value": "" }, { "name": "Iron", "value": ""},{"name": "Shadow","value": ""}, {"name": "Wits","value": ""}]"""
+    fields_other = """[]"""
+    fields = json.loads(fields_mech) if category == "Mech" else json.loads(fields_other)
     color = asset.get('Color')
     track_name = asset.get('TrackLabel')
     track_max = asset.get('TrackMax')
     track_value = 0 if asset_name == "Holodeck" else track_max
+    if category == "Mech":
+        if asset_name == "Gladiator":
+            track_value = 6
+        else:
+            track_value = 5
     track_value = None if asset_name == "Wealth Management" else track_value
     track_condition_temp = asset.get('TrackCondition')
     track_condition_string = """[{ "name" : "%s", "ticked" : "false"}]""" % (track_condition_temp) if (track_condition_temp is not None and asset_name != "Traveler") else None
