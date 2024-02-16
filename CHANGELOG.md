@@ -1,5 +1,11 @@
 # Changelog
 
+### [2.1.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-17)
+
+* Added [Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs)
+  * New assets and truths
+  * New compendiums
+
 ### [2.0.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-14)
 
 * Added [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets).
