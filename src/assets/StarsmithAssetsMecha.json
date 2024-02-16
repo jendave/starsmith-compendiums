@@ -150,7 +150,8 @@
          "Author":"Eric Bright",
          "Date":"March 9, 2023",
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
-         "Ability":"When you score a hit with a [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with this hammer, mark this module as charged.<p><p>When you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with your charged hammer, you may release the stored kinetic energy. If you release the energy on a [Strike](Moves/Combat/Strike), count a miss as a weak hit. If you release the energy on a [Clash](Moves/Combat/Clash), count a weak hit as a strong hit. After you resolve the move, the hammer loses its charge."
+         "Ability":"When you score a hit with a [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with this hammer, mark this module as charged.<p><p>When you [Strike](Moves/Combat/Strike) or [Clash](Moves/Combat/Clash) with your charged hammer, you may release the stored kinetic energy. If you release the energy on a [Strike](Moves/Combat/Strike), count a miss as a weak hit. If you release the energy on a [Clash](Moves/Combat/Clash), count a weak hit as a strong hit. After you resolve the move, the hammer loses its charge.",
+         "TrackCondition":"Charged"
       },
       {
          "Name":"Nanocarbon Blade",

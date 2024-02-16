@@ -24,7 +24,12 @@
             "min": 0
         },
         "exclusiveOptions": [],
-        "conditions": [],
+        "conditions": [
+            {
+                "name": "Charged",
+                "ticked": "false"
+            }
+        ],
         "description": null
     }
 }
