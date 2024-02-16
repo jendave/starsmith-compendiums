@@ -66,13 +66,15 @@ for asset in starsmith_assets['Assets']:
     has_clock_1 = "true" if asset_name == "Traveler" else "false"
     clock_max_1 = 6 if asset_name == "Traveler" else 4
     category = asset.get('Category')
+    if category == "Mech":
+        category = "Mech Chassis"
     ability123_string = """[{"description": "<p>%s</p>", "enabled": "true", "hasClock": "%s", "clockMax": "%s", "clockTicks": 0 }, { "description": "<p>%s</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>%s</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ]""" % (ability_1, has_clock_1, clock_max_1, ability_2, ability_3)
     ability_string = """[{"description": "<p>%s</p>", "enabled": "true", "hasClock": "%s", "clockMax": "%s", "clockTicks": 0 } ]""" % (ability, has_clock_1, clock_max_1)
     # print(ability123_string)
     ability_final = json.loads(ability_string) if (ability) else json.loads(ability123_string)
     fields_mech = """[{"name": "Name", "value": "" }, { "name": "Edge", "value": "" }, { "name": "Iron", "value": ""},{"name": "Shadow","value": ""}, {"name": "Wits","value": ""}]"""
     fields_other = """[]"""
-    fields = json.loads(fields_mech) if category == "Mech" else json.loads(fields_other)
+    fields = json.loads(fields_mech) if category == "Mech Chassis" else json.loads(fields_other)
 
     favored_stat = ""
     starting_module = ""
@@ -91,12 +93,12 @@ for asset in starsmith_assets['Assets']:
     
     exclusive_options_mech = """[{"name": "Starting Module: %s","selected": false},{"name": "Favored Stat: %s","selected": false}]""" % (starting_module, favored_stat)
     exclusive_options_other = """[]"""
-    exclusive_options = json.loads(exclusive_options_mech) if category == "Mech" else json.loads(exclusive_options_other)
+    exclusive_options = json.loads(exclusive_options_mech) if category == "Mech Chassis" else json.loads(exclusive_options_other)
     color = asset.get('Color')
     track_name = asset.get('TrackLabel')
     track_max = asset.get('TrackMax')
     track_value = 0 if asset_name == "Holodeck" else track_max
-    if category == "Mech":
+    if category == "Mech Chassis":
         if asset_name == "Gladiator":
             track_value = 6
         else:
@@ -121,7 +123,7 @@ for asset in starsmith_assets['Assets']:
             color = '#3D8B8A'
         case 'Deed':
             color = '#40834F'
-        case 'Mech':
+        case 'Mech Chassis':
             color = '#4F5A69'
         case 'Mech Module':
             color = '#883529'
