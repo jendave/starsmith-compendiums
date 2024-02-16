@@ -107,7 +107,7 @@ for asset in starsmith_assets['Assets']:
         case _:
             color = '#905b0d'
 
-    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": [], "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
+    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": fields, "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
 
     file_asset = open("output-mecha/" + asset_name.lower().replace(' ', '-') + ".json", "w")
 

@@ -6,7 +6,28 @@
         "requirement": "",
         "category": "Mech",
         "color": "#4F5A69",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Edge",
+                "value": ""
+            },
+            {
+                "name": "Iron",
+                "value": ""
+            },
+            {
+                "name": "Shadow",
+                "value": ""
+            },
+            {
+                "name": "Wits",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>When you make a move to disrtupt or hack a specific foe, threat or secure system, add +1 and take +1 momentum on a hit.</p>",

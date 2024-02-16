@@ -6,7 +6,28 @@
         "requirement": "",
         "category": "Mech",
         "color": "#4F5A69",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Edge",
+                "value": ""
+            },
+            {
+                "name": "Iron",
+                "value": ""
+            },
+            {
+                "name": "Shadow",
+                "value": ""
+            },
+            {
+                "name": "Wits",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Fire} by taking a hit or crashing through an obstacle, you may (after rolling) replace the value of your action die with the Gladiator's integrity; if you do, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.93d2d69b7e2b85e1]{Lose Momentum} (-1).</p>",

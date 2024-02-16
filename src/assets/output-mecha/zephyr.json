@@ -6,7 +6,28 @@
         "requirement": "",
         "category": "Mech",
         "color": "#4F5A69",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Edge",
+                "value": ""
+            },
+            {
+                "name": "Iron",
+                "value": ""
+            },
+            {
+                "name": "Shadow",
+                "value": ""
+            },
+            {
+                "name": "Wits",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Fire} to navigate through hazardous skies, avoid obstacles, or evade an attack, add +1 and take +1 momentum on a hit.</p>",

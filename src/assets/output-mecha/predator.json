@@ -6,7 +6,28 @@
         "requirement": "",
         "category": "Mech",
         "color": "#4F5A69",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            },
+            {
+                "name": "Edge",
+                "value": ""
+            },
+            {
+                "name": "Iron",
+                "value": ""
+            },
+            {
+                "name": "Shadow",
+                "value": ""
+            },
+            {
+                "name": "Wits",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>When you are cloaked and make a move against a specific foe or threat to avoid detection, you may preset your action die to the Predator's integrity.  If utilizing cover, make it one more (up to six).</p>",
