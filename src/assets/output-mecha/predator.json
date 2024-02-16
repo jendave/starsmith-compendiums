@@ -58,7 +58,16 @@
             "value": 5,
             "min": 0
         },
-        "exclusiveOptions": [],
+        "exclusiveOptions": [
+            {
+                "name": "Starting Module: Silent Running",
+                "selected": false
+            },
+            {
+                "name": "Favored Stat: Shadow",
+                "selected": false
+            }
+        ],
         "conditions": [
             {
                 "name": "Battered",

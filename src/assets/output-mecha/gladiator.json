@@ -58,7 +58,16 @@
             "value": 6,
             "min": 0
         },
-        "exclusiveOptions": [],
+        "exclusiveOptions": [
+            {
+                "name": "Starting Module: Heavy Armor",
+                "selected": false
+            },
+            {
+                "name": "Favored Stat: Iron",
+                "selected": false
+            }
+        ],
         "conditions": [
             {
                 "name": "Battered",

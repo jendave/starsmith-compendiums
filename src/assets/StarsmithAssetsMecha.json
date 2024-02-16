@@ -117,7 +117,7 @@
          "Author":"Eric Bright",
          "Date":"March 9, 2023",
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
-         "Ability":"Your mech wields a chain whip that can be charged with ionized particles. When you charge your whip, roll +iron. On a hit, take up to +3 energy. On a weak hit, take up to +2. On a miss, take up to +2 but suffer -1 integrity. The whip’s max energy is 3. When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 energy.",
+         "Ability":"Your mech wields a chain whip that can be charged with ionized particles. When you charge your whip, roll +iron. On a hit, take up to +3 energy. On a weak hit, take up to +2. On a miss, take up to +2 but suffer -1 integrity. The whip’s max energy is 3.<p><p>When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 energy.",
          "TrackLabel":"Energy",
          "TrackMax":3,
          "TrackCondition":"Out of Energy"
@@ -130,7 +130,7 @@
          "Author":"Eric Bright",
          "Date":"March 9, 2023",
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
-         "Ability":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by laying down suppression fire and score a hit, add an additional +1 to your next move or take an additional +1 momentum. When you [Strike](Moves/Combat/Strike) with a hail of bullets (decide before rolling), mark an additional progress on a hit but [Lose Momentum](Moves/Suffer/Lose_Momentum) (-1)."
+         "Ability":"When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by laying down suppression fire and score a hit, add an additional +1 to your next move or take an additional +1 momentum.<p><p>When you [Strike](Moves/Combat/Strike) with a hail of bullets (decide before rolling), mark an additional progress on a hit but [Lose Momentum](Moves/Suffer/Lose_Momentum) (-1)."
       },
       {
          "Name":"Gravity-Shift Mace",
@@ -310,7 +310,7 @@
          "Author":"Eric Bright",
          "Date":"March 9, 2023",
          "License":"https://creativecommons.org/licenses/by-sa/4.0/",
-         "Ability":"Your mech has additional limbs with some that are capable of finer manipulations and some that are meant for entangling foes. Envision how many limbs and their configuration. When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) by attempting to disarm, trip, shove, grapple, or remove a module from an enemy mech, add +1 and take +1 momentum on a hit."
+         "Ability":"Your mech has additional limbs with some that are capable of finer manipulations and some that are meant for entangling foes. Envision how many limbs and their configuration.<p><p>When you [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) or [Gain Ground](Moves/Combat/Gain_Ground) by attempting to disarm, trip, shove, grapple, or remove a module from an enemy mech, add +1 and take +1 momentum on a hit."
       },
       {
          "Name":"Drones",

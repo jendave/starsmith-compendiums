@@ -9,7 +9,7 @@
         "fields": [],
         "abilities": [
             {
-                "description": "<p>Your mech has additional limbs with some that are capable of finer manipulations and some that are meant for entangling foes. Envision how many limbs and their configuration. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by attempting to disarm, trip, shove, grapple, or remove a module from an enemy mech, add +1 and take +1 momentum on a hit.</p>",
+                "description": "<p>Your mech has additional limbs with some that are capable of finer manipulations and some that are meant for entangling foes. Envision how many limbs and their configuration.<p><p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by attempting to disarm, trip, shove, grapple, or remove a module from an enemy mech, add +1 and take +1 momentum on a hit.</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",

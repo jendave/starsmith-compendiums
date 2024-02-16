@@ -9,7 +9,7 @@
         "fields": [],
         "abilities": [
             {
-                "description": "<p>Your mech wields a chain whip that can be charged with ionized particles. When you charge your whip, roll +iron. On a hit, take up to +3 energy. On a weak hit, take up to +2. On a miss, take up to +2 but suffer -1 integrity. The whip\u2019s max energy is 3. When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 energy.</p>",
+                "description": "<p>Your mech wields a chain whip that can be charged with ionized particles. When you charge your whip, roll +iron. On a hit, take up to +3 energy. On a weak hit, take up to +2. On a miss, take up to +2 but suffer -1 integrity. The whip\u2019s max energy is 3.<p><p>When you make moves aided by this energy to attack or overcome obstacles, add +2 and suffer -1 energy.</p>",
                 "enabled": "true",
                 "hasClock": "false",
                 "clockMax": "4",

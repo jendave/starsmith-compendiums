@@ -71,6 +71,25 @@ for asset in starsmith_assets['Assets']:
     fields_mech = """[{"name": "Name", "value": "" }, { "name": "Edge", "value": "" }, { "name": "Iron", "value": ""},{"name": "Shadow","value": ""}, {"name": "Wits","value": ""}]"""
     fields_other = """[]"""
     fields = json.loads(fields_mech) if category == "Mech" else json.loads(fields_other)
+
+    favored_stat = ""
+    starting_module = ""
+    if asset_name == "Zephyr":
+        favored_stat = "Edge"
+        starting_module = "Flight System"
+    elif asset_name == "Gladiator":
+        favored_stat = "Iron"
+        starting_module = "Heavy Armor"
+    elif asset_name == "Predator":
+        favored_stat = "Shadow"
+        starting_module = "Silent Running"
+    elif asset_name == "Medusa":
+        favored_stat = "Wits"
+        starting_module = "Adaptive Subroutines"
+    
+    exclusive_options_mech = """[{"name": "Starting Module: %s","selected": false},{"name": "Favored Stat: %s","selected": false}]""" % (starting_module, favored_stat)
+    exclusive_options_other = """[]"""
+    exclusive_options = json.loads(exclusive_options_mech) if category == "Mech" else json.loads(exclusive_options_other)
     color = asset.get('Color')
     track_name = asset.get('TrackLabel')
     track_max = asset.get('TrackMax')
@@ -107,7 +126,7 @@ for asset in starsmith_assets['Assets']:
         case _:
             color = '#905b0d'
 
-    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": fields, "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
+    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": fields, "abilities": ability_final, "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": exclusive_options, "conditions": track_condition, "description": forward }}, indent=4)
 
     file_asset = open("output-mecha/" + asset_name.lower().replace(' ', '-') + ".json", "w")
 

@@ -58,7 +58,16 @@
             "value": 5,
             "min": 0
         },
-        "exclusiveOptions": [],
+        "exclusiveOptions": [
+            {
+                "name": "Starting Module: Adaptive Subroutines",
+                "selected": false
+            },
+            {
+                "name": "Favored Stat: Wits",
+                "selected": false
+            }
+        ],
         "conditions": [
             {
                 "name": "Battered",
