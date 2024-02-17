@@ -58,7 +58,7 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Oracles personnalisés` - FR
     * `Własne Wyrocznie` - PL
     * `Свои оракулы` - RU
-  * Open the `Starsmith Expanded Oracles` and `Starsmith Cultures` compendiums and copy the folders into the `Rollable Tables` tab `Custom Oracles` folder.
+  * Open the `Starsmith Expanded Oracles` and `Starsmith Cultures Oracles` compendiums and copy the folders into the `Rollable Tables` tab `Custom Oracles` folder.
     * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
   * The Oracles will be available in the Character sheet under `Custom Oracles`.
     * ![Character Sheet - Custom Oracles](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
