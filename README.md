@@ -88,11 +88,13 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
 # Credits
-[Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+[Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
-[Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+[Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
-[Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs) by Eric Bright are licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+[Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+
+[Starsmith Cultures](https://preview.drivethrurpg.com/en/product/436860/starsmith-cultures) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://preview.drivethrurpg.com/en/product/391653/ironsworn-starforged) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
