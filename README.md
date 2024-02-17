@@ -1,16 +1,16 @@
 # Starsmith Compendiums for Ironsworn: Starforged
 
-![GitHub all releases](https://img.shields.io/github/downloads/jendave/starsmith-expanded-oracles/total)
-[![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-expanded-oracles?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-expanded-oracles/releases/latest)
-![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarsmith-expanded-oracles%2Fmain%2Fmodule.json)
-[![License](https://img.shields.io/github/license/jendave/starsmith-expanded-oracles)](LICENSE)
+![GitHub all releases](https://img.shields.io/github/downloads/jendave/starsmith-compendiums/total)
+[![Latest Version](https://img.shields.io/github/v/release/jendave/starsmith-compendiums?display_name=tag&sort=semver&label=Latest%20Version)](https://github.com/jendave/starsmith-compendiums/releases/latest)
+![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarsmith-compendiums%2Fmain%2Fmodule.json)
+[![License](https://img.shields.io/github/license/jendave/starsmith-compendiums)](LICENSE)
 
 # About
 FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by Eric Bright.
 
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
-* [GitHub Repository](https://github.com/jendave/starsmith-expanded-oracles)
+* [GitHub Repository](https://github.com/jendave/starsmith-compendiums)
 
 # Features and Notes
 * Oracles and Assets from the PDFs are included.
@@ -29,17 +29,17 @@ To install the module, search for `Starsmith` or `Starforged` in the `Add-On Mod
 Or use this URL and click on `Install`:
 
 ```
-https://github.com/jendave/starsmith-expanded-oracles/releases/latest/download/module.json
+https://github.com/jendave/starsmith-compendiums/releases/latest/download/module.json
 ```
 
 # Tabletop Integration
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet.
 
-![Character Sheet - Oracles Tree](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
+![Character Sheet - Oracles Tree](https://github.com/jendave/starsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
 If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Configure Settings` game settings.
 
-![Module Game Settings](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/module-game-settings.jpg?raw=true)
+![Module Game Settings](https://github.com/jendave/starsmith-compendiums/blob/main/docs/module-game-settings.jpg?raw=true)
 
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 The Assets can be added to the character sheet by using the `Custom Folders` method below.
@@ -55,9 +55,9 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Własne Wyrocznie` - PL
     * `Свои оракулы` - RU
   * Open the `Starsmith Expanded Oracles` and `Starsmith Cultures` compendiums and copy the folders into the `Rollable Tables` tab `Custom Oracles` folder.
-    * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
+    * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
   * The Oracles will be available in the Character sheet under `Custom Oracles`.
-    * ![Character Sheet - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
+    * ![Character Sheet - Custom Oracles](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
 * Use the following method to integrate the `Starsmith Assets` and `Starsmith Mecha Mercs Assets` into the character sheet.
   * Create a `Custom Assets` folder in the `Items` tab called:
     * `Custom Assets` - EN
@@ -65,9 +65,9 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
   * Open the `Starsmith Assets` and the `Starsmith Mecha Mercs Assets` compendiums and copy the Items into the `Items` `Custom Assets` folder.
-    * ![Items - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
+    * ![Items - Custom Assets](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
-    * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
+    * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
 * Use the following method to integrate the `Starsmith Cultures Moves` into the character sheet.
   * Create a `Custom Moves` folder in the `Items` tab called:
     * `Custom Moves` - EN
@@ -75,9 +75,9 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Actions personnalisées` - FR
     * `Własne Ruchy` - PL
   * Open the `Starsmith Cultures Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
-    * ![Items - Custom Moves](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-moves-items.jpg?raw=true)
+    * ![Items - Custom Moves](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-moves-items.jpg?raw=true)
   * The Moves will be available in the Character sheet under `Custom Moves`.
-    * ![Character Sheet - Custom Moves](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
+    * ![Character Sheet - Custom Moves](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 * For Truths, copy the Journal entries from the `Starsmith Mecha Mercs Truths` and `Starsmith Cultures` compendiums to the `Journal` tab.
 
 # Troubleshooting
