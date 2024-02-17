@@ -8,7 +8,7 @@
 * Reorganized the compendium folder structure since there are several more compendiums. 
   * New worlds will create the correct folder structure.
   * Current worlds might not.
-* Renamed and moved Gitlab project to a new URL. [https://github.com/jendave/starsmith-compendiums](https://github.com/jendave/starsmith-compendiums)
+* Renamed and moved Gitlab project to a new URL. https://github.com/jendave/starsmith-compendiums
 
 ### [2.1.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-02-16)
 
