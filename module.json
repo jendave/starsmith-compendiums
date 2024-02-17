@@ -79,15 +79,35 @@
   "packFolders": [
     {
       "name": "Starsmith",
-      "packs": [
-        "starsmithexpandedoracles",
-        "starsmithexpandedoraclesmacros",
-        "starsmithassets",
-        "starsmithmechaassets",
-        "starsmithmechatruths",
-        "starsmithculturesmoves",
-        "starsmithculturesoracles",
-        "starsmithculturestruths"
+      "folders": [
+        {
+          "name": "Starsmith Assets",
+          "packs": [
+            "starsmithassets"
+          ]
+        },
+        {
+          "name": "Starsmith Cultures",
+          "packs": [
+            "starsmithculturesmoves",
+            "starsmithculturesoracles",
+            "starsmithculturestruths"
+          ]
+        },
+        {
+          "name": "Starsmith Expanded Oracles",
+          "packs": [
+            "starsmithexpandedoracles",
+            "starsmithexpandedoraclesmacros"
+          ]
+        },
+        {
+          "name": "Starsmith Mecha Mercs",
+          "packs": [
+            "starsmithmechaassets",
+            "starsmithmechatruths"
+          ]
+        }
       ]
     }
   ],

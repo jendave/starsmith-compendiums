@@ -17,6 +17,7 @@ FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by
   * [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
   * [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets)
   * [Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs)
+  * [Starsmith Cultures](https://preview.drivethrurpg.com/en/product/436860/starsmith-cultures)
 * Tables that are copies of the Starforged official tables are included if they are part of Starsmith 1-2, 3-4, 5-6 array.
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 * Assets can be imported and used on the character sheet.
@@ -53,11 +54,11 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * `Oracles personnalisés` - FR
     * `Własne Wyrocznie` - PL
     * `Свои оракулы` - RU
-  * Open the `Starsmith Expanded Oracles` compendium and copy the folders into the `Rollable Tables` `Custom Oracles` folder.
+  * Open the `Starsmith Expanded Oracles` and `Starsmith Cultures` compendiums and copy the folders into the `Rollable Tables` tab `Custom Oracles` folder.
     * ![Rollable Tables - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-rollable-tables.jpg?raw=true)
   * The Oracles will be available in the Character sheet under `Custom Oracles`.
     * ![Character Sheet - Custom Oracles](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-oracles-character-sheet.jpg?raw=true)
-* Use the following method to integrate the Starsmith Assets and Starsmith Mecha Mercs Assets into the character sheet.
+* Use the following method to integrate the `Starsmith Assets` and `Starsmith Mecha Mercs Assets` into the character sheet.
   * Create a `Custom Assets` folder in the `Items` tab called:
     * `Custom Assets` - EN
     * `Recursos Personalizados` - ES
@@ -67,7 +68,17 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * ![Items - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
     * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
-  * Copy the Journal entries from the `Starsmith Mecha Mercs Truths` compendium to the `Journal` tab.
+* Use the following method to integrate the `Starsmith Cultures` moves into the character sheet.
+  * Create a `Custom Moves` folder in the `Items` tab called:
+    * `Custom Moves` - EN
+    * `Movimientos personalizados` - ES
+    * `Actions personnalisées` - FR
+    * `Własne Ruchy` - PL
+  * Open the `Starsmith Cultures Moves` compendium and copy the Items into the `Items` `Custom Moves` folder.
+    * ![Items - Custom Moves](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-moves-items.jpg?raw=true)
+  * The Moves will be available in the Character sheet under `Custom Moves`.
+    * ![Character Sheet - Custom Moves](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
+* Copy the Journal entries from the `Starsmith Mecha Mercs Truths` and `Starsmith Cultures` compendiums to the `Journal` tab.
 
 # Troubleshooting
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.

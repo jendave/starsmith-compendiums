@@ -1,5 +1,11 @@
 # Changelog
 
+### [2.2.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-xx)
+
+* Added [Starsmith Cultures](https://preview.drivethrurpg.com/en/product/436860/starsmith-cultures)
+  * New oracles, truths and a move.
+  * New compendiums
+
 ### [2.1.0](https://github.com/jendave/starsmith-expanded-oracles/commits/main) (2024-02-16)
 
 * Added [Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs)
