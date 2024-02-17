@@ -53,6 +53,27 @@
       "path": "./packs/starsmith-mecha-mercs-truths",
       "type": "JournalEntry",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithculturesmoves",
+      "label": "Starsmith Cultures Moves",
+      "path": "./packs/starsmith-cultures-moves",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithculturesoracles",
+      "label": "Starsmith Cultures Oracles",
+      "path": "./packs/starsmith-cultures-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithculturestruths",
+      "label": "Starsmith Cultures Truths",
+      "path": "./packs/starsmith-cultures-truths",
+      "type": "JournalEntry",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
@@ -63,7 +84,10 @@
         "starsmithexpandedoraclesmacros",
         "starsmithassets",
         "starsmithmechaassets",
-        "starsmithmechatruths"
+        "starsmithmechatruths",
+        "starsmithculturesmoves",
+        "starsmithculturesoracles",
+        "starsmithculturestruths"
       ]
     }
   ],

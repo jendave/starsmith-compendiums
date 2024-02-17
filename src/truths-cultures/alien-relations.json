@@ -1,0 +1,87 @@
+{
+  "name": "Alien Relations",
+  "pages": [
+    {
+      "type": "truth",
+      "name": "From the earliest encounters, humanity was at war with the aliens.",
+      "system": {
+        "Subtable": [],
+        "Floor": 1,
+        "Ceiling": 33,
+        "Result": "From the earliest encounters, humanity was at war with the aliens.",
+        "Description": "Each side blames the other for starting the conflict, but at this point the hostilities continue without the need for a reason. All sides seem to be losing this war of attrition that could empty the Forge of all life.",
+        "Quest": "A stealth surveillance platform has been the key to alien advances in a nearby sector. Can this platform be found and neutralized? What makes this sector so strategic to the war efforts on all sides?"
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "type": "truth",
+      "name": "While skirmishes are not uncommon, the conflict between humanity and aliens has largely turned into a cold war.",
+      "system": {
+        "Subtable": [],
+        "Floor": 34,
+        "Ceiling": 67,
+        "Result": "While skirmishes are not uncommon, the conflict between humanity and aliens has largely turned into a cold war.",
+        "Description": "Both sides increase the pressure of the situation with a never-ending arms race turning the Forge into a giant powder keg that could blow up at any moment. Diplomatic relations are full of veiled threats and back-handed insults. Espionage is seen as the key to long-term victory, and secret factions abound.",
+        "Quest": "One side of the conflict is said to be on the verge of a technological discovery that could tip the balance of power. One faction within that side of the conflict is willing to sabotage their own tech research facility in order to maintain the cessation of open war. What is this new technology said to be capable of, and what connection do you have that makes you well-suited to help with this covert operation?"
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "type": "truth",
+      "name": "Despite initial conflicts of interest, humanity has peacefully integrated into the greater Forge culture with their alien counterparts.",
+      "system": {
+        "Subtable": [],
+        "Floor": 68,
+        "Ceiling": 100,
+        "Result": "Despite initial conflicts of interest, humanity has peacefully integrated into the greater Forge culture with their alien counterparts.",
+        "Description": "Humans and aliens work side-by-side in most career fields, and bigotry has been held at bay in favor of the benefits of peaceful coexistence and cooperative problem solving. This is not to say there aren’t social issues, but they generally do not rest upon differences between species.",
+        "Quest": "Humans for Humanity is a xenophobic activist group that operates in the gray areas of the law. They orchestrate protests across the sector where they provoke violence all while blaming the other side. They are now sponsoring a local candidate for governor in the hopes of changing local laws to go against aliens. Which political opponent of Humans for Humanity do you know that has been jailed without cause under the group’s influence? What would it take to clear their name and secure their freedom?"
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "folder": null
+}
