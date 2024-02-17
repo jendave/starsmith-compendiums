@@ -46,7 +46,7 @@ The Assets can be added to the character sheet by using the `Custom Folders` met
 
 Macros for Starship Registry Number and Dice rolling can be found in the `Starsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
 
-## (Optional Installation) Use Custom Folders to add Oracles and Assets to the Character Sheet  
+## (Optional) Use Custom Folders to add Oracles, Assets, Truths and Moves to the Character Sheet  
 * If integrating the Starsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Starsmith Oracles.
   * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
     * `Custom Oracles` - EN
@@ -68,7 +68,7 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * ![Items - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
     * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
-* Use the following method to integrate the `Starsmith Cultures` moves into the character sheet.
+* Use the following method to integrate the `Starsmith Cultures Moves` into the character sheet.
   * Create a `Custom Moves` folder in the `Items` tab called:
     * `Custom Moves` - EN
     * `Movimientos personalizados` - ES
@@ -78,7 +78,7 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * ![Items - Custom Moves](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-moves-items.jpg?raw=true)
   * The Moves will be available in the Character sheet under `Custom Moves`.
     * ![Character Sheet - Custom Moves](https://github.com/jendave/starsmith-expanded-oracles/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
-* Copy the Journal entries from the `Starsmith Mecha Mercs Truths` and `Starsmith Cultures` compendiums to the `Journal` tab.
+* For Truths, copy the Journal entries from the `Starsmith Mecha Mercs Truths` and `Starsmith Cultures` compendiums to the `Journal` tab.
 
 # Troubleshooting
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
