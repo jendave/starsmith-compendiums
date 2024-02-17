@@ -53,17 +53,62 @@
       "path": "./packs/starsmith-mecha-mercs-truths",
       "type": "JournalEntry",
       "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithculturesmoves",
+      "label": "Starsmith Cultures Moves",
+      "path": "./packs/starsmith-cultures-moves",
+      "type": "Item",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithculturesoracles",
+      "label": "Starsmith Cultures Oracles",
+      "path": "./packs/starsmith-cultures-oracles",
+      "type": "RollTable",
+      "system": "foundry-ironsworn"
+    },
+    {
+      "name": "starsmithculturestruths",
+      "label": "Starsmith Cultures Truths",
+      "path": "./packs/starsmith-cultures-truths",
+      "type": "JournalEntry",
+      "system": "foundry-ironsworn"
     }
   ],
   "packFolders": [
     {
       "name": "Starsmith",
-      "packs": [
-        "starsmithexpandedoracles",
-        "starsmithexpandedoraclesmacros",
-        "starsmithassets",
-        "starsmithmechaassets",
-        "starsmithmechatruths"
+      "packs": [],
+      "folders": [
+        {
+          "name": "Starsmith Assets",
+          "packs": [
+            "starsmithassets"
+          ]
+        },
+        {
+          "name": "Starsmith Cultures",
+          "packs": [
+            "starsmithculturesmoves",
+            "starsmithculturesoracles",
+            "starsmithculturestruths"
+          ]
+        },
+        {
+          "name": "Starsmith Expanded Oracles",
+          "packs": [
+            "starsmithexpandedoracles",
+            "starsmithexpandedoraclesmacros"
+          ]
+        },
+        {
+          "name": "Starsmith Mecha Mercs",
+          "packs": [
+            "starsmithmechaassets",
+            "starsmithmechatruths"
+          ]
+        }
       ]
     }
   ],
@@ -73,10 +118,10 @@
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
-  "license": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/LICENSE",
-  "changelog": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/CHANGELOG.md",
-  "readme": "https://raw.githubusercontent.com/jendave/starsmith-expanded-oracles/main/README.md",
-  "bugs": "https://github.com/jendave/starsmith-expanded-oracles/issues",
+  "license": "https://raw.githubusercontent.com/jendave/starsmith-compendiums/main/LICENSE",
+  "changelog": "https://raw.githubusercontent.com/jendave/starsmith-compendiums/main/CHANGELOG.md",
+  "readme": "https://raw.githubusercontent.com/jendave/starsmith-compendiums/main/README.md",
+  "bugs": "https://github.com/jendave/starsmith-compendiums/issues",
   "relationships": {
     "systems": [
       {

@@ -1,0 +1,87 @@
+{
+  "name": "Alien Diversity",
+  "pages": [
+    {
+      "type": "truth",
+      "name": "As far as we are aware, the alien species we encountered in the Forge is the only other sapient lifeform in the galaxy.",
+      "system": {
+        "Subtable": [],
+        "Floor": 1,
+        "Ceiling": 33,
+        "Result": "As far as we are aware, the alien species we encountered in the Forge is the only other sapient lifeform in the galaxy.",
+        "Description": "The alien species has a wide breadth of diversity within their culture, but like us, they believed they were alone in the galaxy. Finding each other shook both our belief systems to their core.",
+        "Quest": "The original homeworld for the aliens is said to have been destroyed within the Void. A lone pilot survived a harrowing attack in the Void and claims to have seen an intact chunk of the alien homeworld drifting in space with an entire city still intact on it. Many consider him to be suffering from space madness, but what about his story makes you believe him? Why does humanity need to find this place before the aliens do?"
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "type": "truth",
+      "name": "When our iron homes first entered the Forge, there were a few alien species arriving as well. Initially, each of us marked out our own territories as we learned whether or not communication would be possible between our species.",
+      "system": {
+        "Subtable": [],
+        "Floor": 34,
+        "Ceiling": 67,
+        "Result": "When our iron homes first entered the Forge, there were a few alien species arriving as well. Initially, each of us marked out our own territories as we learned whether or not communication would be possible between our species.",
+        "Description": "From what we can piece together, each of these alien species also experienced a cataclysmic event in their home sectors around the same time that we did. We can neither verify nor refute that these events are related.",
+        "Quest": "An alien derelict from the time of their exodus is rumored to be somewhere within the Void. If found, this ship may contain data from their home sector during the cataclysm. What faction is offering a high bounty for this data, and why do they want it beyond scientific curiosity?"
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "flags": {}
+    },
+    {
+      "type": "truth",
+      "name": "The number of alien species must be countably finite, but we encounter new life and new civilizations with great frequency.",
+      "system": {
+        "Subtable": [],
+        "Floor": 68,
+        "Ceiling": 100,
+        "Result": "The number of alien species must be countably finite, but we encounter new life and new civilizations with great frequency.",
+        "Description": "Establishing first contact with alien species has become an art that takes specialists in communication, pathology, biology, and often engineers. Without the perfect balance of wisdom, experience, and luck, first contacts can turn hostile quickly.",
+        "Quest": "A new alien species has been encountered with a bizarre technology unlike anything we’ve yet seen. What is the nature of this technology, and what time-sensitive mystery might its mastery help to solve?"
+      },
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "sort": 0,
+      "flags": {}
+    }
+  ],
+  "folder": null
+}
