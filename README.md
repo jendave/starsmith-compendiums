@@ -31,7 +31,8 @@ Or use this URL and click on `Install`:
 ```
 https://github.com/jendave/starsmith-compendiums/releases/latest/download/module.json
 ```
-The compendiums are organized into folders. This works for new worlds, but older worlds may not get updated. 
+The compendiums are organized into folders. This works for new worlds, but older worlds may not get updated.
+
 ![Compendium Folder Packs](https://github.com/jendave/starsmith-compendiums/blob/main/docs/compendium-folder-packs.jpg?raw=true)
 
 
