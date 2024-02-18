@@ -112,3 +112,19 @@ The following modules were used in the development process
 * [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
 * [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
+
+# FoundryVTT Modules and Other Resources
+Please check out my other modules and resources for Ironsworn and Ironsworn: Starforged
+
+### [FoundryVTT](https://foundryvtt.com/) Modules
+*   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+*   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
+*   [Token Note Hover](https://github.com/jendave/token-note-hover)
+
+### Itch.io Resources
+*   [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
+*   [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
+*   [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
+*   [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
