@@ -1,5 +1,8 @@
 # Changelog
 
+### [2.2.1](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-02-xx)
+* Fixed input fields in several assets.
+
 ### [2.2.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-02-17)
 
 * Added [Starsmith Cultures](https://preview.drivethrurpg.com/en/product/436860/starsmith-cultures)
