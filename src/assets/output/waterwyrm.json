@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Companion",
         "color": "#3D8B8A",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Your waterwyrm uses its scaly hide and dagger-like teeth to overcome threats. When you make a move by sending the waterwyrm to directly attack a foe or smash an obstacle, roll +its health.</p>",
@@ -44,6 +49,6 @@
                 "ticked": "false"
             }
         ],
-        "description": null
+        "description": ""
     }
 }

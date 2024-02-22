@@ -68,7 +68,8 @@
          "Ability2":"When you [Gather Information](Moves/Adventure/Gather_Information) or [Secure an Advantage](Moves/Adventure/Secure_an_Advantage) by talking to a holographic facsimile of an expert, add +1.",
          "Ability3":"When you take time for yourself and [Hearten](Moves/Recover/Hearten) using a favorite recreational program, add +1.",
          "TrackLabel":"Training",
-         "TrackMax":4
+         "TrackMax":4,
+         "Input":"Path"
       },
       {
          "Name":"Stabilizers",

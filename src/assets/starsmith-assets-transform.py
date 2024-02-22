@@ -74,6 +74,18 @@ for asset in starsmith_assets['Assets']:
     track_enabled = "true" if (track_max or track_name) and asset_name != "Traveler" else "false"
     forward = update_ability(asset.get('Foreword'))
     input_item = asset.get('Input')
+    fields_temp = """[]"""
+    #print(input_item)
+    
+    if (input_item):
+        if (asset_name == "Crew Member"):
+            fields_temp =  """[{"name": "Role", "value": "" }, { "name": "Name", "value": "" }]"""
+            #print(fields_temp)
+        else:
+            fields_temp = """[{"name": "%s", "value": "" }]""" % (input_item)
+            #print(fields_temp)
+    
+    fields = json.loads(fields_temp)
 
     match category:
         case 'Module':
@@ -93,7 +105,7 @@ for asset in starsmith_assets['Assets']:
         case _:
             color = '#905b0d'
 
-    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": "", "category": category, "color": color, "fields": [], "abilities": [{"description": "<p>" + ability_1 + "</p>", "enabled": "true", "hasClock": has_clock_1, "clockMax": clock_max_1, "clockTicks": 0 }, { "description": "<p>" + ability_2 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>" + ability_3 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ], "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": forward }}, indent=4)
+    asset_foundry = json.dumps({"name": asset_name, "type": "asset", "img": "icons/svg/item-bag.svg", "system": { "requirement": forward, "category": category, "color": color, "fields": fields, "abilities": [{"description": "<p>" + ability_1 + "</p>", "enabled": "true", "hasClock": has_clock_1, "clockMax": clock_max_1, "clockTicks": 0 }, { "description": "<p>" + ability_2 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 }, { "description": "<p>" + ability_3 + "</p>", "enabled": "false", "hasClock": "false", "clockMax": 4, "clockTicks": 0 } ], "track": { "enabled": track_enabled, "name": track_name, "max": track_max, "value": track_value, "min": 0 }, "exclusiveOptions": [], "conditions": track_condition, "description": "" }}, indent=4)
 
     file_asset = open("output/" + asset_name.lower().replace(' ', '-') + ".json", "w")
 

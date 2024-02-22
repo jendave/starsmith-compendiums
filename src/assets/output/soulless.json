@@ -3,7 +3,7 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": "Once you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff17e67a59539df4]{Face Desolation}...",
         "category": "Deed",
         "color": "#40834F",
         "fields": [],
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "Once you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff17e67a59539df4]{Face Desolation}..."
+        "description": ""
     }
 }

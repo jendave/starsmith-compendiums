@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Companion",
         "color": "#3D8B8A",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Your cuddly furball coos softly to soothe your worries. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.c2c2f31f564caa06]{Hearten} in the presence of your furball, boost. However, stress can physically harm your friend. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.905205c073b09eac]{Endure Harm} in the presence of your furball, your @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit} as well.</p>",
@@ -44,6 +49,6 @@
                 "ticked": "false"
             }
         ],
-        "description": null
+        "description": ""
     }
 }

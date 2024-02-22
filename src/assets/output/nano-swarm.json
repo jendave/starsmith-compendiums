@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": "Your self-replicating nano-swarm can be released at a moment's notice and adapt to the situation at hand. With a brief rest, you can update its programming to one of the modes below or direct it to self-repair which returns it to full health. When you make a move leveraging your nano-swarm's mode, add +its health and then your @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit}.",
         "category": "Companion",
         "color": "#3D8B8A",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Utility: Your swarm can access a system, analyze a mechanical issue, or become a small tool to help work on equipment.</p>",
@@ -44,6 +49,6 @@
                 "ticked": "false"
             }
         ],
-        "description": "Your self-replicating nano-swarm can be released at a moment's notice and adapt to the situation at hand. With a brief rest, you can update its programming to one of the modes below or direct it to self-repair which returns it to full health. When you make a move leveraging your nano-swarm's mode, add +its health and then your @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d34cdf2408cd22b6]{Companion Takes a Hit}."
+        "description": ""
     }
 }

@@ -3,7 +3,7 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Module",
         "color": "#7F5A90",
         "fields": [],
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": null
+        "description": ""
     }
 }

@@ -3,10 +3,19 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Companion",
         "color": "#3D8B8A",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Role",
+                "value": ""
+            },
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Your crew member has a specific role aboard your command vehicle. When you make a move directly aided by their expertise, reroll your action die if its value is less than your crew member's health. If you then score a strong hit with a match, mark 1 tick on your bonds legacy track.</p>",
@@ -44,6 +53,6 @@
                 "ticked": "false"
             }
         ],
-        "description": null
+        "description": ""
     }
 }

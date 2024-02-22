@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Path",
         "color": "#3F7FAA",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Expertise",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>When you take this asset, mark your area of expertise. With sufficient time (a couple of hours or more), you may @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by doing scientific analysis of a problem or inventing prototype technology within your area of expertise. On a hit, one time only, when you or an ally make a move aided by this knowledge or device, take an automatic strong hit.</p>",
@@ -39,6 +44,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": null
+        "description": ""
     }
 }

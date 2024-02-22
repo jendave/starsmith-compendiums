@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Path",
         "color": "#3F7FAA",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Faction",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>When you take this asset, declare an oppressive faction that you are actively working against. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} and score a hit, also mark 2 ticks on your bonds legacy track.</p>",
@@ -39,6 +44,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": null
+        "description": ""
     }
 }

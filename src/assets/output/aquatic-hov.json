@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Support Vehicle",
         "color": "#495790",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Your unarmed HOV can be launched from orbit to splashdown into deep waters and holds several people and their equipment. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.e6ed148eff82c171]{Face Danger} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d9208f9b7d827aec]{React Under Fire} to navigate through hazardous waters, avoid obstacles, or evade an attack, boost. A single use rocket may be fired to return the HOV to your command vehicle.</p>",
@@ -44,6 +49,6 @@
                 "ticked": "false"
             }
         ],
-        "description": null
+        "description": ""
     }
 }

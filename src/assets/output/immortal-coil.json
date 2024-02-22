@@ -3,7 +3,7 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": "Once you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} (rank\nextreme or epic) to transfer your consciousness to an artificial body...",
         "category": "Deed",
         "color": "#40834F",
         "fields": [],
@@ -39,6 +39,6 @@
         },
         "exclusiveOptions": [],
         "conditions": [],
-        "description": "Once you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} (rank\nextreme or epic) to transfer your consciousness to an artificial body..."
+        "description": ""
     }
 }

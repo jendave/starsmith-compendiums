@@ -3,10 +3,15 @@
     "type": "asset",
     "img": "icons/svg/item-bag.svg",
     "system": {
-        "requirement": "",
+        "requirement": null,
         "category": "Companion",
         "color": "#3D8B8A",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Name",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Your flash fox uses its short-range teleportation to bypass obstacles. When you make a move by directing your flash fox to teleport you a short distance away, roll +its health and boost.</p>",
@@ -44,6 +49,6 @@
                 "ticked": "false"
             }
         ],
-        "description": null
+        "description": ""
     }
 }
