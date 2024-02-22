@@ -6,7 +6,12 @@
         "requirement": null,
         "category": "Module",
         "color": "#7F5A90",
-        "fields": [],
+        "fields": [
+            {
+                "name": "Path",
+                "value": ""
+            }
+        ],
         "abilities": [
             {
                 "description": "<p>Your holodeck helps you practice and prepare. Declare a path asset you are training for, and set your training cycle to 0. Once per journey when you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3ff03b51f620ab26]{Undertake an Expedition}, you may train in the holodeck. If you do, roll +integrity or +an appropriate stat. On a hit, take +1 training cycle. When your training cycle is at 4 and you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.d602da2ce0c05f2c]{Advance} to gain or upgrade the declared asset, it costs -1 XP. Then, set your training cycle to zero and declare a new path asset.</p>",
