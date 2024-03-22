@@ -11,9 +11,10 @@ FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by
 # Contact
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
 * [GitHub Repository](https://github.com/jendave/starsmith-compendiums)
+* [Itch.io](https://jendave.itch.io/)
 
 # Features and Notes
-* Oracles and Assets from the PDFs are included.
+* Oracles, Assets, Moves and Foes from the PDFs are included.
   * [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
   * [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets)
   * [Starsmith Mecha Mercs](https://preview.drivethrurpg.com/en/product/421157/starsmith-mecha-mercs)
