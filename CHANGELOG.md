@@ -1,5 +1,8 @@
 # Changelog
 
+### [2.2.2](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-04-27)
+* Added macros to generate creatures and NPCs.
+
 ### [2.2.1](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-02-21)
 * Fixed input fields in several assets.
 * Updated JSON for Deeds.
