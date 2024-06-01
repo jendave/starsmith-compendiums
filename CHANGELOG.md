@@ -1,5 +1,8 @@
 # Changelog
 
+### [2.2.3](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-06-01)
+* Verified for FoundryVTT v12.
+
 ### [2.2.2](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-04-27)
 * Added macros to generate creatures and NPCs.
 
