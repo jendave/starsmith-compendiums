@@ -5,15 +5,18 @@
 ![Foundry Version](https://img.shields.io/endpoint?url=https://foundryshields.com/version?url=https%3A%2F%2Fraw.githubusercontent.com%2Fjendave%2Fstarsmith-compendiums%2Fmain%2Fmodule.json)
 [![License](https://img.shields.io/github/license/jendave/starsmith-compendiums)](LICENSE)
 
-# About
+## About
+
 FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by Eric Bright.
 
-# Contact
+## Contact
+
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160)
 * [GitHub Repository](https://github.com/jendave/starsmith-compendiums)
 * [Itch.io](https://jendave.itch.io/)
 
-# Features and Notes
+## Features and Notes
+
 * Oracles, Assets, Moves and Foes from the PDFs are included.
   * [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles)
   * [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets)
@@ -24,20 +27,22 @@ FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by
 * Assets can be imported and used on the character sheet.
 * Truths can be imported into the Journal tab.
 
-# Module Installation
+## Module Installation
+
 To install the module, search for `Starsmith` or `Starforged` in the `Add-On Modules` tab of of the Foundry VTT game setup screen. Then click on `Install`.
 
 Or use this URL and click on `Install`:
 
-```
+```bash
 https://github.com/jendave/starsmith-compendiums/releases/latest/download/module.json
 ```
+
 The compendiums are organized into folders. This works for new worlds, but older worlds may not get updated.
 
 ![Compendium Folder Packs](https://github.com/jendave/starsmith-compendiums/blob/main/docs/compendium-folder-packs.jpg?raw=true)
 
+## Tabletop Integration
 
-# Tabletop Integration
 By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet.
 
 ![Character Sheet - Oracles Tree](https://github.com/jendave/starsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
@@ -51,7 +56,8 @@ The Assets can be added to the character sheet by using the `Custom Folders` met
 
 Macros for Starship Registry Number and Dice rolling can be found in the `Starsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
 
-## (Optional) Use Custom Folders to add Oracles, Assets, Truths and Moves to the Character Sheet  
+### (Optional) Use Custom Folders to add Oracles, Assets, Truths and Moves to the Character Sheet
+
 * If integrating the Starsmith Oracles directly into the default Oracle Tree if not desired, then use this method to add the Starsmith Oracles.
   * If it does not already exist, create a `Custom Oracles` folder in `Rollable Tables` tab called:
     * `Custom Oracles` - EN
@@ -85,10 +91,12 @@ Macros for Starship Registry Number and Dice rolling can be found in the `Starsm
     * ![Character Sheet - Custom Moves](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 * For Truths, copy the Journal entries from the `Starsmith Mecha Mercs Truths` and `Starsmith Cultures` compendiums to the `Journal` tab.
 
-# Troubleshooting
+## Troubleshooting
+
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
-# Credits
+## Credits
+
 [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 [Starsmith Assets](https://preview.drivethrurpg.com/en/product/429227/starsmith-assets) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
@@ -105,28 +113,34 @@ The Starship Registry number generator macro was contributed by @el_reverend (Di
 
 Licenses and permissions for the macros are listed in the source code.
 
-# Acknowledgements
+## Acknowledgements
+
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
-## Modules
+### Modules
+
 The following modules were used in the development process
+
 * [foundryvtt-importer module](https://github.com/EthanJWright/foundryvtt-importer)
 * [Mana's Compendium Importer](https://gitlab.com/mkahvi/fvtt-compendium-importer)
 * [DF Manual Rolls](https://foundryvtt.com/packages/df-manual-rolls)
 
-# FoundryVTT Modules and Other Resources
-Please check out my other modules and resources for Ironsworn and Ironsworn: Starforged
+## FoundryVTT Modules and Other Resources
 
-### [FoundryVTT](https://foundryvtt.com/) Modules
-*   [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
-*   [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
-*   [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
-*   [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
-*   [Token Note Hover](https://github.com/jendave/token-note-hover)
+Please check out my other modules and resources for Ironsworn, Ironsworn: Starforged and other systems.
 
-### Itch.io Resources
-*   [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
-*   [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
-*   [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
-*   [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
-*   [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
+### [FoundryVTT](https://foundryvtt.com/community/david-hudson/packages) Modules
+
+* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+* [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+* [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
+* [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
+* [Token Note Hover](https://github.com/jendave/token-note-hover)
+
+### [Itch.io](https://jendave.itch.io/) Resources
+
+* [The City on the Breeze - Cyberpunk-inspired Oracle arrays](https://jendave.itch.io/the-city-on-the-breeze)
+* [I'll Be Home for Life Day! - Star Wars Life Day Oracle](https://jendave.itch.io/ill-be-home-for-life-day)
+* [Critical Success Oracles](https://jendave.itch.io/critical-success-oracles)
+* [I Owe My Soul to the Corporate Planet - Company Planet Oracles](https://jendave.itch.io/i-owe-my-soul-to-the-corporate-planet)
+* [Creature Rank Generator](https://jendave.itch.io/creature-rank-generator)
