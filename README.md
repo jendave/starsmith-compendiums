@@ -54,7 +54,7 @@ If this is not desired, then uncheck the `Enable Oracles in Default Tree` in `Co
 The Oracles can also be added to the character sheet by using the `Custom Folders` method below.
 The Assets can be added to the character sheet by using the `Custom Folders` method below.
 
-Macros for Starship Registry Number and Dice rolling can be found in the `Starsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar.
+Macros for Starship Registry Number, Dice rolling and NPC generation can be found in the `Starsmith Expanded Oracles Macros` compendium. Drag and drop any you need into the macro toolbar. Macros use the current `Roll Mode` when executed.
 
 ### (Optional) Use Custom Folders to add Oracles, Assets, Truths and Moves to the Character Sheet
 

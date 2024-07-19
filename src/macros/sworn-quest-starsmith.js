@@ -1,9 +1,10 @@
 // Macro by David Hudson under the MIT License.
 
 function printMessage(message) {
-    let chatData = { content: message, };
+    let chatData = { content: message};
+    ChatMessage.applyRollMode(chatData, game.settings.get("core","rollMode"));
     ChatMessage.create(chatData, {})
-}
+};
 
 function randomArrayItem(array) {
     const index = (Math.floor(Math.random() * array.length));

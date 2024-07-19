@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.3.4](https://github.com/jendave/augmented-reality/commits/main) (2024-07-19)
+
+* Macros now use the current `Roll Mode` instead of always being `Public Rolls`.
+
 ## [2.2.3](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-06-01)
 
 * Verified for FoundryVTT v12.

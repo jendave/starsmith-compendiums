@@ -1,5 +1,11 @@
 // Macro by David Hudson under the MIT License.
 
+function printMessage(message) {
+    let chatData = { content: message };
+    ChatMessage.applyRollMode(chatData, game.settings.get("core", "rollMode"));
+    ChatMessage.create(chatData, {})
+};
+
 try {
     let modifiers = await Dialog.prompt({
         title: "Action Roll",
@@ -58,8 +64,15 @@ try {
     }
 
     //console.log("Result: " + result);
-    let message = "<h3>Action Roll</h3><p>Modifiers: " + modifiers + "</p>" + "<h3>Result: " + result + "</h3>";
-    ChatMessage.create({ content: message });
+    // let message = "<h3>Action Roll</h3><p>Modifiers: " + modifiers + "</p>" + "<h3>Result: " + result + "</h3>";
+    // ChatMessage.create({ content: message });
+
+    // Construct the output with the h3 header
+    let title = "<h3>Action Roll</h3";
+    let message = "<p>Modifiers: " + modifiers + "</p>" + "<h3>Result: " + result + "</h3>";
+
+    // Display the final output
+    printMessage(title + message);
 }
 catch (e) {
     console.log("The Dialog was closed without a choice being made.");

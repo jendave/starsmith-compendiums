@@ -1,9 +1,10 @@
 // Macro by David Hudson under the MIT License.
 
 function printMessage(message) {
-    let chatData = { content: message, };
+    let chatData = { content: message};
+    ChatMessage.applyRollMode(chatData, game.settings.get("core","rollMode"));
     ChatMessage.create(chatData, {})
-}
+};
 
 let table = await fromUuid("Compendium.foundry-ironsworn.starforgedoracles.RollTable.08527c8cf3635799");
 let roll = await table.roll();
