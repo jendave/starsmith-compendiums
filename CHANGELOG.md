@@ -1,5 +1,10 @@
 # Changelog
 
+## [2.3.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-xx)
+
+* Updated for Sundered Isles and Datasworn 2 content.
+* Ironsworn/Starforged system 1.24 and above is required.
+
 ## [2.2.4](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-07-19)
 
 * Macros now use the current `Roll Mode` instead of always being `Public Rolls`.
