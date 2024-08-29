@@ -43,7 +43,7 @@ The compendiums are organized into folders. This works for new worlds, but older
 
 ## Tabletop Integration
 
-By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet.
+By default, the Oracles will be integrated into the Oracle Tree in the Character Sheet. The Starforged ruleset must be enabled.
 
 ![Character Sheet - Oracles Tree](https://github.com/jendave/starsmith-compendiums/blob/main/docs/oracle-tree-character-sheet.jpg?raw=true)
 
