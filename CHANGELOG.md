@@ -2,7 +2,7 @@
 
 ## [2.3.1](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-29)
 
-* Fixed bug where Ironsmith oracles could be inserted into the Oracle tree unexpectedly.
+* Fixed errors during oracle load.
 
 ## [2.3.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-28)
 
