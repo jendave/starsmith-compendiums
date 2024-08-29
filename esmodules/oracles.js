@@ -4,7 +4,7 @@ Hooks.once("init", async () => {
   console.log('starsmith-expanded-oracles | Initializing Starsmith Expanded Oracles');
   game.settings.register('starsmith-expanded-oracles', 'enableOraclesInTree', {
     name: 'Enable Oracles in Default Tree',
-    hint: 'Enable Oracles in the character sheet tree.',
+    hint: 'Enable Oracles in the character sheet tree. The Starforged ruleset must also be enabled.',
     scope: 'world',
     config: true,
     type: Boolean,
@@ -14,8 +14,8 @@ Hooks.once("init", async () => {
 });
 
 Hooks.once("ironswornOracleTreesReady", async () => {
-  if (game.settings.get('starsmith-expanded-oracles', 'enableOraclesInTree')) {
-    const starforgedOracles = CONFIG.IRONSWORN.getOracleTree('starforged')
+  if (game.settings.get('starsmith-expanded-oracles', 'enableOraclesInTree') && game.settings.get('foundry-ironsworn', 'ruleset-starforged')) {
+    const starforgedOracles = CONFIG.IRONSWORN.getOracleTree('starforged');
 
     let derelictsIndex = starforgedOracles.children.indexOf(starforgedOracles.children.find(children => children.displayName === "Derelict Oracles"));
 

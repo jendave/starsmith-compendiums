@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.3.1](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-29)
+
+* Fixed bug where Ironsmith oracles could be inserted into the Oracle tree unexpectedly.
+
 ## [2.3.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-28)
 
 * Updated for Sundered Isles and Datasworn 2 content.
