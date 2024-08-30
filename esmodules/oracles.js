@@ -423,7 +423,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.K74TKszI8T8HTUId', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.XlUqt5BZzlHelXVu', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DsGW7fo4iF64qhWf'],
         children: []
       }
-      
+
     );
 
     starforgedOracles.children[planetsIndex].children[icePlanetIndex].children.push(
@@ -563,7 +563,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
         children: []
       },
       {
-          displayName: 'Dominion: Leadership (Starsmith)',
+        displayName: 'Dominion: Leadership (Starsmith)',
         tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eAqohSRwBWwx7uy5', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.A6v2rLoWS3xEAtam', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.StGZjdeejoYDZFLN'],
         children: []
       },
@@ -808,6 +808,7 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       tables: ['Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.PnbyoxQfgZdQ3AiU', 'Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.LFxOkncnKTFTisw3'],
       children: []
     });
+
     starforgedOracles.children[locationThemesIndex].children[aridlocationThemesIndex].children.push(
       {
         displayName: 'Feature',
