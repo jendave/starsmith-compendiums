@@ -104,6 +104,73 @@ Hooks.once("ironswornOracleTreesReady", async () => {
     let productionDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Production"));
     let researchDistrictsIndex = districtsFolder.children.indexOf(districtsFolder.children.find(children => children.displayName === "Research"));
 
+    starforgedOracles.children.push({
+      displayName: 'Culture Oracles',
+      tables: [],
+      children: []
+    });
+
+    let cultureOraclesIndex = starforgedOracles.children.indexOf(starforgedOracles.children.find(children => children.displayName === "Culture Oracles"));
+    let cultureOraclesFolder = starforgedOracles.children.find(children => children.displayName === "Culture Oracles");
+
+    cultureOraclesFolder.children.push(
+      {
+        displayName: 'Cultures Alien',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Cultures Familiar',
+        tables: [],
+        children: []
+      }
+    );
+
+    let culturesAlienOraclesFolder = cultureOraclesFolder.children.find(children => children.displayName === "Cultures Alien");
+
+    culturesAlienOraclesFolder.children.push(
+      {
+        displayName: 'Xenoanthropology',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Xenobiology',
+        tables: [],
+        children: []
+      }
+    );
+
+    let culturesAlienXenobiologyOraclesFolder = culturesAlienOraclesFolder.children.find(children => children.displayName === "Xenobiology");
+
+    culturesAlienXenobiologyOraclesFolder.children.push(
+      {
+        displayName: 'Specific Form',
+        tables: [],
+        children: []
+      }
+    );
+
+    let culturesFamiliarOraclesFolder = cultureOraclesFolder.children.find(children => children.displayName === "Cultures Familiar");
+
+    culturesFamiliarOraclesFolder.children.push(
+      {
+        displayName: 'Cultural Tradition',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Culture',
+        tables: [],
+        children: []
+      },
+      {
+        displayName: 'Dimensions of Cultures',
+        tables: [],
+        children: []
+      }
+    );
+
     starforgedOracles.children[locationThemesIndex].children.push(
       {
         displayName: 'Arid',
