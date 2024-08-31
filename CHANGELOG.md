@@ -1,5 +1,9 @@
 # Changelog
 
+## [2.3.2](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-31)
+
+* Integrated [Starsmith Cultures](https://preview.drivethrurpg.com/en/product/436860/starsmith-cultures) oracles into Character Sheet oracle tree.
+
 ## [2.3.1](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-08-29)
 
 * Fixed errors during oracle load.

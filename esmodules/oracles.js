@@ -141,12 +141,135 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       }
     );
 
+    let xenoanthropologyOraclesFolder = culturesAlienOraclesFolder.children.find(children => children.displayName === "Xenoanthropology");
+
+    xenoanthropologyOraclesFolder.children.push(
+      {
+        displayName: 'Alien Traditions',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.u6JMeLrphtqKV3Cs'],
+        children: []
+      },
+      {
+        displayName: 'Alien Values',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.JI2IdlFsajPtltcA'],
+        children: []
+      },
+      {
+        displayName: 'Civilization Age',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.FyvudZ6gwfojEenl'],
+        children: []
+      },
+      {
+        displayName: 'Random Alien Names',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.1r9nOKWNSaTZUgfl'],
+        children: []
+      },
+      {
+        displayName: 'Technology Level',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.7UblRUXJaOtwR7Jg'],
+        children: []
+      }
+    );
+
     let culturesAlienXenobiologyOraclesFolder = culturesAlienOraclesFolder.children.find(children => children.displayName === "Xenobiology");
 
     culturesAlienXenobiologyOraclesFolder.children.push(
       {
         displayName: 'Specific Form',
         tables: [],
+        children: []
+      }
+    );
+
+    culturesAlienXenobiologyOraclesFolder.children.push(
+      {
+        displayName: 'Basic Form',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.IMKDCMwZxzZAeRIZ'],
+        children: []
+      },
+      {
+        displayName: 'Childbearing Method',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.Jjvn33r1BvOirbtN'],
+        children: []
+      },
+      {
+        displayName: 'Communication Method',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.R6o2sis7LzuLMYPM'],
+        children: []
+      },
+      {
+        displayName: 'Random Alien Names',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.Mkc45ls9gGal1kLL'],
+        children: []
+      },
+      {
+        displayName: 'Reproduction Method',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.vXlGiFxtnvtZI74D'],
+        children: []
+      },
+      {
+        displayName: 'Sensory Perception',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.QWnjl6AE3K1ZRQeu'],
+        children: []
+      },
+      {
+        displayName: 'Strange Alien Quality Involving...',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.bWs9ShNL58uiiu2K'],
+        children: []
+      }
+    );
+
+    let specificFormOraclesFolder = culturesAlienXenobiologyOraclesFolder.children.find(children => children.displayName === "Specific Form");
+
+    specificFormOraclesFolder.children.push(
+      {
+        displayName: 'Aquatic',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.WdpcWI5aom7PXhtp'],
+        children: []
+      },
+      {
+        displayName: 'Avian',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.rUiQbqJTlGTD3qzt'],
+        children: []
+      },
+      {
+        displayName: 'Beast, mammal',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.5G8QCVn8Rz2jKvi8'],
+        children: []
+      },
+      {
+        displayName: 'Beast, reptile',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.J8JLANyxJDuQB3UL'],
+        children: []
+      },
+      {
+        displayName: 'Elemental energy or matter',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.jPmE3P18K2BIkSaS'],
+        children: []
+      },
+      {
+        displayName: 'Gelatinous or amorphous',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.xExa90On1uzweMfN'],
+        children: []
+      },
+      {
+        displayName: 'Insect or arachnid',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.CSGlLfUuqwAOaUVC'],
+        children: []
+      },
+      {
+        displayName: 'Mechanical or humanoid',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.n6araBwnPQ7PqVOO'],
+        children: []
+      },
+      {
+        displayName: 'Necrotic or parasitic',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.p144bL9YQrhSaoo6'],
+        children: []
+      },
+      {
+        displayName: 'Plant or Fungus',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.nJDxYDhJBJTrv8wS'],
         children: []
       }
     );
@@ -167,6 +290,74 @@ Hooks.once("ironswornOracleTreesReady", async () => {
       {
         displayName: 'Dimensions of Cultures',
         tables: [],
+        children: []
+      }
+    );
+
+    let familiarCulturalTraditionOraclesFolder = culturesFamiliarOraclesFolder.children.find(children => children.displayName === "Cultural Tradition");
+    let familiarCultureOraclesFolder = culturesFamiliarOraclesFolder.children.find(children => children.displayName === "Culture");
+    let familiarDimensionsOfCultureOraclesFolder = culturesFamiliarOraclesFolder.children.find(children => children.displayName === "Dimensions of Cultures");
+
+    familiarCulturalTraditionOraclesFolder.children.push(
+      {
+        displayName: 'Common Symbols of Traditions',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.i598suTldJaieqe8'],
+        children: []
+      },
+      {
+        displayName: 'Tradition Category',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.w1ZtxtjSykGHD7ug'],
+        children: []
+      }
+    );
+
+    familiarCultureOraclesFolder.children.push(
+      {
+        displayName: 'Government Structure',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.mauMK4ErRusP6aiW'],
+        children: []
+      },
+      {
+        displayName: 'Primary Cultural Value',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.Q818dBO1NkQSbcEE'],
+        children: []
+      },
+      {
+        displayName: 'Societal Flaw',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.lWtjcbWESZRwcTFu'],
+        children: []
+      }
+    );
+
+    familiarDimensionsOfCultureOraclesFolder.children.push(
+      {
+        displayName: 'Competitive',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.ZH52icOfOWMfOnYN'],
+        children: []
+      },
+      {
+        displayName: 'Individualism',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.pv3BNhXBPHSpL0xi'],
+        children: []
+      },
+      {
+        displayName: 'Long-Term Orientation',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.H3cmYGL5GIuXMote'],
+        children: []
+      },
+      {
+        displayName: 'Power Distance',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.YWmAGkJy8wzc5gL7'],
+        children: []
+      },
+      {
+        displayName: 'Restraint',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.XQMGDghIkIquxjC7'],
+        children: []
+      },
+      {
+        displayName: 'Uncertainty Avoidance',
+        tables: ['Compendium.starsmith-expanded-oracles.starsmithculturesoracles.RollTable.UpBeEupz4qfPUp23'],
         children: []
       }
     );
