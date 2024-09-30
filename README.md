@@ -105,7 +105,7 @@ Macros for Starship Registry Number, Dice rolling and NPC generation can be foun
 
 [Starsmith Cultures](https://preview.drivethrurpg.com/en/product/436860/starsmith-cultures) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
-Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://preview.drivethrurpg.com/en/product/391653/ironsworn-starforged) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
+Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://tomkinpress.com/) are used under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
@@ -114,6 +114,8 @@ The Starship Registry number generator macro was contributed by @el_reverend (Di
 Licenses and permissions for the macros are listed in the source code.
 
 ## Acknowledgements
+
+Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
 
 Many thanks to Ben Straub for his fantastic [Ironsworn & Starforged Game System](https://foundryvtt.com/packages/foundry-ironsworn).
 
@@ -131,7 +133,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 
 ### [FoundryVTT](https://foundryvtt.com/community/david-hudson/packages) Modules
 
-* [Starforged Custom Oracles](https://foundryvtt.com/packages/starforged-custom-oracles)
+* [Starforged Custom Compendiums](https://foundryvtt.com/packages/starforged-custom-oracles)
 * [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
