@@ -75,7 +75,7 @@ Macros for Starship Registry Number, Dice rolling and NPC generation can be foun
     * `Recursos Personalizados` - ES
     * `Ressources personnalisées` - FR
     * `Własne Aspekty` - PL
-  * Open the `Starsmith Assets` and the `Starsmith Mecha Mercs Assets` compendiums and copy the Items into the `Items` `Custom Assets` folder.
+  * Open the `Starsmith Assets` compendium and the `Starsmith Mecha Mercs Assets` compendiums and copy the Items into the `Items` `Custom Assets` folder.
     * ![Items - Custom Assets](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-assets-items.jpg?raw=true)
   * The Assets will be available in the Character sheet under `Custom Assets`.
     * ![Character Sheet - Custom Assets](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-assets-character-sheet.jpg?raw=true)
