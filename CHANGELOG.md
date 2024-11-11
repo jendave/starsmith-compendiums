@@ -1,5 +1,7 @@
 # Changelog
 
+[Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
+
 ## [2.3.3](https://github.com/jendave/starsmith-compendiums/commits/main) (2024-11-10)
 
 * Added helper macros for Ask the Oracle by benstraub.
