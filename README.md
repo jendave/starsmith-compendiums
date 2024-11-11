@@ -109,7 +109,9 @@ Original oracles by Shawn Tomkin from [Ironsworn: Starforged](https://tomkinpres
 
 Module by David Hudson and licensed for use under the [MIT license](https://opensource.org/license/mit/).
 
-The Starship Registry number generator macro was contributed by @el_reverend (Discord).
+Starship Registry number generator macro was contributed by @el_reverend (Discord).
+
+Ask the Oracle macros were contributed by Ben Straub.
 
 Licenses and permissions for the macros are listed in the source code.
 
@@ -138,6 +140,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Ironsmith Expanded Oracles for Ironsworn](https://foundryvtt.com/packages/ironsmith-expanded-oracles)
 * [Augmented Reality Cyberpunk City Kit](https://foundryvtt.com/packages/augmented-reality-foundry)
 * [Token Note Hover](https://github.com/jendave/token-note-hover)
+* [Token Action HUD Ironsworn](https://foundryvtt.com/packages/token-action-hud-ironsworn)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
 
