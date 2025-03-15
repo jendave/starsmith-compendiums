@@ -2,6 +2,12 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [2.4.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2025-03-15)
+
+* [Pull Request from KitCat420](https://github.com/jendave/starsmith-compendiums/pull/17)
+  * Refactored Oracle tree insertion code.
+  * Added code internationalization to Starsmith Oracle tree names so languages other than English can be used.
+
 ## [2.3.4](https://github.com/jendave/starsmith-compendiums/commits/main) (2025-02-25)
 
 * Verified for Foundry v13.
