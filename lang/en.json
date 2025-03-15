@@ -1,0 +1,386 @@
+{
+  "STARSMITH": {
+    "launching_your_campaign": {
+      "character": {
+        "starship": {
+          "history_label": "Giving the Starship a History (Starsmith)",
+          "quirks_label": "Envision the Starship (Starsmith)"
+        },
+        "backstory_label": "Step 3: Create Your Backstory (Starsmith)"
+      },
+      "starting_sector": {
+        "trouble_label": "Step 10: Introduce a Sector Trouble (Starsmith)"
+      },
+      "adventure": {
+        "inciting_incident_label": "Step 1: Envision an Inciting Incident (Starsmith)"
+      }
+    },
+    "character": {
+      "name": {
+        "given_name_label": "Given Name (Starsmith)",
+        "callsign_label": "Callsign (Starsmith)",
+        "family_name_label": "Family Name (Starsmith)"
+      },
+      "first_look_label": "First Look (Starsmith)",
+      "initial_disposition_label": "Initial Disposition (Starsmith)",
+      "role_label": "Character Role (Starsmith)",
+      "goal_label": "Character Goal (Starsmith)",
+      "revealed_aspect_label": "Revealed Character Aspect (Starsmith)",
+      "random_npc_conversation_label": "Random NPC Conversation (Starsmith)",
+      "npc_plot_knowledge_type_label": "NPC Plot Knowledge: Type",
+      "npc_plot_knowledge_topic_label": "NPC Plot Knowledge: Topic"
+    },
+    "core": {
+      "action_label": "Action (Starsmith)",
+      "theme_label": "Theme (Starsmith)",
+      "descriptor_label": "Descriptor (Starsmith)",
+      "focus_label": "Focus (Starsmith)"
+    },
+    "creature": {
+      "first_look_label": "First Look (Starsmith)",
+      "encountered_behavior_label": "Encountered Behavior (Starsmith)",
+      "revealed_aspect_label": "Revealed Creature Aspect (Starsmith)"
+    },
+    "derelict": {
+      "outer_first_look_label": "Outer First Look (Starsmith)",
+      "inner_first_look_label": "Inner First Look (Starsmith)",
+      "zones_label": "Zones"
+    },
+    "district_label": "District Oracles",
+    "district": {
+      "access_label": "Access",
+      "access": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "community_label": "Community",
+      "community": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "engineering_label": "Engineering",
+      "engineering": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "living_label": "Living",
+      "living": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "medical_label": "Medical",
+      "medical": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "operations_label": "Operations",
+      "operations": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "production_label": "Production",
+      "production": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "research_label": "Research",
+      "research": {
+        "area_label": "Area",
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      }
+    },
+    "faction": {
+      "name": {
+        "legacy_label": "Legacy (Starsmith)",
+        "affiliation_label": "Affiliation (Starsmith)",
+        "identity_label": "Identity (Starsmith)"
+      },
+      "type_label": "Faction Type (Starsmith)",
+      "dominion_label": "Dominion (Starsmith)",
+      "dominion_leadership_label": "Dominion Leadership (Starsmith)",
+      "guild_label": "Guild (Starsmith)",
+      "fringe_group_label": "Fringe Group (Starsmith)",
+      "projects_label": "Faction Project (Starsmith)",
+      "relationships_label": "Faction Relationship (Starsmith)",
+      "quirks_label": "Faction Quirk (Starsmith)",
+      "rumors_label": "Faction Rumor (Starsmith)",
+      "corporation_field_label": "Corporation: Field",
+      "research_field_of_study_label": "Research: Field Of Study"
+    },
+    "location_theme": {
+      "arid_label": "Arid",
+      "arid": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "chronal_label": "Chronal",
+      "chronal": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "floating_label": "Floating",
+      "floating": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "flooded_label": "Flooded",
+      "flooded": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "frozen_label": "Frozen",
+      "frozen": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "inferno_label": "Inferno",
+      "inferno": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "lifeform_label": "Lifeform",
+      "lifeform": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "mystical_label": "Mystical",
+      "mystical": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "overgrown_label": "Overgrown",
+      "overgrown": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "war_zone_label": "War Zone",
+      "war_zone": {
+        "feature_label": "Feature",
+        "peril_label": "Peril",
+        "opportunity_label": "Opportunity"
+      },
+      "type_label": "Theme Type (Starsmith)"
+    },
+    "misc": {
+      "story_complication_label": "Story Complication (Starsmith)",
+      "story_clue_label": "Story Clue (Starsmith)",
+      "anomaly_effect_label": "Anomaly Effect (Starsmith)",
+      "combat_action_label": "Combat Action (Starsmith)",
+      "item_of_significance_label": "Item of Significance (Starsmith)"
+    },
+    "move_label": "Move Oracles",
+    "move": {
+      "make_a_discovery_label": "Make a Discovery",
+      "confront_chaos_label": "Confront Chaos",
+      "pay_the_price_label": "Pay the Price"
+    },
+    "planet": {
+      "shattered": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "ice": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "jovian": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "vital": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)",
+        "quick_flora_plant_type_label": "Quick Flora Plant Type",
+        "quick_flora_characteristics_label": "Quick Flora Characteristics",
+        "quick_flora_first_look_label": "Quick Flora First Look"
+      },
+      "desert": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "tainted": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "grave": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "furnace": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "rocky": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "ocean": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "jungle": {
+        "name_label": "Sample Names (Starsmith)",
+        "observed_from_space_label": "Observed from Space (Starsmith)",
+        "feature_label": "Planetside Feature (Starsmith)"
+      },
+      "peril": {
+        "lifebearing_label": "Lifebearing (Starsmith)",
+        "lifeless_label": "Lifeless (Starsmith)"
+      },
+      "opportunity": {
+        "lifebearing_label": "Lifebearing (Starsmith)",
+        "lifeless_label": "Lifeless (Starsmith)"
+      }
+    },
+    "settlement": {
+      "location_label": "Location (Starsmith)",
+      "first_look_label": "First Look (Starsmith)",
+      "initial_contact_label": "Initial Contact (Starsmith)",
+      "authority_label": "Authority (Starsmith)",
+      "projects_label": "Settlement Projects (Starsmith)",
+      "trouble_label": "Settlement Trouble (Starsmith)",
+      "name_label": "Settlement Name (Starsmith)"
+    },
+    "starship": {
+      "mission": {
+        "terminus_label": "Terminus (Starsmith)",
+        "outlands_label": "Outlands (Starsmith)",
+        "expanse_label": "Expanse (Starsmith)"
+      },
+      "registry_number_initials_label": "Registry Number Initials",
+      "registry_number_model_label": "Registry Number Model",
+      "type_label": "Starship Type (Starsmith)",
+      "fleet_label": "Fleet (Starsmith)",
+      "initial_contact_label": "Initial Contact (Starsmith)",
+      "first_look_label": "First Look (Starsmith)",
+      "name_label": "Starship Name (Starsmith)"
+    },
+    "precursor_vault": {
+      "interior": {
+        "first_look_label": "Inner First Look (Starsmith)",
+        "feature_label": "Interior Feature (Starsmith)",
+        "peril_label": "Interior Peril (Starsmith)",
+        "opportunity_label": "Interior Opportunity (Starsmith)"
+      },
+      "sanctum": {
+        "purpose_label": "Vault Purpose (Starsmith)",
+        "feature_label": "Sanctum Feature (Starsmith)",
+        "peril_label": "Sanctum Peril (Starsmith)",
+        "opportunity_label": "Sanctum Opportunity (Starsmith)"
+      },
+      "form_label": "Form (Starsmith)",
+      "shape_label": "Shape (Starsmith)",
+      "material_label": "Material (Starsmith)",
+      "outer_first_look_label": "Outer First Look (Starsmith)"
+    },
+    "culture_label": "Culture Oracles",
+    "culture": {
+      "alien_label": "Cultures Alien",
+      "alien": {
+        "xenoanthropology_label": "Xenoanthropology",
+        "xenoanthropology": {
+          "alien_traditions_label": "Alien Traditions",
+          "alien_values_label": "Alien Values",
+          "civilization_age_label": "Civilization Age",
+          "random_alien_names_label": "Random Alien Names",
+          "technology_level_label": "Technology Level"
+        },
+        "xenobiology_label": "Xenobiology",
+        "xenobiology": {
+          "specific_form_label": "Specific Form",
+          "specific_form": {
+            "aquatic_label": "Aquatic",
+            "avian_label": "Avian",
+            "beast_mammal_label": "Beast, Mammal",
+            "beast_reptile_label": "Beast, Reptile",
+            "elemental_energy_matter_label": "Elemental Energy or Matter",
+            "gelatinous_amorphous_label": "Gelatinous or Amorphous",
+            "insect_arachnid_label": "Insect or Arachnid",
+            "mechanical_humanoid_label": "Mechanical or Humanoid",
+            "necrotic_parasitic_label": "Necrotic or Parasitic",
+            "plant_fungus_label": "Plant or Fungus"
+          },
+          "basic_form_label": "Basic Form",
+          "childbearing_method_label": "Childbearing Method",
+          "communication_method_label": "Communication Method",
+          "random_alien_names_label": "Random Alien Names",
+          "reproduction_method_label": "Reproduction Method",
+          "sensory_perception_label": "Sensory Perception",
+          "strange_alien_quality_label": "Strange Alien Quality Involving..."
+        }
+      },
+      "familiar_label": "Cultures Familiar",
+      "familiar": {
+        "cultural_tradition_label": "Cultural Tradition",
+        "cultural_tradition": {
+          "common_symbols_of_traditions_label": "Common Symbols of Traditions",
+          "tradition_category_label": "Tradition Category"
+        },
+        "culture_label": "Culture",
+        "culture": {
+          "government_structure_label": "Government Structure",
+          "primary_cultural_value_label": "Primary Cultural Value",
+          "societal_flaw_label": "Societal Flaw"
+        },
+        "dimensions_of_cultures_label": "Dimensions of Cultures",
+        "dimensions_of_cultures": {
+          "competitive_label": "Competitive",
+          "individualism_label": "Individualism",
+          "long_term_orientation_label": "Long-Term Orientation",
+          "power_distance_label": "Power Distance",
+          "restraint_label": "Restraint",
+          "uncertainty_avoidance_label": "Uncertainty Avoidance"
+        }
+      }
+    },
+    "space": {
+      "sighting": {
+        "terminus_label": "Terminus (Starsmith)",
+        "outlands_label": "Outlands (Starsmith)",
+        "expanse_label": "Expanse (Starsmith)"
+      },
+      "sector_name": {
+        "prefix_label": "Prefix (Starsmith)",
+        "suffix_label": "Suffix (Starsmith)"
+      },
+      "stellar_object_label": "Stellar Object (Starsmith)",
+      "peril_label": "Spaceborne Peril (Starsmith)",
+      "opportunity_label": "Spaceborne Opportunity (Starsmith)"
+    }
+  }
+}

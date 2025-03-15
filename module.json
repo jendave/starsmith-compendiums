@@ -116,6 +116,13 @@
   "esmodules": [
     "./esmodules/oracles.js"
   ],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "manifest": "#{MANIFEST}#",
   "url": "#{URL}#",
   "download": "#{DOWNLOAD}#",
