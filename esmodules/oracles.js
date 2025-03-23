@@ -2,15 +2,17 @@ Hooks.once("init", async () => {
     // CONFIG.debug.hooks = true;
     const debouncedReload = foundry.utils.debounce(() => window.location.reload(), 100);
     console.log('starsmith-expanded-oracles | Initializing Starsmith Expanded Oracles');
-    game.settings.register('starsmith-expanded-oracles', 'enableOraclesInTree', {
-        name: 'Enable Oracles in Default Tree',
-        hint: 'Enable Oracles in the character sheet tree. The Starforged ruleset must also be enabled.',
-        scope: 'world',
-        config: true,
-        type: Boolean,
-        default: true,
-        onChange: debouncedReload
-    });
+    if (game.data.system.id === 'foundry-ironsworn') {
+        game.settings.register('starsmith-expanded-oracles', 'enableOraclesInTree', {
+            name: 'Enable Oracles in Default Tree',
+            hint: 'Enable Oracles in the character sheet tree. The Starforged ruleset must also be enabled.',
+            scope: 'world',
+            config: true,
+            type: Boolean,
+            default: true,
+            onChange: debouncedReload
+        });
+    }
 });
 
 const oracleData = {
@@ -406,12 +408,14 @@ function mergeOracleTrees(target, source, path) {
 }
 
 Hooks.once("ironswornOracleTreesReady", async () => {
+    if (game.data.system.id === 'foundry-ironsworn') {
         if (game.settings.get('starsmith-expanded-oracles', 'enableOraclesInTree') && game.settings.get('foundry-ironsworn', 'ruleset-starforged')) {
             const starforgedOracles = CONFIG.IRONSWORN.getOracleTree('starforged');
 
             mergeOracleTrees(starforgedOracles.children, oracleData, "STARSMITH.");
-
+            
             CONFIG.IRONSWORN.registerOracleTree('starforged', starforgedOracles)
         }
     }
+}
 );

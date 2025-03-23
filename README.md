@@ -28,6 +28,7 @@ FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by
 * Tables that are simply copies of official Starforged tables without the array (some planet and several of the derelict tables for example) are not included since they would be redundant with the standard Starforged System tables.
 * Assets can be imported and used on the character sheet.
 * Truths can be imported into the Journal tab.
+* The Oracle/Rolltable compendiums are system-agnostic. The other compendiums are only available for the [Ironsworn & Starforged](https://foundryvtt.com/packages/foundry-ironsworn).
 
 ## Module Installation
 

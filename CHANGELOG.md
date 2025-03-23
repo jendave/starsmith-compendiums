@@ -2,6 +2,10 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [2.4.1](https://github.com/jendave/starsmith-compendiums/commits/main) (2025-03-23)
+
+* The Oracles/Rolltables are now system-agnostic.
+
 ## [2.4.0](https://github.com/jendave/starsmith-compendiums/commits/main) (2025-03-15)
 
 * [Pull Request from KitCat420](https://github.com/jendave/starsmith-compendiums/pull/17)

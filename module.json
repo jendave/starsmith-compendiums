@@ -24,8 +24,7 @@
       "name": "starsmithexpandedoracles",
       "label": "Starsmith Expanded Oracles",
       "path": "./packs/starsmith-expanded-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "starsmithexpandedoraclesmacros",
@@ -66,8 +65,7 @@
       "name": "starsmithculturesoracles",
       "label": "Starsmith Cultures Oracles",
       "path": "./packs/starsmith-cultures-oracles",
-      "type": "RollTable",
-      "system": "foundry-ironsworn"
+      "type": "RollTable"
     },
     {
       "name": "starsmithculturestruths",
@@ -131,16 +129,6 @@
   "readme": "https://raw.githubusercontent.com/jendave/starsmith-compendiums/main/README.md",
   "bugs": "https://github.com/jendave/starsmith-compendiums/issues",
   "relationships": {
-    "systems": [
-      {
-        "id": "foundry-ironsworn",
-        "type": "system",
-        "manifest": "https://github.com/ben/foundry-ironsworn/releases/latest/download/system.json",
-        "compatibility": {
-          "minimum": "1.24.1",
-          "verified": "1.24"
-        }
-      }
-    ]
+    "systems": []
   }
 }
