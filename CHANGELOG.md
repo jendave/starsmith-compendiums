@@ -2,7 +2,7 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
-## [2.5.0](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-xx)
+## [2.5.0](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-17)
 
 * Added a macro to `Build Starting Sector`. For full functionality, include the following modules:
   * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
