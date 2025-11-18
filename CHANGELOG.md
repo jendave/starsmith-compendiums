@@ -9,7 +9,7 @@
   * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
   * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
 * Added sample macro to create passages between settlements from the [fantasycomputer.works](https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked) tutorial.
-* Minumum supported version is Foundry v13.
+* Minimum supported version is Foundry v13.
 
 ## [2.4.1](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2025-03-23)
 
