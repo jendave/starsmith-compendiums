@@ -94,6 +94,20 @@ Macros for Starship Registry Number, Dice rolling and NPC generation can be foun
     * ![Character Sheet - Custom Moves](https://github.com/jendave/starsmith-compendiums/blob/main/docs/custom-moves-character-sheet.jpg?raw=true)
 * For Truths, copy the Journal entries from the `Starsmith Mecha Mercs Truths` and `Starsmith Cultures` compendiums to the `Journal` tab.
 
+### Macros
+
+* Drag and drop macros from the `Starsmith Expanded Oracles Macros` compendium to the macro bar. Macros use the current `Roll Mode` when executed.
+
+#### Build Starting Sector Macro
+
+* Try out the [starting sector generation macro](https://github.com/jendave/starsmith-compendiums/blob/main/src/macros/build-starting-sector.js) to generate an entire starting sector with settlements, planets, stars, passages and a connection. It is located in the Look for it in the `Starsmith Expanded Oracles Macros` Compendium.
+* For full functionality, include the following modules:
+  * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
+  * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
+  * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
+  
+![Animated preview of Build Starting Sector Macro](https://github.com/jendave/starforged-custom-compendiums/blob/main/docs/build-starting-sector-macro.gif?raw=true)
+
 ## Troubleshooting
 
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.

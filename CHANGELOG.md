@@ -2,6 +2,15 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [2.5.0](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-xx)
+
+* Added a macro to `Build Starting Sector`. For full functionality, include the following modules:
+  * [Token Attacher](https://foundryvtt.com/packages/token-attacher) - for attaching planets to settlements.
+  * [JB2A - Jules&Ben's Animated Assets](https://foundryvtt.com/packages/JB2A_DnD5e) - for creating passages between settlements.
+  * [Sequencer](https://foundryvtt.com/packages/sequencer) - for creating passages between settlements.
+* Added sample macro to create passages between settlements from the [fantasycomputer.works](https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked) tutorial.
+* Minumum supported version is Foundry v13.
+
 ## [2.4.1](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2025-03-23)
 
 * The Oracles/Rolltables are now system-agnostic.
