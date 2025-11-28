@@ -132,6 +132,8 @@ Ask the Oracle macros were contributed by Ben Straub.
 
 Licenses and permissions for the macros are listed in the source code.
 
+[game-icons.net](https://game-icons.net/) are licensed under the [Creative Commons Attribution 3.0 Unported](https://creativecommons.org/licenses/by/3.0/).
+
 ## Acknowledgements
 
 Created for the incredible [Ironsworn and Ironsworn: Starforged](https://tomkinpress.com/) family of games.
