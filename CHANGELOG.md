@@ -2,6 +2,10 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [2.5.3](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2026-02-27)
+
+* Fixed formatting of `Mecha Mercs Truths` and `Cultures Truths`.
+
 ## [2.5.2](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2026-02-26)
 
 * Verified for version v14.
