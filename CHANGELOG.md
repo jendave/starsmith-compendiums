@@ -2,6 +2,10 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [2.5.2](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2026-02-26)
+
+* Verified for version v14.
+
 ## [2.5.1](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2025-11-28)
 
 * Added icons from [game-icons.net](https://game-icons.net/) to Starsmith assets.
