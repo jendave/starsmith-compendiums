@@ -14,7 +14,7 @@ FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by
 * [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
 * [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
 * [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
-* [GitHub Repository](https://github.com/jendave/augmented-reality-foundry)
+* [GitHub Repository](https://github.com/jendave/starsmith-compendiums)
 * [Itch.io](https://jendave.itch.io/)
 
 ## Features and Notes
