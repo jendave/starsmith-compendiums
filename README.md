@@ -9,14 +9,6 @@
 
 FoundryVTT compendiums of the Starsmith supplements for Ironsworn: Starforged by Eric Bright.
 
-## Contact
-
-* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
-* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
-* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
-* [GitHub Repository](https://github.com/jendave/starsmith-compendiums)
-* [Itch.io](https://jendave.itch.io/)
-
 ## Features and Notes
 
 * Oracles, Assets, Moves and Foes from the PDFs are included.
@@ -112,6 +104,14 @@ Macros for Starship Registry Number, Dice rolling and NPC generation can be foun
 
 * Due to changes in version `2.0.0`, uninstalling and re-installing the module may be needed.
 
+## Contact
+
+* [Ironsworn/Starforged Discord Server - FoundryVTT Channel](https://discord.com/channels/437120373436186625/867434336201605160) (jendave)
+* [FoundryVTT Discord Server - Module Discussion Channel](https://discord.com/channels/170995199584108546/513918036919713802) (jendave)
+* [VOID Affiliate Network Discord Server - Game Hacks Channel](https://discord.com/channels/1222986351272787990/1222986351792619687) (jendave)
+* [GitHub Repository](https://github.com/jendave/starsmith-compendiums)
+* [Itch.io](https://jendave.itch.io/)
+
 ## Credits
 
 [Starsmith Expanded Oracles](https://www.drivethrurpg.com/product/417619/Starsmith-Expanded-Oracles) by Eric Bright is licensed for use under the [Creative Commons Attribution 4.0 International License (CC-BY)](https://creativecommons.org/licenses/by/4.0/).
@@ -164,6 +164,7 @@ Please check out my other modules and resources for Ironsworn, Ironsworn: Starfo
 * [Ancient Wonders](https://foundryvtt.com/packages/ancient-wonders)
 * [Rise & Shiningstar - An Adventure for Ironsworn: Starforged](https://foundryvtt.com/packages/rise-and-shining-star)
 * [Roll Table Importer](https://foundryvtt.com/packages/roll-table-importer)
+* [Ironsworn Impacts](https://foundryvtt.com/packages/ironsworn-impacts)
 
 ### [Itch.io](https://jendave.itch.io/) Resources
 
