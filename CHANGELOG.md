@@ -2,6 +2,12 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [2.6.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-07-10)
+
+* Create build process.
+* Create compendiums from JSON.
+* Fixed names of original "Expanded" compendiums to match naming convention.
+
 ## [2.5.3](https://github.com/jendave/starsmith-compendiums/blob/main/CHANGELOG.md) (2026-02-27)
 
 * Fixed formatting of `Mecha Mercs Truths` and `Cultures Truths`.
