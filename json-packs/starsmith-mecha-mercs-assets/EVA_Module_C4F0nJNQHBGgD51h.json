@@ -1,0 +1,54 @@
+{
+  "type": "asset",
+  "folder": "2aCuqfE0tm3YDPWk",
+  "name": "EVA Module",
+  "system": {
+    "requirement": "",
+    "category": "Mech Module",
+    "color": "#883529",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your mech is equipped with maneuvering thrusters and pressurized for activity in space or underwater.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/space-suit.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110938268,
+    "modifiedTime": 1764319338482,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "C4F0nJNQHBGgD51h",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!C4F0nJNQHBGgD51h"
+}

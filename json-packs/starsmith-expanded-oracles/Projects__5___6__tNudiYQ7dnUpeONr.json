@@ -1,0 +1,522 @@
+{
+  "name": "Projects (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Water supply",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "I1TeSJj1wc62PGIz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.I1TeSJj1wc62PGIz"
+    },
+    {
+      "text": "Beautification",
+      "range": [
+        6,
+        7
+      ],
+      "_id": "cQLJPvDe0DGwKgId",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.cQLJPvDe0DGwKgId"
+    },
+    {
+      "text": "Job creation",
+      "range": [
+        8,
+        9
+      ],
+      "_id": "tiI9f7EByxaWSJMT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.tiI9f7EByxaWSJMT"
+    },
+    {
+      "text": "Economy building",
+      "range": [
+        10,
+        11
+      ],
+      "_id": "tiJId4Yfe19p9SUI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.tiJId4Yfe19p9SUI"
+    },
+    {
+      "text": "Restructuring command",
+      "range": [
+        12,
+        13
+      ],
+      "_id": "LEEiK7sHNQnro04z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.LEEiK7sHNQnro04z"
+    },
+    {
+      "text": "Spaceport",
+      "range": [
+        14,
+        17
+      ],
+      "_id": "FoDsKsTfyHLs9AYc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.FoDsKsTfyHLs9AYc"
+    },
+    {
+      "text": "Pollution control",
+      "range": [
+        18,
+        22
+      ],
+      "_id": "GAjMvSXNo4Piubec",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.GAjMvSXNo4Piubec"
+    },
+    {
+      "text": "Technology",
+      "range": [
+        23,
+        25
+      ],
+      "_id": "sKSG9ZmkzIbuma4S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.sKSG9ZmkzIbuma4S"
+    },
+    {
+      "text": "Mindfulness",
+      "range": [
+        26,
+        27
+      ],
+      "_id": "8L6l3CDFidxcoStU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.8L6l3CDFidxcoStU"
+    },
+    {
+      "text": "Soil health",
+      "range": [
+        28,
+        29
+      ],
+      "_id": "Gi8RQm4zMkI6VKGs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.Gi8RQm4zMkI6VKGs"
+    },
+    {
+      "text": "Emergency planning",
+      "range": [
+        30,
+        31
+      ],
+      "_id": "w3ZB8q6AF1B8TZqx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.w3ZB8q6AF1B8TZqx"
+    },
+    {
+      "text": "Territory withdrawal",
+      "range": [
+        32,
+        33
+      ],
+      "_id": "sMlSCLlKSNfsbkUd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.sMlSCLlKSNfsbkUd"
+    },
+    {
+      "text": "Resource surveying",
+      "range": [
+        34,
+        37
+      ],
+      "_id": "AacXapx37U45zVMI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.AacXapx37U45zVMI"
+    },
+    {
+      "text": "Political ceremony",
+      "range": [
+        38,
+        39
+      ],
+      "_id": "k37Z27kDrhxTzzra",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.k37Z27kDrhxTzzra"
+    },
+    {
+      "text": "Journalism",
+      "range": [
+        40,
+        41
+      ],
+      "_id": "OooNvgKnRCnqUZtZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.OooNvgKnRCnqUZtZ"
+    },
+    {
+      "text": "Population growth",
+      "range": [
+        42,
+        43
+      ],
+      "_id": "xOcNoUXvhd6edVLO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.xOcNoUXvhd6edVLO"
+    },
+    {
+      "text": "Industrialization",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "clHR79vlOgn1BvvH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.clHR79vlOgn1BvvH"
+    },
+    {
+      "text": "Community health",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "tRumleZk7b43WErj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.tRumleZk7b43WErj"
+    },
+    {
+      "text": "Habitat building",
+      "range": [
+        50,
+        51
+      ],
+      "_id": "ov1hOTv7WXPoSZVA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.ov1hOTv7WXPoSZVA"
+    },
+    {
+      "text": "Resource management",
+      "range": [
+        52,
+        57
+      ],
+      "_id": "KCqL3OyBxEwa66Ao",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.KCqL3OyBxEwa66Ao"
+    },
+    {
+      "text": "Weather manipulation",
+      "range": [
+        58,
+        59
+      ],
+      "_id": "3RRjnzcv7gPTSA8W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.3RRjnzcv7gPTSA8W"
+    },
+    {
+      "text": "Demolition",
+      "range": [
+        60,
+        62
+      ],
+      "_id": "VJHEZoXqjG8EnUhg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.VJHEZoXqjG8EnUhg"
+    },
+    {
+      "text": "Data mining",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "hSEOOCnkONsc8Dmr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.hSEOOCnkONsc8Dmr"
+    },
+    {
+      "text": "Reclamation",
+      "range": [
+        66,
+        69
+      ],
+      "_id": "OZR4tbPsYEMa46Ih",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.OZR4tbPsYEMa46Ih"
+    },
+    {
+      "text": "Intelligence gathering",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "iIyhIdQziJFN3DMB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.iIyhIdQziJFN3DMB"
+    },
+    {
+      "text": "Eidolon drive upgrades",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "UiVHkdjNTpwHkHVz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.UiVHkdjNTpwHkHVz"
+    },
+    {
+      "text": "Encouraging diversity",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "VzY1pLpdpA3rz2rA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.VzY1pLpdpA3rz2rA"
+    },
+    {
+      "text": "Nutrition",
+      "range": [
+        79,
+        84
+      ],
+      "_id": "GPrQP2Ci2eZ3ztUW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.GPrQP2Ci2eZ3ztUW"
+    },
+    {
+      "text": "Defining authority",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "AQVohAyobjMy7eJB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.AQVohAyobjMy7eJB"
+    },
+    {
+      "text": "Warmongering",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "ya9iUtLSP9lQQGu0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.ya9iUtLSP9lQQGu0"
+    },
+    {
+      "text": "Connecting settlements",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "wtFykvxmGly58JVY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.wtFykvxmGly58JVY"
+    },
+    {
+      "text": "Alliance building",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "7OtCAfhWM8hHWRh9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.7OtCAfhWM8hHWRh9"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "qS0nOzgv7vQpwFhh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tNudiYQ7dnUpeONr.qS0nOzgv7vQpwFhh"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Check the Settlement Projects table when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site—particularly at a large settlement—but are the most visible or noteworthy aspects.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676424411,
+    "modifiedTime": 1699036604820,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "tNudiYQ7dnUpeONr",
+  "sort": 398438,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!tNudiYQ7dnUpeONr"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Uncertainty Avoidance",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Society is more relaxed and rolls with the punches",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "oX8jnMMwrf0Ze9Hu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!UpBeEupz4qfPUp23.oX8jnMMwrf0Ze9Hu"
+    },
+    {
+      "text": "People are willing to thoughtfully take risks",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "LM8AcmmbAy2siWXD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!UpBeEupz4qfPUp23.LM8AcmmbAy2siWXD"
+    },
+    {
+      "text": "Strict behavior codes provide unambiguous outcomes",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "7NcaW1RyColqtizw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!UpBeEupz4qfPUp23.7NcaW1RyColqtizw"
+    }
+  ],
+  "folder": "oD0dazVrvD3ZwkCK",
+  "sort": 2,
+  "_id": "UpBeEupz4qfPUp23",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This describes a society’s overall tolerance for ambiguity. A high degree of uncertainty avoidance is associated with strict codes of behavior and belief in an absolute truth that guides all other aspects of life. A low value is associated with more relaxed attitudes.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708140096011,
+    "modifiedTime": 1708147284452,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!UpBeEupz4qfPUp23"
+}

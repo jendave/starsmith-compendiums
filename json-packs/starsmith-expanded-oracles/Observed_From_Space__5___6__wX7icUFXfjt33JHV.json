@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Dried ocean beds",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "L3PCeXXUjDVqqzLY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.L3PCeXXUjDVqqzLY"
+    },
+    {
+      "text": "Giant duststorm",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "Ngy16CMc3deEpue0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.Ngy16CMc3deEpue0"
+    },
+    {
+      "text": "Planet has no rotation",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "3rNVEmlCxEVzYQrm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.3rNVEmlCxEVzYQrm"
+    },
+    {
+      "text": "Solitary moon",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "Ai5cj9D8r4lbo9yU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.Ai5cj9D8r4lbo9yU"
+    },
+    {
+      "text": "Super-dense core (high gravity)",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "PVL56DGTdiKIVGEk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.PVL56DGTdiKIVGEk"
+    },
+    {
+      "text": "System of concentric rings",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "qN8LXhYQkvS4O9Y7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.qN8LXhYQkvS4O9Y7"
+    },
+    {
+      "text": "Vast rocky desert",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "nj4D5Re1vzexZiPK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.nj4D5Re1vzexZiPK"
+    },
+    {
+      "text": "Visible fault lines",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "RpyG6J1WDvR3diPe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.RpyG6J1WDvR3diPe"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "ZhEq6BXQEccRhw1P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.ZhEq6BXQEccRhw1P"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "VGBf53FKRuKI7CDx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wX7icUFXfjt33JHV.VGBf53FKRuKI7CDx"
+    }
+  ],
+  "folder": "F2UgfneAghjUe29m",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676402003,
+    "modifiedTime": 1699054020712,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "wX7icUFXfjt33JHV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wX7icUFXfjt33JHV"
+}

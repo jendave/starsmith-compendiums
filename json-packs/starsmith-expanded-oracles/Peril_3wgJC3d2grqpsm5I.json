@@ -1,0 +1,192 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Accusations of espionage",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "dkfhDwcCjI7BjieX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.dkfhDwcCjI7BjieX"
+    },
+    {
+      "text": "Automated containment protocols",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "TAXECabdIMtyIwCG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.TAXECabdIMtyIwCG"
+    },
+    {
+      "text": "Dangerous specimen",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "fK9NKBz2LCwoGrQP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.fK9NKBz2LCwoGrQP"
+    },
+    {
+      "text": "Discovery used for ill",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "hC6sknN9GxtftkXx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.hC6sknN9GxtftkXx"
+    },
+    {
+      "text": "Disturbing outcome of a failed experiment",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "jIyVegV0vMKjzVZS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.jIyVegV0vMKjzVZS"
+    },
+    {
+      "text": "Evidence of sinister experiments",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "QnjL6yiHaVcfEDUQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.QnjL6yiHaVcfEDUQ"
+    },
+    {
+      "text": "Forced NDA or limited access",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "tU7HH10V2IRXDhMS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.tU7HH10V2IRXDhMS"
+    },
+    {
+      "text": "Legal infraction",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "TzqTWERt8RaVG9oE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.TzqTWERt8RaVG9oE"
+    },
+    {
+      "text": "Unstable technology",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "1EdD4qwFZseyoat6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.1EdD4qwFZseyoat6"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "XYUs3IatoI6IWBvG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.XYUs3IatoI6IWBvG"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "kKpwFilIEYH30ovz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.kKpwFilIEYH30ovz"
+    }
+  ],
+  "folder": "1B0kNT3mWZDFVFFC",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658165,
+    "modifiedTime": 1699035676938,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "3wgJC3d2grqpsm5I",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!3wgJC3d2grqpsm5I"
+}

@@ -1,0 +1,31 @@
+{
+  "name": "Generate Creature (Starsmith)",
+  "type": "script",
+  "author": "S0d41AhaDywX0Vut",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction randomArrayItem(array) {\n    const index = (Math.floor(Math.random() * array.length));\n    return array[index];\n}\n\nlet table = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.08527c8cf3635799\");\nlet roll = await table.roll();\nlet environment = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.62082688c94188a7\");\nroll = await table.roll();\nif (roll.roll.total == 100) {\n    table = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.ef130923fb734a55\");\n    roll = await table.roll();\n}\nlet scale = roll.results[0].text;\n\nlet creatureFormTable = \"\";\n\nswitch (environment) {\n    case \"Space\":\n        creatureFormTable = \"Compendium.foundry-ironsworn.starforgedoracles.RollTable.7971676f12fe9f85\";\n        break;\n    case \"Interior\":\n        creatureFormTable = \"Compendium.foundry-ironsworn.starforgedoracles.RollTable.34cf9b7731ec35df\";\n        break;\n    case \"Land\":\n        creatureFormTable = \"Compendium.foundry-ironsworn.starforgedoracles.RollTable.5dee17188d87278c\";\n        break;\n    case \"Liquid\":\n        creatureFormTable = \"Compendium.foundry-ironsworn.starforgedoracles.RollTable.3e5b84fccec6c789\";\n        break;\n    case \"Air\":\n        creatureFormTable = \"Compendium.foundry-ironsworn.starforgedoracles.RollTable.16fbeb54dfe52e19\";\n        break;\n    default:\n        creatureFormTable = \"Compendium.foundry-ironsworn.starforgedoracles.RollTable.5dee17188d87278c\";\n}\n\ntable = await fromUuid(creatureFormTable);\nroll = await table.roll();\nlet basicForm = roll.results[0].text;\n\nconst rollTablePrefix = \"Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.\";\nconst encounteredBehaviorArray = [\"lKHbFR2SJbazZyMM\", \"LcRLOp7oBP2zOiIT\", \"xOro3zYQOldpg6oK\"];\nconst firstLookArray = [\"B639ZC5GB4q8pjr1\", \"gUUm4VyBeD9TAxBk\", \"K0dEKmbAL3UIV0hG\"];\nconst creatureAspectArray = [\"se7xt3pePCsteqqW\", \"n2OENgk435wG7mS1\", \"P0xAOu6mSQjDOQE0\"];\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(firstLookArray));\nroll = await table.roll();\nlet firstLook1 = roll.results[0].text;\n\nroll = await table.roll();\nlet firstLook2 = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(encounteredBehaviorArray));\nroll = await table.roll();\nlet encounteredBehavior = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(creatureAspectArray));\nroll = await table.roll();\nlet creatureAspect1 = roll.results[0].text;\n\nroll = await table.roll();\nlet creatureAspect2 = roll.results[0].text;\n\nlet title = \"<h3><strong>Generate Creature (Starsmith)</strong></h3>\";\nlet message = \" Environment: \" + environment + \"<br> Scale:  \" + scale + \" <br> Basic Form: \" + basicForm + \" <br> First Look 1: \" + firstLook1 + \" <br> First Look 2: \" + firstLook2 + \" <br> Encountered Behavior:  \" + encounteredBehavior + \" <br> Creature Aspect 1: \" + creatureAspect1 + \" <br> Creature Aspect 2: \" + creatureAspect2;\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1698972196234,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "o3g6NWOEIUuEkwSm",
+  "sort": 800000,
+  "_key": "!macros!o3g6NWOEIUuEkwSm"
+}

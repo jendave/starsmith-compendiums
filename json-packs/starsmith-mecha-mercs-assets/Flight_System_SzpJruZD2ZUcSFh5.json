@@ -1,0 +1,54 @@
+{
+  "type": "asset",
+  "folder": "2aCuqfE0tm3YDPWk",
+  "name": "Flight System",
+  "system": {
+    "requirement": "",
+    "category": "Mech Module",
+    "color": "#883529",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your mech can hover mid-air, take flight in the atmosphere with the same maneuverability as a shuttle craft, travel at sub-light speeds when in space, make thrust-assisted leaps, and drop to a surface from altitude.<p><p>When you burn fuel to overcome a critical obstacle (decide after rolling), you may reroll any dice. If you do, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.0fcfea7696d1de15]{Sacrifice Resources} (-1).</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/rocket-flight.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110939664,
+    "modifiedTime": 1764319480863,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "SzpJruZD2ZUcSFh5",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!SzpJruZD2ZUcSFh5"
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Arcane knowledge in the wrong hands",
+      "range": [
+        1,
+        9
+      ],
+      "_id": "zWLIte3jzPHcluAS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.zWLIte3jzPHcluAS"
+    },
+    {
+      "text": "Important equipment malfunctions",
+      "range": [
+        10,
+        18
+      ],
+      "_id": "uVWcF3smZ4KSWNjI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.uVWcF3smZ4KSWNjI"
+    },
+    {
+      "text": "Lost in the illusions",
+      "range": [
+        19,
+        27
+      ],
+      "_id": "pdGTiE4P9nDXB1aF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.pdGTiE4P9nDXB1aF"
+    },
+    {
+      "text": "Magically locked areas",
+      "range": [
+        28,
+        36
+      ],
+      "_id": "S5EQ5nb3SNLr3sd7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.S5EQ5nb3SNLr3sd7"
+    },
+    {
+      "text": "Mystic energies growing unbounded",
+      "range": [
+        37,
+        45
+      ],
+      "_id": "7YbtE8vmyg1cxNaf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.7YbtE8vmyg1cxNaf"
+    },
+    {
+      "text": "Relic or artifact with a frightening cost",
+      "range": [
+        46,
+        54
+      ],
+      "_id": "O4Go5jRuqAqjSPV0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.O4Go5jRuqAqjSPV0"
+    },
+    {
+      "text": "Surges of wild magic",
+      "range": [
+        55,
+        63
+      ],
+      "_id": "zuL65MX5tnJURgDa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.zuL65MX5tnJURgDa"
+    },
+    {
+      "text": "Technological interfaces only respond to magic",
+      "range": [
+        64,
+        72
+      ],
+      "_id": "P4DQORTWdC3USVRa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.P4DQORTWdC3USVRa"
+    },
+    {
+      "text": "Temptations to unleash a darker force",
+      "range": [
+        73,
+        81
+      ],
+      "_id": "WGbTqT7HZQvdCQ18",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.WGbTqT7HZQvdCQ18"
+    },
+    {
+      "text": "Trapped by mystic energies",
+      "range": [
+        82,
+        90
+      ],
+      "_id": "TocdEUXuJPZycEhn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.TocdEUXuJPZycEhn"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "iXssaHGB29KsqZ0M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.iXssaHGB29KsqZ0M"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "DpVAXVNGT1zLbLIZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s9DxdLwfESICjln5.DpVAXVNGT1zLbLIZ"
+    }
+  ],
+  "folder": "ON4JbgHNhFhb81EP",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Arcane energies permeate this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676712190,
+    "modifiedTime": 1699036183444,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "s9DxdLwfESICjln5",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!s9DxdLwfESICjln5"
+}

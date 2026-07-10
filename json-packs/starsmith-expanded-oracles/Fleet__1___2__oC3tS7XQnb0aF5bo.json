@@ -1,0 +1,139 @@
+{
+  "name": "Fleet (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Battle fleet",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "MJeNDUQe5TVhOLP5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.MJeNDUQe5TVhOLP5"
+    },
+    {
+      "text": "Pirate wing",
+      "range": [
+        11,
+        25
+      ],
+      "_id": "LWVGzp4LubLSNH1n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.LWVGzp4LubLSNH1n"
+    },
+    {
+      "text": "Raider horde",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "HzWKUawV8Z7YVDSb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.HzWKUawV8Z7YVDSb"
+    },
+    {
+      "text": "Salvager hive",
+      "range": [
+        36,
+        50
+      ],
+      "_id": "w8OsVFJDE8sBtw4v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.w8OsVFJDE8sBtw4v"
+    },
+    {
+      "text": "Settler caravan",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "qoQUfvo1enr3XHPG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.qoQUfvo1enr3XHPG"
+    },
+    {
+      "text": "Trade caravan",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "hrFjSHGwEOaHPKnk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.hrFjSHGwEOaHPKnk"
+    },
+    {
+      "text": "Transport and escorts",
+      "range": [
+        71,
+        90
+      ],
+      "_id": "Ixxqe3Lho7Ttkx4G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.Ixxqe3Lho7Ttkx4G"
+    },
+    {
+      "text": "Starship Mission",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "qV0lzFOvgCgRFSS2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oC3tS7XQnb0aF5bo.qV0lzFOvgCgRFSS2"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461180,
+    "modifiedTime": 1693073570683,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "oC3tS7XQnb0aF5bo",
+  "sort": 44532,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!oC3tS7XQnb0aF5bo"
+}

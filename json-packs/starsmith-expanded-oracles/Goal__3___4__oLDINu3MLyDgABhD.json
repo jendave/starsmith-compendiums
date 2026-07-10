@@ -1,0 +1,627 @@
+{
+  "name": "Goal (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Achieve enlightenment",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "roZ0fp45XShwf1sv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.roZ0fp45XShwf1sv"
+    },
+    {
+      "text": "Attack a person",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "fyN1hSqurdkQ4Zja",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.fyN1hSqurdkQ4Zja"
+    },
+    {
+      "text": "Be a hero",
+      "range": [
+        5,
+        7
+      ],
+      "_id": "mOK3TNCP4s7go3Pr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.mOK3TNCP4s7go3Pr"
+    },
+    {
+      "text": "Be loved by all",
+      "range": [
+        8,
+        10
+      ],
+      "_id": "0QDwMklLOUJkZwW5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.0QDwMklLOUJkZwW5"
+    },
+    {
+      "text": "Blackmail a person",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "tBsBADKUZr57NN7n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.tBsBADKUZr57NN7n"
+    },
+    {
+      "text": "Bring order to chaos",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "ZjtY5v6ulYF1W4Wn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.ZjtY5v6ulYF1W4Wn"
+    },
+    {
+      "text": "Build a better life",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "pjA0LFP5LBwywdPi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.pjA0LFP5LBwywdPi"
+    },
+    {
+      "text": "Challenge a law",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "25UZWxIavPtbzGv7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.25UZWxIavPtbzGv7"
+    },
+    {
+      "text": "Clear a person's name",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "PH2fVU1zCaOhR9gM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.PH2fVU1zCaOhR9gM"
+    },
+    {
+      "text": "Combat poverty",
+      "range": [
+        21,
+        23
+      ],
+      "_id": "RB32RRgk4Ht8bhWt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.RB32RRgk4Ht8bhWt"
+    },
+    {
+      "text": "Create art",
+      "range": [
+        24,
+        25
+      ],
+      "_id": "CwKRjAiQzSMHVkXG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.CwKRjAiQzSMHVkXG"
+    },
+    {
+      "text": "Defeat a foe",
+      "range": [
+        26,
+        27
+      ],
+      "_id": "oe4fENlWC9AjjVIk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.oe4fENlWC9AjjVIk"
+    },
+    {
+      "text": "Destroy an object",
+      "range": [
+        28,
+        29
+      ],
+      "_id": "1B7u1nnsZoLOFtfR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.1B7u1nnsZoLOFtfR"
+    },
+    {
+      "text": "Discredit a person",
+      "range": [
+        30,
+        31
+      ],
+      "_id": "ek84Iu2aAin01lxq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.ek84Iu2aAin01lxq"
+    },
+    {
+      "text": "Establish reputation",
+      "range": [
+        32,
+        33
+      ],
+      "_id": "vyD2sLBFBo46sv9g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.vyD2sLBFBo46sv9g"
+    },
+    {
+      "text": "Explore and discover",
+      "range": [
+        34,
+        35
+      ],
+      "_id": "sJTVB4ejw0CALOw8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.sJTVB4ejw0CALOw8"
+    },
+    {
+      "text": "Find a safe place to live",
+      "range": [
+        36,
+        37
+      ],
+      "_id": "Q9Wn1SUGmR3cR4lB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.Q9Wn1SUGmR3cR4lB"
+    },
+    {
+      "text": "Find an artifact",
+      "range": [
+        38,
+        39
+      ],
+      "_id": "XBbmJ4vvdZHJFEPy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.XBbmJ4vvdZHJFEPy"
+    },
+    {
+      "text": "Find their true past",
+      "range": [
+        40,
+        41
+      ],
+      "_id": "Cz53ENb6vLwMDXU3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.Cz53ENb6vLwMDXU3"
+    },
+    {
+      "text": "Gain approval",
+      "range": [
+        42,
+        43
+      ],
+      "_id": "W6oLn4mNzIPyeDNU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.W6oLn4mNzIPyeDNU"
+    },
+    {
+      "text": "Gain followers",
+      "range": [
+        44,
+        45
+      ],
+      "_id": "qxufEOB5XdteC7Yq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.qxufEOB5XdteC7Yq"
+    },
+    {
+      "text": "Get revenge",
+      "range": [
+        46,
+        47
+      ],
+      "_id": "GwShgqgEbRcE1vmD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.GwShgqgEbRcE1vmD"
+    },
+    {
+      "text": "Have food to eat",
+      "range": [
+        48,
+        49
+      ],
+      "_id": "lqPjFv14E0yqyBCa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.lqPjFv14E0yqyBCa"
+    },
+    {
+      "text": "Hide a person",
+      "range": [
+        50,
+        51
+      ],
+      "_id": "fcQY11I6m3mWSK0w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.fcQY11I6m3mWSK0w"
+    },
+    {
+      "text": "Indulge in pleasure",
+      "range": [
+        52,
+        53
+      ],
+      "_id": "n2xV1LTU6dtaOCEE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.n2xV1LTU6dtaOCEE"
+    },
+    {
+      "text": "Liberate those in bondage",
+      "range": [
+        54,
+        55
+      ],
+      "_id": "rH64pOHS4l1Fh5Q0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.rH64pOHS4l1Fh5Q0"
+    },
+    {
+      "text": "Make small impacts",
+      "range": [
+        56,
+        57
+      ],
+      "_id": "TTb8TyGDEii5vF7f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.TTb8TyGDEii5vF7f"
+    },
+    {
+      "text": "Personal development",
+      "range": [
+        58,
+        59
+      ],
+      "_id": "du5yvXIihnkW9Him",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.du5yvXIihnkW9Him"
+    },
+    {
+      "text": "Promote social justice",
+      "range": [
+        60,
+        61
+      ],
+      "_id": "tmVouttsiaSWH6Ty",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.tmVouttsiaSWH6Ty"
+    },
+    {
+      "text": "Put down a rebellion",
+      "range": [
+        62,
+        63
+      ],
+      "_id": "h73GdLCV6SDpo3Mh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.h73GdLCV6SDpo3Mh"
+    },
+    {
+      "text": "Regain honor",
+      "range": [
+        64,
+        65
+      ],
+      "_id": "JzOdQDrdYNIu9KCf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.JzOdQDrdYNIu9KCf"
+    },
+    {
+      "text": "Rule a settlement",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "qZwbYZLXlKW70SS0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.qZwbYZLXlKW70SS0"
+    },
+    {
+      "text": "Secure steady income",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "jXrsYbHQiXhXn4fb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.jXrsYbHQiXhXn4fb"
+    },
+    {
+      "text": "Slay a creature",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "SIzNzHMqoWIvcE7R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.SIzNzHMqoWIvcE7R"
+    },
+    {
+      "text": "Spread misinformation",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "CbkLry5hDbG2yuFb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.CbkLry5hDbG2yuFb"
+    },
+    {
+      "text": "Study the exodus",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "6PfA7MD3HqgQsT0q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.6PfA7MD3HqgQsT0q"
+    },
+    {
+      "text": "Uncover a secret",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "rPIvmKJrigkZmvpv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.rPIvmKJrigkZmvpv"
+    },
+    {
+      "text": "Unite settlements",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "t5en8kLyh3r8pSa2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.t5en8kLyh3r8pSa2"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "hgvj8K8WOCk4Ua2a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.hgvj8K8WOCk4Ua2a"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "JCtJDKyicc2WuIU6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!oLDINu3MLyDgABhD.JCtJDKyicc2WuIU6"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676518334,
+    "modifiedTime": 1698974747187,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "oLDINu3MLyDgABhD",
+  "sort": 425000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!oLDINu3MLyDgABhD"
+}

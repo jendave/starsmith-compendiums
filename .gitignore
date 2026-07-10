@@ -1,3 +1,14 @@
 *.swp
 temp
 README.html
+
+# Node
+node_modules/
+
+# Build output: the distributable module is assembled under dist/, and the
+# compendium packs are compiled from json-packs/ (the source of truth) into
+# dist/packs by script/build-packs.
+dist/
+
+# macOS
+.DS_Store

@@ -1,0 +1,117 @@
+{
+  "name": "Registry Number Initials",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "CCV - Custom Commissioned Vessel",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "UjMB4QG2oGr8kZHz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!byBI6d46QtVH1goo.UjMB4QG2oGr8kZHz"
+    },
+    {
+      "text": "RTV - Registered Terminus Vessel",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "4pC2LBO5qbQCgdQ6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!byBI6d46QtVH1goo.4pC2LBO5qbQCgdQ6"
+    },
+    {
+      "text": "NCC - Naval Corps Contracted",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "cxWSgLc5d6BqiDAw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!byBI6d46QtVH1goo.cxWSgLc5d6BqiDAw"
+    },
+    {
+      "text": "USS - United Star System",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "8ZSa8zJU1xp4ivGJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!byBI6d46QtVH1goo.8ZSa8zJU1xp4ivGJ"
+    },
+    {
+      "text": "DFX - Deep Forge Experimental",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Aw6czi3Z0hn69b58",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!byBI6d46QtVH1goo.Aw6czi3Z0hn69b58"
+    },
+    {
+      "text": "Use Faction Initials",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "LHR1qM0yXWfcRFFI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!byBI6d46QtVH1goo.LHR1qM0yXWfcRFFI"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.1",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461162,
+    "modifiedTime": 1694637105820,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "byBI6d46QtVH1goo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!byBI6d46QtVH1goo"
+}

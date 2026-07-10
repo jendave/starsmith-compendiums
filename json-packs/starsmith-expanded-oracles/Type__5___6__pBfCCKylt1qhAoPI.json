@@ -1,0 +1,357 @@
+{
+  "name": "Type (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Frigate (Troop carrier)",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "9rlI9NA90sHPf5Iu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.9rlI9NA90sHPf5Iu"
+    },
+    {
+      "text": "Spartan (Light defender)",
+      "range": [
+        3,
+        6
+      ],
+      "_id": "zXCa38rRfWDDATEY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.zXCa38rRfWDDATEY"
+    },
+    {
+      "text": "Garrison (System patrol ship)",
+      "range": [
+        7,
+        11
+      ],
+      "_id": "8B7AmmGm7ZkZzclr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.8B7AmmGm7ZkZzclr"
+    },
+    {
+      "text": "Corinthian (Medium defender)",
+      "range": [
+        12,
+        14
+      ],
+      "_id": "ucwgSWXxvPwwFMOq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.ucwgSWXxvPwwFMOq"
+    },
+    {
+      "text": "Centurion (Heavy defender)",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "MORL01OAmDV5RLL0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.MORL01OAmDV5RLL0"
+    },
+    {
+      "text": "Flier (Solo racing ship)",
+      "range": [
+        17,
+        19
+      ],
+      "_id": "aA3B3ux1SJ508OC7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.aA3B3ux1SJ508OC7"
+    },
+    {
+      "text": "Castle (Mobile fortress)",
+      "range": [
+        20,
+        22
+      ],
+      "_id": "entI8qj7xk3MaRbs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.entI8qj7xk3MaRbs"
+    },
+    {
+      "text": "Respirator (Gas collector)",
+      "range": [
+        23,
+        27
+      ],
+      "_id": "kzNpIbxqdG8mNQwa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.kzNpIbxqdG8mNQwa"
+    },
+    {
+      "text": "Invader (Massive troop transport)",
+      "range": [
+        28,
+        33
+      ],
+      "_id": "ag61TxZmiDyDFYcl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.ag61TxZmiDyDFYcl"
+    },
+    {
+      "text": "Crawler (Mine layer)",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "3ZVck1DWt5OW66Jf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.3ZVck1DWt5OW66Jf"
+    },
+    {
+      "text": "Destroyer (Planet killer)",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "NdJchktZ6KHrtzS5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.NdJchktZ6KHrtzS5"
+    },
+    {
+      "text": "Oracle (Deep space science vessel)",
+      "range": [
+        39,
+        42
+      ],
+      "_id": "3VXyeKCIrsSZEaPZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.3VXyeKCIrsSZEaPZ"
+    },
+    {
+      "text": "Discovery (Science vessel)",
+      "range": [
+        43,
+        47
+      ],
+      "_id": "6YpB9a1JFK2uzv7k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.6YpB9a1JFK2uzv7k"
+    },
+    {
+      "text": "Shipwright (Mobile drydock)",
+      "range": [
+        48,
+        50
+      ],
+      "_id": "GpBPT5lgxWfzcGS9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.GpBPT5lgxWfzcGS9"
+    },
+    {
+      "text": "Distiller (Mobile mineral processor)",
+      "range": [
+        51,
+        56
+      ],
+      "_id": "gNHUL8QTWK1vd4Rd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.gNHUL8QTWK1vd4Rd"
+    },
+    {
+      "text": "Amphibian (Planetary lander)",
+      "range": [
+        57,
+        61
+      ],
+      "_id": "zTl8nwbaCGDegr1R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.zTl8nwbaCGDegr1R"
+    },
+    {
+      "text": "Train  (Unmanned transport)",
+      "range": [
+        62,
+        64
+      ],
+      "_id": "mhTHODksyRybXve6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.mhTHODksyRybXve6"
+    },
+    {
+      "text": "Jumper (Short burst Eidolon drive ship)",
+      "range": [
+        65,
+        67
+      ],
+      "_id": "UMxMupcf1BfHAzdP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.UMxMupcf1BfHAzdP"
+    },
+    {
+      "text": "Multipurpose (Starship Mission)",
+      "range": [
+        68,
+        82
+      ],
+      "_id": "076xjCLIHxwHI4h3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.076xjCLIHxwHI4h3"
+    },
+    {
+      "text": "Unusual or unknown",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "l1DZi5l4sX1ta0vQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.l1DZi5l4sX1ta0vQ"
+    },
+    {
+      "text": "Fleet",
+      "range": [
+        85,
+        94
+      ],
+      "_id": "IvVLyBb3K9TlrbjI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.IvVLyBb3K9TlrbjI"
+    },
+    {
+      "text": "Ships in conflict (roll twice)",
+      "range": [
+        95,
+        100
+      ],
+      "_id": "UcPJi4rXc4NwaAn3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.UcPJi4rXc4NwaAn3"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461192,
+    "modifiedTime": 1693731314211,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "pBfCCKylt1qhAoPI",
+  "sort": 44141,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!pBfCCKylt1qhAoPI"
+}

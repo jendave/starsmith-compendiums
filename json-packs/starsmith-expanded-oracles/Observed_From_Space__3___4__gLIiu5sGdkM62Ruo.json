@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Continent-sized crater filled with lava",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "8j59qquX6n2kgZKc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.8j59qquX6n2kgZKc"
+    },
+    {
+      "text": "Coronae, rocky crowns up to a thousand miles wide",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "R69amhbP8NK60l3j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.R69amhbP8NK60l3j"
+    },
+    {
+      "text": "Large novae, rapidly cooled lava forming star-shaped ridges",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "V3uT9D9nAn6goqkJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.V3uT9D9nAn6goqkJ"
+    },
+    {
+      "text": "Liquid water at the pole surrounded by vast steam clouds",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "G2bhDkZroyFAqNOO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.G2bhDkZroyFAqNOO"
+    },
+    {
+      "text": "Massive shield volcano with concentric lava rings",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "lsR98fdXE2VqjxvG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.lsR98fdXE2VqjxvG"
+    },
+    {
+      "text": "Mountains reaching into the upper atmosphere",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "shEZ2mUeQFM0G6nk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.shEZ2mUeQFM0G6nk"
+    },
+    {
+      "text": "Rocky fields that change color based on temperature",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "B8i2yugETWCvh7MB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.B8i2yugETWCvh7MB"
+    },
+    {
+      "text": "Smooth, flat plains dotted by sporadic volcanoes",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "pV6F6UrCHSM9QVFh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.pV6F6UrCHSM9QVFh"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "1GMmA10dZtRnOpbu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.1GMmA10dZtRnOpbu"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "LfoglBJSDmBIesg2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!gLIiu5sGdkM62Ruo.LfoglBJSDmBIesg2"
+    }
+  ],
+  "folder": "Xx3Lo4c3NF2M0ymk",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401775,
+    "modifiedTime": 1699042256045,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "gLIiu5sGdkM62Ruo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!gLIiu5sGdkM62Ruo"
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ability to tap into a ley line's power",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "sS159uXy8LkFho7H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4C5yA2j3JjxOQfNc.sS159uXy8LkFho7H"
+    },
+    {
+      "text": "Artifact of arcane might or significance",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "DWd3jmKSPNzgFKcT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4C5yA2j3JjxOQfNc.DWd3jmKSPNzgFKcT"
+    },
+    {
+      "text": "Helpful magical device or lifeform",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "RhIJTK2SjYHNbeC8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4C5yA2j3JjxOQfNc.RhIJTK2SjYHNbeC8"
+    },
+    {
+      "text": "Regenerative empowerment",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "0JL9FZI5WSWeEmlk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4C5yA2j3JjxOQfNc.0JL9FZI5WSWeEmlk"
+    },
+    {
+      "text": "Valuable notes on mystic powers",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "nxqpvBXeNNOiT1tE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4C5yA2j3JjxOQfNc.nxqpvBXeNNOiT1tE"
+    }
+  ],
+  "folder": "ON4JbgHNhFhb81EP",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Arcane energies permeate this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676712194,
+    "modifiedTime": 1693777041523,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "4C5yA2j3JjxOQfNc",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!4C5yA2j3JjxOQfNc"
+}

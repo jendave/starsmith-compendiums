@@ -1,0 +1,125 @@
+{
+  "name": "Authority (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Tribal",
+      "range": [
+        1,
+        15
+      ],
+      "_id": "bGlj3qtJm2wCocDl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.bGlj3qtJm2wCocDl"
+    },
+    {
+      "text": "Theocratic",
+      "range": [
+        16,
+        30
+      ],
+      "_id": "PKY97fmZwxwU2KUL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.PKY97fmZwxwU2KUL"
+    },
+    {
+      "text": "Feudalistic",
+      "range": [
+        31,
+        45
+      ],
+      "_id": "3NgAKppsVj5qQXvq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.3NgAKppsVj5qQXvq"
+    },
+    {
+      "text": "Democratic",
+      "range": [
+        46,
+        55
+      ],
+      "_id": "SToHdsHjemDaln9f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.SToHdsHjemDaln9f"
+    },
+    {
+      "text": "Authoritarian",
+      "range": [
+        56,
+        70
+      ],
+      "_id": "CJgRciaDD85RwMWs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.CJgRciaDD85RwMWs"
+    },
+    {
+      "text": "Oligarchic",
+      "range": [
+        71,
+        85
+      ],
+      "_id": "WOiYU3LxhrGMJ7Q3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.WOiYU3LxhrGMJ7Q3"
+    },
+    {
+      "text": "Tyrannical",
+      "range": [
+        86,
+        100
+      ],
+      "_id": "MEtEVzxnJtW78yxm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!eKDmSpdyzwRM7ydc.MEtEVzxnJtW78yxm"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424365,
+    "modifiedTime": 1693072394536,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "eKDmSpdyzwRM7ydc",
+  "sort": 387500,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!eKDmSpdyzwRM7ydc"
+}

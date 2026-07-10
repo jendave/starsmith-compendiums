@@ -1,0 +1,207 @@
+{
+  "name": "Area",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Crematorium / morgue",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "XAqplHmC1l59Ix6b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.XAqplHmC1l59Ix6b"
+    },
+    {
+      "text": "Emergency response unit",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "5jm3v6Dt9Sckj09M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.5jm3v6Dt9Sckj09M"
+    },
+    {
+      "text": "Hospital",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "wuMNFe4PDPP7QGJb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.wuMNFe4PDPP7QGJb"
+    },
+    {
+      "text": "Isolation or containment",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "z0OB77Q5fkheymds",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.z0OB77Q5fkheymds"
+    },
+    {
+      "text": "Medical laboratory",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "iDpgVCHnjep81YZw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.iDpgVCHnjep81YZw"
+    },
+    {
+      "text": "Medical offices",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "BKoVWKml03QjsoxP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.BKoVWKml03QjsoxP"
+    },
+    {
+      "text": "Pharmacy or drug dispenser",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "sFBr853s5dCkB4wV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.sFBr853s5dCkB4wV"
+    },
+    {
+      "text": "Prosthetics workshop",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "WjKS6JrohPFd5BbW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.WjKS6JrohPFd5BbW"
+    },
+    {
+      "text": "Surgical suite",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "qpu0QJHPBuYScpXl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.qpu0QJHPBuYScpXl"
+    },
+    {
+      "text": "Urgent care or triage",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "VYMF11BBNLyKNaM9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.VYMF11BBNLyKNaM9"
+    },
+    {
+      "text": "Therapy ward or clinic",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "XHJE4kVeBLcvrYuC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.XHJE4kVeBLcvrYuC"
+    },
+    {
+      "text": "New zone via Access",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "eJN1ADSpFHdj0haW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WBCxyfoLNtzvELvC.eJN1ADSpFHdj0haW"
+    }
+  ],
+  "folder": "pRX4NVjQHMScCo6G",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658110,
+    "modifiedTime": 1693870787624,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "WBCxyfoLNtzvELvC",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!WBCxyfoLNtzvELvC"
+}

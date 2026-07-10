@@ -1,0 +1,111 @@
+{
+  "name": "Avian",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Flier",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "9ZgGBnOdIHRaCw7e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!rUiQbqJTlGTD3qzt.9ZgGBnOdIHRaCw7e"
+    },
+    {
+      "text": "Flightless",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "lARe7sK5yPoXGYm1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!rUiQbqJTlGTD3qzt.lARe7sK5yPoXGYm1"
+    },
+    {
+      "text": "Gas balloons",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "w36VPOxVBxmCRg9P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!rUiQbqJTlGTD3qzt.w36VPOxVBxmCRg9P"
+    },
+    {
+      "text": "Glider",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "lnTxqQNELa2c0VD0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!rUiQbqJTlGTD3qzt.lnTxqQNELa2c0VD0"
+    },
+    {
+      "text": "Hover capable",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "Q4drQmgX8dncAmlc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!rUiQbqJTlGTD3qzt.Q4drQmgX8dncAmlc"
+    },
+    {
+      "text": "Levitation",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "zNsScNANncaz3n1z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!rUiQbqJTlGTD3qzt.zNsScNANncaz3n1z"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 1,
+  "_id": "rUiQbqJTlGTD3qzt",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773787,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!rUiQbqJTlGTD3qzt"
+}

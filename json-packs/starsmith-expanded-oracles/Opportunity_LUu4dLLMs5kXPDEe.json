@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Butterfly point offers a dangerous gamble",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "zhEEwmsrUUXK74t0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LUu4dLLMs5kXPDEe.zhEEwmsrUUXK74t0"
+    },
+    {
+      "text": "Contact with a helpful ally outside your time",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "0344ShRAFLSkf1mN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LUu4dLLMs5kXPDEe.0344ShRAFLSkf1mN"
+    },
+    {
+      "text": "Future visions allow an option to avoid hardship",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "Bd87VWQaEseciywr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LUu4dLLMs5kXPDEe.Bd87VWQaEseciywr"
+    },
+    {
+      "text": "Insight into a past event offers a new perspective",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "LAoXTLN7MA5i7jd8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LUu4dLLMs5kXPDEe.LAoXTLN7MA5i7jd8"
+    },
+    {
+      "text": "Yawning portal through spacetime",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "TCcNamhxLN9duxHH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LUu4dLLMs5kXPDEe.TCcNamhxLN9duxHH"
+    }
+  ],
+  "folder": "lDaq1N4eYS6ir6he",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Time flits back and forth in this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676712123,
+    "modifiedTime": 1693776983325,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "LUu4dLLMs5kXPDEe",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!LUu4dLLMs5kXPDEe"
+}

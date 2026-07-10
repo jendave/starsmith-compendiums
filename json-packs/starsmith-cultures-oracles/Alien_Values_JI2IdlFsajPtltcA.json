@@ -1,0 +1,177 @@
+{
+  "name": "Alien Values",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Communal mindset should drive all decision making.",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "gqb6TENeyw6Gpri8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.gqb6TENeyw6Gpri8"
+    },
+    {
+      "text": "Suppressing emotions is necessary to live a pure life.",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "Yf2it0vg40bY5DDq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.Yf2it0vg40bY5DDq"
+    },
+    {
+      "text": "Post-scarcity economy should provide abundance for all.",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "pdR1BAn3VY65PJtc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.pdR1BAn3VY65PJtc"
+    },
+    {
+      "text": "Non-centralized power structures should lead to full participation and undeniable rights of all citizens.",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "AkVszGmSz2D2fUfM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.AkVszGmSz2D2fUfM"
+    },
+    {
+      "text": "Different views of consciousness and what constitutes life should lead to societal protections for vulnerable populations.",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "5SqEs135ys7jZKfQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.5SqEs135ys7jZKfQ"
+    },
+    {
+      "text": "Non-interference should lead to absolute bans on expanding or exploiting other planets and sectors as well as absolute bans on participating in or influencing the decision making process of other cultures.",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "y8cWCrZBOy2Qj2It",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.y8cWCrZBOy2Qj2It"
+    },
+    {
+      "text": "The means should justify the ends, not the other way around.",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "bB0UYGcMc9N4Ym93",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.bB0UYGcMc9N4Ym93"
+    },
+    {
+      "text": "Life outcomes should be viewed as decreed by fate and accepted.",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "s5nnXao7buaeEdR3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.s5nnXao7buaeEdR3"
+    },
+    {
+      "text": "All sapient life is inherently evil and only enough of a species should be left alive to maintain the gene pool.",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "3GymqElMJPJoJeVz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.3GymqElMJPJoJeVz"
+    },
+    {
+      "text": "The time and place of one’s death should be chosen and carried out during the height of life.",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "DcAjNhd0T1yvcoTJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!JI2IdlFsajPtltcA.DcAjNhd0T1yvcoTJ"
+    }
+  ],
+  "folder": "oppVhzsLYkyZtbu6",
+  "sort": 400000,
+  "_id": "JI2IdlFsajPtltcA",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You should feel free to use the values as described in the Cultures Familiar section of this book, but adding in values that seem odd or outside of human experience could add depth to your aliens.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144820820,
+    "modifiedTime": 1708148265401,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!JI2IdlFsajPtltcA"
+}

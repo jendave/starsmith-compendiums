@@ -1,0 +1,192 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Broken procedures cause red tape",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "yeWD7G24L0xc6OVv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.yeWD7G24L0xc6OVv"
+    },
+    {
+      "text": "Coded message or puzzling security device",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "OZXkw7QSchAwazZZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.OZXkw7QSchAwazZZ"
+    },
+    {
+      "text": "Displays reveal a new threat elsewhere in this site",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "aTjCpMZs3ube27Vc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.aTjCpMZs3ube27Vc"
+    },
+    {
+      "text": "Disruption to transportation",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "IyA2lae9sg6DKLay",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.IyA2lae9sg6DKLay"
+    },
+    {
+      "text": "Garnering unwanted attention",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "cRx7CiTfonb3Wh6k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.cRx7CiTfonb3Wh6k"
+    },
+    {
+      "text": "Implicated in legal dispute",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "27OYQsqC5r4Fx9TK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.27OYQsqC5r4Fx9TK"
+    },
+    {
+      "text": "Inadvertently created rival",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "jKjP7N4efvnEYYNW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.jKjP7N4efvnEYYNW"
+    },
+    {
+      "text": "Sensors indicate the arrival of an external threat",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "JKLVglN6KLHY1tsY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.JKLVglN6KLHY1tsY"
+    },
+    {
+      "text": "Targeted by law enforcement",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "xQRNj7rjsYxLzNPz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.xQRNj7rjsYxLzNPz"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "2Y3bDEvHc1qnyzJp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.2Y3bDEvHc1qnyzJp"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ZA0sEUbQiPEh0Jrr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FJ3pwO45zt7McRK9.ZA0sEUbQiPEh0Jrr"
+    }
+  ],
+  "folder": "tqS3sJ4uJqhLhQVD",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658129,
+    "modifiedTime": 1699035696877,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "FJ3pwO45zt7McRK9",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!FJ3pwO45zt7McRK9"
+}

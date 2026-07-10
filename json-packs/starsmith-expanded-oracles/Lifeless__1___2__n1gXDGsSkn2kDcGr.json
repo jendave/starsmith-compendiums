@@ -1,0 +1,417 @@
+{
+  "name": "Lifeless (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Life is revealed or takes an unexpected form",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "xiBz1BYeUYnwUDnS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.xiBz1BYeUYnwUDnS"
+    },
+    {
+      "text": "Blocked or impassable path",
+      "range": [
+        4,
+        7
+      ],
+      "_id": "PwfcrWPWOPSRoM0z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.PwfcrWPWOPSRoM0z"
+    },
+    {
+      "text": "Corrosive substance or environment",
+      "range": [
+        8,
+        11
+      ],
+      "_id": "yUEmUP7pbc90VgTb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.yUEmUP7pbc90VgTb"
+    },
+    {
+      "text": "Disturbing remains or evidence of death",
+      "range": [
+        12,
+        15
+      ],
+      "_id": "nBwGalgiFGNgYboP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.nBwGalgiFGNgYboP"
+    },
+    {
+      "text": "Drastic environmental change",
+      "range": [
+        16,
+        19
+      ],
+      "_id": "46OsvnwraMKaz2nh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.46OsvnwraMKaz2nh"
+    },
+    {
+      "text": "Enemy holds this area",
+      "range": [
+        20,
+        23
+      ],
+      "_id": "7dFKCmeKki0Q6btb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.7dFKCmeKki0Q6btb"
+    },
+    {
+      "text": "Entangling or engulfing hazard",
+      "range": [
+        24,
+        27
+      ],
+      "_id": "Qf2hAYE0eq2sEvmf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.Qf2hAYE0eq2sEvmf"
+    },
+    {
+      "text": "Equipment fails or malfunctions",
+      "range": [
+        28,
+        31
+      ],
+      "_id": "Rp9hpZP9soox67xX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.Rp9hpZP9soox67xX"
+    },
+    {
+      "text": "Guarded or patrolled path",
+      "range": [
+        32,
+        35
+      ],
+      "_id": "6pFJmcQDt8OjbQmc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.6pFJmcQDt8OjbQmc"
+    },
+    {
+      "text": "Led astray",
+      "range": [
+        36,
+        39
+      ],
+      "_id": "QpyipCJ441IyppP0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.QpyipCJ441IyppP0"
+    },
+    {
+      "text": "Lost the path",
+      "range": [
+        40,
+        43
+      ],
+      "_id": "93E1STt3BlUyaeWu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.93E1STt3BlUyaeWu"
+    },
+    {
+      "text": "Meteorites fall from the sky",
+      "range": [
+        44,
+        47
+      ],
+      "_id": "tBhW0DIWdbGo3tep",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.tBhW0DIWdbGo3tep"
+    },
+    {
+      "text": "Irradiated area or object",
+      "range": [
+        48,
+        51
+      ],
+      "_id": "3N1jA6j7CGegEDVG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.3N1jA6j7CGegEDVG"
+    },
+    {
+      "text": "Realization that something was left behind",
+      "range": [
+        52,
+        55
+      ],
+      "_id": "py6MjXS3XHNBeIfE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.py6MjXS3XHNBeIfE"
+    },
+    {
+      "text": "Seismic or volcanic upheaval",
+      "range": [
+        56,
+        59
+      ],
+      "_id": "Wfqd22l87BSLLI7p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.Wfqd22l87BSLLI7p"
+    },
+    {
+      "text": "Signs of a lurking or trailing foe",
+      "range": [
+        60,
+        63
+      ],
+      "_id": "IajtuP9cJdQvdmfd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.IajtuP9cJdQvdmfd"
+    },
+    {
+      "text": "Storm or atmospheric disruption",
+      "range": [
+        64,
+        67
+      ],
+      "_id": "wIYfMWPsif8l41R0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.wIYfMWPsif8l41R0"
+    },
+    {
+      "text": "Toxic or sickening environment",
+      "range": [
+        68,
+        71
+      ],
+      "_id": "XEmq53orhgH3q1kJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.XEmq53orhgH3q1kJ"
+    },
+    {
+      "text": "Trap or alarm",
+      "range": [
+        72,
+        75
+      ],
+      "_id": "axsr6pz6BFDZDVCe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.axsr6pz6BFDZDVCe"
+    },
+    {
+      "text": "Treacherous or arduous path",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "Rd5oQesRziVWGgYS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.Rd5oQesRziVWGgYS"
+    },
+    {
+      "text": "Troubling visions or apparitions",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "PyHp8cFSCDaMB6Ai",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.PyHp8cFSCDaMB6Ai"
+    },
+    {
+      "text": "Visibility hindered by atmospheric effects",
+      "range": [
+        84,
+        87
+      ],
+      "_id": "nGw3XZ1LGAKFqyb1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.nGw3XZ1LGAKFqyb1"
+    },
+    {
+      "text": "Worrying arrival of a ship or vehicle",
+      "range": [
+        88,
+        91
+      ],
+      "_id": "JBYSjqknVHXOie9f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.JBYSjqknVHXOie9f"
+    },
+    {
+      "text": "Wreckage or ruins portend a new threat",
+      "range": [
+        92,
+        95
+      ],
+      "_id": "Me6MpjbbsGaIamnx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.Me6MpjbbsGaIamnx"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        96,
+        99
+      ],
+      "_id": "YTVWQ6n0ipsfaS8G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.YTVWQ6n0ipsfaS8G"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "jFGKmYja32ERp0nk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n1gXDGsSkn2kDcGr.jFGKmYja32ERp0nk"
+    }
+  ],
+  "folder": "pRHK9NiXjihlEnF1",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a trouble during planetside exploration or a planetside expedition.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676402148,
+    "modifiedTime": 1699053866840,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "n1gXDGsSkn2kDcGr",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!n1gXDGsSkn2kDcGr"
+}

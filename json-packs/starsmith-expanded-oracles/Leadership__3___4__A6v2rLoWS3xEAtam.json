@@ -1,0 +1,177 @@
+{
+  "name": "Leadership (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Communal living",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "NnLl6hyDZp5GV8m3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.NnLl6hyDZp5GV8m3"
+    },
+    {
+      "text": "Feudalism",
+      "range": [
+        6,
+        15
+      ],
+      "_id": "jTJ6i7wTQDEmzT4F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.jTJ6i7wTQDEmzT4F"
+    },
+    {
+      "text": "Theocracy",
+      "range": [
+        16,
+        30
+      ],
+      "_id": "zx1YR7thDXYGZVsi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.zx1YR7thDXYGZVsi"
+    },
+    {
+      "text": "Puppet ruler",
+      "range": [
+        31,
+        45
+      ],
+      "_id": "LSB8QCfi9a9Un5X6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.LSB8QCfi9a9Un5X6"
+    },
+    {
+      "text": "Cult of personality",
+      "range": [
+        46,
+        60
+      ],
+      "_id": "hLyerrwpA3TJZR9f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.hLyerrwpA3TJZR9f"
+    },
+    {
+      "text": "Tribalism",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "m71Y8z81iizHW47y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.m71Y8z81iizHW47y"
+    },
+    {
+      "text": "Ruling council",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "V4JejXAtjnhlHkXV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.V4JejXAtjnhlHkXV"
+    },
+    {
+      "text": "Democracy",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "mY0qc9DkmRgP5N6S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.mY0qc9DkmRgP5N6S"
+    },
+    {
+      "text": "Embodied AI",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "tpdo30INQZehl4VK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.tpdo30INQZehl4VK"
+    },
+    {
+      "text": "Fractured states",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ma5LnZnDubX6vvN4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!A6v2rLoWS3xEAtam.ma5LnZnDubX6vvN4"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Note that for the Dominion type, you roll on both the Dominion and Leadership oracles, although I use the Leadership oracle for all factions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597088,
+    "modifiedTime": 1693866754980,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "A6v2rLoWS3xEAtam",
+  "sort": 125000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!A6v2rLoWS3xEAtam"
+}

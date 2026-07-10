@@ -1,0 +1,195 @@
+{
+  "name": "Fringe Group (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alien believers",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "uerqkrJ4BTccxb0W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.uerqkrJ4BTccxb0W"
+    },
+    {
+      "text": "Black marketers",
+      "range": [
+        6,
+        15
+      ],
+      "_id": "RSp2FStYd50XB42J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.RSp2FStYd50XB42J"
+    },
+    {
+      "text": "Cataclysm preachers",
+      "range": [
+        16,
+        25
+      ],
+      "_id": "x8RJiu31NF2MNWmB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.x8RJiu31NF2MNWmB"
+    },
+    {
+      "text": "Criminals",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "P0an8TEhVyc8G24G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.P0an8TEhVyc8G24G"
+    },
+    {
+      "text": "Drug dealers",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "AbbsciC1zSK3MM51",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.AbbsciC1zSK3MM51"
+    },
+    {
+      "text": "Info brokers",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "xNhaJq1nv9XnCIoD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.xNhaJq1nv9XnCIoD"
+    },
+    {
+      "text": "Luddites",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "hkVaKhs0uVtGZxbA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.hkVaKhs0uVtGZxbA"
+    },
+    {
+      "text": "Planet pillagers",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "PsL1x45zXD6ci8YI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.PsL1x45zXD6ci8YI"
+    },
+    {
+      "text": "Puritans",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "73SGEJnz8ollJGZm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.73SGEJnz8ollJGZm"
+    },
+    {
+      "text": "Stellar nomads",
+      "range": [
+        76,
+        85
+      ],
+      "_id": "JcNVMjIrN0CKpdE3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.JcNVMjIrN0CKpdE3"
+    },
+    {
+      "text": "Weapons distributors",
+      "range": [
+        86,
+        95
+      ],
+      "_id": "GXP780rpt8G0y516",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.GXP780rpt8G0y516"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "BBt5tegb7uv2MuGK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!UE6b4kAluQqrAGUO.BBt5tegb7uv2MuGK"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597156,
+    "modifiedTime": 1693070201032,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "UE6b4kAluQqrAGUO",
+  "sort": 195313,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!UE6b4kAluQqrAGUO"
+}

@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "F1YN4dl9fJ39CUQ7",
+  "name": "Mech Printer",
+  "system": {
+    "requirement": "",
+    "category": "Module",
+    "color": "#7F5A90",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your starship carries a specialized 3D printer for building mechs.  When you have time and resources to spend, you may spend three experience points or four wealth to print a mech chassis of your choice.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>Your printer can now print modules for your mech.  When you have time and resources to spend, you may spend two experience points or three wealth to print and attach a mech module of your choice.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>After printing a mech, maintaining it, adding modules to it, and surviving a significant battle with it, you may name the mech.  If you do, mark it as your primary mech.  When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3782f1b3c8ca8b88]{Withstand Damage} in your primary mech, you may roll +heart.  If you do, @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ff32c523829d6481]{Endure Stress} (-1) on a weak hit or miss.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/factory-arm.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110892713,
+    "modifiedTime": 1764234007972,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "dWoKOBJpkDXFl38f",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!dWoKOBJpkDXFl38f"
+}

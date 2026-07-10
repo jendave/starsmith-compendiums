@@ -1,0 +1,73 @@
+{
+  "type": "asset",
+  "folder": "leAoTJsyPAnSVZrg",
+  "name": "Rebel",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3F7FAA",
+    "fields": [
+      {
+        "name": "Faction",
+        "value": ""
+      }
+    ],
+    "abilities": [
+      {
+        "description": "<p>When you take this asset, declare an oppressive faction that you are actively working against. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9c9ab6a42daa96e0]{Swear an Iron Vow} (formidable or greater) to protect a community from the actions or influence of that faction, reroll any dice. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.985a5415860a99e9]{Fulfill Your Vow} and score a hit, also mark 2 ticks on your bonds legacy track.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by sabotaging the equipment or resources of that faction, boost.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.2f2ba4090b22a122]{Enter the Fray} against forces of that faction, you may choose an approach.\n<ul>\n<li>Call them out: Roll +heart and add +2.</li>\n<li>Make them pay: Roll +iron and mark progress on a hit.</li>\n</ul></p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/fist.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708563870305,
+    "modifiedTime": 1764231744760,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_id": "z7yuvbDe257GjszM",
+  "sort": 600000,
+  "_key": "!items!z7yuvbDe257GjszM"
+}

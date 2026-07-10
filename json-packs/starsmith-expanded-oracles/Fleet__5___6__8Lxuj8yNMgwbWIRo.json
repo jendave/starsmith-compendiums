@@ -1,0 +1,139 @@
+{
+  "name": "Fleet (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Battle training group",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "oUlex5u5x5k269C9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.oUlex5u5x5k269C9"
+    },
+    {
+      "text": "Crippled battle group",
+      "range": [
+        11,
+        25
+      ],
+      "_id": "GxquS5PVYPy2VQu8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.GxquS5PVYPy2VQu8"
+    },
+    {
+      "text": "Construction team",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "vsJxOgh2inZjHWXm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.vsJxOgh2inZjHWXm"
+    },
+    {
+      "text": "Corporate survey team",
+      "range": [
+        36,
+        50
+      ],
+      "_id": "GEwZVK7r864appQg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.GEwZVK7r864appQg"
+    },
+    {
+      "text": "Sight-seeing tour",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "Xr9dZIk2Ya27NLGb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.Xr9dZIk2Ya27NLGb"
+    },
+    {
+      "text": "Entertainment caravan",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "Un8TodLuwUm7jGcW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.Un8TodLuwUm7jGcW"
+    },
+    {
+      "text": "Exploratory caravan",
+      "range": [
+        71,
+        90
+      ],
+      "_id": "st0A8BPwiLtkL4nl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.st0A8BPwiLtkL4nl"
+    },
+    {
+      "text": "Starship Mission",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "pTfg86z36lpTNU3H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!8Lxuj8yNMgwbWIRo.pTfg86z36lpTNU3H"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461198,
+    "modifiedTime": 1693073561032,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "8Lxuj8yNMgwbWIRo",
+  "sort": 46875,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!8Lxuj8yNMgwbWIRo"
+}

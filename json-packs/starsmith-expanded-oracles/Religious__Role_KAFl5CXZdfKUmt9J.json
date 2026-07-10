@@ -1,0 +1,209 @@
+{
+  "name": "Religious: Role",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alien worshipers",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "89e6vkMY7b3WiLA4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.89e6vkMY7b3WiLA4"
+    },
+    {
+      "text": "Crusaders",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "rDHGuB6jJrZ6Rock",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.rDHGuB6jJrZ6Rock"
+    },
+    {
+      "text": "Devout atheists",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "kimhMGLW2ovvRy94",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.kimhMGLW2ovvRy94"
+    },
+    {
+      "text": "Doomsayers",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "d30L6ArqqBf41DIy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.d30L6ArqqBf41DIy"
+    },
+    {
+      "text": "Evangelists",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "MshVQcDWmVB0dxSG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.MshVQcDWmVB0dxSG"
+    },
+    {
+      "text": "Monotheists",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "HCbODpKxxtjNKsoN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.HCbODpKxxtjNKsoN"
+    },
+    {
+      "text": "Pantheists",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "TNeng6PVjnkm5cFH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.TNeng6PVjnkm5cFH"
+    },
+    {
+      "text": "Puritans",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "xIoROkb1XSY1rUzG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.xIoROkb1XSY1rUzG"
+    },
+    {
+      "text": "Self edifying",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "erKxM14XadRg5IhJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.erKxM14XadRg5IhJ"
+    },
+    {
+      "text": "Star worshipers",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "6gDs1PF1hUn6KHVY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.6gDs1PF1hUn6KHVY"
+    },
+    {
+      "text": "Universalists",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "LfnRwA6stEyKVIWd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.LfnRwA6stEyKVIWd"
+    },
+    {
+      "text": "Worshipers of the dead",
+      "range": [
+        89,
+        96
+      ],
+      "_id": "VsZFG6OlRqMs6dNf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.VsZFG6OlRqMs6dNf"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "OCPTOZwMqdadsbAv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.OCPTOZwMqdadsbAv"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597186,
+    "modifiedTime": 1693070246608,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "KAFl5CXZdfKUmt9J",
+  "sort": 199708,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!KAFl5CXZdfKUmt9J"
+}

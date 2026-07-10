@@ -1,0 +1,209 @@
+{
+  "name": "Corporation: Field",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Civilian technology",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "bN9ePwhSDPBXtm0i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.bN9ePwhSDPBXtm0i"
+    },
+    {
+      "text": "Engineering",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "BtuMXFiafOdQPmri",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.BtuMXFiafOdQPmri"
+    },
+    {
+      "text": "Entertainment",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "REOfkKgIJgYnvpmn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.REOfkKgIJgYnvpmn"
+    },
+    {
+      "text": "Food supplier",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "vAKN8qQ4bJtaj7dZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.vAKN8qQ4bJtaj7dZ"
+    },
+    {
+      "text": "Genetic modifications",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "2tAP6NwHjVrXguM1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.2tAP6NwHjVrXguM1"
+    },
+    {
+      "text": "Medical technology",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "9TkqKlOdH9BXidBp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.9TkqKlOdH9BXidBp"
+    },
+    {
+      "text": "Military technology",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "FhvauqKkosuzyJTV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.FhvauqKkosuzyJTV"
+    },
+    {
+      "text": "News media",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "al5mAnPExjTTZOsQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.al5mAnPExjTTZOsQ"
+    },
+    {
+      "text": "Resource extraction",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "t2H53RCBZSDJ1D5R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.t2H53RCBZSDJ1D5R"
+    },
+    {
+      "text": "Ship building",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "H3If2dxJop70vjgR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.H3If2dxJop70vjgR"
+    },
+    {
+      "text": "Social media",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "Qf2ydfugrHiDsG40",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.Qf2ydfugrHiDsG40"
+    },
+    {
+      "text": "Water / air filtration",
+      "range": [
+        89,
+        96
+      ],
+      "_id": "rXqD24Sxz5cD7LwA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.rXqD24Sxz5cD7LwA"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "D5pC7zQBWMjayutg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!FDvT6fPqV2zshZRQ.D5pC7zQBWMjayutg"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597172,
+    "modifiedTime": 1693070218073,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "FDvT6fPqV2zshZRQ",
+  "sort": 198829,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!FDvT6fPqV2zshZRQ"
+}

@@ -1,0 +1,522 @@
+{
+  "name": "Anomaly Effect (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alters or focuses gravity",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "IgiKc8VjgQvFasB8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.IgiKc8VjgQvFasB8"
+    },
+    {
+      "text": "Alters or reshapes nonliving matter",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "cPaDVCqmrcbt6Sb0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.cPaDVCqmrcbt6Sb0"
+    },
+    {
+      "text": "Alters surrounding air or atmosphere",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "PVtEjSL6V69liVCB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.PVtEjSL6V69liVCB"
+    },
+    {
+      "text": "Alters surrounding ecosystems",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "i56tqQoaJAeUGJC2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.i56tqQoaJAeUGJC2"
+    },
+    {
+      "text": "Awakens the dead",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "OUEfPsXj1XF3D5uJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.OUEfPsXj1XF3D5uJ"
+    },
+    {
+      "text": "Causes distressing visions or nightmares",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "L9AX4AFrMv1ZMorK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.L9AX4AFrMv1ZMorK"
+    },
+    {
+      "text": "Causes rapid biological growth or infestation",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "EWItmWmX0aSTQhoU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.EWItmWmX0aSTQhoU"
+    },
+    {
+      "text": "Causes sickness or weakness",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "JsyZdW7q1iZapTv0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.JsyZdW7q1iZapTv0"
+    },
+    {
+      "text": "Corrupts living matter",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "g3d9R9cwDR9WC4Mq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.g3d9R9cwDR9WC4Mq"
+    },
+    {
+      "text": "Corrupts or infects devices or computers",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "sasr5u0zFCcdHKwU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.sasr5u0zFCcdHKwU"
+    },
+    {
+      "text": "Creates manifestations or illusions",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "LOuR32mvKBXr6rds",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.LOuR32mvKBXr6rds"
+    },
+    {
+      "text": "Decays or weakens surrounding terrain or structures",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "8K1ruS0pXH92WSPm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.8K1ruS0pXH92WSPm"
+    },
+    {
+      "text": "Drains energy from equipment or devices",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "qAz13G56CXaeZjSl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.qAz13G56CXaeZjSl"
+    },
+    {
+      "text": "Emits forceful or destructive energy",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "SndzgpaQhUdfEF3g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.SndzgpaQhUdfEF3g"
+    },
+    {
+      "text": "Emits radiation",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "mf5ZfLTVPPZQ4tAv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.mf5ZfLTVPPZQ4tAv"
+    },
+    {
+      "text": "Generates a barrier or ward",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "9rqEE89ihkMfRp3F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.9rqEE89ihkMfRp3F"
+    },
+    {
+      "text": "Generates intense lights and sounds",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "op1Wly2TZsRQzDGj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.op1Wly2TZsRQzDGj"
+    },
+    {
+      "text": "Generates tendrils of energy that slither or grasp",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "suDPjKOkhYJeFMeR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.suDPjKOkhYJeFMeR"
+    },
+    {
+      "text": "Harvests or destroys living matter",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "1cgcbDhq4941bGkP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.1cgcbDhq4941bGkP"
+    },
+    {
+      "text": "Harvests or destroys nonliving matter",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "L5DnnTpxp6NihBdk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.L5DnnTpxp6NihBdk"
+    },
+    {
+      "text": "Nullifies or destroys equipment or devices",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "JiSAVmnr7OQbr9uz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.JiSAVmnr7OQbr9uz"
+    },
+    {
+      "text": "Opens a path to another location",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "uYhH8Wk34k5nYmOq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.uYhH8Wk34k5nYmOq"
+    },
+    {
+      "text": "Replicates living matter",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "ayxzFisMSPNHD8e5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.ayxzFisMSPNHD8e5"
+    },
+    {
+      "text": "Replicates nonliving matter",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "vPZRDSwdALBoZREM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.vPZRDSwdALBoZREM"
+    },
+    {
+      "text": "Reveals glimpses of the distant past",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "bM0LiepI4WTlHYPK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.bM0LiepI4WTlHYPK"
+    },
+    {
+      "text": "Reveals glimpses of the far future",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "TSZ6W90qsBBo1G2X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.TSZ6W90qsBBo1G2X"
+    },
+    {
+      "text": "Reverses time by a few moments or minutes",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "reISGJz0HVPuFbdt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.reISGJz0HVPuFbdt"
+    },
+    {
+      "text": "Slows or stops time",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "0EYrpla5uCYt5ngX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.0EYrpla5uCYt5ngX"
+    },
+    {
+      "text": "Summons or manifests an ancient being or intelligence",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "KRp3kbNYnbGtYeTp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.KRp3kbNYnbGtYeTp"
+    },
+    {
+      "text": "Summons or manifests creatures",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "aaenZHtlqxLSqK4r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.aaenZHtlqxLSqK4r"
+    },
+    {
+      "text": "Transports to another location",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "lshN0DO0muP6WCiD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.lshN0DO0muP6WCiD"
+    },
+    {
+      "text": "Triggers an impending catastrophic explosion",
+      "range": [
+        94,
+        96
+      ],
+      "_id": "I7GJqBDemXGAji0K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.I7GJqBDemXGAji0K"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "GC394Ua80YZZt5m6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LDZn0zQu8ZUERzyw.GC394Ua80YZZt5m6"
+    }
+  ],
+  "folder": "EZdpqOZMdqwGsU7q",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676735990,
+    "modifiedTime": 1693071680486,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "LDZn0zQu8ZUERzyw",
+  "sort": 1350000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!LDZn0zQu8ZUERzyw"
+}

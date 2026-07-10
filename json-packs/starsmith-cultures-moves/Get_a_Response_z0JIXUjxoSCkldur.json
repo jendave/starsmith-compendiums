@@ -1,0 +1,81 @@
+{
+  "name": "Get a Response",
+  "type": "sfmove",
+  "img": "icons/svg/item-bag.svg",
+  "system": {
+    "dfid": "",
+    "Category": "",
+    "Progress Move": false,
+    "Variant of": "",
+    "Text": "When you are unsure how an NPC would respond to a situation heavily related to a dimension of their culture, you may Ask the Oracle if they follow their cultural norm with the following odds.\n\nIf their dimension score is a 1 or 6, use Almost Certain odds. \n\nIf their dimension score is a 2 or 5, use Likely odds.\n\nIf their dimension score is a 3 or 4, use 50/50 odds.",
+    "Trigger": {
+      "Text": "When you are unsure how an NPC would respond to a situation heavily related to a dimension of their culture...",
+      "Options": []
+    },
+    "Outcomes": {
+      "Strong Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      },
+      "Weak Hit": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        }
+      },
+      "Miss": {
+        "Text": "",
+        "Reroll": {
+          "Text": ""
+        },
+        "With a Match": {
+          "Text": "",
+          "Reroll": {
+            "Text": ""
+          }
+        }
+      }
+    },
+    "Oracles": [],
+    "Source": {
+      "Title": "",
+      "Authors": [],
+      "Page": null
+    },
+    "Suggestions": {},
+    "Display": {
+      "Images": []
+    }
+  },
+  "effects": [],
+  "folder": null,
+  "flags": {
+    "foundry-ironsworn": {
+      "edit-mode": false
+    },
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708140164925,
+    "modifiedTime": 1708145176031,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_id": "z0JIXUjxoSCkldur",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!z0JIXUjxoSCkldur"
+}

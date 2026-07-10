@@ -1,0 +1,402 @@
+{
+  "name": "Lifebearing (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Clue to a lifeform's nature or vulnerabilities",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "9AT70wwuCeFFNde2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.9AT70wwuCeFFNde2"
+    },
+    {
+      "text": "Friendly interaction with a benign lifeform",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "TQlfJJVfqv02Y53q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.TQlfJJVfqv02Y53q"
+    },
+    {
+      "text": "Hunting or foraging opportunities are plentiful",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "lMRCZ4w9MMnQ3aEJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.lMRCZ4w9MMnQ3aEJ"
+    },
+    {
+      "text": "Interesting or helpful aspect of benign creatures",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "v5nISRIdbgbZrqtd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.v5nISRIdbgbZrqtd"
+    },
+    {
+      "text": "Interesting or helpful aspect of local plant life",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "I19pCjiDtaJ6Yx01",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.I19pCjiDtaJ6Yx01"
+    },
+    {
+      "text": "Encounter reveals unexpected benign lifeforms",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "fgofTFw47pbqqB98",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.fgofTFw47pbqqB98"
+    },
+    {
+      "text": "Abandoned camp or vehicle",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "SQFdH9xG8h4cot9f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.SQFdH9xG8h4cot9f"
+    },
+    {
+      "text": "Advance warning of an environmental threat",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "bubtFlsTDX3etneU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.bubtFlsTDX3etneU"
+    },
+    {
+      "text": "Clear path through otherwise perilous terrain",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "UdgSuwGAnpLBBhgp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.UdgSuwGAnpLBBhgp"
+    },
+    {
+      "text": "Clue offers insight into a current quest or mystery",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "eNwvGSYigcNvXRSn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.eNwvGSYigcNvXRSn"
+    },
+    {
+      "text": "Clue to the history or nature of this place",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "xo9kelZoCem7WUih",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.xo9kelZoCem7WUih"
+    },
+    {
+      "text": "Evidence that others have passed this way",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "FovGypxJFTN7edk0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.FovGypxJFTN7edk0"
+    },
+    {
+      "text": "Foe reveals themselves or tips their hand",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "Kxp9APe1XjIbWQKO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.Kxp9APe1XjIbWQKO"
+    },
+    {
+      "text": "Fortuitous change in the weather or atmosphere",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "avbsAifDp7vnuQYN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.avbsAifDp7vnuQYN"
+    },
+    {
+      "text": "Friendly traveler crosses your path",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "r8ZIZ1hau5GxdXo8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.r8ZIZ1hau5GxdXo8"
+    },
+    {
+      "text": "Helpful resource is in ample supply",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "CMJ2ncYWN1djOP4y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.CMJ2ncYWN1djOP4y"
+    },
+    {
+      "text": "Impressive vista offers comfort or inspiration",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "5xvi8IN34yDfmpcj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.5xvi8IN34yDfmpcj"
+    },
+    {
+      "text": "Interesting artifact or device",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "Qz4djXH2sqjck4bi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.Qz4djXH2sqjck4bi"
+    },
+    {
+      "text": "Interesting site offers opportunities for exploration",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "eMgj9hWyQbvtINPb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.eMgj9hWyQbvtINPb"
+    },
+    {
+      "text": "Moment of fellowship or inner peace",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "r74A6ejDA9QsUlZt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.r74A6ejDA9QsUlZt"
+    },
+    {
+      "text": "Opening to distract, escape, or avoid foes",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "gFNqHk3O0CQ3pEoK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.gFNqHk3O0CQ3pEoK"
+    },
+    {
+      "text": "Opening to get the drop on a foe",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "bV58um60XMHSA2RW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.bV58um60XMHSA2RW"
+    },
+    {
+      "text": "Plea for help from a potential benefactor",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "MB87ZZJ0x86vn9nZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.MB87ZZJ0x86vn9nZ"
+    },
+    {
+      "text": "Refuge offers a place to hide, plan, or recover",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "6iQafKs4BayMaJlb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.6iQafKs4BayMaJlb"
+    },
+    {
+      "text": "Vantage point reveals the lay of the land",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "Eh4F51tlXwEdLYgF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Trq6J1gDaYlU4bsG.Eh4F51tlXwEdLYgF"
+    }
+  ],
+  "folder": "hlkNpGgDqvEvbZcO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a beneficial encounter or event on a planetside journey, such as when you roll a strong hit with a match as you Undertake an Expedition, or if you Explore a Waypoint and find an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676402172,
+    "modifiedTime": 1693511886903,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "Trq6J1gDaYlU4bsG",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Trq6J1gDaYlU4bsG"
+}

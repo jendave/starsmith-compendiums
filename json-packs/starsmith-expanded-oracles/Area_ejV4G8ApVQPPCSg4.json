@@ -1,0 +1,207 @@
+{
+  "name": "Area",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Agricultural enhancement",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "l6ehXLu5FyJGmsiK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.l6ehXLu5FyJGmsiK"
+    },
+    {
+      "text": "Armament or defense",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "2qur6unX85JElccN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.2qur6unX85JElccN"
+    },
+    {
+      "text": "Astronomy or starships",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "zF6zoHNS00f9rHr0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.zF6zoHNS00f9rHr0"
+    },
+    {
+      "text": "Chemistry or physics",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "OiutGOr8NB1GWnOM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.OiutGOr8NB1GWnOM"
+    },
+    {
+      "text": "Computer or AI",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "3jmJ0GldS4so4wwa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.3jmJ0GldS4so4wwa"
+    },
+    {
+      "text": "Cybernetics or augments",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "qBT2QmsJkOy59cfO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.qBT2QmsJkOy59cfO"
+    },
+    {
+      "text": "Genetics or biology",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "Xt8bdOzv4irg8tNb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.Xt8bdOzv4irg8tNb"
+    },
+    {
+      "text": "Historical records",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "eXzcvhQrCyTncO1f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.eXzcvhQrCyTncO1f"
+    },
+    {
+      "text": "Material or mechanical",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "LBzbxwv2qJ779cts",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.LBzbxwv2qJ779cts"
+    },
+    {
+      "text": "University system",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "0hQ1CS16ksO5a2xu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.0hQ1CS16ksO5a2xu"
+    },
+    {
+      "text": "Zoology or xenobiology",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "FwEdtqMwsEeBP5to",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.FwEdtqMwsEeBP5to"
+    },
+    {
+      "text": "New zone via Access",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "TUzJFUIinOb7ovgE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ejV4G8ApVQPPCSg4.TUzJFUIinOb7ovgE"
+    }
+  ],
+  "folder": "1B0kNT3mWZDFVFFC",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658155,
+    "modifiedTime": 1693870869308,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "ejV4G8ApVQPPCSg4",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!ejV4G8ApVQPPCSg4"
+}

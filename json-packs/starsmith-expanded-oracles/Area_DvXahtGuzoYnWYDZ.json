@@ -1,0 +1,207 @@
+{
+  "name": "Area",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Agricultural center",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "WOyUWVkSzVi6kpak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.WOyUWVkSzVi6kpak"
+    },
+    {
+      "text": "Automated factory",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "LxGRJmuqSHgLgBeu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.LxGRJmuqSHgLgBeu"
+    },
+    {
+      "text": "Construction company",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "h3Yl5uwjEe54yziB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.h3Yl5uwjEe54yziB"
+    },
+    {
+      "text": "Infrastructure complex",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "GZqilveNGlwru9vB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.GZqilveNGlwru9vB"
+    },
+    {
+      "text": "Livestock breeding",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "vS8tgF6fxrOCTJdF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.vS8tgF6fxrOCTJdF"
+    },
+    {
+      "text": "Mining headquarters",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "MHUkA6WnzmRnZgqV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.MHUkA6WnzmRnZgqV"
+    },
+    {
+      "text": "Processing or  refinement plant",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "f6PDAPd1riw1pyoT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.f6PDAPd1riw1pyoT"
+    },
+    {
+      "text": "Scrapyard",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "BPz38H442OskcRwd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.BPz38H442OskcRwd"
+    },
+    {
+      "text": "Shipping hub",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "8QrhLIHOGFfKZViS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.8QrhLIHOGFfKZViS"
+    },
+    {
+      "text": "Shipyard",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "K89wwVBN0xFFef1N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.K89wwVBN0xFFef1N"
+    },
+    {
+      "text": "Warehouse",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "0dAJVxRnNAW2exBE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.0dAJVxRnNAW2exBE"
+    },
+    {
+      "text": "New zone via   Access",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "oyUsb5UP5iVznQ3y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!DvXahtGuzoYnWYDZ.oyUsb5UP5iVznQ3y"
+    }
+  ],
+  "folder": "Px5AroYzQ1mF5jOi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658134,
+    "modifiedTime": 1693870846336,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "DvXahtGuzoYnWYDZ",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!DvXahtGuzoYnWYDZ"
+}

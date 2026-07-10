@@ -1,0 +1,167 @@
+{
+  "name": "Outer First Look (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Blocked access",
+      "range": [
+        1,
+        15
+      ],
+      "_id": "toEtq0cTDyZT9uLw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.toEtq0cTDyZT9uLw"
+    },
+    {
+      "text": "Corpses",
+      "range": [
+        16,
+        30
+      ],
+      "_id": "Z3QHf1xAsEsKAfnE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.Z3QHf1xAsEsKAfnE"
+    },
+    {
+      "text": "Hazardous readings",
+      "range": [
+        31,
+        45
+      ],
+      "_id": "jdQa0gyf98ML6ifI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.jdQa0gyf98ML6ifI"
+    },
+    {
+      "text": "Mutated structure",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "uLveIf7U6ryKIi0N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.uLveIf7U6ryKIi0N"
+    },
+    {
+      "text": "Odd orientation",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "1FM9HPa0Ap0hhhC1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.1FM9HPa0Ap0hhhC1"
+    },
+    {
+      "text": "Overgrown or entangled",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "Y3z6eWTFB3JdhqzH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.Y3z6eWTFB3JdhqzH"
+    },
+    {
+      "text": "Sending a signal or message",
+      "range": [
+        66,
+        80
+      ],
+      "_id": "iNqRIJmoQOIVbGhW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.iNqRIJmoQOIVbGhW"
+    },
+    {
+      "text": "Signs that others are here",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "w43O23QQB0ydyqkF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.w43O23QQB0ydyqkF"
+    },
+    {
+      "text": "Stripped exterior",
+      "range": [
+        86,
+        95
+      ],
+      "_id": "sBtdYRcz4wNuQyWT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.sBtdYRcz4wNuQyWT"
+    },
+    {
+      "text": "Time or reality distortion",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "d9R8IvXxFcKhuJzD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mLDIiGSS9a6Stemt.d9R8IvXxFcKhuJzD"
+    }
+  ],
+  "folder": "uFBHcawqNPAmWvqe",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676611917,
+    "modifiedTime": 1693042477856,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "mLDIiGSS9a6Stemt",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!mLDIiGSS9a6Stemt"
+}

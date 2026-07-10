@@ -1,0 +1,139 @@
+{
+  "name": "Fleet (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Border patrol",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "eZH4LPoHJafwDiKe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.eZH4LPoHJafwDiKe"
+    },
+    {
+      "text": "Mercenary force",
+      "range": [
+        11,
+        25
+      ],
+      "_id": "sG3YjjPyBSt8qW4k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.sG3YjjPyBSt8qW4k"
+    },
+    {
+      "text": "Engineering team",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "vhtzCcpaQ7VtZSQZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.vhtzCcpaQ7VtZSQZ"
+    },
+    {
+      "text": "Corporate excavators",
+      "range": [
+        36,
+        50
+      ],
+      "_id": "SC247XRSgz5I5LFu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.SC247XRSgz5I5LFu"
+    },
+    {
+      "text": "Automated cryo-sleepers",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "7zSAJVPm3VLV3cPV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.7zSAJVPm3VLV3cPV"
+    },
+    {
+      "text": "Religious caravan",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "UyDGikdIWcqY0vgO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.UyDGikdIWcqY0vgO"
+    },
+    {
+      "text": "Unaligned sanctuary ships",
+      "range": [
+        71,
+        90
+      ],
+      "_id": "rkbSRnf3YfTl7Col",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.rkbSRnf3YfTl7Col"
+    },
+    {
+      "text": "Starship Mission",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "nvKCoGyQltzPn1QP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!VVwHG9fOYRad8p7o.nvKCoGyQltzPn1QP"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461189,
+    "modifiedTime": 1693073563231,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "VVwHG9fOYRad8p7o",
+  "sort": 45313,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!VVwHG9fOYRad8p7o"
+}

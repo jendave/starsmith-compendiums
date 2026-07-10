@@ -1,0 +1,111 @@
+{
+  "name": "Elemental energy or matter",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Dark matter being",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "tvN60NCMaMsW8mJQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jPmE3P18K2BIkSaS.tvN60NCMaMsW8mJQ"
+    },
+    {
+      "text": "Living energy, electricity",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "NAgBxKEqALk7NoRk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jPmE3P18K2BIkSaS.NAgBxKEqALk7NoRk"
+    },
+    {
+      "text": "Living fire, magma",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "OHUUV9pUF3gONWR3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jPmE3P18K2BIkSaS.OHUUV9pUF3gONWR3"
+    },
+    {
+      "text": "Living rock, earth",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "98aRp6eI5li6PsdT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jPmE3P18K2BIkSaS.98aRp6eI5li6PsdT"
+    },
+    {
+      "text": "Multi-dimensional",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "KKgYMcM9jqZwGkfF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jPmE3P18K2BIkSaS.KKgYMcM9jqZwGkfF"
+    },
+    {
+      "text": "Primordial",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "kzkBrC8AzIS8pO3M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!jPmE3P18K2BIkSaS.kzkBrC8AzIS8pO3M"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 4,
+  "_id": "jPmE3P18K2BIkSaS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773799,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!jPmE3P18K2BIkSaS"
+}

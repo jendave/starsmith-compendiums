@@ -1,0 +1,537 @@
+{
+  "name": "Peril (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Artificial gravity generator malfunctions",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "4UV7k2riMFPDuHNM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.4UV7k2riMFPDuHNM"
+    },
+    {
+      "text": "Automated defenses or mines protect this area",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "ytCJehnyqkBpUwrl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.ytCJehnyqkBpUwrl"
+    },
+    {
+      "text": "Compartment catches fire or is breached",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "PWXA0gSj3ZU4IzqH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.PWXA0gSj3ZU4IzqH"
+    },
+    {
+      "text": "Contagion or illness threatens to take hold",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "jz6EXCp2Nk3HM26E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.jz6EXCp2Nk3HM26E"
+    },
+    {
+      "text": "Dust clouds imperil navigation or conceal foes",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "nOoRCN9iHoprNtOC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.nOoRCN9iHoprNtOC"
+    },
+    {
+      "text": "Energy storm looms",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "TYkymwNRlp8qEHWT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.TYkymwNRlp8qEHWT"
+    },
+    {
+      "text": "Familiar foe appears or sends an ominous message",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "xHgwDOnjczgXBFuT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.xHgwDOnjczgXBFuT"
+    },
+    {
+      "text": "Gravity well or vortex takes hold",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "PnuQ0VGmfEcck6xF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.PnuQ0VGmfEcck6xF"
+    },
+    {
+      "text": "Imperiled ship calls for help",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "3VqjSypXOI4VJS4G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.3VqjSypXOI4VJS4G"
+    },
+    {
+      "text": "Important device fails or malfunctions",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "DVBYiEp3dPz6FvKL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.DVBYiEp3dPz6FvKL"
+    },
+    {
+      "text": "Infestation is revealed",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "OFTc4LajfKMmSgsI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.OFTc4LajfKMmSgsI"
+    },
+    {
+      "text": "Intruder or stowaway creates trouble",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "aoIegitTNLhvw8JJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.aoIegitTNLhvw8JJ"
+    },
+    {
+      "text": "Isolation or fear presses in",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "OGDriOvJ7wAwI9la",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.OGDriOvJ7wAwI9la"
+    },
+    {
+      "text": "Life support system malfunctions",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "1qxdsBlf3bXMrIvK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.1qxdsBlf3bXMrIvK"
+    },
+    {
+      "text": "Meteoroid storm fills the sky",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "h6IRmGc3zPOAlxjt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.h6IRmGc3zPOAlxjt"
+    },
+    {
+      "text": "Mysterious wreckage portends a new threat",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "HgKZnRPq6p6Byshw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.HgKZnRPq6p6Byshw"
+    },
+    {
+      "text": "Nearby settlement calls for help",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "pVPbEkDKN7TacCYf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.pVPbEkDKN7TacCYf"
+    },
+    {
+      "text": "Old repair or patch fails",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "lua70lCuLTNyQZsD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.lua70lCuLTNyQZsD"
+    },
+    {
+      "text": "Onboard dispute or inner turmoil causes a disruption",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "HKqZdR8oVhqW522J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.HKqZdR8oVhqW522J"
+    },
+    {
+      "text": "Others obstruct your path or form a blockade",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "ebDQmtj1bWGFIxYh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.ebDQmtj1bWGFIxYh"
+    },
+    {
+      "text": "Phantom signals suggest a lurking foe",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "gnZ4VGrQHMk6zHjg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.gnZ4VGrQHMk6zHjg"
+    },
+    {
+      "text": "Pirates hunt for prey",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "hq8JuY83lb4Ex9GV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.hq8JuY83lb4Ex9GV"
+    },
+    {
+      "text": "Power fails",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "5AOn18dzGpNH6Frd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.5AOn18dzGpNH6Frd"
+    },
+    {
+      "text": "Primary drive or generator malfunctions",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "hzpBWld1Kps1CjDj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.hzpBWld1Kps1CjDj"
+    },
+    {
+      "text": "Sabotage is revealed",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "vDnma5eNZG5yQIJy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.vDnma5eNZG5yQIJy"
+    },
+    {
+      "text": "Shock wave or gravity wave approaches",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "333arsWBcw83d6qq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.333arsWBcw83d6qq"
+    },
+    {
+      "text": "Someone questions your presence here",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "LmNxLyFqPAFOV3Ek",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.LmNxLyFqPAFOV3Ek"
+    },
+    {
+      "text": "Stellar anomaly emits hazardous energies",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "cp2BIhZgwlsr9hZT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.cp2BIhZgwlsr9hZT"
+    },
+    {
+      "text": "Threatening lifeform draws near",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "S5QOG5azjcfl9vvs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.S5QOG5azjcfl9vvs"
+    },
+    {
+      "text": "Troubling visions or apparitions",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "2zRMZBM6qul3N7XT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.2zRMZBM6qul3N7XT"
+    },
+    {
+      "text": "True nature of a cargo, occupant, or passenger is revealed",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "uXVvYYySHs0hxCWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.uXVvYYySHs0hxCWH"
+    },
+    {
+      "text": "Unsettling sounds or disturbances",
+      "range": [
+        94,
+        96
+      ],
+      "_id": "X6BWLi62UtblTEB3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.X6BWLi62UtblTEB3"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        97,
+        99
+      ],
+      "_id": "fKrLNe26cJN15kF2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.fKrLNe26cJN15kF2"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "7cyX9CSobhzX3B9U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.7cyX9CSobhzX3B9U"
+    }
+  ],
+  "folder": "9aKg1x9pvKGwheVZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a trouble during spaceborne exploration or on an interstellar expedition.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676313218,
+    "modifiedTime": 1699002158276,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "G90eIxEM1jKH5YY4",
+  "sort": 2193750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!G90eIxEM1jKH5YY4"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Sworn Quest Mad Lib (Starsmith)",
+  "type": "script",
+  "_id": "1XLphLFPsLCbZp3K",
+  "author": "mrx6ioSDzeIA0D08",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction randomArrayItem(array) {\n    const index = (Math.floor(Math.random() * array.length));\n    return array[index];\n}\n\nconst rollTablePrefix = \"Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.\";\nconst actionArray = [\"OSpHuphKhIOcJy6e\", \"EdMDbQ2rvj1kjsVw\", \"P2eGB9bEuZtwAQxq\"];\nconst themeArray = [\"mgGRUu62QCdo0n2Z\", \"cCXTQZgR8f8d0Ojq\", \"2KgRpUejv7U6Pjzf\"];\nconst descriptorArray = [\"886Dxrj4VbhJWWH8\", \"8SO1JnHLK1F7sFwQ\", \"02ya1SPztxDlHmV0\"];\nconst focusArray = [\"zQO6QiD9dBseAj2n\", \"vLrIoBVbDBjNziuq\", \"s58V9HjgGqP3tmT2\"];\nconst sectorPrefixArray = [\"OBgw20hZhAlacN3n\", \"1qgTxhg1qpPATkiu\", \"vk6vBQsstREMx9AV\"];\nconst sectorSuffixArray = [\"KOB1e7oQ9qA5lZIB\", \"KGTJ4kSSkeyHxgZy\", \"MQFMTMilYVltbR0q\"];\nconst givenNameArray = [\"UnTcBB8gwFjNoT9O\", \"dXJhMhBt7J2FtCVh\", \"5acO6ocnsJerpEkI\"];\nconst familyNameArray = [\"6pv2fJdPmbl6HDGR\", \"v5XqY7qSbXRuBIDR\", \"lQR1PUQksmjUX2Fd\"];\nconst characterRoleArray = [\"O5x9KiSkoNAVXW6O\", \"VEL6LI4wBzI8eb7z\", \"437mrjVAePTQZGYv\"];\nconst characterGoalArray = [\"2xxntLbzYGLZ2cao\", \"oLDINu3MLyDgABhD\", \"aqapGyFUQ1Jj9uQl\"];\n\n\nlet table = await fromUuid(rollTablePrefix + randomArrayItem(actionArray));\nlet roll = await table.roll();\nlet action = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(themeArray));\nroll = await table.roll();\nlet theme = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(descriptorArray));\nroll = await table.roll();\nlet descriptor = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(focusArray));\nroll = await table.roll();\nlet focus = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(sectorPrefixArray));\nroll = await table.roll();\nlet sectorPrefix = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(sectorSuffixArray));\nroll = await table.roll();\nlet sectorSuffix = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(givenNameArray));\nroll = await table.roll();\nlet givenName = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(familyNameArray));\nroll = await table.roll();\nlet familyName = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(characterRoleArray));\nroll = await table.roll();\nlet characterRole = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(characterGoalArray));\nroll = await table.roll();\nlet characterGoal = roll.results[0].text;\n\nlet title = \"<h3><strong>Sworn Quest (Starsmith)</strong></h3>\";\nlet message = \"I swear to \" + action.toLowerCase() + \" a \" + theme.toLowerCase() + \" of a \" + descriptor.toLowerCase() + \" \" + focus.toLowerCase() + \" located in \" + sectorPrefix + \" \" + sectorSuffix + \".  I am opposed by \" + givenName + \" \" + familyName + \", a \" + characterRole + \" who wants to \" + characterGoal + \".\"\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1698972196234,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_key": "!macros!1XLphLFPsLCbZp3K"
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Insect or arachnid",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Exoskeleton",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "vBQbDy6kAFDadBjw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CSGlLfUuqwAOaUVC.vBQbDy6kAFDadBjw"
+    },
+    {
+      "text": "Jumper or web spinner",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "iBxKfvUElMJXOLVu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CSGlLfUuqwAOaUVC.iBxKfvUElMJXOLVu"
+    },
+    {
+      "text": "Luminous",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "7tHQ7uU4Df46Glp4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CSGlLfUuqwAOaUVC.7tHQ7uU4Df46Glp4"
+    },
+    {
+      "text": "Segmented, many legged",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "awVCfYdhTU67OkQi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CSGlLfUuqwAOaUVC.awVCfYdhTU67OkQi"
+    },
+    {
+      "text": "Winged",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "NPq6pAEOsOwbUZLj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CSGlLfUuqwAOaUVC.NPq6pAEOsOwbUZLj"
+    },
+    {
+      "text": "Worker drone",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "BBTMfL8m9BZmOEnX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CSGlLfUuqwAOaUVC.BBTMfL8m9BZmOEnX"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 6,
+  "_id": "CSGlLfUuqwAOaUVC",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773808,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!CSGlLfUuqwAOaUVC"
+}

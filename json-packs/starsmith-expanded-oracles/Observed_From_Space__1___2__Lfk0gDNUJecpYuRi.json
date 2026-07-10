@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Dry seabeds",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "H4tlSiWOv2exVwWa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.H4tlSiWOv2exVwWa"
+    },
+    {
+      "text": "Expansive dune seas",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "VbVgR8qWrQ70sBxF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.VbVgR8qWrQ70sBxF"
+    },
+    {
+      "text": "Massive canyons",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "nSvv9BQp9Hh2prn3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.nSvv9BQp9Hh2prn3"
+    },
+    {
+      "text": "Perpetual daylight",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "vRPtvPgDtpZFu72E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.vRPtvPgDtpZFu72E"
+    },
+    {
+      "text": "Rugged mountains",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "QyvmCBlpDUcK0QmP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.QyvmCBlpDUcK0QmP"
+    },
+    {
+      "text": "Sprawling salt flats",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "d2mnns8Jedui8msN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.d2mnns8Jedui8msN"
+    },
+    {
+      "text": "Vast plateaus",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "pWmgolNdX3xuaGqt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.pWmgolNdX3xuaGqt"
+    },
+    {
+      "text": "Vibrant terrain colors",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "sAEBtue3PidNpbdi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.sAEBtue3PidNpbdi"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "8FjoktZ4lQpO5glH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.8FjoktZ4lQpO5glH"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "viA6LoREcilWR25L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lfk0gDNUJecpYuRi.viA6LoREcilWR25L"
+    }
+  ],
+  "folder": "Pl9XxW6fIhAGfABi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401703,
+    "modifiedTime": 1699035239694,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "Lfk0gDNUJecpYuRi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Lfk0gDNUJecpYuRi"
+}

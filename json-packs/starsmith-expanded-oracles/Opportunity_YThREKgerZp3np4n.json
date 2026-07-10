@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access granted to advanced or experimental equipment",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "Gcu5M5AKVYv49avY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YThREKgerZp3np4n.Gcu5M5AKVYv49avY"
+    },
+    {
+      "text": "Access to a specialized tool or device",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "SfcftXW8raDFab1p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YThREKgerZp3np4n.SfcftXW8raDFab1p"
+    },
+    {
+      "text": "Expert engineer willing to talk shop",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "lfj3Y75Bc6CYsW4D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YThREKgerZp3np4n.lfj3Y75Bc6CYsW4D"
+    },
+    {
+      "text": "Helpful plans or schematics",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "Xl675uKp6MFGzZce",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YThREKgerZp3np4n.Xl675uKp6MFGzZce"
+    },
+    {
+      "text": "Helpful utility bot",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "4dnNiNvsc7dJdN8e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YThREKgerZp3np4n.4dnNiNvsc7dJdN8e"
+    }
+  ],
+  "folder": "yIrjqo4T2v8hXe7o",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658096,
+    "modifiedTime": 1693870739972,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "YThREKgerZp3np4n",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!YThREKgerZp3np4n"
+}

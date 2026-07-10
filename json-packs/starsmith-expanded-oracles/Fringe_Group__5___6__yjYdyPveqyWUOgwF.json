@@ -1,0 +1,195 @@
+{
+  "name": "Fringe Group (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Augmented",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "p0Dnhlso2uZBlNJE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.p0Dnhlso2uZBlNJE"
+    },
+    {
+      "text": "Black ops",
+      "range": [
+        6,
+        15
+      ],
+      "_id": "qzCPk0jEazjDr4GS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.qzCPk0jEazjDr4GS"
+    },
+    {
+      "text": "Commune",
+      "range": [
+        16,
+        25
+      ],
+      "_id": "YKuxXzUSqatdnyQK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.YKuxXzUSqatdnyQK"
+    },
+    {
+      "text": "Dark mystics",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "8LtiCAHLLVyeyMxG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.8LtiCAHLLVyeyMxG"
+    },
+    {
+      "text": "Ghost hunters",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "xJYp5HDgkAqqixlB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.xJYp5HDgkAqqixlB"
+    },
+    {
+      "text": "Isolationists",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "z4tpLRkuccEpGYhS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.z4tpLRkuccEpGYhS"
+    },
+    {
+      "text": "Plague makers",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "Vmz0elvYmYLDNODN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.Vmz0elvYmYLDNODN"
+    },
+    {
+      "text": "Population controllers",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "kNAKlQktNnMz93Cb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.kNAKlQktNnMz93Cb"
+    },
+    {
+      "text": "Randians",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "Pks1B1QFcFvIO2s5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.Pks1B1QFcFvIO2s5"
+    },
+    {
+      "text": "Vault hunters",
+      "range": [
+        76,
+        85
+      ],
+      "_id": "Ht31H87XmH5HRZEk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.Ht31H87XmH5HRZEk"
+    },
+    {
+      "text": "Zealots",
+      "range": [
+        86,
+        95
+      ],
+      "_id": "lehfRRAD19YqKF4M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.lehfRRAD19YqKF4M"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "m6bitHwpZGUtPlP2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!yjYdyPveqyWUOgwF.m6bitHwpZGUtPlP2"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597164,
+    "modifiedTime": 1693070203768,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "yjYdyPveqyWUOgwF",
+  "sort": 197657,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!yjYdyPveqyWUOgwF"
+}

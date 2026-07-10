@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cloud-breaching volcanoes",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "yUDaeQp9OK8IMpDf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.yUDaeQp9OK8IMpDf"
+    },
+    {
+      "text": "Continent-spanning canyons",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "ygIcqByjmUfaQcrs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.ygIcqByjmUfaQcrs"
+    },
+    {
+      "text": "Erratic orbit",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "Ps27GYHvfyntbDZa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.Ps27GYHvfyntbDZa"
+    },
+    {
+      "text": "Light and dark side of the planet",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "p2ScPmzDQihpKQz6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.p2ScPmzDQihpKQz6"
+    },
+    {
+      "text": "Massive comets in a slowly decaying orbit",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "wzXZNNXRyInJJUa5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.wzXZNNXRyInJJUa5"
+    },
+    {
+      "text": "Pockmarked plains",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "rGf0LG4LaKwO9AWj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.rGf0LG4LaKwO9AWj"
+    },
+    {
+      "text": "Sphere of rocky debris surrounding the planet",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "8sFd5TILCJhuvD2e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.8sFd5TILCJhuvD2e"
+    },
+    {
+      "text": "Varied colors indicating different minerals",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "6K4HE8K2jFjh8n0I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.6K4HE8K2jFjh8n0I"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "MOtCLyrBoQ6orLOg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.MOtCLyrBoQ6orLOg"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "pNwCWiI4atdoagWN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aos2ItE40qIbg8aV.pNwCWiI4atdoagWN"
+    }
+  ],
+  "folder": "F2UgfneAghjUe29m",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676401992,
+    "modifiedTime": 1699054017665,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "aos2ItE40qIbg8aV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!aos2ItE40qIbg8aV"
+}

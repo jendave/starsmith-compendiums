@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Complex reef systems",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "NLa1M1xj08Jhz50N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.NLa1M1xj08Jhz50N"
+    },
+    {
+      "text": "Emerging volcanoes",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "5qRmOteEu1t3miWY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.5qRmOteEu1t3miWY"
+    },
+    {
+      "text": "Floating forests",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "Ve6rjZ8hMmrX8S9q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.Ve6rjZ8hMmrX8S9q"
+    },
+    {
+      "text": "Global hurricanes",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "j8WIU4JAkLYMuoR7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.j8WIU4JAkLYMuoR7"
+    },
+    {
+      "text": "Large moon and strong tides",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "d2QEHZzc5GQ42LL1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.d2QEHZzc5GQ42LL1"
+    },
+    {
+      "text": "Scattered islands",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "L5y9GZmRWIvCAoEU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.L5y9GZmRWIvCAoEU"
+    },
+    {
+      "text": "Semi-frozen oceans",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "amyU2plxO0AOhgSg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.amyU2plxO0AOhgSg"
+    },
+    {
+      "text": "Unusual water color",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "7fGPYbzlCeqLlw6b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.7fGPYbzlCeqLlw6b"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "TJ4vYeIM1UEaYN13",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.TJ4vYeIM1UEaYN13"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "xjlCQuWdFpZSdNXP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vAi4oyM0iN9Xaku3.xjlCQuWdFpZSdNXP"
+    }
+  ],
+  "folder": "tl9BYoquB8rsJXih",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676401947,
+    "modifiedTime": 1699053793119,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "vAi4oyM0iN9Xaku3",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!vAi4oyM0iN9Xaku3"
+}

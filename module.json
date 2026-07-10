@@ -22,13 +22,13 @@
   "packs": [
     {
       "name": "starsmithexpandedoracles",
-      "label": "Starsmith Expanded Oracles",
+      "label": "Starsmith Oracles",
       "path": "./packs/starsmith-expanded-oracles",
       "type": "RollTable"
     },
     {
       "name": "starsmithexpandedoraclesmacros",
-      "label": "Starsmith Expanded Oracles Macros",
+      "label": "Starsmith Macros",
       "path": "./packs/starsmith-expanded-oracles-macros",
       "type": "Macro",
       "system": "foundry-ironsworn"
@@ -95,7 +95,7 @@
           ]
         },
         {
-          "name": "Starsmith Expanded Oracles",
+          "name": "Starsmith Oracles",
           "packs": [
             "starsmithexpandedoracles",
             "starsmithexpandedoraclesmacros"

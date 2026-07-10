@@ -1,0 +1,30 @@
+{
+  "name": "Starship Registry Number",
+  "type": "script",
+  "scope": "global",
+  "author": "pvGXRm1tqcLrB73Z",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by el_reverend with modifications by David Hudson\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction processInitialsResult(result) {\n    if (result == \"Use Faction Initials\") {\n        return \"Faction Initials\";\n    }\n    return result.substring(0, 3);\n}\n\n(async () => {\n    let sequence = \"\";\n    for (let i = 0; i < 4; i++) {\n        let roll = new Roll(\"1d10-1\");\n        await roll.evaluate({ async: true });\n        sequence = sequence.concat(roll.total);\n        //roll.toMessage();\n    }\n\n    // Fetch results from the tables\n    let initials = await fromUuid(\"Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.byBI6d46QtVH1goo\");\n    let initialsResult = await initials.draw({displayChat: false});\n\n    let model = await fromUuid(\"Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.ZlVBOz7v2GzEuXtW\");\n    let modelResult = await model.draw({displayChat: false});\n\n    // Process the Initials result\n    let initialsText = processInitialsResult(initialsResult.results[0]?.text || \"Initials Error\");\n    let modelText = modelResult.results[0]?.text || \"Model Error\";\n\n    // Construct the output with the h3 header\n    let title = \"<h3>Starship Registration Number</h3>\";\n    let message = `<h4>${initialsResult.results[0]?.text}</h4>${initialsText}-${sequence}-${modelText}`;\n\n    // Display the final output\n    printMessage(title + message);\n})();",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1694635206986,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "YbkFqHQwdukqMddQ",
+  "sort": 1300000,
+  "_key": "!macros!YbkFqHQwdukqMddQ"
+}

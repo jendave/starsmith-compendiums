@@ -1,0 +1,140 @@
+{
+  "name": "Mech Environment",
+  "pages": [
+    {
+      "sort": 100000,
+      "name": "1 - 33",
+      "type": "text",
+      "_id": "293jc44wOD2c4mwS",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Our mechs were born in space protecting ships from raiders. They are designed from the ground up for zero-g work.</strong></p><p>Mechs are easier to build in space dock and are mainly used in space itself. While they are capable of battle on a planet’s surface, they are much slower and plodding there.</p><p><em>Quest Starter: Starting Module: Give all mechs the EVA module for free at build time.</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1772217764322
+      },
+      "_key": "!journal.pages!q3e35NaTC0XUvQww.293jc44wOD2c4mwS"
+    },
+    {
+      "sort": 200000,
+      "name": "34 - 67",
+      "type": "text",
+      "_id": "80d0t9Fq4cFbY9xE",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>The mechs we utilize were build to fly in the atmosphere.</strong></p><p>As we settled on planet after planet, we quickly realized the need for rapid response times to emergencies. To accommodate the need for speed and combat, we build our mechs with flight systems.</p><p><em>Quest Starter: Starting Module: Give all mechs the Flight System module for free at build time and the Zephyr the EVA module.</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1772217795355
+      },
+      "_key": "!journal.pages!q3e35NaTC0XUvQww.80d0t9Fq4cFbY9xE"
+    },
+    {
+      "sort": 300000,
+      "name": "68 - 100",
+      "type": "text",
+      "_id": "63co89mDZOfxqvOV",
+      "system": {},
+      "title": {
+        "show": true,
+        "level": 1
+      },
+      "image": {},
+      "text": {
+        "format": 1,
+        "content": "<p><strong>Mechs are our main source of protection on the ground, but other vehicles are better suited for atmospheric flight or zero-g protection duty.</strong></p><p>Mechs are designed for the gravity of specific planetary surfaces. Trying to make them adaptable proved too difficult of an engineering challenge, and transporting mechs to other planets is far too expensive.</p><p><em>Quest Starter: Starting Module: Give all mechs the Heavy Armor module for free at build time and the Gladiator the Inertial Dampeners module.</em></p>"
+      },
+      "video": {
+        "controls": true,
+        "volume": 0.5
+      },
+      "src": null,
+      "category": null,
+      "ownership": {
+        "default": -1,
+        "MmM06BuCrG9h1GLg": 3
+      },
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.26.0",
+        "lastModifiedBy": "MmM06BuCrG9h1GLg",
+        "modifiedTime": 1772217829643
+      },
+      "_key": "!journal.pages!q3e35NaTC0XUvQww.63co89mDZOfxqvOV"
+    }
+  ],
+  "folder": null,
+  "categories": [],
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.26.0",
+    "createdTime": 1772183435638,
+    "modifiedTime": 1772217731001,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "q3e35NaTC0XUvQww",
+  "sort": 300000,
+  "_key": "!journal!q3e35NaTC0XUvQww"
+}

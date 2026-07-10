@@ -1,0 +1,30 @@
+{
+  "name": "Progress Roll",
+  "type": "script",
+  "scope": "global",
+  "author": "pvGXRm1tqcLrB73Z",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message };\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\", \"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\ntry {\n    let progressScoreDialog = await Dialog.prompt({\n        title: \"Progress Roll\",\n        content: `<p>Enter Progress Score:</p><input type=\"number\" id=\"modifier\" name=\"modifier\" min=\"-10\" max=\"10\" value=\"0\"/>`,\n        rejectClose: true,\n        callback: (html) => html.find('input').val()\n    });\n\n    let challengeDie_1 = new Roll('1d10');\n    let challengeDie_2 = new Roll('1d10');\n    let progressScore = parseInt(progressScoreDialog);\n    await challengeDie_1.evaluate();\n    await challengeDie_2.evaluate();\n    challengeDie_1.toMessage();\n    challengeDie_2.toMessage();\n\n    let successes = 0;\n    let match = false;\n\n    if (progressScore > challengeDie_1.total) {\n        successes += 1;\n    }\n    if (progressScore > challengeDie_2.total) {\n        successes += 1;\n    }\n    if (challengeDie_1.total == challengeDie_2.total) {\n        match = true;\n    }\n\n    let result = \"Miss\";\n    switch (successes) {\n        case 0:\n            result = \"Miss\";\n            if (match) {\n                result += \" with a Match\"\n            }\n            break;\n        case 1:\n            result = \"Weak Hit\";\n            break;\n        case 2:\n            result = \"Strong Hit\";\n            if (match) {\n                result += \" with a Match\"\n            }\n    }\n\n    //console.log(\"progressScore: \" + progressScore.total); \n    //console.log(\"Modifiers: \" + modifiers);\n    //console.log(\"challengeDie_1: \" + challengeDie_1.total); \n    //console.log(\"challengeDie_2: \" + challengeDie_2.total); \n    //console.log(\"successes: \" + successes);\n    //console.log(\"match: \" + match);\n    //console.log(\"Result: \" + result);\n    // let message = \"<p>Progress Score: \" + progressScore + \"</p>\" + \"<h3>Result: \" + result + \"</h3>\";\n    // ChatMessage.create({ content: message });\n\n    // Construct the output with the h3 header\n    let title = \"<h3>Progress Roll</h3>\";\n    let message = \"<p>Progress Score: \" + progressScore + \"</p>\" + \"<h3>Result: \" + result + \"</h3>\";\n\n    // Display the final output\n    printMessage(title + message);\n}\ncatch (e) {\n    console.log(\"The Dialog was closed without a choice being made.\");\n}",
+  "folder": null,
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1694384834333,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "cxnOr9KSj1nHA65r",
+  "sort": 1500000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!macros!cxnOr9KSj1nHA65r"
+}

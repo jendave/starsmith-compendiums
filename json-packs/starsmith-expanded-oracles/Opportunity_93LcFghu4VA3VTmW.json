@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access to quality medical care",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "PZZsPExpBsiMMyvg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!93LcFghu4VA3VTmW.PZZsPExpBsiMMyvg"
+    },
+    {
+      "text": "Access to rare specimen or data",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "8rof4uXsunxPar6U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!93LcFghu4VA3VTmW.8rof4uXsunxPar6U"
+    },
+    {
+      "text": "Chance to prove your character",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "Z2FZbtO4Ccar7BOu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!93LcFghu4VA3VTmW.Z2FZbtO4Ccar7BOu"
+    },
+    {
+      "text": "Clues to a medical mystery",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "vfoWDPqkM69v7ytw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!93LcFghu4VA3VTmW.vfoWDPqkM69v7ytw"
+    },
+    {
+      "text": "Well-connected patient seeks more data",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "bWy1mXtYGVcaNoSI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!93LcFghu4VA3VTmW.bWy1mXtYGVcaNoSI"
+    }
+  ],
+  "folder": "pRX4NVjQHMScCo6G",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658119,
+    "modifiedTime": 1693870798402,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "93LcFghu4VA3VTmW",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!93LcFghu4VA3VTmW"
+}

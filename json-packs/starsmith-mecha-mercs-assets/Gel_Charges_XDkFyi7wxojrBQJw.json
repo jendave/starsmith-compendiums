@@ -1,0 +1,59 @@
+{
+  "type": "asset",
+  "folder": "2aCuqfE0tm3YDPWk",
+  "name": "Gel Charges",
+  "system": {
+    "requirement": "",
+    "category": "Mech Module",
+    "color": "#883529",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your mech carries 3 explosive gel packs that can be launched from a ranged weapon designed to take out structural supports. If you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.703964b8d02355b8]{Resupply} in a place where these specialized explosives can be replenished, you may exchange any earned +supply for +gel pack.<p><p>When you make a move to attack, damage, destroy, or sabotage an object or structure by firing a gel charge, suffer -1 gel pack and roll +edge if you fire it from your weapon or roll +wits if you have time to place it manually. When you roll, roll the action die twice and keep the greater value. Then, if your action die alone is greater than both challenge dice, treat it as a strong hit with a match. If your action die alone is greater than one of the challenge dice, treat it as a strong hit.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": true,
+      "name": "Charges",
+      "current": 0,
+      "max": 3,
+      "value": 3,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [
+      {
+        "name": "Out of Charges",
+        "ticked": false
+      }
+    ],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/striking-clamps.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110942383,
+    "modifiedTime": 1764319766984,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XDkFyi7wxojrBQJw",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!XDkFyi7wxojrBQJw"
+}

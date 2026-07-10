@@ -1,0 +1,251 @@
+{
+  "name": "Shape (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Rotating wheel",
+      "range": [
+        1,
+        15
+      ],
+      "_id": "XyWx3AwUQ8qpWW3v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.XyWx3AwUQ8qpWW3v"
+    },
+    {
+      "text": "Geometric (cone)",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "pgzZ3CjRVCaHhXLI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.pgzZ3CjRVCaHhXLI"
+    },
+    {
+      "text": "Geometric (cylinder)",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "lZXBmRN3HwC53piq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.lZXBmRN3HwC53piq"
+    },
+    {
+      "text": "Geometric (prism)",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "IIrOufpGoNr4LVOA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.IIrOufpGoNr4LVOA"
+    },
+    {
+      "text": "Geometric (octahedron)",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "ZvhDgFaaI2Q5gI7Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.ZvhDgFaaI2Q5gI7Q"
+    },
+    {
+      "text": "Geometric (dodecahedron)",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "YQBXTlJysKCi5nrb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.YQBXTlJysKCi5nrb"
+    },
+    {
+      "text": "Geometric (icosahedron)",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "TyqdT33jVQMdQJT8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.TyqdT33jVQMdQJT8"
+    },
+    {
+      "text": "Topopolis",
+      "range": [
+        46,
+        55
+      ],
+      "_id": "IQfX9dz5FIIgIQos",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.IQfX9dz5FIIgIQos"
+    },
+    {
+      "text": "Multi-platformed",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "sWSvYYaVF1d6PyQX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.sWSvYYaVF1d6PyQX"
+    },
+    {
+      "text": "Pits or shafts",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "JujKAKqUyX6EaoIA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.JujKAKqUyX6EaoIA"
+    },
+    {
+      "text": "Walled",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "KnhipZFaGs14BiOZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.KnhipZFaGs14BiOZ"
+    },
+    {
+      "text": "Dimpled",
+      "range": [
+        69,
+        73
+      ],
+      "_id": "vDqGyyqiNPeWyXO4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.vDqGyyqiNPeWyXO4"
+    },
+    {
+      "text": "Coffin-like",
+      "range": [
+        74,
+        76
+      ],
+      "_id": "hfJ1lwRX7BIs6MEL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.hfJ1lwRX7BIs6MEL"
+    },
+    {
+      "text": "Fractal",
+      "range": [
+        77,
+        79
+      ],
+      "_id": "KrD69dwY6eBGj4ns",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.KrD69dwY6eBGj4ns"
+    },
+    {
+      "text": "Chained modules",
+      "range": [
+        80,
+        85
+      ],
+      "_id": "Ck32PP8dhFXqQiDS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.Ck32PP8dhFXqQiDS"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        86,
+        100
+      ],
+      "_id": "BpyPc4jXfeS7lLkH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.BpyPc4jXfeS7lLkH"
+    }
+  ],
+  "folder": "N2sObuKzWFZ5LEU2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676692219,
+    "modifiedTime": 1693073784093,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "EOUhqXJNMURqmZ23",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!EOUhqXJNMURqmZ23"
+}

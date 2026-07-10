@@ -1,0 +1,727 @@
+{
+  "name": "Legacy (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Abyssal",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "xvQiS1ayLWHjnoPC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.xvQiS1ayLWHjnoPC"
+    },
+    {
+      "text": "Ancestral",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "PJX7zYTG7YRc6Jhm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.PJX7zYTG7YRc6Jhm"
+    },
+    {
+      "text": "Arcane",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "cUZc8SuikZFnsxDY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.cUZc8SuikZFnsxDY"
+    },
+    {
+      "text": "Blazing",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "yDt0ulu5fvrv6F5C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.yDt0ulu5fvrv6F5C"
+    },
+    {
+      "text": "Branded",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "xCy9fabwz53zrVal",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.xCy9fabwz53zrVal"
+    },
+    {
+      "text": "Chosen",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "hJMDre7FiHud1OwL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.hJMDre7FiHud1OwL"
+    },
+    {
+      "text": "Deathly",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "gbMzQ5eAc5DHggSM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.gbMzQ5eAc5DHggSM"
+    },
+    {
+      "text": "Discerning",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "drUcHz1YAelsZOKO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.drUcHz1YAelsZOKO"
+    },
+    {
+      "text": "Eccentric",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "o6tK780ME1uo7YdW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.o6tK780ME1uo7YdW"
+    },
+    {
+      "text": "Ember",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "Sf31XNB9fo1cFgjW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.Sf31XNB9fo1cFgjW"
+    },
+    {
+      "text": "Emerald",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "m9rHIkSQoA8Vt6av",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.m9rHIkSQoA8Vt6av"
+    },
+    {
+      "text": "Enhanced",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "lVPZ6v7wgnTSNb18",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.lVPZ6v7wgnTSNb18"
+    },
+    {
+      "text": "Essential",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "pJQA9px8X37PyDpn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.pJQA9px8X37PyDpn"
+    },
+    {
+      "text": "Ethereal",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "TfBs8cA3BzcFMs0s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.TfBs8cA3BzcFMs0s"
+    },
+    {
+      "text": "Everpresent",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "mIrWvahp8wWqJuiO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.mIrWvahp8wWqJuiO"
+    },
+    {
+      "text": "Forged",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "VhnT6Q5Q68v5HEWu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.VhnT6Q5Q68v5HEWu"
+    },
+    {
+      "text": "Ghostly",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "LXDpnaetzGQs3jyB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.LXDpnaetzGQs3jyB"
+    },
+    {
+      "text": "Gray",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "71Vs6wTlrqoqGitD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.71Vs6wTlrqoqGitD"
+    },
+    {
+      "text": "Harrowing",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "z66ZhWlQ0QMwMLsk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.z66ZhWlQ0QMwMLsk"
+    },
+    {
+      "text": "Holy",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "wT0g3SlmzsSpSM0w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.wT0g3SlmzsSpSM0w"
+    },
+    {
+      "text": "Immortal",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "dymuFmZkWti8NHRb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.dymuFmZkWti8NHRb"
+    },
+    {
+      "text": "Iridescent",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "TX5dzA0j5l9ERECO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.TX5dzA0j5l9ERECO"
+    },
+    {
+      "text": "Lasting",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "GMwDZxlpFV6EcL0c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.GMwDZxlpFV6EcL0c"
+    },
+    {
+      "text": "Lost",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "MOwjkHEUzqMoTEdA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.MOwjkHEUzqMoTEdA"
+    },
+    {
+      "text": "Lucid",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "hMbq4vWBLGZmv0m1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.hMbq4vWBLGZmv0m1"
+    },
+    {
+      "text": "Majestic",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "ognm8gAXcsJnJTDb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.ognm8gAXcsJnJTDb"
+    },
+    {
+      "text": "Mercurial",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "AglsCBO4zX5l0wls",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.AglsCBO4zX5l0wls"
+    },
+    {
+      "text": "Nocturnal",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "g1lgLgD1xnE1joHo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.g1lgLgD1xnE1joHo"
+    },
+    {
+      "text": "Omega",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "4tMNu0fdz8X1TRze",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.4tMNu0fdz8X1TRze"
+    },
+    {
+      "text": "Opal",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "oukviR9MsQvbqppF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.oukviR9MsQvbqppF"
+    },
+    {
+      "text": "Peaceful",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "jTnY8fEyTpEPXoD9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.jTnY8fEyTpEPXoD9"
+    },
+    {
+      "text": "Penitent",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "HxpWuYXH2uqkY8C2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.HxpWuYXH2uqkY8C2"
+    },
+    {
+      "text": "Prime",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "GxEinHiJjjSzfGbc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.GxEinHiJjjSzfGbc"
+    },
+    {
+      "text": "Profane",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "XdUtLxVkPOCfxm3U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.XdUtLxVkPOCfxm3U"
+    },
+    {
+      "text": "Protected",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "E2RpohvxMBbCRHXh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.E2RpohvxMBbCRHXh"
+    },
+    {
+      "text": "Rising",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "CrLsAsJJPfh2fXka",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.CrLsAsJJPfh2fXka"
+    },
+    {
+      "text": "Ruby",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "tDedkPOG0XR3wns0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.tDedkPOG0XR3wns0"
+    },
+    {
+      "text": "Savage",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "MmFJmSV9O0Gp2FMM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.MmFJmSV9O0Gp2FMM"
+    },
+    {
+      "text": "Setting",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "itp8sigldELHgRgt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.itp8sigldELHgRgt"
+    },
+    {
+      "text": "Shadow",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "fZdWbgBpkjuCIkxM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.fZdWbgBpkjuCIkxM"
+    },
+    {
+      "text": "Shrewd",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "1L8lQqVqyBKybfoy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.1L8lQqVqyBKybfoy"
+    },
+    {
+      "text": "Solar",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "aHjlADHYBNOJwTKi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.aHjlADHYBNOJwTKi"
+    },
+    {
+      "text": "Steel",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "Y2hNJqp03avUVgmG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.Y2hNJqp03avUVgmG"
+    },
+    {
+      "text": "Tranquil",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "0e65sGGevYHorDRy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.0e65sGGevYHorDRy"
+    },
+    {
+      "text": "Uncanny",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "Ve7NLw8O28TNglI3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.Ve7NLw8O28TNglI3"
+    },
+    {
+      "text": "Unending",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "i6UTO8psOeSAvOMZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.i6UTO8psOeSAvOMZ"
+    },
+    {
+      "text": "Unholy",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "fNJk2DGeO8hwiOik",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.fNJk2DGeO8hwiOik"
+    },
+    {
+      "text": "Venerated",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "P5WfmeEm2os4rrX1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.P5WfmeEm2os4rrX1"
+    },
+    {
+      "text": "Voracious",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "3Qcc740MLSaWg9QJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.3Qcc740MLSaWg9QJ"
+    },
+    {
+      "text": "Worthy",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "AyZkT1a1VvaGnvWg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IHGdTmOVN1zloqmM.AyZkT1a1VvaGnvWg"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597310,
+    "modifiedTime": 1693070458601,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "IHGdTmOVN1zloqmM",
+  "sort": 1175000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!IHGdTmOVN1zloqmM"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Eerie glow from active subsurface volcanoes",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "sTdgp97Ik6adX49y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.sTdgp97Ik6adX49y"
+    },
+    {
+      "text": "Floating isles of barren volcanic rock",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "FAtkTOsmHJObiZsg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.FAtkTOsmHJObiZsg"
+    },
+    {
+      "text": "Hemisphere-spanning whirlpool",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "GPaRBGOrZRJU98zU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.GPaRBGOrZRJU98zU"
+    },
+    {
+      "text": "Jungles of algae blooms and kelp",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "LUbvpcKBtMErQJZN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.LUbvpcKBtMErQJZN"
+    },
+    {
+      "text": "Lonely land mass",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "uC33tHLJ13RnSUhR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.uC33tHLJ13RnSUhR"
+    },
+    {
+      "text": "Multiple moons producing a swift tide cycle",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "HOFyyPt4Id59JMgW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.HOFyyPt4Id59JMgW"
+    },
+    {
+      "text": "Ocean currents, each a different color",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "jUqJ9QjM8jS7NxbN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.jUqJ9QjM8jS7NxbN"
+    },
+    {
+      "text": "Sections of boiling seas",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "iLiQtvugPoyH21Ps",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.iLiQtvugPoyH21Ps"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "jEWw4zOmrJN0pfz7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.jEWw4zOmrJN0pfz7"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ZMxSQmvKpa7ZSmwi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jGM8ouMCAMH7a9Ac.ZMxSQmvKpa7ZSmwi"
+    }
+  ],
+  "folder": "tl9BYoquB8rsJXih",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676401960,
+    "modifiedTime": 1699053797100,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "jGM8ouMCAMH7a9Ac",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!jGM8ouMCAMH7a9Ac"
+}

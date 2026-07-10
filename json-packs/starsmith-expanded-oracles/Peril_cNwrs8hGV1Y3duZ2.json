@@ -1,0 +1,192 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Biohazardous material",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "I6jN0S8Zee7AtesS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.I6jN0S8Zee7AtesS"
+    },
+    {
+      "text": "Evidence of malpractice",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "9SrVaWydnTWVRg8Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.9SrVaWydnTWVRg8Z"
+    },
+    {
+      "text": "Falsely marked as a patient",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "nPNWtbG9TNZjRcX9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.nPNWtbG9TNZjRcX9"
+    },
+    {
+      "text": "Lack of critical medical supplies",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "ebFhfuIQzqygVUP7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.ebFhfuIQzqygVUP7"
+    },
+    {
+      "text": "Malfunctioning medical bots",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "qYcMlM2BQLiSWk6k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.qYcMlM2BQLiSWk6k"
+    },
+    {
+      "text": "Signs of broken quarantine or virulent  disease",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "NIiq8kBtjahOCRus",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.NIiq8kBtjahOCRus"
+    },
+    {
+      "text": "Threat targets the most vulnerable",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "JBCqhnmbqkIECsSo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.JBCqhnmbqkIECsSo"
+    },
+    {
+      "text": "Traumatizing flashback",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "RQsUjW5GKqQaSFI1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.RQsUjW5GKqQaSFI1"
+    },
+    {
+      "text": "Victims of a tragic accident",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "Tl0vVpfkiNEzJgLv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.Tl0vVpfkiNEzJgLv"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "zrqD2FQ2Tebs4Ti6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.zrqD2FQ2Tebs4Ti6"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "rofQGpJ7QufAAlbT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.rofQGpJ7QufAAlbT"
+    }
+  ],
+  "folder": "pRX4NVjQHMScCo6G",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658117,
+    "modifiedTime": 1699035702009,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "cNwrs8hGV1Y3duZ2",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!cNwrs8hGV1Y3duZ2"
+}

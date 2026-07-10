@@ -1,0 +1,522 @@
+{
+  "name": "Tradition Category",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Architecture",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "vM3WLvzHwvxMSh62",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.vM3WLvzHwvxMSh62"
+    },
+    {
+      "text": "Art",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "Esh1NzNMgtbqTupW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.Esh1NzNMgtbqTupW"
+    },
+    {
+      "text": "Birth",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "m6kvV7ZZYZT2mNfZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.m6kvV7ZZYZT2mNfZ"
+    },
+    {
+      "text": "Coming of Age",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "0xgHFlE7xG9vdYZj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.0xgHFlE7xG9vdYZj"
+    },
+    {
+      "text": "Communication",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "TmSmtplRbxar83RP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.TmSmtplRbxar83RP"
+    },
+    {
+      "text": "Death",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "BTUxvngQMq0p4UAJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.BTUxvngQMq0p4UAJ"
+    },
+    {
+      "text": "Economics",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "0DV99skfLLbWUIoY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.0DV99skfLLbWUIoY"
+    },
+    {
+      "text": "Education",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "9KWmXNGDNloEoJLq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.9KWmXNGDNloEoJLq"
+    },
+    {
+      "text": "Employment",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "VQQn1Mfa5snMKmYd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.VQQn1Mfa5snMKmYd"
+    },
+    {
+      "text": "Entertainment",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "VvRQlZGIdNog0s0Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.VvRQlZGIdNog0s0Y"
+    },
+    {
+      "text": "Family",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "PCk23vRIqbk9qIfu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.PCk23vRIqbk9qIfu"
+    },
+    {
+      "text": "Fashion",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "fZbhwRKfLEyvHkpc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.fZbhwRKfLEyvHkpc"
+    },
+    {
+      "text": "Fellowship",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "EPdySdMGvpsXPJ5N",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.EPdySdMGvpsXPJ5N"
+    },
+    {
+      "text": "Food",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "imrjqA341VuozjPv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.imrjqA341VuozjPv"
+    },
+    {
+      "text": "Government",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "qeQgNHqhy7YVFWUp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.qeQgNHqhy7YVFWUp"
+    },
+    {
+      "text": "Grief",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "gav6tAhISYuTCQl0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.gav6tAhISYuTCQl0"
+    },
+    {
+      "text": "History",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "NbUGCklx4nfQS4fM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.NbUGCklx4nfQS4fM"
+    },
+    {
+      "text": "Hospitality",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "SANsCn71h9SYS2Nd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.SANsCn71h9SYS2Nd"
+    },
+    {
+      "text": "Justice",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "V3Lqgkgjprk98NJO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.V3Lqgkgjprk98NJO"
+    },
+    {
+      "text": "Language",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "7bzq2xsMhcFgvST9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.7bzq2xsMhcFgvST9"
+    },
+    {
+      "text": "Leadership",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "7yz1i7CvsyDejqM0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.7yz1i7CvsyDejqM0"
+    },
+    {
+      "text": "Literature",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "vDDv95Ssp8AOtnyy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.vDDv95Ssp8AOtnyy"
+    },
+    {
+      "text": "Love",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "cMAj8b8kEiQVLEQB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.cMAj8b8kEiQVLEQB"
+    },
+    {
+      "text": "Military",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "3XOgCRNSRpgfOpco",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.3XOgCRNSRpgfOpco"
+    },
+    {
+      "text": "Music",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "3oBuSZPWr0KuReyj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.3oBuSZPWr0KuReyj"
+    },
+    {
+      "text": "Naming",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "HjRIXMgkQxuyR7rB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.HjRIXMgkQxuyR7rB"
+    },
+    {
+      "text": "Relationships",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "38TNO4wI4awXvXOc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.38TNO4wI4awXvXOc"
+    },
+    {
+      "text": "Religion",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "2F8acRMPMp8kRrvJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.2F8acRMPMp8kRrvJ"
+    },
+    {
+      "text": "Seasons",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "tPBZd9vXpie6eq3G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.tPBZd9vXpie6eq3G"
+    },
+    {
+      "text": "Spirits",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "08zWNXjNElRE0qf9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.08zWNXjNElRE0qf9"
+    },
+    {
+      "text": "Trade",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "wgIVRiqTVyZh6uS3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.wgIVRiqTVyZh6uS3"
+    },
+    {
+      "text": "Travel",
+      "range": [
+        94,
+        96
+      ],
+      "_id": "CBjZtXZRdMptGbrB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.CBjZtXZRdMptGbrB"
+    },
+    {
+      "text": "War",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "7DWXqYiUo65pfbBT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!w1ZtxtjSykGHD7ug.7DWXqYiUo65pfbBT"
+    }
+  ],
+  "folder": "1DsdrdQs8EVKK7eL",
+  "sort": 0,
+  "_id": "w1ZtxtjSykGHD7ug",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Traditions are beliefs or practices that both stem from and reinforce the primary values of a society. To make your cultures really come to life, create three traditions that fall within any of the categories below. </p><p>Once you have a tradition category, think about how it relates to either one of the dimensions of culture or to that culture’s flaw.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144729101,
+    "modifiedTime": 1708147693011,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!w1ZtxtjSykGHD7ug"
+}

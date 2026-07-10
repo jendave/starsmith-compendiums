@@ -1,0 +1,177 @@
+{
+  "name": "Opportunity (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access to data obtained or granted",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "EyrhEYBL7NbvLNHV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.EyrhEYBL7NbvLNHV"
+    },
+    {
+      "text": "Clue to a rival's weakness",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "WgYNaILeigQO0bZE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.WgYNaILeigQO0bZE"
+    },
+    {
+      "text": "Clue to bypassing defensive systems",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "s6IK67jS2b0bIKeN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.s6IK67jS2b0bIKeN"
+    },
+    {
+      "text": "Insight into previous intruders",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "PwoyE4DJOlDp0Rlr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.PwoyE4DJOlDp0Rlr"
+    },
+    {
+      "text": "Intriguing augmentation or module for gear",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "Y1t8DeX0cUZJ2GRD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.Y1t8DeX0cUZJ2GRD"
+    },
+    {
+      "text": "Opening to drive a wedge between foes",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "PlUGKXom64LRdpHB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.PlUGKXom64LRdpHB"
+    },
+    {
+      "text": "Opening to eliminate a foe",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "hpCX25qB1MF37JPW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.hpCX25qB1MF37JPW"
+    },
+    {
+      "text": "Sight or experience inspires awe",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "2POGXocCn1Y7kGhT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.2POGXocCn1Y7kGhT"
+    },
+    {
+      "text": "Unexpected ally appears",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "5jeVjxn4MbqWlzmI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.5jeVjxn4MbqWlzmI"
+    },
+    {
+      "text": "Usable computer interface",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "kFEh9b8ksSvZK0Un",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.kFEh9b8ksSvZK0Un"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a favorable circumstance within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676692342,
+    "modifiedTime": 1693867564427,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "h9DmNX5Hw3OyNrB6",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!h9DmNX5Hw3OyNrB6"
+}

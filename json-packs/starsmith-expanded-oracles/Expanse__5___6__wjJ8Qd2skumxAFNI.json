@@ -1,0 +1,507 @@
+{
+  "name": "Expanse (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Escalate regional tensions",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "shbenpHuAm0cOQcS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.shbenpHuAm0cOQcS"
+    },
+    {
+      "text": "Setup defensive perimeter",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "gTe1CbZuoci29R0B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.gTe1CbZuoci29R0B"
+    },
+    {
+      "text": "Trade a resource",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "X4CQD6Ap8s9Z2Ubr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.X4CQD6Ap8s9Z2Ubr"
+    },
+    {
+      "text": "Flee duty or orders",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "REi3oAO97secWo7k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.REi3oAO97secWo7k"
+    },
+    {
+      "text": "Stoke rebellion",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "r5e18jk3NoF5z3JJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.r5e18jk3NoF5z3JJ"
+    },
+    {
+      "text": "Sabotage the competition",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "e3gVF8r9SEFSPOx9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.e3gVF8r9SEFSPOx9"
+    },
+    {
+      "text": "Broker a deal",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "tYu2VEZwyfLYIniy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.tYu2VEZwyfLYIniy"
+    },
+    {
+      "text": "Eliminate evidence of research",
+      "range": [
+        17,
+        22
+      ],
+      "_id": "hmA6R2gDuQzcz8xh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.hmA6R2gDuQzcz8xh"
+    },
+    {
+      "text": "Perform saber rattling",
+      "range": [
+        23,
+        25
+      ],
+      "_id": "NsdWdM7iZ5e440kb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.NsdWdM7iZ5e440kb"
+    },
+    {
+      "text": "Proselytize belief",
+      "range": [
+        26,
+        29
+      ],
+      "_id": "MAtk8ZwAa7BHAZAz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.MAtk8ZwAa7BHAZAz"
+    },
+    {
+      "text": "Lay claim to territory",
+      "range": [
+        30,
+        35
+      ],
+      "_id": "B4gdrcsyxu04jl3i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.B4gdrcsyxu04jl3i"
+    },
+    {
+      "text": "Mobilize a location against a threat",
+      "range": [
+        36,
+        39
+      ],
+      "_id": "auFqIEPQ1VCbrDMJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.auFqIEPQ1VCbrDMJ"
+    },
+    {
+      "text": "Study stellar phenomenon",
+      "range": [
+        40,
+        45
+      ],
+      "_id": "tOq4F7sem0qRBG84",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.tOq4F7sem0qRBG84"
+    },
+    {
+      "text": "Transfer dangerous prisoner",
+      "range": [
+        46,
+        47
+      ],
+      "_id": "NCy18IkHPpRy5yiq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.NCy18IkHPpRy5yiq"
+    },
+    {
+      "text": "Collect a bounty",
+      "range": [
+        48,
+        49
+      ],
+      "_id": "yGbmtQZvrOhQkDTy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.yGbmtQZvrOhQkDTy"
+    },
+    {
+      "text": "Preemptive strike mission",
+      "range": [
+        50,
+        51
+      ],
+      "_id": "l9cSLtOxrIcodXHe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.l9cSLtOxrIcodXHe"
+    },
+    {
+      "text": "Upgrade infrastructure",
+      "range": [
+        52,
+        53
+      ],
+      "_id": "su1c9uSEgFnoWTXj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.su1c9uSEgFnoWTXj"
+    },
+    {
+      "text": "Transport medical specialist",
+      "range": [
+        54,
+        55
+      ],
+      "_id": "nQHMwcJgS4l1AT7r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.nQHMwcJgS4l1AT7r"
+    },
+    {
+      "text": "Transport engineering specialist",
+      "range": [
+        56,
+        57
+      ],
+      "_id": "VqydGVJ6TQ9R4EKF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.VqydGVJ6TQ9R4EKF"
+    },
+    {
+      "text": "Prevent stellar disaster",
+      "range": [
+        58,
+        61
+      ],
+      "_id": "HNBldYWuJFA3SEzm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.HNBldYWuJFA3SEzm"
+    },
+    {
+      "text": "Research quarantined environment",
+      "range": [
+        62,
+        63
+      ],
+      "_id": "RnrIJOYmnwshcZqW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.RnrIJOYmnwshcZqW"
+    },
+    {
+      "text": "Reinforce settlement defenses",
+      "range": [
+        64,
+        65
+      ],
+      "_id": "LCCbf2sxLhPvlzLB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.LCCbf2sxLhPvlzLB"
+    },
+    {
+      "text": "Pickup valuable cargo",
+      "range": [
+        66,
+        69
+      ],
+      "_id": "CqZSk1K1CX6lb7h2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.CqZSk1K1CX6lb7h2"
+    },
+    {
+      "text": "Deliver salvage",
+      "range": [
+        70,
+        71
+      ],
+      "_id": "Q9r4XzFvEqJ92MFN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.Q9r4XzFvEqJ92MFN"
+    },
+    {
+      "text": "Break out prisoner",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "Swf0e2oKfNmmDa5H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.Swf0e2oKfNmmDa5H"
+    },
+    {
+      "text": "Smuggle people",
+      "range": [
+        74,
+        75
+      ],
+      "_id": "qdCTcXgtioLMdNYW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.qdCTcXgtioLMdNYW"
+    },
+    {
+      "text": "Shutdown illegal activity",
+      "range": [
+        76,
+        77
+      ],
+      "_id": "qKQviV6mPjZreKbL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.qKQviV6mPjZreKbL"
+    },
+    {
+      "text": "Test an alliance",
+      "range": [
+        78,
+        79
+      ],
+      "_id": "5umT5CLLGCNBPIRR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.5umT5CLLGCNBPIRR"
+    },
+    {
+      "text": "Transport energy source",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "jNZzOMakF8ynQpVN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.jNZzOMakF8ynQpVN"
+    },
+    {
+      "text": "Transport lifeforms",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "YgT8vxMxa0eLM7Zu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.YgT8vxMxa0eLM7Zu"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "463GCGBAALEFwphS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.463GCGBAALEFwphS"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "jrUMLHYLAmKPIAAK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wjJ8Qd2skumxAFNI.jrUMLHYLAmKPIAAK"
+    }
+  ],
+  "folder": "bo8ruejwx9kV7n4Q",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet which has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676461304,
+    "modifiedTime": 1699041804206,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "wjJ8Qd2skumxAFNI",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wjJ8Qd2skumxAFNI"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Fiery world-spanning chasms",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "AOiP5Yon0ZYQEELW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.AOiP5Yon0ZYQEELW"
+    },
+    {
+      "text": "Glowing rivers of lava",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "GWm8Hf6XCXqbogsL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.GWm8Hf6XCXqbogsL"
+    },
+    {
+      "text": "Lightning-wracked ash clouds",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "tyOsVhKMB5SjkYai",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.tyOsVhKMB5SjkYai"
+    },
+    {
+      "text": "Magma seas",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "pFAErWrHCWKpukJM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.pFAErWrHCWKpukJM"
+    },
+    {
+      "text": "Massive supervolcano",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "OBT0cqKZMnE0a9Go",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.OBT0cqKZMnE0a9Go"
+    },
+    {
+      "text": "Once verdant terrain",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "4S85DKFkBVYksMfy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.4S85DKFkBVYksMfy"
+    },
+    {
+      "text": "Towering mountain ranges",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "gKsIIWE87InoYmRQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.gKsIIWE87InoYmRQ"
+    },
+    {
+      "text": "World-spanning fissures",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "1NrfYJWZ2H78BYIt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.1NrfYJWZ2H78BYIt"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "YAMityBjbrSMq2uj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.YAMityBjbrSMq2uj"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "F7mbLNQNTYD4oEUs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!mXE7W7P7Vll5qPo4.F7mbLNQNTYD4oEUs"
+    }
+  ],
+  "folder": "Xx3Lo4c3NF2M0ymk",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401761,
+    "modifiedTime": 1699042269910,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "mXE7W7P7Vll5qPo4",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!mXE7W7P7Vll5qPo4"
+}

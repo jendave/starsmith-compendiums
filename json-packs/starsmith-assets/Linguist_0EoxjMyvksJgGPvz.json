@@ -1,0 +1,68 @@
+{
+  "type": "asset",
+  "folder": "leAoTJsyPAnSVZrg",
+  "name": "Linguist",
+  "system": {
+    "requirement": "",
+    "category": "Path",
+    "color": "#3F7FAA",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>You were trained in several languages and dialects found throughout the Forge. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.bd6278f18bbd6739]{Ask the Oracle} if you know a specific language or dialect you encounter, increase the likelihood by one step.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} by taking significant time to decipher an unknown language or decrypt a language based cypher, add +2.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      },
+      {
+        "description": "<p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.9f538fabf8998c5b]{Compel} using figurative language or slang to strike emotional chords in a language not native to you, roll with advantage.</p>",
+        "enabled": false,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Training",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/talk.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708563826854,
+    "modifiedTime": 1764231096399,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_id": "0EoxjMyvksJgGPvz",
+  "sort": 1000000,
+  "_key": "!items!0EoxjMyvksJgGPvz"
+}

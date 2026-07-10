@@ -1,0 +1,181 @@
+{
+  "name": "Initial Contact (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Helpful",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "XwEItdVVNGYzmi5L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.XwEItdVVNGYzmi5L"
+    },
+    {
+      "text": "All business",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "pEaTLBWDc7ZAqrxu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.pEaTLBWDc7ZAqrxu"
+    },
+    {
+      "text": "Tolerant",
+      "range": [
+        31,
+        50
+      ],
+      "_id": "9of4d0v01NPWTgoQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.9of4d0v01NPWTgoQ"
+    },
+    {
+      "text": "Defensive",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "V9CzY4PZxX3ZhlKi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.V9CzY4PZxX3ZhlKi"
+    },
+    {
+      "text": "Easily offended",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "370yDPdXP1Sf3Lc0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.370yDPdXP1Sf3Lc0"
+    },
+    {
+      "text": "Asking for bribe",
+      "range": [
+        71,
+        83
+      ],
+      "_id": "lOraxEHTPkC9xxnA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.lOraxEHTPkC9xxnA"
+    },
+    {
+      "text": "Environmental crisis",
+      "range": [
+        84,
+        86
+      ],
+      "_id": "ct2t6939nRkMeYlD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.ct2t6939nRkMeYlD"
+    },
+    {
+      "text": "Quarantined",
+      "range": [
+        87,
+        89
+      ],
+      "_id": "cP9iZ8mOlCgPgMUq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.cP9iZ8mOlCgPgMUq"
+    },
+    {
+      "text": "Looped distress call",
+      "range": [
+        90,
+        92
+      ],
+      "_id": "SwkIQ0497moQHWpM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.SwkIQ0497moQHWpM"
+    },
+    {
+      "text": "Completely shielded",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "m0e7usPXIwCVSzym",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.m0e7usPXIwCVSzym"
+    },
+    {
+      "text": "Derelict",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "Hm5JfWG0MiyDbqpp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!NDOz35Zb8qn96VKd.Hm5JfWG0MiyDbqpp"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424360,
+    "modifiedTime": 1693072409436,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "NDOz35Zb8qn96VKd",
+  "sort": 296875,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!NDOz35Zb8qn96VKd"
+}

@@ -1,0 +1,177 @@
+{
+  "name": "Opportunity (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "A foe or rival's hand is tipped",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "6nkFZflDYK2I8rgs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.6nkFZflDYK2I8rgs"
+    },
+    {
+      "text": "Access to valuable data",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "EZ9bb7FrCRuRPAJK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.EZ9bb7FrCRuRPAJK"
+    },
+    {
+      "text": "Clue reveals a previously unknown connection",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "SSsKLituwtbdzmOE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.SSsKLituwtbdzmOE"
+    },
+    {
+      "text": "Defensive systems stand down",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "T1Cem29wgpICZx03",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.T1Cem29wgpICZx03"
+    },
+    {
+      "text": "Means of exit presents itself",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "5CXUTarHbq4TxRzR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.5CXUTarHbq4TxRzR"
+    },
+    {
+      "text": "News grants hope where previously hope was lost",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "qjTBQtYUUKvATTTz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.qjTBQtYUUKvATTTz"
+    },
+    {
+      "text": "Operations manual discovered",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "lXdCVyqN1l2TmiBV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.lXdCVyqN1l2TmiBV"
+    },
+    {
+      "text": "Opportunity to make a significant choice",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "14Tx6AqN58JXh0DX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.14Tx6AqN58JXh0DX"
+    },
+    {
+      "text": "Opportunity to outmaneuver or trap a foe",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "vDd9R1H6Z29BLDfC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.vDd9R1H6Z29BLDfC"
+    },
+    {
+      "text": "This site may be given new purpose",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "TgcAAmXfSELvF1Qd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jNZY2f4GGlhdTxwj.TgcAAmXfSELvF1Qd"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676692388,
+    "modifiedTime": 1693867896891,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "jNZY2f4GGlhdTxwj",
+  "sort": 600000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!jNZY2f4GGlhdTxwj"
+}

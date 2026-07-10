@@ -1,0 +1,402 @@
+{
+  "name": "Opportunity (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Advance warning of an environmental threat",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "Z5p4qcefE1474Hsh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.Z5p4qcefE1474Hsh"
+    },
+    {
+      "text": "Automated signal offers a helpful message or warning",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "r2SArNdjN2ynUnap",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.r2SArNdjN2ynUnap"
+    },
+    {
+      "text": "Cache of cargo or supplies",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "RZ5Mxlj18x7syoKi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.RZ5Mxlj18x7syoKi"
+    },
+    {
+      "text": "Chance for fellowship or a moment of inner peace",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "klMQlAMV6QNS6j6f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.klMQlAMV6QNS6j6f"
+    },
+    {
+      "text": "Clear path through otherwise perilous space",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "rMJTAdjhP4ZgvCwT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.rMJTAdjhP4ZgvCwT"
+    },
+    {
+      "text": "Clue offers insight into a current quest or mystery",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "B7ScbpEAZDe09z26",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.B7ScbpEAZDe09z26"
+    },
+    {
+      "text": "Clue to a lifeform's nature or vulnerabilities",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "6NLm1fo7mr184zAc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.6NLm1fo7mr184zAc"
+    },
+    {
+      "text": "Derelict ripe for the picking",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "TOKw4c7F2u6WcteO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.TOKw4c7F2u6WcteO"
+    },
+    {
+      "text": "Foe inadvertently reveals themselves or tips their hand",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "dMiyxoeoZgc4NWiK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.dMiyxoeoZgc4NWiK"
+    },
+    {
+      "text": "Friendly interaction with a benign lifeform",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "AHh1mDFUkqjgMiDr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.AHh1mDFUkqjgMiDr"
+    },
+    {
+      "text": "Friendly settlement in range",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "ukkD2N5lxq8ExtGe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.ukkD2N5lxq8ExtGe"
+    },
+    {
+      "text": "Friendly spacers at work here",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "6zsNwscR2aih12SB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.6zsNwscR2aih12SB"
+    },
+    {
+      "text": "Friendly starship crosses your path",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "3bkQYfuczBzAwwxT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.3bkQYfuczBzAwwxT"
+    },
+    {
+      "text": "Helpful or encouraging message from an acquaintance",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "492OINOHNUJnatMG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.492OINOHNUJnatMG"
+    },
+    {
+      "text": "Impressive vista offers comfort or inspiration",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "fADH1VRzo3fWTL70",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.fADH1VRzo3fWTL70"
+    },
+    {
+      "text": "Interesting site offers opportunities for exploration",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "8rlldRbo2E1x3A8p",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.8rlldRbo2E1x3A8p"
+    },
+    {
+      "text": "Mineral or energy resource detected",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "Z6ALkpYsIxkZMlgO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.Z6ALkpYsIxkZMlgO"
+    },
+    {
+      "text": "Navigational or environmental hazard is left behind",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "GkjVkaqkaWCTJzTz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.GkjVkaqkaWCTJzTz"
+    },
+    {
+      "text": "Opening to escape or avoid foes",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "1op9zKOqbRNfvRXE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.1op9zKOqbRNfvRXE"
+    },
+    {
+      "text": "Plea for help from a potential benefactor",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "29Hi1pyrMhrgGTzh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.29Hi1pyrMhrgGTzh"
+    },
+    {
+      "text": "Probe or beacon with useful data",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "yAxKuRRzBVdx2Gar",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.yAxKuRRzBVdx2Gar"
+    },
+    {
+      "text": "Refuge offers a place to hide, plan, or recover",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "zY25n828GEKtIzyr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.zY25n828GEKtIzyr"
+    },
+    {
+      "text": "Sensors pinpoint a lurking foe",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "dkx3NCkMypmnMFzO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.dkx3NCkMypmnMFzO"
+    },
+    {
+      "text": "Sensors reveal helpful or interesting environmental data",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "OaKM3cYsWINb7EsN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.OaKM3cYsWINb7EsN"
+    },
+    {
+      "text": "Vehicle or equipment performs beyond expectations",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "6Cyh1jxaZn5dnyGn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Us6oXnDxSfqSetSL.6Cyh1jxaZn5dnyGn"
+    }
+  ],
+  "folder": "9aKg1x9pvKGwheVZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you Undertake an Expedition, or if you Explore a Waypoint and find an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676313237,
+    "modifiedTime": 1693516524422,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "Us6oXnDxSfqSetSL",
+  "sort": 2300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Us6oXnDxSfqSetSL"
+}

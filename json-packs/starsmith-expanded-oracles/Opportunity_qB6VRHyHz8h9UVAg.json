@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Blowing sands reveal rare resource deposit",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "JWYOCwpHPMhbBi1F",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qB6VRHyHz8h9UVAg.JWYOCwpHPMhbBi1F"
+    },
+    {
+      "text": "Cave entrance offers shelter",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "oT9U9pvBRwt9fMH2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qB6VRHyHz8h9UVAg.oT9U9pvBRwt9fMH2"
+    },
+    {
+      "text": "Evidence of previous explorers offers a clue",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "T6AWTZxWpJad7Qcp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qB6VRHyHz8h9UVAg.T6AWTZxWpJad7Qcp"
+    },
+    {
+      "text": "Oasis offers respite",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "MWUy8HYngoRnB9uZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qB6VRHyHz8h9UVAg.MWUy8HYngoRnB9uZ"
+    },
+    {
+      "text": "Opening to bypass the most difficult terrain",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "TNGXkw7C1gBKGaWx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qB6VRHyHz8h9UVAg.TNGXkw7C1gBKGaWx"
+    }
+  ],
+  "folder": "6iMY3W9GZoAFfoT6",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Wind and heat cover this place in a thick blanket.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676712111,
+    "modifiedTime": 1693776962724,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "qB6VRHyHz8h9UVAg",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!qB6VRHyHz8h9UVAg"
+}

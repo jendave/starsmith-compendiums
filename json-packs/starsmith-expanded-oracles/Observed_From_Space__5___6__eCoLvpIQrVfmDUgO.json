@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Bodies of noxious water",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "pls8hfIFwsJreAFS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.pls8hfIFwsJreAFS"
+    },
+    {
+      "text": "Chain of islands that is a peninsula now flooded by the ocean",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "MsqrS5gVVnsljPQd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.MsqrS5gVVnsljPQd"
+    },
+    {
+      "text": "Cluster of asteroids and dead mining ships",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "cFHWndkJ9nddALN6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.cFHWndkJ9nddALN6"
+    },
+    {
+      "text": "Erratic orbital path within the solar system",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "P94MRlE8LWS95lcN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.P94MRlE8LWS95lcN"
+    },
+    {
+      "text": "Malfunctioning planetary defense system",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "hhH6JoEMiWsaCdnX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.hhH6JoEMiWsaCdnX"
+    },
+    {
+      "text": "Shattered mountains",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "LQpwIJe7LcBTGslO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.LQpwIJe7LcBTGslO"
+    },
+    {
+      "text": "Towering walls pushing back the sea to house dead cities",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "hxjkHJV2wBh67SmF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.hxjkHJV2wBh67SmF"
+    },
+    {
+      "text": "Toxic coastlines",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "2Rj4h2kP0yUn8g6e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.2Rj4h2kP0yUn8g6e"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "Qi4j6ZpeT6D5MV08",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.Qi4j6ZpeT6D5MV08"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "360MLN7vR2bfCKCy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eCoLvpIQrVfmDUgO.360MLN7vR2bfCKCy"
+    }
+  ],
+  "folder": "EJoSoFU1mGwf60NT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401822,
+    "modifiedTime": 1699042450542,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "eCoLvpIQrVfmDUgO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!eCoLvpIQrVfmDUgO"
+}

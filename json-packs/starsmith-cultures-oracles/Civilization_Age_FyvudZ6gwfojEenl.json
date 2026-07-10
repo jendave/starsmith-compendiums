@@ -1,0 +1,87 @@
+{
+  "name": "Civilization Age",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Young - Came to sapience within the last few hundred years and are still creating their initial cultural identity.",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "H9pQnbXdFOqwCEfj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FyvudZ6gwfojEenl.H9pQnbXdFOqwCEfj"
+    },
+    {
+      "text": "Established - The last few thousand years helped to build a robust cultural history.",
+      "range": [
+        21,
+        70
+      ],
+      "_id": "6Z3CyNqIOgzr6p68",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FyvudZ6gwfojEenl.6Z3CyNqIOgzr6p68"
+    },
+    {
+      "text": "Venerable - This culture has reinvented their society as a whole several times over tens of thousands of years.",
+      "range": [
+        71,
+        90
+      ],
+      "_id": "Z1X4ROWxV7l1noXC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FyvudZ6gwfojEenl.Z1X4ROWxV7l1noXC"
+    },
+    {
+      "text": "Ancient - More knowledge and experience has been lost from this culture over the past million years than humanity has yet gathered in the first place.",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "cwWq9tO5DUSph1RP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!FyvudZ6gwfojEenl.cwWq9tO5DUSph1RP"
+    }
+  ],
+  "folder": "oppVhzsLYkyZtbu6",
+  "sort": 100000,
+  "_id": "FyvudZ6gwfojEenl",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>How old is the civilization of this species as a whole? Are they relative new-comers to the galactic stage, or are they on the verge of evolving into something entirely new and unthinkable in human terms?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144820814,
+    "modifiedTime": 1708148240370,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!FyvudZ6gwfojEenl"
+}

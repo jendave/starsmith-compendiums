@@ -1,0 +1,111 @@
+{
+  "name": "Beast, reptile",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Chameleon",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "NNHxPW0s6IPL0I9g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!J8JLANyxJDuQB3UL.NNHxPW0s6IPL0I9g"
+    },
+    {
+      "text": "Dinosaur",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "lEQOpPFN0n7DuVzw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!J8JLANyxJDuQB3UL.lEQOpPFN0n7DuVzw"
+    },
+    {
+      "text": "Gator or croc",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "LLUIaNpTrcoPuX0t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!J8JLANyxJDuQB3UL.LLUIaNpTrcoPuX0t"
+    },
+    {
+      "text": "Serpent",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "0woTrkmeabcLuahk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!J8JLANyxJDuQB3UL.0woTrkmeabcLuahk"
+    },
+    {
+      "text": "Turtle",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "RO8zh0fIOq9INKYL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!J8JLANyxJDuQB3UL.RO8zh0fIOq9INKYL"
+    },
+    {
+      "text": "Winged",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "hWiDYKoAWqUPEdT2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!J8JLANyxJDuQB3UL.hWiDYKoAWqUPEdT2"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 3,
+  "_id": "J8JLANyxJDuQB3UL",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773796,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!J8JLANyxJDuQB3UL"
+}

@@ -1,0 +1,537 @@
+{
+  "name": "Peril (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access to a critical deck is blocked",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "9eEbemFvgtLjRocO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.9eEbemFvgtLjRocO"
+    },
+    {
+      "text": "An objective is in a death spiral towards a star",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "oQYSxbcBVHDoZ7br",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.oQYSxbcBVHDoZ7br"
+    },
+    {
+      "text": "Beacons warn of a quarantined area ahead",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "1IXk6vY2I00x3vhY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.1IXk6vY2I00x3vhY"
+    },
+    {
+      "text": "Communications systems have been bugged",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "Mhrt8AgL5ysI2UWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.Mhrt8AgL5ysI2UWO"
+    },
+    {
+      "text": "Drones surveil and flee",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "N01IfavA9G4WAGas",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.N01IfavA9G4WAGas"
+    },
+    {
+      "text": "Eggs covering a rogue asteroid begin to hatch",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "5ohs89wdZX7eaIuF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.5ohs89wdZX7eaIuF"
+    },
+    {
+      "text": "Encrypted signal points to an imminent attack",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "AhoCebCepyjloeR3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.AhoCebCepyjloeR3"
+    },
+    {
+      "text": "Energy net surrounds the ship",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "hwfrZGHPXmI643si",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.hwfrZGHPXmI643si"
+    },
+    {
+      "text": "Erratic asteroids impede movement",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "f4AMiPBZf6DBxyBp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.f4AMiPBZf6DBxyBp"
+    },
+    {
+      "text": "Escape pods going in separate directions all call for help",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "TnGuFWr69VMfnNVq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.TnGuFWr69VMfnNVq"
+    },
+    {
+      "text": "Fleet demands payment for safe travel",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "LylOMgJSWzQgH5LP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.LylOMgJSWzQgH5LP"
+    },
+    {
+      "text": "Garbled calls for help from an unknown source",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "PddgXywZPMk3nyq2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.PddgXywZPMk3nyq2"
+    },
+    {
+      "text": "Gravitational maelstrom",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "6TRrYCioJxSkGiab",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.6TRrYCioJxSkGiab"
+    },
+    {
+      "text": "Hairline fracture somewhere onboard slowly leaks air",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "hpVf4HHtIgMhGtIk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.hpVf4HHtIgMhGtIk"
+    },
+    {
+      "text": "Hallucinogenic gas infiltrates the air recycler",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "6Z0pMvXcx5oUWbDz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.6Z0pMvXcx5oUWbDz"
+    },
+    {
+      "text": "Incoming message: \"Prepare to be boarded\"",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "fZbzX8l0w2utI2Ua",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.fZbzX8l0w2utI2Ua"
+    },
+    {
+      "text": "Large solar flare compromises communications",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "9K5VDHkp4El9c9vk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.9K5VDHkp4El9c9vk"
+    },
+    {
+      "text": "Malicious code takes over a system",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "CEqzHtEfDM5f5y8c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.CEqzHtEfDM5f5y8c"
+    },
+    {
+      "text": "Maneuvering thrusters malfunction",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "NyMKuhojc1aLWl6S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.NyMKuhojc1aLWl6S"
+    },
+    {
+      "text": "Microorganism feeds off ship's power supply",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "soGKLrRDU3HjYQOo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.soGKLrRDU3HjYQOo"
+    },
+    {
+      "text": "Mysterious sealed crate is found in the cargo hold",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "VFLbgf2bv0Q6i3t3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.VFLbgf2bv0Q6i3t3"
+    },
+    {
+      "text": "Ominous signs and portents",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "khMXAZDm5p9EXMik",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.khMXAZDm5p9EXMik"
+    },
+    {
+      "text": "Parasites feast on a long dead space creature",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "rgToQ5wnezchlHzw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.rgToQ5wnezchlHzw"
+    },
+    {
+      "text": "Sensors are giving false readings",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "gyRokakH4yI4XepI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.gyRokakH4yI4XepI"
+    },
+    {
+      "text": "Ship moves with a life of its own",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "OtieXlwBrlQ9KMYH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.OtieXlwBrlQ9KMYH"
+    },
+    {
+      "text": "Space suits are compromised",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "vK5UfO8vWJYINPu4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.vK5UfO8vWJYINPu4"
+    },
+    {
+      "text": "System redundancies fail leaving only faulty primaries online",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "qw6WBNbIMN5Pd7Jt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.qw6WBNbIMN5Pd7Jt"
+    },
+    {
+      "text": "Threatening vessel moves in",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "Gbs1YqLOwMWDJyVa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.Gbs1YqLOwMWDJyVa"
+    },
+    {
+      "text": "Time distortions make locating celestial objects impossible",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "ipUwJRL1wGjFMCE2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.ipUwJRL1wGjFMCE2"
+    },
+    {
+      "text": "True nature of a connection is revealed",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "v3zWFLvpnqmR3VKS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.v3zWFLvpnqmR3VKS"
+    },
+    {
+      "text": "Unexpected foe appears with a new advantage",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "u3xRcuBGqNUCC4q8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.u3xRcuBGqNUCC4q8"
+    },
+    {
+      "text": "Water supply malfunctions",
+      "range": [
+        94,
+        96
+      ],
+      "_id": "lHwsiJlRFJL4fQAn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.lHwsiJlRFJL4fQAn"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        97,
+        99
+      ],
+      "_id": "ABo3XtPVclSnvw0s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.ABo3XtPVclSnvw0s"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "omFukozh5jh7Ow3q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!aRRBZvovBw2M28CM.omFukozh5jh7Ow3q"
+    }
+  ],
+  "folder": "9aKg1x9pvKGwheVZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a trouble during spaceborne exploration or on an interstellar expedition.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676313233,
+    "modifiedTime": 1699002170380,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "aRRBZvovBw2M28CM",
+  "sort": 2200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!aRRBZvovBw2M28CM"
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Billowing sandstorm chokes the air",
+      "range": [
+        1,
+        9
+      ],
+      "_id": "Mfz40H3MSByg0Sm9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.Mfz40H3MSByg0Sm9"
+    },
+    {
+      "text": "Extreme temperatures",
+      "range": [
+        10,
+        18
+      ],
+      "_id": "5X7uI9WTrTbEmoe3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.5X7uI9WTrTbEmoe3"
+    },
+    {
+      "text": "Foe hidden beneath the sand reveals itself",
+      "range": [
+        19,
+        27
+      ],
+      "_id": "LpFtMLZDHoEevLzK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.LpFtMLZDHoEevLzK"
+    },
+    {
+      "text": "Grit-filled equipment malfunctions",
+      "range": [
+        28,
+        36
+      ],
+      "_id": "2BpV2cS0XxjlvF6S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.2BpV2cS0XxjlvF6S"
+    },
+    {
+      "text": "Having no place to hide attracts unwanted attention",
+      "range": [
+        37,
+        45
+      ],
+      "_id": "gEjyO1UF8Sxvy0a7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.gEjyO1UF8Sxvy0a7"
+    },
+    {
+      "text": "Hurricane force winds",
+      "range": [
+        46,
+        54
+      ],
+      "_id": "W73pWVMvZdTFPYrI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.W73pWVMvZdTFPYrI"
+    },
+    {
+      "text": "Lack of shelter from the elements",
+      "range": [
+        55,
+        63
+      ],
+      "_id": "jwQGFZhypxdpoDhA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.jwQGFZhypxdpoDhA"
+    },
+    {
+      "text": "Lost without landmarks to guide you",
+      "range": [
+        64,
+        72
+      ],
+      "_id": "t0LVcT1h5yNm9kvp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.t0LVcT1h5yNm9kvp"
+    },
+    {
+      "text": "Rain storm brings flash floods",
+      "range": [
+        73,
+        81
+      ],
+      "_id": "neHL3U1uVXSVgwe7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.neHL3U1uVXSVgwe7"
+    },
+    {
+      "text": "Whirlpool of sand pulls you down",
+      "range": [
+        82,
+        90
+      ],
+      "_id": "zlobdPrv9zIPSWEp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.zlobdPrv9zIPSWEp"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "p6IDnYaFH1zBFj81",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.p6IDnYaFH1zBFj81"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "DoOfNY8KxyEpp8hQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nBvFLLQmvnCvBApN.DoOfNY8KxyEpp8hQ"
+    }
+  ],
+  "folder": "6iMY3W9GZoAFfoT6",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Wind and heat cover this place in a thick blanket.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676712107,
+    "modifiedTime": 1699036220613,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "nBvFLLQmvnCvBApN",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!nBvFLLQmvnCvBApN"
+}

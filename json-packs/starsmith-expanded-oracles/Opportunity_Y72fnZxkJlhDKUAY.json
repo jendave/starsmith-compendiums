@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access to specialized producer",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "Kj4p2btRBxT6tLJR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Y72fnZxkJlhDKUAY.Kj4p2btRBxT6tLJR"
+    },
+    {
+      "text": "Access to useful equipment",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "pBenVEFHrL7E8Hqt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Y72fnZxkJlhDKUAY.pBenVEFHrL7E8Hqt"
+    },
+    {
+      "text": "Salvageable materials",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "VBiKwgAjDgwOcfce",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Y72fnZxkJlhDKUAY.VBiKwgAjDgwOcfce"
+    },
+    {
+      "text": "Supplier willing to help with restocking",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "P5bBeGtA3ONBPqJ0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Y72fnZxkJlhDKUAY.P5bBeGtA3ONBPqJ0"
+    },
+    {
+      "text": "Upgrade components or plans",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "U43pQj11y27GBbmj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Y72fnZxkJlhDKUAY.U43pQj11y27GBbmj"
+    }
+  ],
+  "folder": "Px5AroYzQ1mF5jOi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658150,
+    "modifiedTime": 1693870856615,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "Y72fnZxkJlhDKUAY",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Y72fnZxkJlhDKUAY"
+}

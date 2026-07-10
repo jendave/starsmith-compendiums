@@ -1,0 +1,342 @@
+{
+  "name": "Encountered Behavior (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ambusher",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "fY4HWFVDP0rTMiw6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.fY4HWFVDP0rTMiw6"
+    },
+    {
+      "text": "Apex predator",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "EOcApLcvlIEuogjE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.EOcApLcvlIEuogjE"
+    },
+    {
+      "text": "Builder",
+      "range": [
+        11,
+        14
+      ],
+      "_id": "IhoxxRiQtVJXNgi9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.IhoxxRiQtVJXNgi9"
+    },
+    {
+      "text": "Camouflager",
+      "range": [
+        15,
+        19
+      ],
+      "_id": "uCILzdiqXIslpFGs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.uCILzdiqXIslpFGs"
+    },
+    {
+      "text": "Forager",
+      "range": [
+        20,
+        24
+      ],
+      "_id": "9Ab3JDUFglWAJWzV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.9Ab3JDUFglWAJWzV"
+    },
+    {
+      "text": "Grazer",
+      "range": [
+        25,
+        29
+      ],
+      "_id": "gZsjma7PnIwrtzqQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.gZsjma7PnIwrtzqQ"
+    },
+    {
+      "text": "Herder",
+      "range": [
+        30,
+        33
+      ],
+      "_id": "Nc0v7bMZ1tTGqUaV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.Nc0v7bMZ1tTGqUaV"
+    },
+    {
+      "text": "Hibernator",
+      "range": [
+        34,
+        37
+      ],
+      "_id": "dqS2XXwVjPpjDYuZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.dqS2XXwVjPpjDYuZ"
+    },
+    {
+      "text": "Hoarder",
+      "range": [
+        38,
+        41
+      ],
+      "_id": "XkOh88NHVHJDTJpW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.XkOh88NHVHJDTJpW"
+    },
+    {
+      "text": "Hunter",
+      "range": [
+        42,
+        46
+      ],
+      "_id": "TCMKa6ro8vi1F0Q5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.TCMKa6ro8vi1F0Q5"
+    },
+    {
+      "text": "Lurer",
+      "range": [
+        47,
+        51
+      ],
+      "_id": "0PZ00WCoQRKiz4Jt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.0PZ00WCoQRKiz4Jt"
+    },
+    {
+      "text": "Migratory",
+      "range": [
+        52,
+        55
+      ],
+      "_id": "cVkinAvGcE5VaWln",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.cVkinAvGcE5VaWln"
+    },
+    {
+      "text": "Mimic",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "xL8mFVbVyGRLKbmF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.xL8mFVbVyGRLKbmF"
+    },
+    {
+      "text": "Nester",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "tmt7myuLGQQYiwux",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.tmt7myuLGQQYiwux"
+    },
+    {
+      "text": "Pack hunter",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "DnIrS1WAHocMPZwF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.DnIrS1WAHocMPZwF"
+    },
+    {
+      "text": "Prey",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "J7NWWrn5pDtcLdP9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.J7NWWrn5pDtcLdP9"
+    },
+    {
+      "text": "Protector",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "py9Kr53QaU8aT71W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.py9Kr53QaU8aT71W"
+    },
+    {
+      "text": "Scavenger",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "Irq8BkBc61Aat62g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.Irq8BkBc61Aat62g"
+    },
+    {
+      "text": "Tracker",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "6VoytdrPnrpIgLTU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.6VoytdrPnrpIgLTU"
+    },
+    {
+      "text": "Trapper",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "2eAJqemmdMhle1fK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.2eAJqemmdMhle1fK"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ZQOzGSlpyvLQ78xL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lKHbFR2SJbazZyMM.ZQOzGSlpyvLQ78xL"
+    }
+  ],
+  "folder": "RSG7ksc1DxCTpccr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the Encountered Behavior table to define this creature’s motivation and frame how the encounter begins.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676547743,
+    "modifiedTime": 1693042438369,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "lKHbFR2SJbazZyMM",
+  "sort": 350000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!lKHbFR2SJbazZyMM"
+}

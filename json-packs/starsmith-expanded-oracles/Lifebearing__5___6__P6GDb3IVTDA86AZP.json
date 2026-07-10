@@ -1,0 +1,402 @@
+{
+  "name": "Lifebearing (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Advance warning of a lifeform threat",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "hivEvPN6fBLXm2eH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.hivEvPN6fBLXm2eH"
+    },
+    {
+      "text": "Clue to a lifeform's strengths or capabilities",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "jIKwyasHwPbYO1fs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.jIKwyasHwPbYO1fs"
+    },
+    {
+      "text": "Fortuitous change in creature behavior",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "OZwYhpgSV3EVDxLr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.OZwYhpgSV3EVDxLr"
+    },
+    {
+      "text": "Friendly interaction with a symbiotic lifeform",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "lQS73WejpCwGfErP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.lQS73WejpCwGfErP"
+    },
+    {
+      "text": "Remains of a lifeform offer insight",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "0vFulV8jqAehmNr3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.0vFulV8jqAehmNr3"
+    },
+    {
+      "text": "Evidence of previous life is discovered",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "mbr3JkY0OUETQnGP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.mbr3JkY0OUETQnGP"
+    },
+    {
+      "text": "Abandoned specialized equipment",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "Q4DBLcDnKynrQCuZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.Q4DBLcDnKynrQCuZ"
+    },
+    {
+      "text": "Advance warning of a foe changing plans",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "uJRmEwC05Mv3HZLE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.uJRmEwC05Mv3HZLE"
+    },
+    {
+      "text": "Another adversary of a foe is revealed",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "KfA9qUa0I8oINhGo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.KfA9qUa0I8oINhGo"
+    },
+    {
+      "text": "Base of operations for a foe is discovered",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "8yzyjFQwTldfI6Mx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.8yzyjFQwTldfI6Mx"
+    },
+    {
+      "text": "Clue to the future of this place is revealed",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "C6KN2IeDgZIM7H01",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.C6KN2IeDgZIM7H01"
+    },
+    {
+      "text": "Dangerous resource rendered inert",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "gBZsXFEruv1aHQUT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.gBZsXFEruv1aHQUT"
+    },
+    {
+      "text": "Environmental conditions hide your movements",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "LPUVokTH82MNnyV5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.LPUVokTH82MNnyV5"
+    },
+    {
+      "text": "Friendly traveler seeks aid or information",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "TocE6WOgh4N1GKrh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.TocE6WOgh4N1GKrh"
+    },
+    {
+      "text": "Helpful or encouraging message from an acquaintance",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "GZ92er5D0sIxLBbL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.GZ92er5D0sIxLBbL"
+    },
+    {
+      "text": "Interesting or helpful natural occurrence",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "QuKXV1qsqBHYF5sn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.QuKXV1qsqBHYF5sn"
+    },
+    {
+      "text": "Item found that makes a quest easier",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "8m1CImjEqBgiSCZM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.8m1CImjEqBgiSCZM"
+    },
+    {
+      "text": "Negative conviction is undermined",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "6JWidALM3YeKM5zv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.6JWidALM3YeKM5zv"
+    },
+    {
+      "text": "Opening to deceive foe or throw them off the scent",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "atRr1Wnb6HBSmqgY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.atRr1Wnb6HBSmqgY"
+    },
+    {
+      "text": "Opportunity to grow a relationship",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "vMlxER4gW2Sdcyyh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.vMlxER4gW2Sdcyyh"
+    },
+    {
+      "text": "Rival seeks your help",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "4Td2JKaS048s6jYH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.4Td2JKaS048s6jYH"
+    },
+    {
+      "text": "Secret to traversing a navigational hazard is found",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "6intOy9eMwnkxgPw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.6intOy9eMwnkxgPw"
+    },
+    {
+      "text": "Site would be of interest to a connection",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "xoaQuJ6dOIF7rUqp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.xoaQuJ6dOIF7rUqp"
+    },
+    {
+      "text": "Threat of a foe is reduced",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "7AD6q01crVoxHZUk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.7AD6q01crVoxHZUk"
+    },
+    {
+      "text": "Vantage point reveals the location of a resource",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "H9NVIJLX6pUO4zT7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!P6GDb3IVTDA86AZP.H9NVIJLX6pUO4zT7"
+    }
+  ],
+  "folder": "hlkNpGgDqvEvbZcO",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a beneficial encounter or event on a planetside journey, such as when you roll a strong hit with a match as you Undertake an Expedition, or if you Explore a Waypoint and find an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676402189,
+    "modifiedTime": 1693511898593,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "P6GDb3IVTDA86AZP",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!P6GDb3IVTDA86AZP"
+}

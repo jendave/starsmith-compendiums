@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access to a rare resource",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "zbFpfIiGaMCJBGTq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AtqoQOiHw2S4sbUd.zbFpfIiGaMCJBGTq"
+    },
+    {
+      "text": "Access to useful equipment",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "DPz3YquZbPj0QKtY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AtqoQOiHw2S4sbUd.DPz3YquZbPj0QKtY"
+    },
+    {
+      "text": "Changes in gravity hamper your foes",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "gurX41rccr1G6svA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AtqoQOiHw2S4sbUd.gurX41rccr1G6svA"
+    },
+    {
+      "text": "Landscape allows access to significant location",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "upUh04ZeZLkgPf3y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AtqoQOiHw2S4sbUd.upUh04ZeZLkgPf3y"
+    },
+    {
+      "text": "Three-dimensional battlefield hampers your foes",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "C7wI6tOyWOWlzMmB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AtqoQOiHw2S4sbUd.C7wI6tOyWOWlzMmB"
+    }
+  ],
+  "folder": "zAFPSN5e3T57IPe4",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Pockets of stable ground dance on gravity waves in this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676712147,
+    "modifiedTime": 1693777340271,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "AtqoQOiHw2S4sbUd",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!AtqoQOiHw2S4sbUd"
+}

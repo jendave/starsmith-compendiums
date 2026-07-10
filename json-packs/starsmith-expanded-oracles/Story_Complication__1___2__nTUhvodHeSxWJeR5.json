@@ -1,0 +1,462 @@
+{
+  "name": "Story Complication (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Crucial equipment or device fails",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "LGVjwiYc2tIng51c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.LGVjwiYc2tIng51c"
+    },
+    {
+      "text": "Crucial equipment or device is sabotaged",
+      "range": [
+        5,
+        7
+      ],
+      "_id": "zNqb38yyzIng8fAM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.zNqb38yyzIng8fAM"
+    },
+    {
+      "text": "Debt or promise comes due",
+      "range": [
+        8,
+        10
+      ],
+      "_id": "Gx0gRlsJcaLYsZCM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.Gx0gRlsJcaLYsZCM"
+    },
+    {
+      "text": "Enemy reveals unexpected powers, abilities, or influence",
+      "range": [
+        11,
+        14
+      ],
+      "_id": "NST76RIWeruggsNY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.NST76RIWeruggsNY"
+    },
+    {
+      "text": "Enemy reveals their true agenda or nature",
+      "range": [
+        15,
+        17
+      ],
+      "_id": "wjQh2U4GhMUS7Kak",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.wjQh2U4GhMUS7Kak"
+    },
+    {
+      "text": "Enemy unexpectedly benefits from your actions",
+      "range": [
+        18,
+        20
+      ],
+      "_id": "ADbYfWqO9Tb6SuzF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.ADbYfWqO9Tb6SuzF"
+    },
+    {
+      "text": "Key location is made inaccessible",
+      "range": [
+        21,
+        23
+      ],
+      "_id": "CuoAhlVyui1TcgI4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.CuoAhlVyui1TcgI4"
+    },
+    {
+      "text": "Key location is threatened or made unsafe",
+      "range": [
+        24,
+        26
+      ],
+      "_id": "2ZKFrB0qg2RKJAfe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.2ZKFrB0qg2RKJAfe"
+    },
+    {
+      "text": "Natural disaster is imminent",
+      "range": [
+        27,
+        29
+      ],
+      "_id": "esPde8jw6bF4bhBS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.esPde8jw6bF4bhBS"
+    },
+    {
+      "text": "Needed item or resource is unavailable",
+      "range": [
+        30,
+        33
+      ],
+      "_id": "MYHw2qLNdeU9Gsrv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.MYHw2qLNdeU9Gsrv"
+    },
+    {
+      "text": "Object of a quest is not what you assumed",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "LMpvydedLQKboPXL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.LMpvydedLQKboPXL"
+    },
+    {
+      "text": "Old enemy resurfaces",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "YqhEOLXdoW1jkNAn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.YqhEOLXdoW1jkNAn"
+    },
+    {
+      "text": "Simultaneous problems force a hard choice",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "NZaUWkjaEmcwYprB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.NZaUWkjaEmcwYprB"
+    },
+    {
+      "text": "Someone important betrays your trust",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "JIRZf0GnnbeTaWxC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.JIRZf0GnnbeTaWxC"
+    },
+    {
+      "text": "Someone important is threatened or endangered",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "byb1xqRnggsdgwF6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.byb1xqRnggsdgwF6"
+    },
+    {
+      "text": "Someone important reveals their problematic secret or history",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "Pwi0tfg2ge6RXHjc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.Pwi0tfg2ge6RXHjc"
+    },
+    {
+      "text": "Something important goes missing",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "cifZU1Gizatr96wb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.cifZU1Gizatr96wb"
+    },
+    {
+      "text": "Technology or device is shown to have unexpected effects",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "QHP0TcQ7Z8dqHpmq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.QHP0TcQ7Z8dqHpmq"
+    },
+    {
+      "text": "Time pressure suddenly increases",
+      "range": [
+        58,
+        61
+      ],
+      "_id": "MAHVdONneJBqSOJW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.MAHVdONneJBqSOJW"
+    },
+    {
+      "text": "Trap is sprung",
+      "range": [
+        62,
+        65
+      ],
+      "_id": "frg9doaHsZtJI2j7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.frg9doaHsZtJI2j7"
+    },
+    {
+      "text": "True agenda of a connection or patron is revealed",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "vKEBQaiBMbY4lWj2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.vKEBQaiBMbY4lWj2"
+    },
+    {
+      "text": "Trusted information is shown to be false",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "Rr8Uii4xcbdBG1s6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.Rr8Uii4xcbdBG1s6"
+    },
+    {
+      "text": "Two seemingly unrelated problems are shown to be connected",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "DP9N6zYz9zpNOTvn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.DP9N6zYz9zpNOTvn"
+    },
+    {
+      "text": "Undermined by self-doubt or vulnerabilities",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "Z1NkpjCWGXs234F1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.Z1NkpjCWGXs234F1"
+    },
+    {
+      "text": "Unexpected enemies appear",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "NOQMgOaOUuF1gp1h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.NOQMgOaOUuF1gp1h"
+    },
+    {
+      "text": "Urgent message distracts you from your quest",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "cKInJOBBdePEJrMy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.cKInJOBBdePEJrMy"
+    },
+    {
+      "text": "You are tracked or followed",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "oWjWUqIR2260muaL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.oWjWUqIR2260muaL"
+    },
+    {
+      "text": "You were diverted from the true crisis",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "psm4ouCqlyDoPH7e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.psm4ouCqlyDoPH7e"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "VDGODnDMfzFngRHQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.VDGODnDMfzFngRHQ"
+    }
+  ],
+  "folder": "EZdpqOZMdqwGsU7q",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price} table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676735873,
+    "modifiedTime": 1693071774131,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "nTUhvodHeSxWJeR5",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!nTUhvodHeSxWJeR5"
+}

@@ -1,0 +1,28 @@
+{
+  "folder": null,
+  "name": "Linked Effect Between Tokens",
+  "type": "script",
+  "author": "MmM06BuCrG9h1GLg",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro at https://fantasycomputer.works/FoundryVTT-Sequencer/#/tutorials/basic-linked under the MIT License. \nconst target = game.user.targets.first();\nlet sequence = new Sequence()\n    .effect()\n    .file(\"jb2a.energy_beam.normal.blue.01\")\n    .attachTo(token)\n    .stretchTo(target, { attachTo: true })\n    .persist()\n    .duration(1)\n    .scale({ x: 1.0, y: 0.3 })\n    .play();",
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.25.5",
+    "createdTime": 1764320285089,
+    "modifiedTime": 1764320285089,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg"
+  },
+  "_id": "FKOQTIGU6Q8ft9QS",
+  "sort": 0,
+  "_key": "!macros!FKOQTIGU6Q8ft9QS"
+}

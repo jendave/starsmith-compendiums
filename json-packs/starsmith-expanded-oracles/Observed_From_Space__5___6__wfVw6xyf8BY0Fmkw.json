@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Basins of gypsum-filled white sand",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "wJna8Sa43oyeKpQE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.wJna8Sa43oyeKpQE"
+    },
+    {
+      "text": "Dry endorheic basins that once gathered rain water",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "FxSkfQlrhulGbFOM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.FxSkfQlrhulGbFOM"
+    },
+    {
+      "text": "Large alluvial fans",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "AQj7QJByhAqj0CKX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.AQj7QJByhAqj0CKX"
+    },
+    {
+      "text": "Mountains cracked and crumbling into limestone boulders",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "zVuFryLeWzwMKnFL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.zVuFryLeWzwMKnFL"
+    },
+    {
+      "text": "Mountain-sized dust devils in a complicated dance",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "vkHGJTZ9EhWQUvqJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.vkHGJTZ9EhWQUvqJ"
+    },
+    {
+      "text": "Stones covered in desert varnish made by clay-eating bacteria",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "NiK0EQO4ota82hmj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.NiK0EQO4ota82hmj"
+    },
+    {
+      "text": "Tiny dots of color amidst the sandy brown",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "d8LD2DmsLe4jLfF5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.d8LD2DmsLe4jLfF5"
+    },
+    {
+      "text": "Variable winds cause large star dunes piling higher and higher",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "g0HPQvuaNgmpXhSp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.g0HPQvuaNgmpXhSp"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "slyV8EkTN5igdzRU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.slyV8EkTN5igdzRU"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ESIEl5ecS4RQZGD4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wfVw6xyf8BY0Fmkw.ESIEl5ecS4RQZGD4"
+    }
+  ],
+  "folder": "Pl9XxW6fIhAGfABi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401749,
+    "modifiedTime": 1699035241658,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "wfVw6xyf8BY0Fmkw",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wfVw6xyf8BY0Fmkw"
+}

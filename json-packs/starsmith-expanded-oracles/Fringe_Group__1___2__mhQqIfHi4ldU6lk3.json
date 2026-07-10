@@ -1,0 +1,195 @@
+{
+  "name": "Fringe Group (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cultists",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "eLnNKimGkd42hXgl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.eLnNKimGkd42hXgl"
+    },
+    {
+      "text": "Exiles",
+      "range": [
+        6,
+        15
+      ],
+      "_id": "BBgJBnF7KHpYlWpG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.BBgJBnF7KHpYlWpG"
+    },
+    {
+      "text": "Gangsters",
+      "range": [
+        16,
+        25
+      ],
+      "_id": "iRl5Rco2r0FZajip",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.iRl5Rco2r0FZajip"
+    },
+    {
+      "text": "Hackers",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "tYKspTFaI97NmvYg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.tYKspTFaI97NmvYg"
+    },
+    {
+      "text": "Monster hunters",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "IKNBZvYb4ZzOxxSo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.IKNBZvYb4ZzOxxSo"
+    },
+    {
+      "text": "Pirates",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "G7OsJfGCALWIQI5C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.G7OsJfGCALWIQI5C"
+    },
+    {
+      "text": "Raiders",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "GUWeOE8ONb9uD6pX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.GUWeOE8ONb9uD6pX"
+    },
+    {
+      "text": "Rebels",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "d0ZCVXJrsxikx0eM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.d0ZCVXJrsxikx0eM"
+    },
+    {
+      "text": "Rogue AI",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "kyDpEsw8YtO4OTZm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.kyDpEsw8YtO4OTZm"
+    },
+    {
+      "text": "Scavengers",
+      "range": [
+        76,
+        85
+      ],
+      "_id": "Z8Q55I72SLRGP8sP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.Z8Q55I72SLRGP8sP"
+    },
+    {
+      "text": "Smugglers",
+      "range": [
+        86,
+        95
+      ],
+      "_id": "X9bw3HlL9CPBhKtM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.X9bw3HlL9CPBhKtM"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "TVuZQuEd6zQLRNOB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.TVuZQuEd6zQLRNOB"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597146,
+    "modifiedTime": 1693070197881,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "mhQqIfHi4ldU6lk3",
+  "sort": 190625,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!mhQqIfHi4ldU6lk3"
+}

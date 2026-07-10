@@ -1,0 +1,117 @@
+{
+  "name": "Technology Level",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Primitive",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "mMsZDKffA2VhZwgk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7UblRUXJaOtwR7Jg.mMsZDKffA2VhZwgk"
+    },
+    {
+      "text": "Pre-space flight",
+      "range": [
+        6,
+        15
+      ],
+      "_id": "sBRhtkQh1TgwQVZl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7UblRUXJaOtwR7Jg.sBRhtkQh1TgwQVZl"
+    },
+    {
+      "text": "Pre-FTL",
+      "range": [
+        16,
+        30
+      ],
+      "_id": "U55gbnB3g6WhN3jx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7UblRUXJaOtwR7Jg.U55gbnB3g6WhN3jx"
+    },
+    {
+      "text": "Comparable to humanity",
+      "range": [
+        31,
+        70
+      ],
+      "_id": "p0tIem8ijkFFwvEq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7UblRUXJaOtwR7Jg.p0tIem8ijkFFwvEq"
+    },
+    {
+      "text": "Advanced beyond humanity",
+      "range": [
+        71,
+        95
+      ],
+      "_id": "m6r7ei6vIb8Qyelt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7UblRUXJaOtwR7Jg.m6r7ei6vIb8Qyelt"
+    },
+    {
+      "text": "Approaching Precursor level",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "YYUi0ZvZfFB53a8t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7UblRUXJaOtwR7Jg.YYUi0ZvZfFB53a8t"
+    }
+  ],
+  "folder": "oppVhzsLYkyZtbu6",
+  "sort": 200000,
+  "_id": "7UblRUXJaOtwR7Jg",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>While technology may be derived from the age of the culture, it may be interesting to have a random technology level because a disparity between the two can help inform the backstory of the aliens.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144820817,
+    "modifiedTime": 1708148250766,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!7UblRUXJaOtwR7Jg"
+}

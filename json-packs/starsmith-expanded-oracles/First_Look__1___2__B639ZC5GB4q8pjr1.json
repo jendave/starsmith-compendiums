@@ -1,0 +1,777 @@
+{
+  "name": "First Look (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Antennae or sensory organs",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "Z8Hd1yHO3LXTlOaE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.Z8Hd1yHO3LXTlOaE"
+    },
+    {
+      "text": "Armored",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "pEGTuByYcwijZNdm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.pEGTuByYcwijZNdm"
+    },
+    {
+      "text": "Beautiful",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "KZJlDuAQI8CXi3ub",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.KZJlDuAQI8CXi3ub"
+    },
+    {
+      "text": "Biotech",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "fRJaI0RHeQcH0GYf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.fRJaI0RHeQcH0GYf"
+    },
+    {
+      "text": "Bony or gaunt",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "f1wNlju9dhJEA8Hq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.f1wNlju9dhJEA8Hq"
+    },
+    {
+      "text": "Brutish or muscled",
+      "range": [
+        11,
+        12
+      ],
+      "_id": "XSFBmLKPMbnWvjZv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.XSFBmLKPMbnWvjZv"
+    },
+    {
+      "text": "Camouflaged",
+      "range": [
+        13,
+        14
+      ],
+      "_id": "JnuPM2tPdi887H3P",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.JnuPM2tPdi887H3P"
+    },
+    {
+      "text": "Claws or talons",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "HyH6HxliTFUYExZ4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.HyH6HxliTFUYExZ4"
+    },
+    {
+      "text": "Compound eyes",
+      "range": [
+        17,
+        18
+      ],
+      "_id": "o6UW34o0Yt7SJOde",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.o6UW34o0Yt7SJOde"
+    },
+    {
+      "text": "Comprised of many creatures",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "iRpfLdgyAYVC6dHh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.iRpfLdgyAYVC6dHh"
+    },
+    {
+      "text": "Corrupted",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "hb3sQw4b022kJXdZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.hb3sQw4b022kJXdZ"
+    },
+    {
+      "text": "Crystalline",
+      "range": [
+        23,
+        24
+      ],
+      "_id": "nmKxMoj3QMeTrvJm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.nmKxMoj3QMeTrvJm"
+    },
+    {
+      "text": "Dead or undead",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "EAV2VsKBVwRP9FOg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.EAV2VsKBVwRP9FOg"
+    },
+    {
+      "text": "Distinctive markings",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "7cRj0gpEiBOnyllH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.7cRj0gpEiBOnyllH"
+    },
+    {
+      "text": "Distinctive smell",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "WLKsKmU2RU3KqXF9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.WLKsKmU2RU3KqXF9"
+    },
+    {
+      "text": "Distinctive sound",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "826gdgX4BHCWGfRX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.826gdgX4BHCWGfRX"
+    },
+    {
+      "text": "Dripping mucus",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "kDLk0qNbKv6xngXX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.kDLk0qNbKv6xngXX"
+    },
+    {
+      "text": "Elongated Neck",
+      "range": [
+        35,
+        36
+      ],
+      "_id": "9C5UskmhDm6nlX53",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.9C5UskmhDm6nlX53"
+    },
+    {
+      "text": "Energy emissions",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "wiUEPmlNJpuTyJm6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.wiUEPmlNJpuTyJm6"
+    },
+    {
+      "text": "Extra limbs",
+      "range": [
+        39,
+        40
+      ],
+      "_id": "USXQ7yBVMJ6MaNbd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.USXQ7yBVMJ6MaNbd"
+    },
+    {
+      "text": "Faceless or inexpressive",
+      "range": [
+        41,
+        42
+      ],
+      "_id": "L72dQzV4B1pwwgfR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.L72dQzV4B1pwwgfR"
+    },
+    {
+      "text": "Fangs or rows of teeth",
+      "range": [
+        43,
+        44
+      ],
+      "_id": "11cTJEngscRp677k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.11cTJEngscRp677k"
+    },
+    {
+      "text": "Feathered",
+      "range": [
+        45,
+        46
+      ],
+      "_id": "QP3j7mEoeesUhJzQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.QP3j7mEoeesUhJzQ"
+    },
+    {
+      "text": "Fungal growth",
+      "range": [
+        47,
+        48
+      ],
+      "_id": "FEEBCTzdvQruoNPs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.FEEBCTzdvQruoNPs"
+    },
+    {
+      "text": "Fur, hair, or filaments",
+      "range": [
+        49,
+        50
+      ],
+      "_id": "NrTQnZ9gONi8djY6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.NrTQnZ9gONi8djY6"
+    },
+    {
+      "text": "Graceful",
+      "range": [
+        51,
+        52
+      ],
+      "_id": "oTQfytnqT5GtbgxL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.oTQfytnqT5GtbgxL"
+    },
+    {
+      "text": "Hideous",
+      "range": [
+        53,
+        54
+      ],
+      "_id": "d4caoecDcAHDMI0E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.d4caoecDcAHDMI0E"
+    },
+    {
+      "text": "Hooded or crested",
+      "range": [
+        55,
+        56
+      ],
+      "_id": "c8G5LyxQ6NVet3oU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.c8G5LyxQ6NVet3oU"
+    },
+    {
+      "text": "Immobile or trapped",
+      "range": [
+        57,
+        58
+      ],
+      "_id": "d4Uln0Zw20us11ce",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.d4Uln0Zw20us11ce"
+    },
+    {
+      "text": "Injured or scarred",
+      "range": [
+        59,
+        60
+      ],
+      "_id": "0pfGTwFUOrzj2kyP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.0pfGTwFUOrzj2kyP"
+    },
+    {
+      "text": "Iridescent",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "Y2yPPJ86fH0yQ1U9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.Y2yPPJ86fH0yQ1U9"
+    },
+    {
+      "text": "Long-limbed",
+      "range": [
+        63,
+        64
+      ],
+      "_id": "kWREPewjzyKehMTS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.kWREPewjzyKehMTS"
+    },
+    {
+      "text": "Luminescent",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "ito42IbPmqoL7X5K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.ito42IbPmqoL7X5K"
+    },
+    {
+      "text": "Mandibles or pincers",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "phFG8JAHkzYctwwQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.phFG8JAHkzYctwwQ"
+    },
+    {
+      "text": "Many-eyed",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "hwSBpmwxOYqSnkdb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.hwSBpmwxOYqSnkdb"
+    },
+    {
+      "text": "Mineral or metallic",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "yL9yDbd4dHY1WpKg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.yL9yDbd4dHY1WpKg"
+    },
+    {
+      "text": "Multi-jointed",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "52PCSXo2UZj0i9pb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.52PCSXo2UZj0i9pb"
+    },
+    {
+      "text": "Multi-segmented body",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "MJN9UMXTExD7C9sr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.MJN9UMXTExD7C9sr"
+    },
+    {
+      "text": "Ornamented or colorful",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "70TA9nBKi0pzim4f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.70TA9nBKi0pzim4f"
+    },
+    {
+      "text": "Oversized mouth",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "TbFcsO3p0Ig03oAj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.TbFcsO3p0Ig03oAj"
+    },
+    {
+      "text": "Prominent tail",
+      "range": [
+        81,
+        82
+      ],
+      "_id": "PE1F9sol6FUBDBNn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.PE1F9sol6FUBDBNn"
+    },
+    {
+      "text": "Prominent wings or fins",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "X6DU7Z6S8N3XgJ0h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.X6DU7Z6S8N3XgJ0h"
+    },
+    {
+      "text": "Ridges or plates",
+      "range": [
+        85,
+        86
+      ],
+      "_id": "eq7McECUROG9VizQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.eq7McECUROG9VizQ"
+    },
+    {
+      "text": "Scaled",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "MjstQujRtIdTojKX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.MjstQujRtIdTojKX"
+    },
+    {
+      "text": "Single eye or oversized eyes",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "D63q3SrDpIP9eRVM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.D63q3SrDpIP9eRVM"
+    },
+    {
+      "text": "Spikes or spines",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "FUseTjdRP1vo7d38",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.FUseTjdRP1vo7d38"
+    },
+    {
+      "text": "Stinger or barbs",
+      "range": [
+        93,
+        94
+      ],
+      "_id": "AhcuaMlEdnyEgxEw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.AhcuaMlEdnyEgxEw"
+    },
+    {
+      "text": "Tentacles or tendrils",
+      "range": [
+        95,
+        96
+      ],
+      "_id": "Iy4igVDu66HcMnQH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.Iy4igVDu66HcMnQH"
+    },
+    {
+      "text": "Translucent",
+      "range": [
+        97,
+        98
+      ],
+      "_id": "ebwwzxPuKsLqiDUr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.ebwwzxPuKsLqiDUr"
+    },
+    {
+      "text": "Visible symbiote",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "MM5QQgqBBRhow5Ru",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!B639ZC5GB4q8pjr1.MM5QQgqBBRhow5Ru"
+    }
+  ],
+  "folder": "RSG7ksc1DxCTpccr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll for a basic form, and flesh out the creature’s appearance using the First Look table.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676547714,
+    "modifiedTime": 1693042428122,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "B639ZC5GB4q8pjr1",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!B639ZC5GB4q8pjr1"
+}

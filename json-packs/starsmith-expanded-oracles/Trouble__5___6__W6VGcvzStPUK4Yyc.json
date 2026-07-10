@@ -1,0 +1,537 @@
+{
+  "name": "Trouble (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Rival settlement",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "G1aMl6E9fe14546n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.G1aMl6E9fe14546n"
+    },
+    {
+      "text": "There's a score to settle",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "gFzqCcVEBK2DzCs6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.gFzqCcVEBK2DzCs6"
+    },
+    {
+      "text": "Mine collapse",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "NSGdFqrKlI6Q14ES",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.NSGdFqrKlI6Q14ES"
+    },
+    {
+      "text": "Incompetent leadership",
+      "range": [
+        9,
+        11
+      ],
+      "_id": "eHjWHPyp4KuaVATX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.eHjWHPyp4KuaVATX"
+    },
+    {
+      "text": "Dangerous tradition",
+      "range": [
+        12,
+        13
+      ],
+      "_id": "xUVWnoKkRlEvw2eX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.xUVWnoKkRlEvw2eX"
+    },
+    {
+      "text": "Reckless warmongering",
+      "range": [
+        14,
+        17
+      ],
+      "_id": "tIGOl7D8FnBCanRE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.tIGOl7D8FnBCanRE"
+    },
+    {
+      "text": "Pirates plague travelers",
+      "range": [
+        18,
+        21
+      ],
+      "_id": "DqVKipdVpcNy5izv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.DqVKipdVpcNy5izv"
+    },
+    {
+      "text": "Resources stolen",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "FcrFKq6MD6zol9R5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.FcrFKq6MD6zol9R5"
+    },
+    {
+      "text": "Blighted crops",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "4EcFcKhRwbvakIEG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.4EcFcKhRwbvakIEG"
+    },
+    {
+      "text": "Political protests",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "M59IG4ARwBzwVATX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.M59IG4ARwBzwVATX"
+    },
+    {
+      "text": "Detrimental isolationism",
+      "range": [
+        33,
+        34
+      ],
+      "_id": "DdEVf5B0iZja4a0v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.DdEVf5B0iZja4a0v"
+    },
+    {
+      "text": "Defying of physics",
+      "range": [
+        35,
+        38
+      ],
+      "_id": "GfCdPoaXSYAzvziI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.GfCdPoaXSYAzvziI"
+    },
+    {
+      "text": "Prolific lifeforms",
+      "range": [
+        39,
+        42
+      ],
+      "_id": "XRbrYhsdv5PCa1gO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.XRbrYhsdv5PCa1gO"
+    },
+    {
+      "text": "Loss of vehicles",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "OpBcHRVSFouZV1vW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.OpBcHRVSFouZV1vW"
+    },
+    {
+      "text": "Treaty abandoned",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "khT6ltACj8cQU7YC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.khT6ltACj8cQU7YC"
+    },
+    {
+      "text": "Communications lost",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "KWDpOysUQU5yah87",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.KWDpOysUQU5yah87"
+    },
+    {
+      "text": "Symbiotic lifeforms lost",
+      "range": [
+        52,
+        53
+      ],
+      "_id": "ocXwXvB4S8OEtJVk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.ocXwXvB4S8OEtJVk"
+    },
+    {
+      "text": "People refusing taxes",
+      "range": [
+        54,
+        55
+      ],
+      "_id": "vB7vKfgil1pS5cjT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.vB7vKfgil1pS5cjT"
+    },
+    {
+      "text": "Open defiance of laws",
+      "range": [
+        56,
+        57
+      ],
+      "_id": "UQl30ejvi1f9ilHn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.UQl30ejvi1f9ilHn"
+    },
+    {
+      "text": "Dangerous celestial event",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "K5l0JPOWU6FSsyp6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.K5l0JPOWU6FSsyp6"
+    },
+    {
+      "text": "Nutrient deficiencies",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "zpXxPAWyH2Xy7bJj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.zpXxPAWyH2Xy7bJj"
+    },
+    {
+      "text": "War erupts",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "CTTuZ2UyFX2mN0X9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.CTTuZ2UyFX2mN0X9"
+    },
+    {
+      "text": "Oligarchs tighten grip",
+      "range": [
+        66,
+        67
+      ],
+      "_id": "gkqGljUmrrFCahiy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.gkqGljUmrrFCahiy"
+    },
+    {
+      "text": "Habitat compromised",
+      "range": [
+        68,
+        69
+      ],
+      "_id": "BTT8BN52VYG6F20O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.BTT8BN52VYG6F20O"
+    },
+    {
+      "text": "Stranger sows discord",
+      "range": [
+        70,
+        71
+      ],
+      "_id": "2nVhuKMGeRFBUxQ7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.2nVhuKMGeRFBUxQ7"
+    },
+    {
+      "text": "Fleecing the population",
+      "range": [
+        72,
+        74
+      ],
+      "_id": "lTjXGv6HIcVFjN2n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.lTjXGv6HIcVFjN2n"
+    },
+    {
+      "text": "Someone is threatened",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "dGzypijf3H2ydZAW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.dGzypijf3H2ydZAW"
+    },
+    {
+      "text": "Assassination attempt",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "khUQKxtr1xRktziV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.khUQKxtr1xRktziV"
+    },
+    {
+      "text": "Defenses compromised",
+      "range": [
+        79,
+        80
+      ],
+      "_id": "QJuGTo8FCa1pmMVY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.QJuGTo8FCa1pmMVY"
+    },
+    {
+      "text": "Fearful witch hunts",
+      "range": [
+        81,
+        83
+      ],
+      "_id": "BcN2v0L1OLVnHT5v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.BcN2v0L1OLVnHT5v"
+    },
+    {
+      "text": "Shift in gravity",
+      "range": [
+        84,
+        86
+      ],
+      "_id": "hAHKVtWueVqAhXAm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.hAHKVtWueVqAhXAm"
+    },
+    {
+      "text": "Inconsistent energy supply",
+      "range": [
+        87,
+        88
+      ],
+      "_id": "a2Agh8p3vRg0oozg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.a2Agh8p3vRg0oozg"
+    },
+    {
+      "text": "Vulnerable people group",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "adEBMgHDgMimXPYh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.adEBMgHDgMimXPYh"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "WDVMYsSl3SMAdz0a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.WDVMYsSl3SMAdz0a"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Check the Settlement Trouble table when it’s appropriate for your character to know or uncover these details. The Settlement Trouble table provides a broad description of the site’s most dramatic current issue.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676424438,
+    "modifiedTime": 1699036649914,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "W6VGcvzStPUK4Yyc",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!W6VGcvzStPUK4Yyc"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Location (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Asteroid belt",
+      "range": [
+        1,
+        40
+      ],
+      "_id": "bKQZLznn7Bdx0P7K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!wJNYFJsFMbCW8F0L.bKQZLznn7Bdx0P7K"
+    },
+    {
+      "text": "Nebula cloud",
+      "range": [
+        41,
+        75
+      ],
+      "_id": "GSooe2hZ2nlT17KA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!wJNYFJsFMbCW8F0L.GSooe2hZ2nlT17KA"
+    },
+    {
+      "text": "Wormhole",
+      "range": [
+        76,
+        100
+      ],
+      "_id": "KalHJpRKvHAOqZeM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!wJNYFJsFMbCW8F0L.KalHJpRKvHAOqZeM"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424330,
+    "modifiedTime": 1693072330361,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "wJNYFJsFMbCW8F0L",
+  "sort": 150000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wJNYFJsFMbCW8F0L"
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Aquatic",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Amphibious",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "4mj6P5XZtSLgbqHk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!WdpcWI5aom7PXhtp.4mj6P5XZtSLgbqHk"
+    },
+    {
+      "text": "Crustacean",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "l5pBfIUOUKrZJz8t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!WdpcWI5aom7PXhtp.l5pBfIUOUKrZJz8t"
+    },
+    {
+      "text": "Fish",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "SXzbZC5mfLcmszyD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!WdpcWI5aom7PXhtp.SXzbZC5mfLcmszyD"
+    },
+    {
+      "text": "Tentacled, squid",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "kQ8kySdUZ4d7hz4C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!WdpcWI5aom7PXhtp.kQ8kySdUZ4d7hz4C"
+    },
+    {
+      "text": "Whale",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "75IeEYzLuwyWAVBH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!WdpcWI5aom7PXhtp.75IeEYzLuwyWAVBH"
+    },
+    {
+      "text": "Walrus, seal, otter",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Q5wjUit6bZEhfM4h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!WdpcWI5aom7PXhtp.Q5wjUit6bZEhfM4h"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 0,
+  "_id": "WdpcWI5aom7PXhtp",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773783,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!WdpcWI5aom7PXhtp"
+}

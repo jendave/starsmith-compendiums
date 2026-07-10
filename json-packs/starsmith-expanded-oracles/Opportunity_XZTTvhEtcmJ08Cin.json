@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Helping a combatant in need may yield an ally",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "NEoQDsq03jxbSmTV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XZTTvhEtcmJ08Cin.NEoQDsq03jxbSmTV"
+    },
+    {
+      "text": "Insight into the nature of the conflict",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "ijN6xW27Dm5iE74X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XZTTvhEtcmJ08Cin.ijN6xW27Dm5iE74X"
+    },
+    {
+      "text": "Opening to avoid the fiercest section of battle",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "X9xdTlHrq5VurSSy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XZTTvhEtcmJ08Cin.X9xdTlHrq5VurSSy"
+    },
+    {
+      "text": "Opening to bring the immediate conflict to a close",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "20NXYMm56Oba9FGn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XZTTvhEtcmJ08Cin.20NXYMm56Oba9FGn"
+    },
+    {
+      "text": "Salvageable equipment or weapons",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "x1HmItln2EwoKstx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XZTTvhEtcmJ08Cin.x1HmItln2EwoKstx"
+    }
+  ],
+  "folder": "rb078vNpkjwXsLBL",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Combatants trade fire tensely in this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676712216,
+    "modifiedTime": 1693776998454,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "XZTTvhEtcmJ08Cin",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!XZTTvhEtcmJ08Cin"
+}

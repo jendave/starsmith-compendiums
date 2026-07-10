@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Active core that heats and cools the waters in a cycle",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "1DHjXyh9UicUU55G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.1DHjXyh9UicUU55G"
+    },
+    {
+      "text": "Bobbing islands produces fierce undertows",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "CQi5GdcDtwnel3tX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.CQi5GdcDtwnel3tX"
+    },
+    {
+      "text": "Clouds of ash and vapor circumnavigating the globe",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "6E1e0K37guFUnwjN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.6E1e0K37guFUnwjN"
+    },
+    {
+      "text": "Complete lack of land",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "bPqKqQt9MQXSQwjB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.bPqKqQt9MQXSQwjB"
+    },
+    {
+      "text": "Constant rain",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "DTVI8yP3vJOT91B7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.DTVI8yP3vJOT91B7"
+    },
+    {
+      "text": "Floating sections of congealing mud and sand",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "adbdkMx9PAzm2TkL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.adbdkMx9PAzm2TkL"
+    },
+    {
+      "text": "Highly reflective waters",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "6z7A7HZ9CGpkKIYJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.6z7A7HZ9CGpkKIYJ"
+    },
+    {
+      "text": "Island-sized sponges",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "YZlOkH0z6pG1CJb2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.YZlOkH0z6pG1CJb2"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "XvP0bOS4XIyUzzsx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.XvP0bOS4XIyUzzsx"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "LtwQb36cFyMvigs8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!YFa3euIzF3Iu3EVs.LtwQb36cFyMvigs8"
+    }
+  ],
+  "folder": "tl9BYoquB8rsJXih",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676401970,
+    "modifiedTime": 1699053800229,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "YFa3euIzF3Iu3EVs",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!YFa3euIzF3Iu3EVs"
+}

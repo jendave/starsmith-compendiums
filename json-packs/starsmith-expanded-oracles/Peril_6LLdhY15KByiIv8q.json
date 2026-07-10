@@ -1,0 +1,192 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Dangerous machinery",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "Pkb2Y3sXfc6SVkuD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.Pkb2Y3sXfc6SVkuD"
+    },
+    {
+      "text": "Disruption to the supply chain",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "3QI9jT4QdxGiL1hT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.3QI9jT4QdxGiL1hT"
+    },
+    {
+      "text": "Disturbing evidence of exploited  labor",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "q6KqxM8Z7g25GjPO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.q6KqxM8Z7g25GjPO"
+    },
+    {
+      "text": "Hazardous materials",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "kPZWcqa9DeDKIrZW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.kPZWcqa9DeDKIrZW"
+    },
+    {
+      "text": "Impending industrial disaster",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "4pq0ziy5cGWrkP3e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.4pq0ziy5cGWrkP3e"
+    },
+    {
+      "text": "Industrial espionage",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "xwox6NefJjiYwzIp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.xwox6NefJjiYwzIp"
+    },
+    {
+      "text": "Livestock on the loose",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "Urj9z7h2VysaMznw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.Urj9z7h2VysaMznw"
+    },
+    {
+      "text": "Malfunctioning automation",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "QccuRvEsGMVk3Mbd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.QccuRvEsGMVk3Mbd"
+    },
+    {
+      "text": "Smuggling outfit at work",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "SRoxHzJWFRQAI4DC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.SRoxHzJWFRQAI4DC"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "TvGZ059HJOIXq529",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.TvGZ059HJOIXq529"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "cZHTnCt3XcaTSNv4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.cZHTnCt3XcaTSNv4"
+    }
+  ],
+  "folder": "Px5AroYzQ1mF5jOi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658141,
+    "modifiedTime": 1699035683170,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "6LLdhY15KByiIv8q",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!6LLdhY15KByiIv8q"
+}

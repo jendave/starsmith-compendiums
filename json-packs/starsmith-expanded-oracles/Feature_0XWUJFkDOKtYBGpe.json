@@ -1,0 +1,207 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Abandoned pet",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "0qsiXQCLvHHmtuXx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.0qsiXQCLvHHmtuXx"
+    },
+    {
+      "text": "Bio-locked doorways",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "AG8q0oqrkgHVCHuF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.AG8q0oqrkgHVCHuF"
+    },
+    {
+      "text": "Bulletin board of messages",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "fodAoc4HBuLsbWhV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.fodAoc4HBuLsbWhV"
+    },
+    {
+      "text": "Children at play",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "DQwtAmWExFtT6xCE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.DQwtAmWExFtT6xCE"
+    },
+    {
+      "text": "Communal transport",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "Q0ZzYS3YPOWvJBFc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.Q0ZzYS3YPOWvJBFc"
+    },
+    {
+      "text": "Homes with a view",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "7Jeuv4Lxg346dVOY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.7Jeuv4Lxg346dVOY"
+    },
+    {
+      "text": "Misplaced belongings",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "BxcSVXxzsdYbxJC3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.BxcSVXxzsdYbxJC3"
+    },
+    {
+      "text": "Ration dispenser",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "s2KkPClGoJ1n37V7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.s2KkPClGoJ1n37V7"
+    },
+    {
+      "text": "Security patrol",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "rr4WmPPLNbl9AVkb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.rr4WmPPLNbl9AVkb"
+    },
+    {
+      "text": "Unusual art",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "zjQs1N5G8T4qfCOg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.zjQs1N5G8T4qfCOg"
+    },
+    {
+      "text": "Work shift change over",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "8jqZAgfeUEkEumGm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.8jqZAgfeUEkEumGm"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "rgAjeN7ssrC9AmW7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!0XWUJFkDOKtYBGpe.rgAjeN7ssrC9AmW7"
+    }
+  ],
+  "folder": "nnXmNsTGKj2qsDbm",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658101,
+    "modifiedTime": 1699035587100,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "0XWUJFkDOKtYBGpe",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!0XWUJFkDOKtYBGpe"
+}

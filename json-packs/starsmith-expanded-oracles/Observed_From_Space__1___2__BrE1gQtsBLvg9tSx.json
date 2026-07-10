@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Broken moon",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "dXMCDOppFOxXPt45",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.dXMCDOppFOxXPt45"
+    },
+    {
+      "text": "Cratered surface",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "hHojzGO9lsRiNRFz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.hHojzGO9lsRiNRFz"
+    },
+    {
+      "text": "Dry seabeds",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "9GqMOCvmc2VRuVcA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.9GqMOCvmc2VRuVcA"
+    },
+    {
+      "text": "Irradiated atmosphere",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "X971cvZeALBKYdq1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.X971cvZeALBKYdq1"
+    },
+    {
+      "text": "Orbiting ship graveyard",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "dRUA8HC4MvB4n42D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.dRUA8HC4MvB4n42D"
+    },
+    {
+      "text": "Perpetual overcast",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "PZmI3XZQlqHFbX3x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.PZmI3XZQlqHFbX3x"
+    },
+    {
+      "text": "Sky-breaching ruins",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "weXaTgLYdYb2A8yl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.weXaTgLYdYb2A8yl"
+    },
+    {
+      "text": "Vast wastelands",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "6N4abkZMtBHcWd6G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.6N4abkZMtBHcWd6G"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "GFVqefRm8dFeiAIc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.GFVqefRm8dFeiAIc"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "6koBeEdiwd101MNT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!BrE1gQtsBLvg9tSx.6koBeEdiwd101MNT"
+    }
+  ],
+  "folder": "EJoSoFU1mGwf60NT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401800,
+    "modifiedTime": 1699042457779,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "BrE1gQtsBLvg9tSx",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!BrE1gQtsBLvg9tSx"
+}

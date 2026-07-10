@@ -1,0 +1,111 @@
+{
+  "name": "Beast, mammal",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Bovine",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "NiYltqUUAHwxTVSt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5G8QCVn8Rz2jKvi8.NiYltqUUAHwxTVSt"
+    },
+    {
+      "text": "Canine",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "8Xity8oYAtEkM8cT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5G8QCVn8Rz2jKvi8.8Xity8oYAtEkM8cT"
+    },
+    {
+      "text": "Equine",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "hoN1NfWcdAULr6it",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5G8QCVn8Rz2jKvi8.hoN1NfWcdAULr6it"
+    },
+    {
+      "text": "Feline",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "zZanIjc38K5UX1di",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5G8QCVn8Rz2jKvi8.zZanIjc38K5UX1di"
+    },
+    {
+      "text": "Pachyderm",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "ClEHYB648T57s6Az",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5G8QCVn8Rz2jKvi8.ClEHYB648T57s6Az"
+    },
+    {
+      "text": "Simian",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "lBsmCeUElRD4eoo3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!5G8QCVn8Rz2jKvi8.lBsmCeUElRD4eoo3"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 2,
+  "_id": "5G8QCVn8Rz2jKvi8",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773792,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!5G8QCVn8Rz2jKvi8"
+}

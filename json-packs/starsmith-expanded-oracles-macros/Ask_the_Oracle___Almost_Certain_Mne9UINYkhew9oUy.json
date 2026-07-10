@@ -1,0 +1,28 @@
+{
+  "name": "Ask the Oracle - Almost Certain",
+  "type": "script",
+  "command": "ot = await CONFIG.IRONSWORN.OracleTable.getByDsId('move.oracle_rollable:starforged/fate/ask_the_oracle.almost_certain')\not.draw()",
+  "img": "icons/svg/dice-target.svg",
+  "author": "MmM06BuCrG9h1GLg",
+  "scope": "global",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "MmM06BuCrG9h1GLg": 3
+  },
+  "flags": {},
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "coreVersion": "13.351",
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.24.7",
+    "createdTime": 1731306008645,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "exportSource": null
+  },
+  "_id": "Mne9UINYkhew9oUy",
+  "sort": 100000,
+  "_key": "!macros!Mne9UINYkhew9oUy"
+}

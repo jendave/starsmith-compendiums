@@ -1,0 +1,552 @@
+{
+  "name": "Feature (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Abandoned hive",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "mQpP1eLDJtxyzmyn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.mQpP1eLDJtxyzmyn"
+    },
+    {
+      "text": "Altered pressure",
+      "range": [
+        3,
+        5
+      ],
+      "_id": "YmCFikhYsb23kiSj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.YmCFikhYsb23kiSj"
+    },
+    {
+      "text": "Banks of unmoving automatons",
+      "range": [
+        6,
+        7
+      ],
+      "_id": "IbWbPK65WBGzd6Cs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.IbWbPK65WBGzd6Cs"
+    },
+    {
+      "text": "Breaking the laws of physics",
+      "range": [
+        8,
+        10
+      ],
+      "_id": "8VPGeqVY2sQOyms8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.8VPGeqVY2sQOyms8"
+    },
+    {
+      "text": "Central raised dais or throne",
+      "range": [
+        11,
+        13
+      ],
+      "_id": "k58411G8ojf77l4h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.k58411G8ojf77l4h"
+    },
+    {
+      "text": "Clicking of processors",
+      "range": [
+        14,
+        16
+      ],
+      "_id": "phlEzNfiYemUgvcp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.phlEzNfiYemUgvcp"
+    },
+    {
+      "text": "Communication from the multiverse",
+      "range": [
+        17,
+        19
+      ],
+      "_id": "W3OD6HMCUUJVbPyc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.W3OD6HMCUUJVbPyc"
+    },
+    {
+      "text": "Cracking cocoons",
+      "range": [
+        20,
+        21
+      ],
+      "_id": "IlBM5i76PmVAT8Ty",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.IlBM5i76PmVAT8Ty"
+    },
+    {
+      "text": "Damaged or destroyed spaces",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "nGkO9KfqM4eJLYEH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.nGkO9KfqM4eJLYEH"
+    },
+    {
+      "text": "Doorway to an impossible place",
+      "range": [
+        25,
+        26
+      ],
+      "_id": "i8RKDH8h8rYNwC7L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.i8RKDH8h8rYNwC7L"
+    },
+    {
+      "text": "Elaborate mindscape",
+      "range": [
+        27,
+        28
+      ],
+      "_id": "FHe6HAAcOyFMu8nA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.FHe6HAAcOyFMu8nA"
+    },
+    {
+      "text": "Empty containers with unknown residue",
+      "range": [
+        29,
+        31
+      ],
+      "_id": "joUmMC7TlXTGO8H6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.joUmMC7TlXTGO8H6"
+    },
+    {
+      "text": "Flashing interface surfaces",
+      "range": [
+        32,
+        34
+      ],
+      "_id": "FxZFZIQn9uxKDnRV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.FxZFZIQn9uxKDnRV"
+    },
+    {
+      "text": "Floating spaces tethered by energy",
+      "range": [
+        35,
+        37
+      ],
+      "_id": "1acJMYqLRQPJDeiR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.1acJMYqLRQPJDeiR"
+    },
+    {
+      "text": "Forces pulling towards a center orb",
+      "range": [
+        38,
+        40
+      ],
+      "_id": "NQEHbKVCOLNeQ7Rk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.NQEHbKVCOLNeQ7Rk"
+    },
+    {
+      "text": "Full-body interface designed for different biology",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "HHTi45uYvzgTKaqa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.HHTi45uYvzgTKaqa"
+    },
+    {
+      "text": "Gears and pistons",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "1eAzFdY9YLoPozrI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.1eAzFdY9YLoPozrI"
+    },
+    {
+      "text": "Inscrutable object connected to low-tech equipment",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "ffnsrEswDQ52nuIP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.ffnsrEswDQ52nuIP"
+    },
+    {
+      "text": "Messages from the past",
+      "range": [
+        50,
+        51
+      ],
+      "_id": "FVuJCL7SHrMa8gns",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.FVuJCL7SHrMa8gns"
+    },
+    {
+      "text": "Mind-altering atmosphere",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "wFXmkMimL0duFxQ9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.wFXmkMimL0duFxQ9"
+    },
+    {
+      "text": "Observation chamber",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "4NtP4n3xEQxxxIv9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.4NtP4n3xEQxxxIv9"
+    },
+    {
+      "text": "Organic pods with unknown occupants",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "PnFKUU3L96mBQzkL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.PnFKUU3L96mBQzkL"
+    },
+    {
+      "text": "Pulsing plasma conduits",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "2duKIC6RJ36G38po",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.2duKIC6RJ36G38po"
+    },
+    {
+      "text": "Reinforced barricade",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "6i2Iqbtiz4MbZp24",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.6i2Iqbtiz4MbZp24"
+    },
+    {
+      "text": "Remains of invaders",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "MgK0HPPZCNPgKvF6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.MgK0HPPZCNPgKvF6"
+    },
+    {
+      "text": "Smoking banks of cryogenic pods",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "9crrJVGb5rXgAv4E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.9crrJVGb5rXgAv4E"
+    },
+    {
+      "text": "Spaces and tech that respond to intentions",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "SBIoM9jOWZVvlAnc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.SBIoM9jOWZVvlAnc"
+    },
+    {
+      "text": "Spiraling tower",
+      "range": [
+        75,
+        76
+      ],
+      "_id": "S8vMCkVrTLdA0tsT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.S8vMCkVrTLdA0tsT"
+    },
+    {
+      "text": "Sterilized environment",
+      "range": [
+        77,
+        79
+      ],
+      "_id": "6W26sa7WhK5mLGam",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.6W26sa7WhK5mLGam"
+    },
+    {
+      "text": "Surfaces encased in hardened silt",
+      "range": [
+        80,
+        82
+      ],
+      "_id": "VotgJf74MLPKMa3e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.VotgJf74MLPKMa3e"
+    },
+    {
+      "text": "Temple or ziggurat",
+      "range": [
+        83,
+        85
+      ],
+      "_id": "0HNtLqC3wVmJTnQk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.0HNtLqC3wVmJTnQk"
+    },
+    {
+      "text": "Unresponsive drones or servant bots",
+      "range": [
+        86,
+        88
+      ],
+      "_id": "g5swkzTl1wsZszcB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.g5swkzTl1wsZszcB"
+    },
+    {
+      "text": "Visions of a connected vault or network",
+      "range": [
+        89,
+        90
+      ],
+      "_id": "ASolzzmyxNZzrh7d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.ASolzzmyxNZzrh7d"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "L66oZcXDPScTF4w0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.L66oZcXDPScTF4w0"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "us2vXErPBU7Aw0AL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lMMPTGXOGCxKHj1n.us2vXErPBU7Aw0AL"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676692361,
+    "modifiedTime": 1699041990127,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "lMMPTGXOGCxKHj1n",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!lMMPTGXOGCxKHj1n"
+}

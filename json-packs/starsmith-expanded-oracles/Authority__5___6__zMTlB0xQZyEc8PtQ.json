@@ -1,0 +1,125 @@
+{
+  "name": "Authority (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cult-like",
+      "range": [
+        1,
+        15
+      ],
+      "_id": "eQpUqIXIuEABo9Qg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.eQpUqIXIuEABo9Qg"
+    },
+    {
+      "text": "Legalistic",
+      "range": [
+        16,
+        30
+      ],
+      "_id": "qbkU6fhiL5DW0ZBp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.qbkU6fhiL5DW0ZBp"
+    },
+    {
+      "text": "Collective good first",
+      "range": [
+        31,
+        45
+      ],
+      "_id": "xW16ZS7yMmsT3fmv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.xW16ZS7yMmsT3fmv"
+    },
+    {
+      "text": "Charitable",
+      "range": [
+        46,
+        55
+      ],
+      "_id": "z8g8IZ1TTSCc2dEj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.z8g8IZ1TTSCc2dEj"
+    },
+    {
+      "text": "Single-minded",
+      "range": [
+        56,
+        70
+      ],
+      "_id": "uIMiKszlc3tyscRK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.uIMiKszlc3tyscRK"
+    },
+    {
+      "text": "Prejudiced",
+      "range": [
+        71,
+        85
+      ],
+      "_id": "zKaIgp9dgdOkELV6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.zKaIgp9dgdOkELV6"
+    },
+    {
+      "text": "Takes advantage",
+      "range": [
+        86,
+        100
+      ],
+      "_id": "3h8v9i5B3GIQU4FJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!zMTlB0xQZyEc8PtQ.3h8v9i5B3GIQU4FJ"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424384,
+    "modifiedTime": 1693072407185,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "zMTlB0xQZyEc8PtQ",
+  "sort": 393750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!zMTlB0xQZyEc8PtQ"
+}

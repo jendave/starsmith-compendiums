@@ -1,0 +1,181 @@
+{
+  "name": "Initial Contact (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Informative",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "HCvZbkVnmlkMMygB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.HCvZbkVnmlkMMygB"
+    },
+    {
+      "text": "Apathetic",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "F5kvJUtHnUGpVkQ1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.F5kvJUtHnUGpVkQ1"
+    },
+    {
+      "text": "Settlement first",
+      "range": [
+        31,
+        50
+      ],
+      "_id": "CjTGIi5w8mSZWBSX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.CjTGIi5w8mSZWBSX"
+    },
+    {
+      "text": "Stubborn contrarian",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "py13osoed3o1sbc0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.py13osoed3o1sbc0"
+    },
+    {
+      "text": "Arrogant jerk",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "WzkuMLC7kuq9rdfA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.WzkuMLC7kuq9rdfA"
+    },
+    {
+      "text": "Bureaucratic protocols",
+      "range": [
+        71,
+        83
+      ],
+      "_id": "ZYJCEvjt7V4YXY56",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.ZYJCEvjt7V4YXY56"
+    },
+    {
+      "text": "Social upheaval",
+      "range": [
+        84,
+        86
+      ],
+      "_id": "zZTXEu54K8iKmqug",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.zZTXEu54K8iKmqug"
+    },
+    {
+      "text": "Cultural observance",
+      "range": [
+        87,
+        89
+      ],
+      "_id": "ZeXapBQwVi89xKqL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.ZeXapBQwVi89xKqL"
+    },
+    {
+      "text": "Communications down",
+      "range": [
+        90,
+        92
+      ],
+      "_id": "M1XDZzYvWax8FqbA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.M1XDZzYvWax8FqbA"
+    },
+    {
+      "text": "Attacks on sight",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "gDoCfkCRCDJmDspH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.gDoCfkCRCDJmDspH"
+    },
+    {
+      "text": "Derelict",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "zehtbgMxN0OUVawm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!CnErGVHLpgxKqNTB.zehtbgMxN0OUVawm"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424379,
+    "modifiedTime": 1693072125477,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "CnErGVHLpgxKqNTB",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!CnErGVHLpgxKqNTB"
+}

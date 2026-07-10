@@ -1,0 +1,1527 @@
+{
+  "name": "Focus (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alarm",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "9mH5wRpz1HOtMXlC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.9mH5wRpz1HOtMXlC"
+    },
+    {
+      "text": "Anomaly",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "OwQRVbAeCb8u16kJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.OwQRVbAeCb8u16kJ"
+    },
+    {
+      "text": "Apparition",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "TbyTSRyOi3qLBmNx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.TbyTSRyOi3qLBmNx"
+    },
+    {
+      "text": "Archive",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "o15slOSiCiBamEVb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.o15slOSiCiBamEVb"
+    },
+    {
+      "text": "Art",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "AsfolwZOU5PH0M5f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.AsfolwZOU5PH0M5f"
+    },
+    {
+      "text": "Artifact",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "tYpR9AyRATWuvZ0g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.tYpR9AyRATWuvZ0g"
+    },
+    {
+      "text": "Atmosphere",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "mSeRwPNy6bKeUyJ6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.mSeRwPNy6bKeUyJ6"
+    },
+    {
+      "text": "Battleground",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "uisTYPiL7yGSlQNZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.uisTYPiL7yGSlQNZ"
+    },
+    {
+      "text": "Beacon",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "lye6GmEEsaKo7dJt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.lye6GmEEsaKo7dJt"
+    },
+    {
+      "text": "Being",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "8ZLvqXK4qnRAoXfg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.8ZLvqXK4qnRAoXfg"
+    },
+    {
+      "text": "Blockade",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "hVx3NxJ7SvWKaGBP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.hVx3NxJ7SvWKaGBP"
+    },
+    {
+      "text": "Boundary",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "RwOPGfBM5CvtgR8o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.RwOPGfBM5CvtgR8o"
+    },
+    {
+      "text": "Cache",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "TIJCIucAobsjhvlL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.TIJCIucAobsjhvlL"
+    },
+    {
+      "text": "Cargo",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "GApRYlrVJHgaM8Um",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.GApRYlrVJHgaM8Um"
+    },
+    {
+      "text": "Commodity",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "kESmgAD6wlcpxpBG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.kESmgAD6wlcpxpBG"
+    },
+    {
+      "text": "Confinement",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "01nnEAArpVdc4sSo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.01nnEAArpVdc4sSo"
+    },
+    {
+      "text": "Connection",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "nGjLH77K92pOrlye",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.nGjLH77K92pOrlye"
+    },
+    {
+      "text": "Container",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "oZEQcwAzTjnXYXnH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.oZEQcwAzTjnXYXnH"
+    },
+    {
+      "text": "Creation",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "Umym8SW2ICeGyWjb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.Umym8SW2ICeGyWjb"
+    },
+    {
+      "text": "Creature",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "K43cOAb2TWRdcgiC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.K43cOAb2TWRdcgiC"
+    },
+    {
+      "text": "Crossing",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "oZf7TW3Bhz9kgsNm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.oZf7TW3Bhz9kgsNm"
+    },
+    {
+      "text": "Data",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "vW1VBTMvV2xT8p0w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.vW1VBTMvV2xT8p0w"
+    },
+    {
+      "text": "Debris",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "SJW3OotXkP71dIZq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.SJW3OotXkP71dIZq"
+    },
+    {
+      "text": "Device",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "vco9zml4uov5WjyN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.vco9zml4uov5WjyN"
+    },
+    {
+      "text": "Dimension",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "30pFWEoe02zDzkxQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.30pFWEoe02zDzkxQ"
+    },
+    {
+      "text": "Discovery",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "XlDdNPsfssqAO0aH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.XlDdNPsfssqAO0aH"
+    },
+    {
+      "text": "Ecosystem",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "u6XLSllA2YqtkJw3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.u6XLSllA2YqtkJw3"
+    },
+    {
+      "text": "Enclosure",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "7K8TkWaowXN3Wp8O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.7K8TkWaowXN3Wp8O"
+    },
+    {
+      "text": "Energy",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "Jdxeph2XZ1SujYYd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.Jdxeph2XZ1SujYYd"
+    },
+    {
+      "text": "Environment",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "bXrUnLryuXKVlL83",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.bXrUnLryuXKVlL83"
+    },
+    {
+      "text": "Equipment",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "uFFE6414stZszxq5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.uFFE6414stZszxq5"
+    },
+    {
+      "text": "Experiment",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "4W3s1VlOlIPdLpTx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.4W3s1VlOlIPdLpTx"
+    },
+    {
+      "text": "Facility",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "lsNPdMVQiaZq6Ub0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.lsNPdMVQiaZq6Ub0"
+    },
+    {
+      "text": "Faction",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "RdgS0qTcNTa0CgGd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.RdgS0qTcNTa0CgGd"
+    },
+    {
+      "text": "Fleet",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "zew93lwL4kpKpOl2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.zew93lwL4kpKpOl2"
+    },
+    {
+      "text": "Force",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "5WNLWdZtSkbTXsBL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.5WNLWdZtSkbTXsBL"
+    },
+    {
+      "text": "Fortification",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "U5tDKrHbYP3DkKmu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.U5tDKrHbYP3DkKmu"
+    },
+    {
+      "text": "Gas",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "NGikUCSCLewkjKbS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.NGikUCSCLewkjKbS"
+    },
+    {
+      "text": "Grave",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "vHXMQ2VbcbBJMI2J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.vHXMQ2VbcbBJMI2J"
+    },
+    {
+      "text": "Habitat",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "LvWngct9Xd9FMzsf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.LvWngct9Xd9FMzsf"
+    },
+    {
+      "text": "Hazard",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "KpuI6wQB66QVtE2f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.KpuI6wQB66QVtE2f"
+    },
+    {
+      "text": "Hideaway",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "Bjo0m4nTi3XyCBPg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.Bjo0m4nTi3XyCBPg"
+    },
+    {
+      "text": "Home",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "jq7lPALRxGAdveKr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.jq7lPALRxGAdveKr"
+    },
+    {
+      "text": "Illusion",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "AwB8xx941yrUpNy7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.AwB8xx941yrUpNy7"
+    },
+    {
+      "text": "Industry",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "IkW68tpXcsM9otQZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.IkW68tpXcsM9otQZ"
+    },
+    {
+      "text": "Intelligence",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "iIqLmJ5XcBJd8kAQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.iIqLmJ5XcBJd8kAQ"
+    },
+    {
+      "text": "Lair",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "phcJHpSw5UbuwTAE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.phcJHpSw5UbuwTAE"
+    },
+    {
+      "text": "Lifeform",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "U0YgYWzVEugjM6v7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.U0YgYWzVEugjM6v7"
+    },
+    {
+      "text": "Liquid",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "ALRP7pbl14JGKj9w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.ALRP7pbl14JGKj9w"
+    },
+    {
+      "text": "Machine",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "Iz0LwEom25LMIIBH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.Iz0LwEom25LMIIBH"
+    },
+    {
+      "text": "Material",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "QI6kYCxRON1eMtMT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.QI6kYCxRON1eMtMT"
+    },
+    {
+      "text": "Mechanism",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "kkfWiZd62CnkPGQ1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.kkfWiZd62CnkPGQ1"
+    },
+    {
+      "text": "Message",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "wDsW36JWghsvBIhn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.wDsW36JWghsvBIhn"
+    },
+    {
+      "text": "Mineral",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "DqqQnGoa1vzAfZsx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.DqqQnGoa1vzAfZsx"
+    },
+    {
+      "text": "Monument",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "erPqD2K1w2Q8pjKW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.erPqD2K1w2Q8pjKW"
+    },
+    {
+      "text": "Obstacle",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "2ZLzrOVAvr9cj5s0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.2ZLzrOVAvr9cj5s0"
+    },
+    {
+      "text": "Organism",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "5XLxfVLcevujA57T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.5XLxfVLcevujA57T"
+    },
+    {
+      "text": "Outbreak",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "zdosUZfnWRsrgEE9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.zdosUZfnWRsrgEE9"
+    },
+    {
+      "text": "Outpost",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "Ba1cA54SZt4cw0R3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.Ba1cA54SZt4cw0R3"
+    },
+    {
+      "text": "Path",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "uBERYaucvS2lb2Qx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.uBERYaucvS2lb2Qx"
+    },
+    {
+      "text": "People",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "jw507611a6bGH1Tt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.jw507611a6bGH1Tt"
+    },
+    {
+      "text": "Person",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "IyvvVF2o56RxAq1m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.IyvvVF2o56RxAq1m"
+    },
+    {
+      "text": "Plant",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "C6QjnoZWmYHUbEkw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.C6QjnoZWmYHUbEkw"
+    },
+    {
+      "text": "Portal",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "vK5oCtR3WG6hiINu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.vK5oCtR3WG6hiINu"
+    },
+    {
+      "text": "Reality",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "qAn2izYTNV7B1y8i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.qAn2izYTNV7B1y8i"
+    },
+    {
+      "text": "Refuge",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "cTqJ2W6ff3UbHUEM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.cTqJ2W6ff3UbHUEM"
+    },
+    {
+      "text": "Relic",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "b7lTrUEsLspoTLEM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.b7lTrUEsLspoTLEM"
+    },
+    {
+      "text": "Remains",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "PblNGhIMmiiT8mls",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.PblNGhIMmiiT8mls"
+    },
+    {
+      "text": "Rendezvous",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "f0S3rqElEqr6ynEg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.f0S3rqElEqr6ynEg"
+    },
+    {
+      "text": "Resource",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "qQWMQSF9LbR9OuYg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.qQWMQSF9LbR9OuYg"
+    },
+    {
+      "text": "Route",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "7FlhTQziTyJufK0o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.7FlhTQziTyJufK0o"
+    },
+    {
+      "text": "Ruins",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "JokdUTNpprCLNNxE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.JokdUTNpprCLNNxE"
+    },
+    {
+      "text": "Salvage",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "plIWaMcQMMVPXnj5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.plIWaMcQMMVPXnj5"
+    },
+    {
+      "text": "Settlement",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "vN9sE9i8h5yfB7KL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.vN9sE9i8h5yfB7KL"
+    },
+    {
+      "text": "Shelter",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "yiFQMZFqiWFjYYqn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.yiFQMZFqiWFjYYqn"
+    },
+    {
+      "text": "Ship",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "TNss4uVQcnRB6Iia",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.TNss4uVQcnRB6Iia"
+    },
+    {
+      "text": "Shortcut",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "wChiV4LI6uEWKfpG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.wChiV4LI6uEWKfpG"
+    },
+    {
+      "text": "Signal",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "0Mi7RX5vp5o86JPb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.0Mi7RX5vp5o86JPb"
+    },
+    {
+      "text": "Sound",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "K8tg282sCs51WfRK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.K8tg282sCs51WfRK"
+    },
+    {
+      "text": "Storage",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "7l3dTphgxLP0XMfb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.7l3dTphgxLP0XMfb"
+    },
+    {
+      "text": "Storm",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "nOofP4aibJ4SZIZJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.nOofP4aibJ4SZIZJ"
+    },
+    {
+      "text": "Structure",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "qlnLtPBHd2xLwzJ2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.qlnLtPBHd2xLwzJ2"
+    },
+    {
+      "text": "Supply",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "K7dFKQIxU6qjHQOW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.K7dFKQIxU6qjHQOW"
+    },
+    {
+      "text": "Symbol",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "AjbfnvCQB7TLnXsG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.AjbfnvCQB7TLnXsG"
+    },
+    {
+      "text": "System",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "waZGSHVcKvZaJ0Rk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.waZGSHVcKvZaJ0Rk"
+    },
+    {
+      "text": "Technology",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "AFoWvrpf4kjXPk3K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.AFoWvrpf4kjXPk3K"
+    },
+    {
+      "text": "Terrain",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "bpuufpfwSB6AiT0R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.bpuufpfwSB6AiT0R"
+    },
+    {
+      "text": "Territory",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "LltTVMpAdIbOThI5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.LltTVMpAdIbOThI5"
+    },
+    {
+      "text": "Threshold",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "4edJ1o03IGEm6e1x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.4edJ1o03IGEm6e1x"
+    },
+    {
+      "text": "Time",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "yAuxjwj7NyaiuCcv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.yAuxjwj7NyaiuCcv"
+    },
+    {
+      "text": "Transport",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "r3IjFf9dw1yuR0vR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.r3IjFf9dw1yuR0vR"
+    },
+    {
+      "text": "Trap",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "weXSoFeOFta7xrqL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.weXSoFeOFta7xrqL"
+    },
+    {
+      "text": "Treasure",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "vS4vyDtLLb0bMGyr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.vS4vyDtLLb0bMGyr"
+    },
+    {
+      "text": "Vault",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "xBHF4amX1oQxblj9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.xBHF4amX1oQxblj9"
+    },
+    {
+      "text": "Vehicle",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "xBga9jLWn8PwxmGL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.xBga9jLWn8PwxmGL"
+    },
+    {
+      "text": "Viewpoint",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "7z40kIn75CRFRYM2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.7z40kIn75CRFRYM2"
+    },
+    {
+      "text": "Void",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "DdzgXYJrcunrGotK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.DdzgXYJrcunrGotK"
+    },
+    {
+      "text": "Weapon",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "MUm556lBapbnRl6T",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.MUm556lBapbnRl6T"
+    },
+    {
+      "text": "World",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "5mX2blav6MTdWKGN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.5mX2blav6MTdWKGN"
+    },
+    {
+      "text": "Wreckage",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "xdv36nLK1tLq954Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!zQO6QiD9dBseAj2n.xdv36nLK1tLq954Y"
+    }
+  ],
+  "folder": "SW9eKiLhIBf4c0Km",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676265526,
+    "modifiedTime": 1693042380968,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "zQO6QiD9dBseAj2n",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!zQO6QiD9dBseAj2n"
+}

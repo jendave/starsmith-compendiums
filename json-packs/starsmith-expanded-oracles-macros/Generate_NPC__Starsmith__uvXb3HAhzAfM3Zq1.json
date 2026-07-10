@@ -1,0 +1,31 @@
+{
+  "name": "Generate NPC (Starsmith)",
+  "type": "script",
+  "author": "S0d41AhaDywX0Vut",
+  "img": "icons/svg/dice-target.svg",
+  "scope": "global",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nfunction randomArrayItem(array) {\n    const index = (Math.floor(Math.random() * array.length));\n    return array[index];\n}\n\nconst rollTablePrefix = \"Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.\";\nconst givenNameArray = [\"UnTcBB8gwFjNoT9O\", \"dXJhMhBt7J2FtCVh\", \"5acO6ocnsJerpEkI\"];\nconst familyNameArray = [\"6pv2fJdPmbl6HDGR\", \"v5XqY7qSbXRuBIDR\", \"lQR1PUQksmjUX2Fd\"];\nconst callsignArray = [\"0zs4jV8AgYw1GaVB\", \"iBgIwzZGGKTuCGpR\", \"vUTgxJRCAbApAZgi\"];\nconst firstLookArray = [\"guv5iEDeLijYuABa\", \"oTECxhDPRJJ3yUvh\", \"MsQ7rPo2gDyVIQEE\"];\nconst initialDispositionArray = [\"Lu30o0Mx9Arwipnw\", \"rdlIztz01R6NIJKy\", \"gaRwLNFfm30VzuRo\"];\nconst characterRoleArray = [\"O5x9KiSkoNAVXW6O\", \"VEL6LI4wBzI8eb7z\", \"437mrjVAePTQZGYv\"];\nconst characterGoalArray = [\"2xxntLbzYGLZ2cao\", \"oLDINu3MLyDgABhD\", \"aqapGyFUQ1Jj9uQl\"];\nconst characterAspectArray = [\"5JUVkMmXuH74WBUv\", \"JhY6HtE1X1xSAJW5\", \"cFmnWNEUaw8Lf3Qg\"];\n\nlet table = await fromUuid(rollTablePrefix + randomArrayItem(givenNameArray));\nlet roll = await table.roll();\nlet givenName = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(familyNameArray));\nroll = await table.roll();\nlet familyName = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(callsignArray));\nroll = await table.roll();\nlet callsign = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(firstLookArray));\nroll = await table.roll();\nlet firstLook1 = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(firstLookArray));\nroll = await table.roll();\nlet firstLook2 = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(initialDispositionArray));\nroll = await table.roll();\nlet initialDisposition = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(characterRoleArray));\nroll = await table.roll();\nlet characterRole = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(characterGoalArray));\nroll = await table.roll();\nlet characterGoal = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(characterAspectArray));\nroll = await table.roll();\nlet characterAspect1 = roll.results[0].text;\n\ntable = await fromUuid(rollTablePrefix + randomArrayItem(characterAspectArray));\nroll = await table.roll();\nlet characterAspect2 = roll.results[0].text;\n\nlet title = \"<h3><strong>Generate NPC (Starsmith)</strong></h3>\";\nlet message = \" Given Name: \" + givenName + \"<br> Family Name:  \" + familyName + \" <br> Callsign: \" + callsign + \" <br> First Look 1: \" + firstLook1 + \" <br> First Look 2: \" + firstLook2 + \" <br> Initial Disposition:  \" + initialDisposition + \" <br> Character Role:  \" + characterRole + \" <br> Character Goal:  \" + characterGoal + \" <br> Revealed Character Aspect 1: \" + characterAspect1 + \" <br> Revealed Character Aspect 2: \" + characterAspect2;\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1698972196234,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "uvXb3HAhzAfM3Zq1",
+  "sort": 1000000,
+  "_key": "!macros!uvXb3HAhzAfM3Zq1"
+}

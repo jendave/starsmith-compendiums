@@ -1,0 +1,207 @@
+{
+  "name": "Area",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Communal quarters",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "n7A0BAXSNJFJuGuY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.n7A0BAXSNJFJuGuY"
+    },
+    {
+      "text": "Cramped apartments",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "TDZDGlHNAJspr1tl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.TDZDGlHNAJspr1tl"
+    },
+    {
+      "text": "Family quarters",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "Qyq2C0nheQcfCreN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.Qyq2C0nheQcfCreN"
+    },
+    {
+      "text": "Laundry",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "vbGu6tlln4Rdsykt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.vbGu6tlln4Rdsykt"
+    },
+    {
+      "text": "Locker room or storage",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "fX7Py2Ok09jD44Mn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.fX7Py2Ok09jD44Mn"
+    },
+    {
+      "text": "Luxury homes",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "6DGpa3ucuFJ1jbau",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.6DGpa3ucuFJ1jbau"
+    },
+    {
+      "text": "Mess hall or dining",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "PUkxPn48yITbX9bh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.PUkxPn48yITbX9bh"
+    },
+    {
+      "text": "Public restroom or showers",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "uo6uA77GwfZzaZGG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.uo6uA77GwfZzaZGG"
+    },
+    {
+      "text": "Roomy residences",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "jbLa9mjB73QS6PTf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.jbLa9mjB73QS6PTf"
+    },
+    {
+      "text": "Tent city",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "HH1FCv6Cq19PziYL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.HH1FCv6Cq19PziYL"
+    },
+    {
+      "text": "Waste disposal",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "9iNhsXiD4MF8KwY1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.9iNhsXiD4MF8KwY1"
+    },
+    {
+      "text": "New zone via Access",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "FME7HpZtb1C65VD7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!n7A455CGVfpjJmJi.FME7HpZtb1C65VD7"
+    }
+  ],
+  "folder": "nnXmNsTGKj2qsDbm",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658098,
+    "modifiedTime": 1693870764880,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "n7A455CGVfpjJmJi",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!n7A455CGVfpjJmJi"
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Location (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Planetside",
+      "range": [
+        1,
+        40
+      ],
+      "_id": "RxDq2Fu3hiieG0f8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tKaPKKmKhxcgYflc.RxDq2Fu3hiieG0f8"
+    },
+    {
+      "text": "Orbital",
+      "range": [
+        41,
+        75
+      ],
+      "_id": "Tnun5SOszPRTF8bx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tKaPKKmKhxcgYflc.Tnun5SOszPRTF8bx"
+    },
+    {
+      "text": "Deepspace",
+      "range": [
+        76,
+        100
+      ],
+      "_id": "HQe0X2NOf4ojEcxm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!tKaPKKmKhxcgYflc.HQe0X2NOf4ojEcxm"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424320,
+    "modifiedTime": 1693072325534,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "tKaPKKmKhxcgYflc",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!tKaPKKmKhxcgYflc"
+}

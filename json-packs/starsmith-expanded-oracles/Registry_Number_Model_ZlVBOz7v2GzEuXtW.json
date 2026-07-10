@@ -1,0 +1,111 @@
+{
+  "name": "Registry Number Model",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "A",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "o4qDGwps4D2uhQ3g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZlVBOz7v2GzEuXtW.o4qDGwps4D2uhQ3g"
+    },
+    {
+      "text": "B",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "JxWURwDzfTmA2jZZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZlVBOz7v2GzEuXtW.JxWURwDzfTmA2jZZ"
+    },
+    {
+      "text": "C",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "pUec6pvs60CYJP5c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZlVBOz7v2GzEuXtW.pUec6pvs60CYJP5c"
+    },
+    {
+      "text": "D",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "CAPbB0uxRDOLXM3q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZlVBOz7v2GzEuXtW.CAPbB0uxRDOLXM3q"
+    },
+    {
+      "text": "E",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "sqK9wldy3egHApms",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZlVBOz7v2GzEuXtW.sqK9wldy3egHApms"
+    },
+    {
+      "text": "J",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "Jveh6rizmcxnrotj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!ZlVBOz7v2GzEuXtW.Jveh6rizmcxnrotj"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461172,
+    "modifiedTime": 1693073463972,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "ZlVBOz7v2GzEuXtW",
+  "sort": 25000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!ZlVBOz7v2GzEuXtW"
+}

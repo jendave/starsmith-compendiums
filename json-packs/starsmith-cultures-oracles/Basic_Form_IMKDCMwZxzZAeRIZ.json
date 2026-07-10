@@ -1,0 +1,182 @@
+{
+  "name": "Basic Form",
+  "formula": "1d10",
+  "results": [
+    {
+      "text": "",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "tNZjJcgjg1dSMD2G",
+      "type": 2,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": null,
+      "documentCollection": "foundry-ironsworn.foeactorsis",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.tNZjJcgjg1dSMD2G"
+    },
+    {
+      "text": "Avian",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "5dinVvMoLHjniiRY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.5dinVvMoLHjniiRY"
+    },
+    {
+      "text": "Beast, mammal",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "z4HebFLqSV2BK7Qo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.z4HebFLqSV2BK7Qo"
+    },
+    {
+      "text": "Beast, reptile",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "ySKA0IEsWLItusBN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.ySKA0IEsWLItusBN"
+    },
+    {
+      "text": "Elemental energy or matter",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "hdoefIs2Qp8ZCXu2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.hdoefIs2Qp8ZCXu2"
+    },
+    {
+      "text": "Gelatinous or amorphous",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "TajvWtgLjumlunQa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.TajvWtgLjumlunQa"
+    },
+    {
+      "text": "Insect or arachnid",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "Tjyg1KslrxKNhGK9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.Tjyg1KslrxKNhGK9"
+    },
+    {
+      "text": "Mechanical or humanoid",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "VngpJFxBFoc1b537",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.VngpJFxBFoc1b537"
+    },
+    {
+      "text": "Necrotic or parasitic",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "wh3lP5l0quCGdUGf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.wh3lP5l0quCGdUGf"
+    },
+    {
+      "text": "Plant or Fungus",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "Cml8aIc0GEU14Icy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!IMKDCMwZxzZAeRIZ.Cml8aIc0GEU14Icy"
+    }
+  ],
+  "_id": "IMKDCMwZxzZAeRIZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>What known lifeform do they most resemble?</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": "ZJtzfl5HMGu1auqL",
+  "sort": 100009,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {
+      "sourceId": "RollTable.IMKDCMwZxzZAeRIZ"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144753548,
+    "modifiedTime": 1708148087791,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!IMKDCMwZxzZAeRIZ"
+}

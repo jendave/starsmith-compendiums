@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Debris field falling on larger planetary  fragments",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "S0XLDW7JrIvBl6Hj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.S0XLDW7JrIvBl6Hj"
+    },
+    {
+      "text": "Exposed and rapidly cooling core",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "nb1KCqh1m2BOnaET",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.nb1KCqh1m2BOnaET"
+    },
+    {
+      "text": "Inoperative planetary defense system",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "B8t04Jc1XTfY2Cum",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.B8t04Jc1XTfY2Cum"
+    },
+    {
+      "text": "Moon in decaying orbit",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "96hN6GiaRZkEWSnk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.96hN6GiaRZkEWSnk"
+    },
+    {
+      "text": "Pulverized planetary fragments",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "CslUHfv3jexUbCFO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.CslUHfv3jexUbCFO"
+    },
+    {
+      "text": "Radiation leaking from the core",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "LJd5X13n7dgzBzs1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.LJd5X13n7dgzBzs1"
+    },
+    {
+      "text": "Scattered ring system swirling wildly",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "mBFdz4EkmMIPSgK9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.mBFdz4EkmMIPSgK9"
+    },
+    {
+      "text": "Storms of meteorites",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "R1aaLlfFUZiJKuVW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.R1aaLlfFUZiJKuVW"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "kRqpQZkqxkvBbml3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.kRqpQZkqxkvBbml3"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "MMNJ1EV4JLDAh0qv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!fJV0agGCQh7hfzW8.MMNJ1EV4JLDAh0qv"
+    }
+  ],
+  "folder": "v5cvqSu1q6CUcfPg",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676402026,
+    "modifiedTime": 1699054156371,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "fJV0agGCQh7hfzW8",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!fJV0agGCQh7hfzW8"
+}

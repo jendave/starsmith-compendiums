@@ -1,0 +1,54 @@
+{
+  "type": "asset",
+  "folder": "2aCuqfE0tm3YDPWk",
+  "name": "Puppet Protocol",
+  "system": {
+    "requirement": "",
+    "category": "Mech Module",
+    "color": "#883529",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your mech has aggressive viral coding allowing you to attempt controlling another mech. When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.a2d7793b23c17489]{Secure an Advantage} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by controlling another mech, add +1. On a strong hit, you may @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} +wits (one time) by directing the enemy mech to attack on your behalf.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/puppet.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110958314,
+    "modifiedTime": 1764281907117,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2EVFuam0WgjcpgcZ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!2EVFuam0WgjcpgcZ"
+}

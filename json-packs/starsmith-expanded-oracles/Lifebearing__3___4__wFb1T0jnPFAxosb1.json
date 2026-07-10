@@ -1,0 +1,537 @@
+{
+  "name": "Lifebearing (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Injured lifeform draws near",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "bzwFHElOYbe4QdP5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.bzwFHElOYbe4QdP5"
+    },
+    {
+      "text": "Lifeform hiding from predator",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "he0IsccHhjaHLmwB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.he0IsccHhjaHLmwB"
+    },
+    {
+      "text": "Lifeform nursery",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "1MndQqUoQdfrBfYN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.1MndQqUoQdfrBfYN"
+    },
+    {
+      "text": "Lifeforms grazing placidly in a herd",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "4JQrOOfuJGXIO9ub",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.4JQrOOfuJGXIO9ub"
+    },
+    {
+      "text": "Lifeforms migrating",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "mUj3I0mUPTLg8wbC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.mUj3I0mUPTLg8wbC"
+    },
+    {
+      "text": "Rampaging or rabid lifeform",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "Ixh5C9kOcaiwMYWO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.Ixh5C9kOcaiwMYWO"
+    },
+    {
+      "text": "Rapidly growing plant life",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "kUTHJCQ7nYjOZLnx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.kUTHJCQ7nYjOZLnx"
+    },
+    {
+      "text": "Signs of a lifeform's collective mind",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "bO3gCgFbZEOQydaA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.bO3gCgFbZEOQydaA"
+    },
+    {
+      "text": "Evidence of life recently deceased is revealed",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "upfWYUqbByyLDkRE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.upfWYUqbByyLDkRE"
+    },
+    {
+      "text": "Avalanche or landslide",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "UXbgJIKaT7afs12B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.UXbgJIKaT7afs12B"
+    },
+    {
+      "text": "Disturbing implements of death",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "IqM1vvhpOgFqDNxW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.IqM1vvhpOgFqDNxW"
+    },
+    {
+      "text": "Enemy recently abandoned this area",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "ydpGK80FsXF1l70I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.ydpGK80FsXF1l70I"
+    },
+    {
+      "text": "Enemy scouting the area",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "giAhWsvKtpgFAedf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.giAhWsvKtpgFAedf"
+    },
+    {
+      "text": "Environment of extreme decay",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "S2egbOdQ1WjfqAzM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.S2egbOdQ1WjfqAzM"
+    },
+    {
+      "text": "Equipment breaks beyond repair",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "pZLTOikPoc6K9r8q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.pZLTOikPoc6K9r8q"
+    },
+    {
+      "text": "Evidence a threat is further advanced than expected",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "J2XrwnJGvmbtnOJS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.J2XrwnJGvmbtnOJS"
+    },
+    {
+      "text": "Ground gives way to a sinkhole",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "tM21jb8ir14SzHsZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.tM21jb8ir14SzHsZ"
+    },
+    {
+      "text": "Hallucinogenic environment",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "Lh35Lv58ST7g1WDa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.Lh35Lv58ST7g1WDa"
+    },
+    {
+      "text": "Hazard requiring feats of iron",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "TWDBIIv0Si2pmB1h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.TWDBIIv0Si2pmB1h"
+    },
+    {
+      "text": "Lost resources",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "pwzPFOMIzll8t1Dv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.pwzPFOMIzll8t1Dv"
+    },
+    {
+      "text": "One false move will trigger the trap",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "2eaGdx6tGyPR5OlO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.2eaGdx6tGyPR5OlO"
+    },
+    {
+      "text": "Out of place rune-covered pillar of iron",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "I0Me84jYU8Jvbh1m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.I0Me84jYU8Jvbh1m"
+    },
+    {
+      "text": "Pulverizing hail falls from the sky",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "6CPERPCv2Gie9tUU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.6CPERPCv2Gie9tUU"
+    },
+    {
+      "text": "Shortcut with great risks",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "Ch2V4BKd1ZNR3K2w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.Ch2V4BKd1ZNR3K2w"
+    },
+    {
+      "text": "Significant artifact or object has broken",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "r0v6nE0Fq0CRGYl9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.r0v6nE0Fq0CRGYl9"
+    },
+    {
+      "text": "Signs of a foe swiftly gaining ground",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "DSs9U7n8YynnSSWM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.DSs9U7n8YynnSSWM"
+    },
+    {
+      "text": "Sound waves reflect oddly here",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "nynKj8dklA3vKLJI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.nynKj8dklA3vKLJI"
+    },
+    {
+      "text": "Subtle environment changes noticed too late",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "ir5qjW3kyGYBk74a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.ir5qjW3kyGYBk74a"
+    },
+    {
+      "text": "Suffocating environment",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "npftv4c3JMnRZsy0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.npftv4c3JMnRZsy0"
+    },
+    {
+      "text": "Time-consuming path",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "H7qfgmFzLiNeWRmr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.H7qfgmFzLiNeWRmr"
+    },
+    {
+      "text": "Trapped with no apparent way out",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "qcNfPvbM6UR3BZUh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.qcNfPvbM6UR3BZUh"
+    },
+    {
+      "text": "Worrying arrival of a person",
+      "range": [
+        94,
+        96
+      ],
+      "_id": "MVJM66kyyabd2TPH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.MVJM66kyyabd2TPH"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        97,
+        99
+      ],
+      "_id": "LNucGrvOXxbL9my0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.LNucGrvOXxbL9my0"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "VHNy9wxmk1rL4WaI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!wFb1T0jnPFAxosb1.VHNy9wxmk1rL4WaI"
+    }
+  ],
+  "folder": "pRHK9NiXjihlEnF1",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a trouble during planetside exploration or a planetside expedition.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676402153,
+    "modifiedTime": 1699053879781,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "wFb1T0jnPFAxosb1",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wFb1T0jnPFAxosb1"
+}

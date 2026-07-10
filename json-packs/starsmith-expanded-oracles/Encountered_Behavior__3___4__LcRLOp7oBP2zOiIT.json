@@ -1,0 +1,342 @@
+{
+  "name": "Encountered Behavior (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alarm giver",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "kDuy8L1wbqpSRTEU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.kDuy8L1wbqpSRTEU"
+    },
+    {
+      "text": "Bobber / weaver",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "lENCdnGLkBVCWrGa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.lENCdnGLkBVCWrGa"
+    },
+    {
+      "text": "Cannibalizer",
+      "range": [
+        11,
+        14
+      ],
+      "_id": "n4aPeyjprSuSGDoD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.n4aPeyjprSuSGDoD"
+    },
+    {
+      "text": "Carnivore",
+      "range": [
+        15,
+        19
+      ],
+      "_id": "wZH4pfaiEQ4UThHG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.wZH4pfaiEQ4UThHG"
+    },
+    {
+      "text": "Climber",
+      "range": [
+        20,
+        24
+      ],
+      "_id": "F1UNdD5dnCfXQjCN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.F1UNdD5dnCfXQjCN"
+    },
+    {
+      "text": "Distracter",
+      "range": [
+        25,
+        29
+      ],
+      "_id": "8P5506dX0qc1tt0X",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.8P5506dX0qc1tt0X"
+    },
+    {
+      "text": "Fainter",
+      "range": [
+        30,
+        33
+      ],
+      "_id": "KHIgVG3kxkRzuYSF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.KHIgVG3kxkRzuYSF"
+    },
+    {
+      "text": "Geophagia (soil eater)",
+      "range": [
+        34,
+        37
+      ],
+      "_id": "gsuzycKqP5Hnd1aS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.gsuzycKqP5Hnd1aS"
+    },
+    {
+      "text": "Habituation (ignores humans)",
+      "range": [
+        38,
+        41
+      ],
+      "_id": "A8OLzdKImhiiOSiv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.A8OLzdKImhiiOSiv"
+    },
+    {
+      "text": "Hider",
+      "range": [
+        42,
+        46
+      ],
+      "_id": "IIRtX7aVTiGh7Mr7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.IIRtX7aVTiGh7Mr7"
+    },
+    {
+      "text": "Jumper",
+      "range": [
+        47,
+        51
+      ],
+      "_id": "6uSuIUmwuu7xyWo3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.6uSuIUmwuu7xyWo3"
+    },
+    {
+      "text": "Look out",
+      "range": [
+        52,
+        55
+      ],
+      "_id": "qw3rfd3SpkOOQJre",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.qw3rfd3SpkOOQJre"
+    },
+    {
+      "text": "Mentor",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "oTRq7WpzaufAuqYQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.oTRq7WpzaufAuqYQ"
+    },
+    {
+      "text": "Omnivore",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "EzQKbVrI5H7hFusd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.EzQKbVrI5H7hFusd"
+    },
+    {
+      "text": "Pacer",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "n60fhVIj7CVWP12x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.n60fhVIj7CVWP12x"
+    },
+    {
+      "text": "Playing with peers",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "dNEyM60HAQBML4BJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.dNEyM60HAQBML4BJ"
+    },
+    {
+      "text": "Posturer",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "t090DKM4bmNefDEX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.t090DKM4bmNefDEX"
+    },
+    {
+      "text": "Shelter seeker",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "BMPqsp1t1qkO67v0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.BMPqsp1t1qkO67v0"
+    },
+    {
+      "text": "Stalker",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "OpqR7x0iKJF5YJvz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.OpqR7x0iKJF5YJvz"
+    },
+    {
+      "text": "Stone chewer",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "y2CHwxOxSIWRJHhn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.y2CHwxOxSIWRJHhn"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "4GyZUSVbEYSvms8M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!LcRLOp7oBP2zOiIT.4GyZUSVbEYSvms8M"
+    }
+  ],
+  "folder": "RSG7ksc1DxCTpccr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll once on the Encountered Behavior table to define this creature’s motivation and frame how the encounter begins.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676547750,
+    "modifiedTime": 1693042428122,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "LcRLOp7oBP2zOiIT",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!LcRLOp7oBP2zOiIT"
+}

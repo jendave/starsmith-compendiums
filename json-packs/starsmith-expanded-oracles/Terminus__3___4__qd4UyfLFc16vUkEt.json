@@ -1,0 +1,507 @@
+{
+  "name": "Terminus (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Enforce martial law",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "Qu6ZipJ5Xn6GEig5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.Qu6ZipJ5Xn6GEig5"
+    },
+    {
+      "text": "Reinforce supply lines",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "Y3GOIo1plcNmL5J3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.Y3GOIo1plcNmL5J3"
+    },
+    {
+      "text": "Destroy a resource",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "LRo1lD116p4xdp2I",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.LRo1lD116p4xdp2I"
+    },
+    {
+      "text": "Follow orders",
+      "range": [
+        10,
+        11
+      ],
+      "_id": "dKA3ElVfQf1gdVvj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.dKA3ElVfQf1gdVvj"
+    },
+    {
+      "text": "Disrupt diplomatic relations",
+      "range": [
+        12,
+        14
+      ],
+      "_id": "nRhvKFb3rwQmnbRb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.nRhvKFb3rwQmnbRb"
+    },
+    {
+      "text": "Infiltrate territory",
+      "range": [
+        15,
+        17
+      ],
+      "_id": "BpIT0zXMFfRbaSJS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.BpIT0zXMFfRbaSJS"
+    },
+    {
+      "text": "Negotiate a treaty",
+      "range": [
+        18,
+        20
+      ],
+      "_id": "qNXTILwQGFs24l3j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.qNXTILwQGFs24l3j"
+    },
+    {
+      "text": "Conduct questionable experiments",
+      "range": [
+        21,
+        23
+      ],
+      "_id": "i9ENyBm0A71o1gDP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.i9ENyBm0A71o1gDP"
+    },
+    {
+      "text": "Prepare for impending disaster",
+      "range": [
+        24,
+        26
+      ],
+      "_id": "nxs36cnPFUEnRUun",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.nxs36cnPFUEnRUun"
+    },
+    {
+      "text": "Confiscate data",
+      "range": [
+        27,
+        29
+      ],
+      "_id": "11ulsz84h8cf7o9H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.11ulsz84h8cf7o9H"
+    },
+    {
+      "text": "Establish a passage",
+      "range": [
+        30,
+        32
+      ],
+      "_id": "ehF1wnUDVGrn4Cde",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.ehF1wnUDVGrn4Cde"
+    },
+    {
+      "text": "Rebuild location",
+      "range": [
+        33,
+        35
+      ],
+      "_id": "CyTbxxkOv9gYYKCe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.CyTbxxkOv9gYYKCe"
+    },
+    {
+      "text": "Investigate space lifeforms",
+      "range": [
+        36,
+        37
+      ],
+      "_id": "91wfbVUDMssXNGPj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.91wfbVUDMssXNGPj"
+    },
+    {
+      "text": "Apprehend criminals",
+      "range": [
+        38,
+        39
+      ],
+      "_id": "Lm4Iucr1bcmP6Ly8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.Lm4Iucr1bcmP6Ly8"
+    },
+    {
+      "text": "Uncover hidden location",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "YOrWUh5i73j8e5Q8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.YOrWUh5i73j8e5Q8"
+    },
+    {
+      "text": "Search and destroy",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "XV1RaeZYgjkpnp80",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.XV1RaeZYgjkpnp80"
+    },
+    {
+      "text": "Protect location",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "ejgALHRH5UI0CgJO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.ejgALHRH5UI0CgJO"
+    },
+    {
+      "text": "Provide supplies",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "yfyDPNNJHzLwa6Ay",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.yfyDPNNJHzLwa6Ay"
+    },
+    {
+      "text": "Perform satellite/probe maintenance",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "1mdOt7XYFoEeQDQe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.1mdOt7XYFoEeQDQe"
+    },
+    {
+      "text": "Protect valuable witness",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "j1jmrRSdXQRAHqDj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.j1jmrRSdXQRAHqDj"
+    },
+    {
+      "text": "Assess quarantined zone danger",
+      "range": [
+        58,
+        59
+      ],
+      "_id": "kEhMqw6j7nyo1lxK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.kEhMqw6j7nyo1lxK"
+    },
+    {
+      "text": "Extort a settlement",
+      "range": [
+        60,
+        62
+      ],
+      "_id": "FNOUdcD5j3dsk4uQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.FNOUdcD5j3dsk4uQ"
+    },
+    {
+      "text": "Pickup sensitive cargo",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "ZA0Y8QLoZ1c7LMda",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.ZA0Y8QLoZ1c7LMda"
+    },
+    {
+      "text": "Scrub evidence",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "8rYcYvJAAn05zFVU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.8rYcYvJAAn05zFVU"
+    },
+    {
+      "text": "Take hostage",
+      "range": [
+        69,
+        71
+      ],
+      "_id": "WlF2ysO82oN45v41",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.WlF2ysO82oN45v41"
+    },
+    {
+      "text": "Establish new trade routes",
+      "range": [
+        72,
+        74
+      ],
+      "_id": "B9aUZHuOsnP8wC93",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.B9aUZHuOsnP8wC93"
+    },
+    {
+      "text": "Map a sector",
+      "range": [
+        75,
+        77
+      ],
+      "_id": "C27m95LVHZnH6HWV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.C27m95LVHZnH6HWV"
+    },
+    {
+      "text": "Test a weapon",
+      "range": [
+        78,
+        79
+      ],
+      "_id": "rl8FFSkk1qbjreyK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.rl8FFSkk1qbjreyK"
+    },
+    {
+      "text": "Transport vehicles",
+      "range": [
+        80,
+        82
+      ],
+      "_id": "uwCgwwJvMiUxbbDA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.uwCgwwJvMiUxbbDA"
+    },
+    {
+      "text": "Transport leaders in secret",
+      "range": [
+        83,
+        85
+      ],
+      "_id": "8wb9jgkVSoaLNnQl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.8wb9jgkVSoaLNnQl"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "L2vRceAIFkdcaYgf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.L2vRceAIFkdcaYgf"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "777NbmvOWDqQT86E",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!qd4UyfLFc16vUkEt.777NbmvOWDqQT86E"
+    }
+  ],
+  "folder": "bo8ruejwx9kV7n4Q",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet which has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676461262,
+    "modifiedTime": 1699041769354,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "qd4UyfLFc16vUkEt",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!qd4UyfLFc16vUkEt"
+}

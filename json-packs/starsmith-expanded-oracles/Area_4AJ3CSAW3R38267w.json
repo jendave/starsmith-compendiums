@@ -1,0 +1,207 @@
+{
+  "name": "Area",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Administrative offices",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "6fXq7ncflSWqL050",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.6fXq7ncflSWqL050"
+    },
+    {
+      "text": "Armory",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "SuKYFWINnY3JjB05",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.SuKYFWINnY3JjB05"
+    },
+    {
+      "text": "Central computer core",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "ycn6gKSd2e9wjiPK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.ycn6gKSd2e9wjiPK"
+    },
+    {
+      "text": "Comms center",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "wyCezecSMR4ONyY2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.wyCezecSMR4ONyY2"
+    },
+    {
+      "text": "Environmental control",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "Dbq2voGo2oizgmdG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.Dbq2voGo2oizgmdG"
+    },
+    {
+      "text": "Food distribution",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "ejoI7kveXfT7fDVj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.ejoI7kveXfT7fDVj"
+    },
+    {
+      "text": "Governmental seat",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "njfSpfrVP04Q8Uyf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.njfSpfrVP04Q8Uyf"
+    },
+    {
+      "text": "Landing bay or hangar",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "yc6q6CingRPREePX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.yc6q6CingRPREePX"
+    },
+    {
+      "text": "Mass transit hub",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "VIuluNEc9PuQAypT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.VIuluNEc9PuQAypT"
+    },
+    {
+      "text": "Prison complex",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "5CWSKPIATL9e1wLD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.5CWSKPIATL9e1wLD"
+    },
+    {
+      "text": "Security headquarters",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "Q4MaQVKTU1RVLrik",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.Q4MaQVKTU1RVLrik"
+    },
+    {
+      "text": "New zone via Access",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "LRuZkOGgnVmpEGn0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!4AJ3CSAW3R38267w.LRuZkOGgnVmpEGn0"
+    }
+  ],
+  "folder": "tqS3sJ4uJqhLhQVD",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658122,
+    "modifiedTime": 1693870822337,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "4AJ3CSAW3R38267w",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!4AJ3CSAW3R38267w"
+}

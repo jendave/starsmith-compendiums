@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ancient complex that used the heat as a power source",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "VUI3U5U0ABybvaHw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xdvA8s2XoL7eKI7O.VUI3U5U0ABybvaHw"
+    },
+    {
+      "text": "Chance to observe a scientific curiosity",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "bu4iq1S6P86X3Vmy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xdvA8s2XoL7eKI7O.bu4iq1S6P86X3Vmy"
+    },
+    {
+      "text": "Opening to circumvent the most dangerous zones",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "xP9m5TfvDslSMPVv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xdvA8s2XoL7eKI7O.xP9m5TfvDslSMPVv"
+    },
+    {
+      "text": "Opening to harness the energy here",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "AEhezjhXwWLnMSVB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xdvA8s2XoL7eKI7O.AEhezjhXwWLnMSVB"
+    },
+    {
+      "text": "Rare minerals naturally refined by the heat",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "IasQR97c62iugJQH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xdvA8s2XoL7eKI7O.IasQR97c62iugJQH"
+    }
+  ],
+  "folder": "btT240SEzccoORFJ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Flame and noxious gases fill this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676712134,
+    "modifiedTime": 1693777082674,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "xdvA8s2XoL7eKI7O",
+  "sort": -100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!xdvA8s2XoL7eKI7O"
+}

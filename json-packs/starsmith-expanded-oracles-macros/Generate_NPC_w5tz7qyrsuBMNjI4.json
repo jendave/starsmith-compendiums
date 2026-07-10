@@ -1,0 +1,31 @@
+{
+  "name": "Generate NPC",
+  "type": "script",
+  "scope": "global",
+  "author": "S0d41AhaDywX0Vut",
+  "img": "icons/svg/dice-target.svg",
+  "command": "// Macro by David Hudson under the MIT License.\n\nfunction printMessage(message) {\n    let chatData = { content: message};\n    ChatMessage.applyRollMode(chatData, game.settings.get(\"core\",\"rollMode\"));\n    ChatMessage.create(chatData, {})\n};\n\nlet table = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.2ac8af92c0509f72\");\nlet roll = await table.roll();\nlet givenName = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.f94e58504ac34af8\");\nroll = await table.roll();\nlet familyName = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.76cd6f5340a4978a\");\nroll = await table.roll();\nlet callsign = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.e422399eb54ed7b1\");\nroll = await table.roll();\nlet firstLook1 = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.e422399eb54ed7b1\");\nroll = await table.roll();\nlet firstLook2 = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.9ad07730b122052d\");\nroll = await table.roll();\nlet initialDisposition = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.fbb49cabf7e9596c\");\nroll = await table.roll();\nlet characterRole = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.a707e132902305f0\");\nroll = await table.roll();\nlet characterGoal = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.4c4b6c28ff08ad98\");\nroll = await table.roll();\nlet characterAspect1 = roll.results[0].text;\n\ntable = await fromUuid(\"Compendium.foundry-ironsworn.starforgedoracles.RollTable.4c4b6c28ff08ad98\");\nroll = await table.roll();\nlet characterAspect2 = roll.results[0].text;\n\nlet title = \"<h3><strong>Generate NPC</strong></h3>\";\nlet message = \" Given Name: \" + givenName + \"<br> Family Name:  \" + familyName + \" <br> Callsign: \" + callsign + \" <br> First Look 1: \" + firstLook1 + \" <br> First Look 2: \" + firstLook2 + \" <br> Initial Disposition:  \" + initialDisposition + \" <br> Character Role:  \" + characterRole + \" <br> Character Goal:  \" + characterGoal + \" <br> Revealed Character Aspect 1: \" + characterAspect1 + \" <br> Revealed Character Aspect 2: \" + characterAspect2;\n\n// Print the message\nprintMessage(title + message);",
+  "folder": null,
+  "ownership": {
+    "default": 0,
+    "mrx6ioSDzeIA0D08": 3,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.13",
+    "coreVersion": "13.351",
+    "createdTime": 1696953682401,
+    "modifiedTime": 1763446214971,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "w5tz7qyrsuBMNjI4",
+  "sort": 900000,
+  "_key": "!macros!w5tz7qyrsuBMNjI4"
+}

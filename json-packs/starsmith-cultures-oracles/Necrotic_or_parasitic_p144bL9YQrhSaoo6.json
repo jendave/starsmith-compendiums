@@ -1,0 +1,111 @@
+{
+  "name": "Necrotic or parasitic",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Animated corpse",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "xKkPXE64jftxFdI1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!p144bL9YQrhSaoo6.xKkPXE64jftxFdI1"
+    },
+    {
+      "text": "Infected host",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "s5x2fRVZp1t3hC1C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!p144bL9YQrhSaoo6.s5x2fRVZp1t3hC1C"
+    },
+    {
+      "text": "Organic amalgamation",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "181otrr82G9DNCep",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!p144bL9YQrhSaoo6.181otrr82G9DNCep"
+    },
+    {
+      "text": "Spirit",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "oDB2Mcjp5iiqug8v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!p144bL9YQrhSaoo6.oDB2Mcjp5iiqug8v"
+    },
+    {
+      "text": "Symbiont",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "LaqX8TFP4h7avxca",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!p144bL9YQrhSaoo6.LaqX8TFP4h7avxca"
+    },
+    {
+      "text": "Undead",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "ARpqcAaqhfEXUdjw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!p144bL9YQrhSaoo6.ARpqcAaqhfEXUdjw"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 8,
+  "_id": "p144bL9YQrhSaoo6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773816,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!p144bL9YQrhSaoo6"
+}

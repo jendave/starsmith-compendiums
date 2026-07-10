@@ -1,0 +1,16 @@
+#! /bin/bash
+# Extract each ClassicLevel (LevelDB) pack under dist/packs/ back into JSON
+# source under json-packs/. Run this after editing compendium contents in the
+# Foundry client to bring those changes back into version control.
+#
+# Requires a prior build so that dist/packs/ exists (npm run build).
+
+set -eu
+
+for src in dist/packs/*/; do
+	pack=${src%*/}  # remove the trailing "/"
+	pack=${pack##*/} # get everything after the final "/"
+	(
+		npx fvtt package --id starsmith-expanded-oracles --type Module unpack "${pack}" -c --json --in "dist/packs" --out "json-packs/${pack}"
+	)
+done

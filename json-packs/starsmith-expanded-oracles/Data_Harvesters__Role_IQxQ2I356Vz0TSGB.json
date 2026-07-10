@@ -1,0 +1,209 @@
+{
+  "name": "Data Harvesters: Role",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Archivists",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "FxKanTBd6nGPc9b4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.FxKanTBd6nGPc9b4"
+    },
+    {
+      "text": "Brokers",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "21lkLEvdsQlLNouC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.21lkLEvdsQlLNouC"
+    },
+    {
+      "text": "DNA mappers",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "hIrUQvLWtiJyet5e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.hIrUQvLWtiJyet5e"
+    },
+    {
+      "text": "Encryption specialists",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "XOvvhQRuu81jzEOA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.XOvvhQRuu81jzEOA"
+    },
+    {
+      "text": "Free informationists",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "w0J60RONEMA7Iv04",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.w0J60RONEMA7Iv04"
+    },
+    {
+      "text": "Political/military strategists",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "kMaaR0ODdBQAHV9n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.kMaaR0ODdBQAHV9n"
+    },
+    {
+      "text": "Precursor fanatics",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "KYHaSJNGfqQ1RNGz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.KYHaSJNGfqQ1RNGz"
+    },
+    {
+      "text": "Seed bankers",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "gRMGoDHawNga8t9u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.gRMGoDHawNga8t9u"
+    },
+    {
+      "text": "Stellar activity documentors",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "lXyBTYnFH5KAicL8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.lXyBTYnFH5KAicL8"
+    },
+    {
+      "text": "Storage specialists",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "ZNLO1wIVjis10gcM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.ZNLO1wIVjis10gcM"
+    },
+    {
+      "text": "Surveillance  experts",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "tZ4dG39BB08SLmLi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.tZ4dG39BB08SLmLi"
+    },
+    {
+      "text": "Transmission experts",
+      "range": [
+        89,
+        96
+      ],
+      "_id": "TUCTEhmYEk8xn88c",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.TUCTEhmYEk8xn88c"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "u6k4vHUlSNV0TLpd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.u6k4vHUlSNV0TLpd"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597222,
+    "modifiedTime": 1693070265966,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "IQxQ2I356Vz0TSGB",
+  "sort": 199927,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!IQxQ2I356Vz0TSGB"
+}

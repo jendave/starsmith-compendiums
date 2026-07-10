@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Available goods or resources",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "E1aQKktffWniVmXD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZNrrr54PJP2qLSjJ.E1aQKktffWniVmXD"
+    },
+    {
+      "text": "Fortuitous gossip",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "iLYSjH77zxJt36GB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZNrrr54PJP2qLSjJ.iLYSjH77zxJt36GB"
+    },
+    {
+      "text": "Terminal with access to site details",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "3AaA72iBY3FdqPrY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZNrrr54PJP2qLSjJ.3AaA72iBY3FdqPrY"
+    },
+    {
+      "text": "The right person for the job",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "BmBdvjnyUkmKcKUu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZNrrr54PJP2qLSjJ.BmBdvjnyUkmKcKUu"
+    },
+    {
+      "text": "Welcoming community offers a moment of peace",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "ToWhOdHaoOmcaPoe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZNrrr54PJP2qLSjJ.ToWhOdHaoOmcaPoe"
+    }
+  ],
+  "folder": "0KOsVPtcqTvj6Tbz",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658084,
+    "modifiedTime": 1693870709306,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "ZNrrr54PJP2qLSjJ",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!ZNrrr54PJP2qLSjJ"
+}

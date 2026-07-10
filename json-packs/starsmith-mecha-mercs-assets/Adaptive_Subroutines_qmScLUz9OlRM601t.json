@@ -1,0 +1,54 @@
+{
+  "type": "asset",
+  "folder": "2aCuqfE0tm3YDPWk",
+  "name": "Adaptive Subroutines",
+  "system": {
+    "requirement": "",
+    "category": "Mech Module",
+    "color": "#883529",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>When you make a move to hack or disrupt a specific foe, threat, or secure system and miss, set aside a d6 set to a value of 1 known as an invasion die. Until the end of the scene, when you make a move to hack or disrupt the same target, add +invasion die. On a miss, increase the value of your invasion die by 1. On a hit, remove the invasion die.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/computing.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110913554,
+    "modifiedTime": 1764280864669,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "qmScLUz9OlRM601t",
+  "sort": 1600000,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!qmScLUz9OlRM601t"
+}

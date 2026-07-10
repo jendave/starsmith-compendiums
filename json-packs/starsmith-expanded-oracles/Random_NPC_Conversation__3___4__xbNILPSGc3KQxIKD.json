@@ -1,0 +1,327 @@
+{
+  "name": "Random NPC Conversation (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Acquisition of knowledge",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "To89WdlUqb05CrAe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.To89WdlUqb05CrAe"
+    },
+    {
+      "text": "Current events",
+      "range": [
+        6,
+        10
+      ],
+      "_id": "qme4BJvwUkcAFrlL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.qme4BJvwUkcAFrlL"
+    },
+    {
+      "text": "Current leadership",
+      "range": [
+        11,
+        15
+      ],
+      "_id": "8MuE1JFKcK0Yp8yC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.8MuE1JFKcK0Yp8yC"
+    },
+    {
+      "text": "Failures of a PC",
+      "range": [
+        16,
+        20
+      ],
+      "_id": "n8PXi9e2rqPQif7D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.n8PXi9e2rqPQif7D"
+    },
+    {
+      "text": "Failures of an NPC",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "uUNuLTxxdpmfxOQN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.uUNuLTxxdpmfxOQN"
+    },
+    {
+      "text": "Future of the community",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "Mu52bydQltPRiTI8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.Mu52bydQltPRiTI8"
+    },
+    {
+      "text": "General knowledge of a region",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "lG6ca3NqgCpUVjfQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.lG6ca3NqgCpUVjfQ"
+    },
+    {
+      "text": "Heritage of the community",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "o35fWLeMicYatcaN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.o35fWLeMicYatcaN"
+    },
+    {
+      "text": "Important political connections",
+      "range": [
+        41,
+        45
+      ],
+      "_id": "T1kXZNWb4ftwohd5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.T1kXZNWb4ftwohd5"
+    },
+    {
+      "text": "Important social connections",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "LAWsx8l5HzUcQlXp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.LAWsx8l5HzUcQlXp"
+    },
+    {
+      "text": "Most valuable experiences",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "cyr2EPVpuaOeuni0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.cyr2EPVpuaOeuni0"
+    },
+    {
+      "text": "New life",
+      "range": [
+        56,
+        60
+      ],
+      "_id": "qFvql2L5oakZwRHS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.qFvql2L5oakZwRHS"
+    },
+    {
+      "text": "Personal injury",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "YUtyM02zzzcUyD6o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.YUtyM02zzzcUyD6o"
+    },
+    {
+      "text": "Recent political changes",
+      "range": [
+        66,
+        70
+      ],
+      "_id": "GemVWNAX6LRw0c9q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.GemVWNAX6LRw0c9q"
+    },
+    {
+      "text": "Rumors of a PC's past",
+      "range": [
+        71,
+        75
+      ],
+      "_id": "F77qZ7fW9heLOrrQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.F77qZ7fW9heLOrrQ"
+    },
+    {
+      "text": "Rumors of an NPC's past",
+      "range": [
+        76,
+        80
+      ],
+      "_id": "IC1249jx524Dq7wN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.IC1249jx524Dq7wN"
+    },
+    {
+      "text": "Specific location",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "WEPxUMNwiYCuAqju",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.WEPxUMNwiYCuAqju"
+    },
+    {
+      "text": "Their own failures",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "O8NB5k5k4O6ERy7C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.O8NB5k5k4O6ERy7C"
+    },
+    {
+      "text": "Upcoming events",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "sP03dbnVEFOt8o7A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.sP03dbnVEFOt8o7A"
+    },
+    {
+      "text": "Value of experience",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "qjatlz4peqg7yyYK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!xbNILPSGc3KQxIKD.qjatlz4peqg7yyYK"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the RANDOM NPC CONVERSATION oracle when you just want a topic starter for a more mundane conversation. Think of this as a conversation starter that will allow some of your characters personality to come through without having to also force through plot information.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676518582,
+    "modifiedTime": 1693035374956,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "xbNILPSGc3KQxIKD",
+  "sort": 2900000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!xbNILPSGc3KQxIKD"
+}

@@ -1,0 +1,72 @@
+{
+  "name": "Individualism",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Decisions stem from a desire for the greater good",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "SrECbXPqnMe1FpUc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pv3BNhXBPHSpL0xi.SrECbXPqnMe1FpUc"
+    },
+    {
+      "text": "Individual liberties exists but are balanced by community needs",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "Lpo4qTZFWEJN12Ld",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pv3BNhXBPHSpL0xi.Lpo4qTZFWEJN12Ld"
+    },
+    {
+      "text": "Personal freedom is emphasized above the needs of others",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "RG0XMR4PrrRBy7tN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!pv3BNhXBPHSpL0xi.RG0XMR4PrrRBy7tN"
+    }
+  ],
+  "folder": "oD0dazVrvD3ZwkCK",
+  "sort": 1,
+  "_id": "pv3BNhXBPHSpL0xi",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This describes the degree to which culture is organized into social groups. This encompasses the “I” vs. “we” mentality.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708140096008,
+    "modifiedTime": 1708147269785,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!pv3BNhXBPHSpL0xi"
+}

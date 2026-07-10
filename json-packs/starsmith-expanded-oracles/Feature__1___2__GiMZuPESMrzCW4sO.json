@@ -1,0 +1,552 @@
+{
+  "name": "Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ascending or descending path",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "NdYL41CXrnirncz7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.NdYL41CXrnirncz7"
+    },
+    {
+      "text": "Biological growths",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "BptuIUJnPzM6VIch",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.BptuIUJnPzM6VIch"
+    },
+    {
+      "text": "Blood trail",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "N9N9sAvQnNIEub6A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.N9N9sAvQnNIEub6A"
+    },
+    {
+      "text": "Breached or ruptured area",
+      "range": [
+        9,
+        10
+      ],
+      "_id": "1iAop1KPmCLBDzsj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.1iAop1KPmCLBDzsj"
+    },
+    {
+      "text": "Broken or inactive machinery",
+      "range": [
+        11,
+        13
+      ],
+      "_id": "n27WIrZBCUi7XhmN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.n27WIrZBCUi7XhmN"
+    },
+    {
+      "text": "Clinging mist",
+      "range": [
+        14,
+        15
+      ],
+      "_id": "prcYpf30Gt2aG5Xi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.prcYpf30Gt2aG5Xi"
+    },
+    {
+      "text": "Damage or debris",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "sHvtah5oKjraG47a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.sHvtah5oKjraG47a"
+    },
+    {
+      "text": "Echoing noises",
+      "range": [
+        19,
+        20
+      ],
+      "_id": "L3KBmPZRr98kQGzn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.L3KBmPZRr98kQGzn"
+    },
+    {
+      "text": "Elevated path over chasm or shaft",
+      "range": [
+        21,
+        22
+      ],
+      "_id": "hfr21M11uSHmpnYu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.hfr21M11uSHmpnYu"
+    },
+    {
+      "text": "Energy discharges",
+      "range": [
+        23,
+        25
+      ],
+      "_id": "UmN0jcHDidnhmJqM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.UmN0jcHDidnhmJqM"
+    },
+    {
+      "text": "Enigmatic controls or terminal",
+      "range": [
+        26,
+        28
+      ],
+      "_id": "bUMzNSI8Jo2x6Znc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.bUMzNSI8Jo2x6Znc"
+    },
+    {
+      "text": "Garden or invasive plant life",
+      "range": [
+        29,
+        30
+      ],
+      "_id": "UE1YFMqWdJRKToX6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.UE1YFMqWdJRKToX6"
+    },
+    {
+      "text": "Inscrutable object lies dark and silent",
+      "range": [
+        31,
+        32
+      ],
+      "_id": "b3Gomz6KSAGn8qyi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.b3Gomz6KSAGn8qyi"
+    },
+    {
+      "text": "Intersection or hub",
+      "range": [
+        33,
+        35
+      ],
+      "_id": "seO25gvdDw7yEE84",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.seO25gvdDw7yEE84"
+    },
+    {
+      "text": "Intricate symbols or pictographs",
+      "range": [
+        36,
+        38
+      ],
+      "_id": "y26VRwF7BUjQBnjQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.y26VRwF7BUjQBnjQ"
+    },
+    {
+      "text": "Looted or dismantled technology",
+      "range": [
+        39,
+        41
+      ],
+      "_id": "MNFN06cS71PIjb1R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.MNFN06cS71PIjb1R"
+    },
+    {
+      "text": "Looted or empty containers",
+      "range": [
+        42,
+        44
+      ],
+      "_id": "PPVcHuHoX9kANhGa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.PPVcHuHoX9kANhGa"
+    },
+    {
+      "text": "Mazelike passages",
+      "range": [
+        45,
+        47
+      ],
+      "_id": "75CW4XSYCQ4RCi9W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.75CW4XSYCQ4RCi9W"
+    },
+    {
+      "text": "Moving platform or lift",
+      "range": [
+        48,
+        49
+      ],
+      "_id": "PT0KMc73pbgYijtT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.PT0KMc73pbgYijtT"
+    },
+    {
+      "text": "Mummified or decayed corpses",
+      "range": [
+        50,
+        52
+      ],
+      "_id": "NI161o6MnGgZ68qR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.NI161o6MnGgZ68qR"
+    },
+    {
+      "text": "Narrowing or widening path",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "x2F4GAEuW5ggvvwR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.x2F4GAEuW5ggvvwR"
+    },
+    {
+      "text": "Pooled liquid",
+      "range": [
+        56,
+        58
+      ],
+      "_id": "KeoRHFMLEjfuQjir",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.KeoRHFMLEjfuQjir"
+    },
+    {
+      "text": "Remains of intruders",
+      "range": [
+        59,
+        61
+      ],
+      "_id": "1YXA1BWh2Vors3TZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.1YXA1BWh2Vors3TZ"
+    },
+    {
+      "text": "Scattered bones",
+      "range": [
+        62,
+        63
+      ],
+      "_id": "c6FKra5lxCpQ115a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.c6FKra5lxCpQ115a"
+    },
+    {
+      "text": "Scrawled markings",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "1e8qja8XZeepocs2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.1e8qja8XZeepocs2"
+    },
+    {
+      "text": "Signs of an attack or battle",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "VqCVvM82aDOAtQOD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.VqCVvM82aDOAtQOD"
+    },
+    {
+      "text": "Signs of invasive creatures",
+      "range": [
+        69,
+        71
+      ],
+      "_id": "HcxRMt0BfikjKXii",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.HcxRMt0BfikjKXii"
+    },
+    {
+      "text": "Surfaces honeycombed with openings",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "HBjfh162OVBMJToY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.HBjfh162OVBMJToY"
+    },
+    {
+      "text": "Unintelligible recorded message",
+      "range": [
+        74,
+        76
+      ],
+      "_id": "2kAfeoPyNBQnJOlG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.2kAfeoPyNBQnJOlG"
+    },
+    {
+      "text": "Unintelligible whispers",
+      "range": [
+        77,
+        79
+      ],
+      "_id": "VfN83DmTSUJ7r7ex",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.VfN83DmTSUJ7r7ex"
+    },
+    {
+      "text": "Vaulted chamber",
+      "range": [
+        80,
+        82
+      ],
+      "_id": "0UC9PX1c2tZyPhf0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.0UC9PX1c2tZyPhf0"
+    },
+    {
+      "text": "Vertical shaft",
+      "range": [
+        83,
+        85
+      ],
+      "_id": "9jaFB9AVDhdmA8EY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.9jaFB9AVDhdmA8EY"
+    },
+    {
+      "text": "Transition into the Sanctum",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "mkB2AQphJldvpdp3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.mkB2AQphJldvpdp3"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "xxqbqYtFLiBHbAKM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.xxqbqYtFLiBHbAKM"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "fCpTfNiekkfg7ENV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!GiMZuPESMrzCW4sO.fCpTfNiekkfg7ENV"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676692299,
+    "modifiedTime": 1699042075649,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "GiMZuPESMrzCW4sO",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!GiMZuPESMrzCW4sO"
+}

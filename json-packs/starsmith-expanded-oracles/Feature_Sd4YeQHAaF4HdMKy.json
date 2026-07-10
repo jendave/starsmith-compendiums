@@ -1,0 +1,207 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Aquarium or tank",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "qh7V86mHrMv5Y54y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.qh7V86mHrMv5Y54y"
+    },
+    {
+      "text": "Biological specimens",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "tmLjxrSJAs0xLqPX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.tmLjxrSJAs0xLqPX"
+    },
+    {
+      "text": "Cages or pens",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "RUGEj1LRuNgo7SPC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.RUGEj1LRuNgo7SPC"
+    },
+    {
+      "text": "Database",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "wHlB4BhGGpXI88hG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.wHlB4BhGGpXI88hG"
+    },
+    {
+      "text": "Decontamination room",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "eRRZy1pOcw21qDuY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.eRRZy1pOcw21qDuY"
+    },
+    {
+      "text": "Hazardous material storage",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "mdiSgZveVLEP1fYk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.mdiSgZveVLEP1fYk"
+    },
+    {
+      "text": "Hydroponics bay",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "0Bm1ZidJ6p4s29YF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.0Bm1ZidJ6p4s29YF"
+    },
+    {
+      "text": "Secretive Laboratory",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "8UKKbtPOsJQEW1lO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.8UKKbtPOsJQEW1lO"
+    },
+    {
+      "text": "Specialized equipment",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "yac9Xk9bRkBlkTCr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.yac9Xk9bRkBlkTCr"
+    },
+    {
+      "text": "Storage area",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "3q4TSX3dBIODdVWQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.3q4TSX3dBIODdVWQ"
+    },
+    {
+      "text": "Strict access protocols",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "6A1U7TV3xWkhRVZt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.6A1U7TV3xWkhRVZt"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "XhACVw9CNL5kis5O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Sd4YeQHAaF4HdMKy.XhACVw9CNL5kis5O"
+    }
+  ],
+  "folder": "1B0kNT3mWZDFVFFC",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658161,
+    "modifiedTime": 1699035613685,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "Sd4YeQHAaF4HdMKy",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Sd4YeQHAaF4HdMKy"
+}

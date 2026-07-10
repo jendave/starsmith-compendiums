@@ -1,0 +1,573 @@
+{
+  "name": "First Look (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "AI-Assisted",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "72h49CRPKrlHPdZL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.72h49CRPKrlHPdZL"
+    },
+    {
+      "text": "Baggy eyes",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "3TwKdzEzYBJkFCon",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.3TwKdzEzYBJkFCon"
+    },
+    {
+      "text": "Bright eyes",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "1BSWe0jk5zp3XgVM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.1BSWe0jk5zp3XgVM"
+    },
+    {
+      "text": "Bulbous nose",
+      "range": [
+        9,
+        11
+      ],
+      "_id": "mzOc0CEvlkrgvOZk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.mzOc0CEvlkrgvOZk"
+    },
+    {
+      "text": "Cloudy eyes",
+      "range": [
+        12,
+        13
+      ],
+      "_id": "T9VHuzgRzactJNla",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.T9VHuzgRzactJNla"
+    },
+    {
+      "text": "Corpulent",
+      "range": [
+        14,
+        15
+      ],
+      "_id": "U5Kx2zIgqSL2tC2H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.U5Kx2zIgqSL2tC2H"
+    },
+    {
+      "text": "Disheveled",
+      "range": [
+        16,
+        17
+      ],
+      "_id": "sjlPELMyJbT0vzN7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.sjlPELMyJbT0vzN7"
+    },
+    {
+      "text": "Elegant",
+      "range": [
+        18,
+        20
+      ],
+      "_id": "JVdDRXqI82YDwRF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.JVdDRXqI82YDwRF8"
+    },
+    {
+      "text": "Exosuit",
+      "range": [
+        21,
+        23
+      ],
+      "_id": "4OORNtl6WnrhioIT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.4OORNtl6WnrhioIT"
+    },
+    {
+      "text": "Filthy",
+      "range": [
+        24,
+        25
+      ],
+      "_id": "xJxyuLLSCNxWTCVi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.xJxyuLLSCNxWTCVi"
+    },
+    {
+      "text": "Flushed",
+      "range": [
+        26,
+        27
+      ],
+      "_id": "LE7w43m51FrTYKf3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.LE7w43m51FrTYKf3"
+    },
+    {
+      "text": "Frail",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "7walrwRwBiQITa1H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.7walrwRwBiQITa1H"
+    },
+    {
+      "text": "Frightening",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "GEduWfsoGFMHzKP0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.GEduWfsoGFMHzKP0"
+    },
+    {
+      "text": "Frumpy",
+      "range": [
+        34,
+        35
+      ],
+      "_id": "t1fdglkGtNWAGheZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.t1fdglkGtNWAGheZ"
+    },
+    {
+      "text": "Gaudy",
+      "range": [
+        36,
+        37
+      ],
+      "_id": "dx2CYvNPj1jYXV67",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.dx2CYvNPj1jYXV67"
+    },
+    {
+      "text": "Geared up",
+      "range": [
+        38,
+        40
+      ],
+      "_id": "jfBfl7EvnHkkIykI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.jfBfl7EvnHkkIykI"
+    },
+    {
+      "text": "Handsome",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "WqfrSb1aDTqoTcIH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.WqfrSb1aDTqoTcIH"
+    },
+    {
+      "text": "Hook-nosed",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "dnQDrAKP8vPwlYGe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.dnQDrAKP8vPwlYGe"
+    },
+    {
+      "text": "Immaculate",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "OHMdacd6NRO4P9r9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.OHMdacd6NRO4P9r9"
+    },
+    {
+      "text": "Jowls",
+      "range": [
+        50,
+        52
+      ],
+      "_id": "NqQnXDZbI96hYPAb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.NqQnXDZbI96hYPAb"
+    },
+    {
+      "text": "Large ears",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "R2cTOu5v1OgBwMNd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.R2cTOu5v1OgBwMNd"
+    },
+    {
+      "text": "Long hair",
+      "range": [
+        56,
+        57
+      ],
+      "_id": "62AWmke7aJob8ooT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.62AWmke7aJob8ooT"
+    },
+    {
+      "text": "Morose",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "CNRMms431EBIk9zM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.CNRMms431EBIk9zM"
+    },
+    {
+      "text": "Neat",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "7Rod4gdGNQcNEqGY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.7Rod4gdGNQcNEqGY"
+    },
+    {
+      "text": "Pallid",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "LQ77j5B3Q3f1KYRh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.LQ77j5B3Q3f1KYRh"
+    },
+    {
+      "text": "Petite",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "OAFpDukGFrVfP66h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.OAFpDukGFrVfP66h"
+    },
+    {
+      "text": "Pimpled",
+      "range": [
+        69,
+        71
+      ],
+      "_id": "gaxslaPbEbCCVCAG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.gaxslaPbEbCCVCAG"
+    },
+    {
+      "text": "Pockmarked",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "CjQ8riAzwguoQeNj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.CjQ8riAzwguoQeNj"
+    },
+    {
+      "text": "Prim",
+      "range": [
+        74,
+        76
+      ],
+      "_id": "8nWYarjCnkM2w4xw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.8nWYarjCnkM2w4xw"
+    },
+    {
+      "text": "Ruddy",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "TD4usnoSA3FWMQQw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.TD4usnoSA3FWMQQw"
+    },
+    {
+      "text": "Scrawny",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "pJP8D0GW3pA8wjmm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.pJP8D0GW3pA8wjmm"
+    },
+    {
+      "text": "Slim",
+      "range": [
+        82,
+        83
+      ],
+      "_id": "dlbkwANrRBE5u5Y2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.dlbkwANrRBE5u5Y2"
+    },
+    {
+      "text": "Smarmy",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "RrNQRqqzhnMAQOta",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.RrNQRqqzhnMAQOta"
+    },
+    {
+      "text": "Stocky",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "Sx9Na5FJpiBlBWeV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.Sx9Na5FJpiBlBWeV"
+    },
+    {
+      "text": "Thick-necked",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "fy8HJkQSyuq5ojxJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.fy8HJkQSyuq5ojxJ"
+    },
+    {
+      "text": "Unarmed",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "7gHWgsYbEZP31Grj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.7gHWgsYbEZP31Grj"
+    },
+    {
+      "text": "Unassuming",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "Y8dvs1D8ks3wr20m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.Y8dvs1D8ks3wr20m"
+    },
+    {
+      "text": "Uniformed",
+      "range": [
+        96,
+        97
+      ],
+      "_id": "pC1g5HzRiYrAOHsj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.pC1g5HzRiYrAOHsj"
+    },
+    {
+      "text": "Untidy",
+      "range": [
+        98,
+        100
+      ],
+      "_id": "HLPUGjCoaJVisjOk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!oTECxhDPRJJ3yUvh.HLPUGjCoaJVisjOk"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676518255,
+    "modifiedTime": 1693035559388,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "oTECxhDPRJJ3yUvh",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!oTECxhDPRJJ3yUvh"
+}

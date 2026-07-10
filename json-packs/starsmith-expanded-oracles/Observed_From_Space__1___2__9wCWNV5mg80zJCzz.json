@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Cloud-breaching trees",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "USVWT74S130ZXEy8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.USVWT74S130ZXEy8"
+    },
+    {
+      "text": "Expansive rivers or wetlands",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "riwQYx68YPPmeFrk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.riwQYx68YPPmeFrk"
+    },
+    {
+      "text": "Inland seas",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "p9sNVlHKS7HYSHfV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.p9sNVlHKS7HYSHfV"
+    },
+    {
+      "text": "Massive canyons",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "TG6Oj7lQdiK6dQNC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.TG6Oj7lQdiK6dQNC"
+    },
+    {
+      "text": "Persistent cloud cover",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "2tZXPcOyejt4zqeR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.2tZXPcOyejt4zqeR"
+    },
+    {
+      "text": "Towering mountains",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "Yq73TZGNMXyGjx8O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.Yq73TZGNMXyGjx8O"
+    },
+    {
+      "text": "Unbroken canopy",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "d7DT3TBcVWx79q3M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.d7DT3TBcVWx79q3M"
+    },
+    {
+      "text": "Unusual vegetation color",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "ldn734WFUDusdWLt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.ldn734WFUDusdWLt"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "FU82MAwnSAnJvZ1h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.FU82MAwnSAnJvZ1h"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "HTCLXLf7yaXZpPQx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!9wCWNV5mg80zJCzz.HTCLXLf7yaXZpPQx"
+    }
+  ],
+  "folder": "khXSFYiPdcUTBfbE",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676401917,
+    "modifiedTime": 1699053677072,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "9wCWNV5mg80zJCzz",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!9wCWNV5mg80zJCzz"
+}

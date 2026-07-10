@@ -1,0 +1,207 @@
+{
+  "name": "Feature",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Containers of fluid or fuel",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "4fFQ9eUc8nGKKq4B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.4fFQ9eUc8nGKKq4B"
+    },
+    {
+      "text": "Control terminal",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "PtJBZ2y8yibMuViD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.PtJBZ2y8yibMuViD"
+    },
+    {
+      "text": "Crane or lift",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "fITrNfJBlUpm9WOc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.fITrNfJBlUpm9WOc"
+    },
+    {
+      "text": "Disassembled equipment",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "q0DZX02e893N80fb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.q0DZX02e893N80fb"
+    },
+    {
+      "text": "Flickering status monitors",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "5psgNd5SIgiEF0C3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.5psgNd5SIgiEF0C3"
+    },
+    {
+      "text": "Multi-level layout",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "6bx19ZwmTFQfePO2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.6bx19ZwmTFQfePO2"
+    },
+    {
+      "text": "Pipes and valves",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "6nWIvgKVEnnUlDXK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.6nWIvgKVEnnUlDXK"
+    },
+    {
+      "text": "Supervisors with clipboards",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "1nSO16Btw6YPa7Cj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.1nSO16Btw6YPa7Cj"
+    },
+    {
+      "text": "Unusual equipment",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "g7cINR5m3mgBFrs2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.g7cINR5m3mgBFrs2"
+    },
+    {
+      "text": "Upgrade in progress",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "BRooJMFR2NiNQKfI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.BRooJMFR2NiNQKfI"
+    },
+    {
+      "text": "Utility bots",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "hEnDcin575uTncrg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.hEnDcin575uTncrg"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "6xXJ5ChpND9qo6vs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!NAjhJFfOfnI4RUhG.6xXJ5ChpND9qo6vs"
+    }
+  ],
+  "folder": "yIrjqo4T2v8hXe7o",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658089,
+    "modifiedTime": 1699035618987,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "NAjhJFfOfnI4RUhG",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!NAjhJFfOfnI4RUhG"
+}

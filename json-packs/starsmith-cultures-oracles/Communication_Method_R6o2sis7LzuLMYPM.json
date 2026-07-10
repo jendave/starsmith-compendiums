@@ -1,0 +1,207 @@
+{
+  "name": "Communication Method",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Clicks / beeps / screeches",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "T6Yacvnl1dqvorzS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.T6Yacvnl1dqvorzS"
+    },
+    {
+      "text": "Colors / visual patterns",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "1O2H0grKxoA9NGN5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.1O2H0grKxoA9NGN5"
+    },
+    {
+      "text": "Electrical impulses",
+      "range": [
+        21,
+        25
+      ],
+      "_id": "AyT80Ub4ehk6aDRG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.AyT80Ub4ehk6aDRG"
+    },
+    {
+      "text": "Empathic urges",
+      "range": [
+        26,
+        30
+      ],
+      "_id": "9q33pUY2He40kMPK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.9q33pUY2He40kMPK"
+    },
+    {
+      "text": "Indirect words / metaphor",
+      "range": [
+        31,
+        35
+      ],
+      "_id": "u90qEEe5MwidzN04",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.u90qEEe5MwidzN04"
+    },
+    {
+      "text": "Movements / dance",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "IwqptOa14GrXUG2w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.IwqptOa14GrXUG2w"
+    },
+    {
+      "text": "Patterns of touch",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "Jwa0wKVGOB71Jk3b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.Jwa0wKVGOB71Jk3b"
+    },
+    {
+      "text": "Pheromones",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "jJs1FmoZXi2KwODn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.jJs1FmoZXi2KwODn"
+    },
+    {
+      "text": "Spoken words",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "VVmrhw3gCS8NJuI8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.VVmrhw3gCS8NJuI8"
+    },
+    {
+      "text": "Telepathy",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "fBNmHcjwZkXuU9f2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.fBNmHcjwZkXuU9f2"
+    },
+    {
+      "text": "Vibrational patterns",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "wyY2Q4uYOt8DdnQO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.wyY2Q4uYOt8DdnQO"
+    },
+    {
+      "text": "Written symbols",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "FDchHksdrZWREnGh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!R6o2sis7LzuLMYPM.FDchHksdrZWREnGh"
+    }
+  ],
+  "folder": "ZJtzfl5HMGu1auqL",
+  "sort": 1,
+  "_id": "R6o2sis7LzuLMYPM",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>You can roll on the table below to get an initial idea, but remember that whatever means they have of communication must be able to get across complex ideas in a relatively quick time. Think about how much faster it is to talk than it is to type. We can communicate so much more in 5 seconds of talking than 5 seconds of typing. Aliens should be able to utilize communication at those same relative speeds.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144820797,
+    "modifiedTime": 1708148144387,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!R6o2sis7LzuLMYPM"
+}

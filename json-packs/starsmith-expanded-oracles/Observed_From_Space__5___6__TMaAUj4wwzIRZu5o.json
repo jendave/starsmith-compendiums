@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Atmospheric pocket where all colors turn gray",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "aJ3dzH6O659ivxpq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.aJ3dzH6O659ivxpq"
+    },
+    {
+      "text": "Continent-sized tornado of swirling color",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "FYBuel3m7cra7AgV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.FYBuel3m7cra7AgV"
+    },
+    {
+      "text": "Gravity waves pushing away from the planet",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "FGQDrsuGVvwIitTP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.FGQDrsuGVvwIitTP"
+    },
+    {
+      "text": "Radiation in specific atmosphere layers",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "TJLyj6xtp982WRwo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.TJLyj6xtp982WRwo"
+    },
+    {
+      "text": "Second planet following behind in the Jovian's orbit",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "wqvXmG9Bb67tY9lg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.wqvXmG9Bb67tY9lg"
+    },
+    {
+      "text": "Storm laced with heavy debris",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "lsIMn87d5x5WynyP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.lsIMn87d5x5WynyP"
+    },
+    {
+      "text": "Teardrop shaped accretion disk",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "OkRaWJbuz5ZCmQxE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.OkRaWJbuz5ZCmQxE"
+    },
+    {
+      "text": "Varying atmospheric conditions based on layers",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "Hf40eDBLBPbApE1w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.Hf40eDBLBPbApE1w"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "npkVNMAtxGwI1HCO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.npkVNMAtxGwI1HCO"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Mj5X05x7x4wxocAT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!TMaAUj4wwzIRZu5o.Mj5X05x7x4wxocAT"
+    }
+  ],
+  "folder": "FmcXyPfargJoxCMr",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401906,
+    "modifiedTime": 1699052819449,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "TMaAUj4wwzIRZu5o",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!TMaAUj4wwzIRZu5o"
+}

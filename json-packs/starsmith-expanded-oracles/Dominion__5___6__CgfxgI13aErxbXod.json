@@ -1,0 +1,387 @@
+{
+  "name": "Dominion (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Authority",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "JhC4QzYuXvyHyYDK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.JhC4QzYuXvyHyYDK"
+    },
+    {
+      "text": "Capitalism",
+      "range": [
+        6,
+        9
+      ],
+      "_id": "r1K6ME5qhZNyB3Zl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.r1K6ME5qhZNyB3Zl"
+    },
+    {
+      "text": "Community",
+      "range": [
+        10,
+        14
+      ],
+      "_id": "aBV6t0xuaLfVq5Bt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.aBV6t0xuaLfVq5Bt"
+    },
+    {
+      "text": "Cooperation",
+      "range": [
+        15,
+        18
+      ],
+      "_id": "r4SVmnlrov2UeTTr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.r4SVmnlrov2UeTTr"
+    },
+    {
+      "text": "Discipline",
+      "range": [
+        19,
+        22
+      ],
+      "_id": "cKvitofiAWig9NZb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.cKvitofiAWig9NZb"
+    },
+    {
+      "text": "Efficiency",
+      "range": [
+        23,
+        26
+      ],
+      "_id": "H28pyFdhoB7WPq0i",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.H28pyFdhoB7WPq0i"
+    },
+    {
+      "text": "Espionage",
+      "range": [
+        27,
+        30
+      ],
+      "_id": "IuQe8GGopqRV60M4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.IuQe8GGopqRV60M4"
+    },
+    {
+      "text": "Family",
+      "range": [
+        31,
+        34
+      ],
+      "_id": "0y8iZqXTaBJ71x2t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.0y8iZqXTaBJ71x2t"
+    },
+    {
+      "text": "Glory",
+      "range": [
+        35,
+        38
+      ],
+      "_id": "uUOA8Hj1jJaMBeSP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.uUOA8Hj1jJaMBeSP"
+    },
+    {
+      "text": "Heritage",
+      "range": [
+        39,
+        42
+      ],
+      "_id": "vXtncr6KPwgbd45G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.vXtncr6KPwgbd45G"
+    },
+    {
+      "text": "Independence",
+      "range": [
+        43,
+        46
+      ],
+      "_id": "XoyBQoX28TYlSRom",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.XoyBQoX28TYlSRom"
+    },
+    {
+      "text": "Integrity",
+      "range": [
+        47,
+        50
+      ],
+      "_id": "ugTpzhZ04jFllawO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.ugTpzhZ04jFllawO"
+    },
+    {
+      "text": "Knowledge",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "iNCWLfMUgtfK7ROL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.iNCWLfMUgtfK7ROL"
+    },
+    {
+      "text": "Materialism",
+      "range": [
+        56,
+        59
+      ],
+      "_id": "50psBOGfgsPRTxtC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.50psBOGfgsPRTxtC"
+    },
+    {
+      "text": "Patronage",
+      "range": [
+        60,
+        63
+      ],
+      "_id": "Nbcqj4irAPmVV699",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.Nbcqj4irAPmVV699"
+    },
+    {
+      "text": "Pleasure",
+      "range": [
+        64,
+        67
+      ],
+      "_id": "K1t027hCaeZ66ty8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.K1t027hCaeZ66ty8"
+    },
+    {
+      "text": "Prestige",
+      "range": [
+        68,
+        71
+      ],
+      "_id": "3CkUqZaXiktTKxWH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.3CkUqZaXiktTKxWH"
+    },
+    {
+      "text": "Progress",
+      "range": [
+        72,
+        75
+      ],
+      "_id": "pNjVaIixMamPvrmK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.pNjVaIixMamPvrmK"
+    },
+    {
+      "text": "Recreation",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "1wPHijhrjHzwriUb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.1wPHijhrjHzwriUb"
+    },
+    {
+      "text": "Relationships",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "ExONcdz0AOkUPpR7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.ExONcdz0AOkUPpR7"
+    },
+    {
+      "text": "Safety",
+      "range": [
+        84,
+        87
+      ],
+      "_id": "jOHuAh7z5PzGGMGq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.jOHuAh7z5PzGGMGq"
+    },
+    {
+      "text": "Teamwork",
+      "range": [
+        88,
+        91
+      ],
+      "_id": "wpGfnnjYHJRsXy4v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.wpGfnnjYHJRsXy4v"
+    },
+    {
+      "text": "Trade",
+      "range": [
+        92,
+        96
+      ],
+      "_id": "kJM4uQQmXyMkAYbm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.kJM4uQQmXyMkAYbm"
+    },
+    {
+      "text": "Truth",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "06lOPeraZv8G9tbT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!CgfxgI13aErxbXod.06lOPeraZv8G9tbT"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Note that for the Dominion type, you roll on both the Dominion and Leadership oracles, although I use the Leadership oracle for all factions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597069,
+    "modifiedTime": 1693069904926,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "CgfxgI13aErxbXod",
+  "sort": 106250,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!CgfxgI13aErxbXod"
+}

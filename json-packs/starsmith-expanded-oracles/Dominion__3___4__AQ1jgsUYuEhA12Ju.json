@@ -1,0 +1,387 @@
+{
+  "name": "Dominion (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Altruism",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "5VxpnuwmMGxIPbmL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.5VxpnuwmMGxIPbmL"
+    },
+    {
+      "text": "Belonging",
+      "range": [
+        6,
+        9
+      ],
+      "_id": "Sf6ZjfYz1wddZK7Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.Sf6ZjfYz1wddZK7Z"
+    },
+    {
+      "text": "Collectivism",
+      "range": [
+        10,
+        14
+      ],
+      "_id": "RmFoZToemnry1ftj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.RmFoZToemnry1ftj"
+    },
+    {
+      "text": "Consumption",
+      "range": [
+        15,
+        18
+      ],
+      "_id": "udJ5deiDwZRGUi6M",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.udJ5deiDwZRGUi6M"
+    },
+    {
+      "text": "Creativity",
+      "range": [
+        19,
+        22
+      ],
+      "_id": "UHjEOuctrfkW2EVk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.UHjEOuctrfkW2EVk"
+    },
+    {
+      "text": "Discovery",
+      "range": [
+        23,
+        26
+      ],
+      "_id": "DyTCaSWXlBimN3Qc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.DyTCaSWXlBimN3Qc"
+    },
+    {
+      "text": "Emotions",
+      "range": [
+        27,
+        30
+      ],
+      "_id": "AtAhlmAMLZKbZvMY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.AtAhlmAMLZKbZvMY"
+    },
+    {
+      "text": "Ethics",
+      "range": [
+        31,
+        34
+      ],
+      "_id": "1SUK4SdecZ7BKubl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.1SUK4SdecZ7BKubl"
+    },
+    {
+      "text": "Freedom",
+      "range": [
+        35,
+        38
+      ],
+      "_id": "MeDcWYsai5r9wNq7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.MeDcWYsai5r9wNq7"
+    },
+    {
+      "text": "Health",
+      "range": [
+        39,
+        42
+      ],
+      "_id": "jNowy16a5AFYTDd6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.jNowy16a5AFYTDd6"
+    },
+    {
+      "text": "Hospitality",
+      "range": [
+        43,
+        46
+      ],
+      "_id": "zuIUBu1PQNq1yTQQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.zuIUBu1PQNq1yTQQ"
+    },
+    {
+      "text": "Individualism",
+      "range": [
+        47,
+        50
+      ],
+      "_id": "4FoJQ7JKPctwRPc8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.4FoJQ7JKPctwRPc8"
+    },
+    {
+      "text": "Justice",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "bXFQBINyGvHYIIcr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.bXFQBINyGvHYIIcr"
+    },
+    {
+      "text": "Logic",
+      "range": [
+        56,
+        59
+      ],
+      "_id": "ImY3becrlymgX9dx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.ImY3becrlymgX9dx"
+    },
+    {
+      "text": "Nationalism",
+      "range": [
+        60,
+        63
+      ],
+      "_id": "w8TkdFzF1OUcDwqd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.w8TkdFzF1OUcDwqd"
+    },
+    {
+      "text": "Philanthropy",
+      "range": [
+        64,
+        67
+      ],
+      "_id": "05MqK5GSFDfv8sj6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.05MqK5GSFDfv8sj6"
+    },
+    {
+      "text": "Power",
+      "range": [
+        68,
+        71
+      ],
+      "_id": "aEtXMA3kSCh4jJ7Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.aEtXMA3kSCh4jJ7Q"
+    },
+    {
+      "text": "Production",
+      "range": [
+        72,
+        75
+      ],
+      "_id": "AI1CkGJ0zskvd0tv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.AI1CkGJ0zskvd0tv"
+    },
+    {
+      "text": "Radicalism",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "pEHupGh8qkzdjPEf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.pEHupGh8qkzdjPEf"
+    },
+    {
+      "text": "Reflection",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "3C2jesq403ImcLnA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.3C2jesq403ImcLnA"
+    },
+    {
+      "text": "Respect",
+      "range": [
+        84,
+        87
+      ],
+      "_id": "4S6YFB7mOHKLRKbP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.4S6YFB7mOHKLRKbP"
+    },
+    {
+      "text": "Society",
+      "range": [
+        88,
+        91
+      ],
+      "_id": "aqUlXwaWdDEC89Oe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.aqUlXwaWdDEC89Oe"
+    },
+    {
+      "text": "Tolerance",
+      "range": [
+        92,
+        96
+      ],
+      "_id": "eDqg6I3gSlT6oDTZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.eDqg6I3gSlT6oDTZ"
+    },
+    {
+      "text": "Tradition",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "dWao7WunxJbYy11d",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!AQ1jgsUYuEhA12Ju.dWao7WunxJbYy11d"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Note that for the Dominion type, you roll on both the Dominion and Leadership oracles, although I use the Leadership oracle for all factions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597059,
+    "modifiedTime": 1693069902911,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "AQ1jgsUYuEhA12Ju",
+  "sort": 87500,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!AQ1jgsUYuEhA12Ju"
+}

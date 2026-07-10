@@ -1,0 +1,97 @@
+{
+  "name": "Form (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Structure",
+      "range": [
+        1,
+        35
+      ],
+      "_id": "kjcmGT1vsvd5AXkT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!qp0q4hCncEEwFmzJ.kjcmGT1vsvd5AXkT"
+    },
+    {
+      "text": "Vessel",
+      "range": [
+        36,
+        60
+      ],
+      "_id": "o8sFKm1OuhBn6P08",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!qp0q4hCncEEwFmzJ.o8sFKm1OuhBn6P08"
+    },
+    {
+      "text": "Monument",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "ZaV9anipi98HLcIu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!qp0q4hCncEEwFmzJ.ZaV9anipi98HLcIu"
+    },
+    {
+      "text": "Machine",
+      "range": [
+        81,
+        95
+      ],
+      "_id": "gjHZEgiwMAuteKIz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!qp0q4hCncEEwFmzJ.gjHZEgiwMAuteKIz"
+    },
+    {
+      "text": "Incomprehensible",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "5tUHLJflQEe74GNU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!qp0q4hCncEEwFmzJ.5tUHLJflQEe74GNU"
+    }
+  ],
+  "folder": "N2sObuKzWFZ5LEU2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676692202,
+    "modifiedTime": 1693073951573,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "qp0q4hCncEEwFmzJ",
+  "sort": -200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!qp0q4hCncEEwFmzJ"
+}

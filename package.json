@@ -1,0 +1,15 @@
+{
+  "private": true,
+  "name": "starsmith-expanded-oracles",
+  "description": "Starsmith compendiums for Foundry VTT",
+  "license": "SEE LICENSE IN LICENSE",
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "npm run clean && script/stage-dist && script/build-packs",
+    "pack": "script/build-packs",
+    "unpack": "script/extract-packs"
+  },
+  "devDependencies": {
+    "@foundryvtt/foundryvtt-cli": "^3.0.4"
+  }
+}

@@ -1,0 +1,402 @@
+{
+  "name": "Opportunity (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Advance warning of a coming conflict",
+      "range": [
+        1,
+        4
+      ],
+      "_id": "2jzLbFD4uRoi2vK6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.2jzLbFD4uRoi2vK6"
+    },
+    {
+      "text": "Asteroid belt rich with minerals",
+      "range": [
+        5,
+        8
+      ],
+      "_id": "34Io9ErdlnVvJ8EE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.34Io9ErdlnVvJ8EE"
+    },
+    {
+      "text": "Base of operations for a foe is discovered",
+      "range": [
+        9,
+        12
+      ],
+      "_id": "WER8XzIntX3bloLw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.WER8XzIntX3bloLw"
+    },
+    {
+      "text": "Clue to a foe's motivation",
+      "range": [
+        13,
+        16
+      ],
+      "_id": "hha9SjmEv39y4fvy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.hha9SjmEv39y4fvy"
+    },
+    {
+      "text": "Clue to a lifeform's needs, motivations or patterns",
+      "range": [
+        17,
+        20
+      ],
+      "_id": "BvbOLQlV45l6BxLz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.BvbOLQlV45l6BxLz"
+    },
+    {
+      "text": "Coordinates of a nearby passage detected",
+      "range": [
+        21,
+        24
+      ],
+      "_id": "A7FixbBi7E2ARw2h",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.A7FixbBi7E2ARw2h"
+    },
+    {
+      "text": "Dark side of a moon shields you from notice",
+      "range": [
+        25,
+        28
+      ],
+      "_id": "7KmEqOAAUbEM84bI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.7KmEqOAAUbEM84bI"
+    },
+    {
+      "text": "Decrypted signal offers insight",
+      "range": [
+        29,
+        32
+      ],
+      "_id": "YMMnbk756dinNOJK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.YMMnbk756dinNOJK"
+    },
+    {
+      "text": "Environmental hazard resolves itself",
+      "range": [
+        33,
+        36
+      ],
+      "_id": "7G24gctRS3XjdRTF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.7G24gctRS3XjdRTF"
+    },
+    {
+      "text": "Friendly starship offers aid or information",
+      "range": [
+        37,
+        40
+      ],
+      "_id": "KcqcSSJnhYKT6JDR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.KcqcSSJnhYKT6JDR"
+    },
+    {
+      "text": "Gain access to previously restricted data",
+      "range": [
+        41,
+        44
+      ],
+      "_id": "CZnXZid4MOQaznq2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.CZnXZid4MOQaznq2"
+    },
+    {
+      "text": "History or nature of a site is revealed",
+      "range": [
+        45,
+        48
+      ],
+      "_id": "jgD7aXU6a2kZg08m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.jgD7aXU6a2kZg08m"
+    },
+    {
+      "text": "Internal sensors spot a malfunction before it is dangerous",
+      "range": [
+        49,
+        52
+      ],
+      "_id": "WzpazfhM4rerC95O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.WzpazfhM4rerC95O"
+    },
+    {
+      "text": "Mutually beneficial offer is made",
+      "range": [
+        53,
+        56
+      ],
+      "_id": "biQTZ9nC6leNhx4n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.biQTZ9nC6leNhx4n"
+    },
+    {
+      "text": "New acquaintance is made",
+      "range": [
+        57,
+        60
+      ],
+      "_id": "xh9u8C1yCle0Qopf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.xh9u8C1yCle0Qopf"
+    },
+    {
+      "text": "Newly constructed facility offers specialized help",
+      "range": [
+        61,
+        64
+      ],
+      "_id": "4VwpjGKmFq2rlJLV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.4VwpjGKmFq2rlJLV"
+    },
+    {
+      "text": "Observation of a rare lifeform",
+      "range": [
+        65,
+        68
+      ],
+      "_id": "DC83BounrGz5Lc8u",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.DC83BounrGz5Lc8u"
+    },
+    {
+      "text": "Opportunity to grow a relationship",
+      "range": [
+        69,
+        72
+      ],
+      "_id": "5bV5dy8DZFACgaLz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.5bV5dy8DZFACgaLz"
+    },
+    {
+      "text": "Positive conviction is reinforced",
+      "range": [
+        73,
+        76
+      ],
+      "_id": "GNZVvUlqXJjGsS6s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.GNZVvUlqXJjGsS6s"
+    },
+    {
+      "text": "Progress on a quest was nearer than you thought",
+      "range": [
+        77,
+        80
+      ],
+      "_id": "M8sJAIYNDBg4KAHA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.M8sJAIYNDBg4KAHA"
+    },
+    {
+      "text": "Salvaged parts are compatible with your systems",
+      "range": [
+        81,
+        84
+      ],
+      "_id": "rUTEDIpbSWKmGZyL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.rUTEDIpbSWKmGZyL"
+    },
+    {
+      "text": "Sector map is offered or found",
+      "range": [
+        85,
+        88
+      ],
+      "_id": "vrxPOvkvVZae29WT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.vrxPOvkvVZae29WT"
+    },
+    {
+      "text": "Sensors reveal an exploitable pattern in celestial objects",
+      "range": [
+        89,
+        92
+      ],
+      "_id": "xZAyrXo7lf5x8jVn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.xZAyrXo7lf5x8jVn"
+    },
+    {
+      "text": "Trading starship offers respite and resupply",
+      "range": [
+        93,
+        96
+      ],
+      "_id": "ofjDnj9nzH5rj44r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.ofjDnj9nzH5rj44r"
+    },
+    {
+      "text": "Your efforts are more effective than expected",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "tgreUCbeGISrnV7K",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Poyn3CNftqVhkoeD.tgreUCbeGISrnV7K"
+    }
+  ],
+  "folder": "9aKg1x9pvKGwheVZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you Undertake an Expedition, or if you Explore a Waypoint and find an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676313242,
+    "modifiedTime": 1693516530234,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "Poyn3CNftqVhkoeD",
+  "sort": 2350000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Poyn3CNftqVhkoeD"
+}

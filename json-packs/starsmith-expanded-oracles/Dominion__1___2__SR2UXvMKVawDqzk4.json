@@ -1,0 +1,387 @@
+{
+  "name": "Dominion (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Agriculture",
+      "range": [
+        1,
+        5
+      ],
+      "_id": "3nFnI1IDz9yoFRba",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.3nFnI1IDz9yoFRba"
+    },
+    {
+      "text": "Artistry",
+      "range": [
+        6,
+        9
+      ],
+      "_id": "dmtmHV8wum2w1mUN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.dmtmHV8wum2w1mUN"
+    },
+    {
+      "text": "Commerce",
+      "range": [
+        10,
+        14
+      ],
+      "_id": "9Y2YRKtW3CUUWRcd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.9Y2YRKtW3CUUWRcd"
+    },
+    {
+      "text": "Conquest",
+      "range": [
+        15,
+        18
+      ],
+      "_id": "FPYVYmSkTnXM3jbV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.FPYVYmSkTnXM3jbV"
+    },
+    {
+      "text": "Construction",
+      "range": [
+        19,
+        22
+      ],
+      "_id": "ayKETf9csQWtNCpB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.ayKETf9csQWtNCpB"
+    },
+    {
+      "text": "Diplomacy",
+      "range": [
+        23,
+        26
+      ],
+      "_id": "OIDCMRYcy80sz577",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.OIDCMRYcy80sz577"
+    },
+    {
+      "text": "Education",
+      "range": [
+        27,
+        30
+      ],
+      "_id": "eSQpMMwq3EYb76nI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.eSQpMMwq3EYb76nI"
+    },
+    {
+      "text": "Environmentalism",
+      "range": [
+        31,
+        34
+      ],
+      "_id": "sWDgHS0aa2mr1s1o",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.sWDgHS0aa2mr1s1o"
+    },
+    {
+      "text": "Exploration",
+      "range": [
+        35,
+        38
+      ],
+      "_id": "0PHRa2DmZe0C9zCN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.0PHRa2DmZe0C9zCN"
+    },
+    {
+      "text": "Faith",
+      "range": [
+        39,
+        42
+      ],
+      "_id": "49lT2YQYcdHv5KNq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.49lT2YQYcdHv5KNq"
+    },
+    {
+      "text": "History",
+      "range": [
+        43,
+        46
+      ],
+      "_id": "orelrff0LVpSxlTa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.orelrff0LVpSxlTa"
+    },
+    {
+      "text": "Honor",
+      "range": [
+        47,
+        50
+      ],
+      "_id": "pY1W8vH3cYsvp93m",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.pY1W8vH3cYsvp93m"
+    },
+    {
+      "text": "Industry",
+      "range": [
+        51,
+        55
+      ],
+      "_id": "wrkhRAFuOkhoG7LA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.wrkhRAFuOkhoG7LA"
+    },
+    {
+      "text": "Isolationism",
+      "range": [
+        56,
+        59
+      ],
+      "_id": "6hXA6ahiYLK6kopp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.6hXA6ahiYLK6kopp"
+    },
+    {
+      "text": "Law",
+      "range": [
+        60,
+        63
+      ],
+      "_id": "ORzm7J5DcFZA6hkN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.ORzm7J5DcFZA6hkN"
+    },
+    {
+      "text": "Mysticism",
+      "range": [
+        64,
+        67
+      ],
+      "_id": "0LnLzJj28HWlG2oM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.0LnLzJj28HWlG2oM"
+    },
+    {
+      "text": "Pacifism",
+      "range": [
+        68,
+        71
+      ],
+      "_id": "ndX0AeBBjsfvhFsH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.ndX0AeBBjsfvhFsH"
+    },
+    {
+      "text": "Prophecy",
+      "range": [
+        72,
+        75
+      ],
+      "_id": "BSETpFEdTB4wZ41W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.BSETpFEdTB4wZ41W"
+    },
+    {
+      "text": "Science",
+      "range": [
+        76,
+        79
+      ],
+      "_id": "vt3dZY0RR3FUsXZ7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.vt3dZY0RR3FUsXZ7"
+    },
+    {
+      "text": "Secrecy",
+      "range": [
+        80,
+        83
+      ],
+      "_id": "PBZLPXxTfub8bsMl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.PBZLPXxTfub8bsMl"
+    },
+    {
+      "text": "Technology",
+      "range": [
+        84,
+        87
+      ],
+      "_id": "MHBR1fJR8N9BDVDI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.MHBR1fJR8N9BDVDI"
+    },
+    {
+      "text": "Treachery",
+      "range": [
+        88,
+        91
+      ],
+      "_id": "NsfZoIXSmPkVOC8f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.NsfZoIXSmPkVOC8f"
+    },
+    {
+      "text": "Warfare",
+      "range": [
+        92,
+        96
+      ],
+      "_id": "zqKhbDZfEMhf5yWC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.zqKhbDZfEMhf5yWC"
+    },
+    {
+      "text": "Wealth",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "j5enwwNUWGZyU2oa",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!SR2UXvMKVawDqzk4.j5enwwNUWGZyU2oa"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Note that for the Dominion type, you roll on both the Dominion and Leadership oracles, although I use the Leadership oracle for all factions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597049,
+    "modifiedTime": 1693069922049,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "SR2UXvMKVawDqzk4",
+  "sort": 68750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!SR2UXvMKVawDqzk4"
+}

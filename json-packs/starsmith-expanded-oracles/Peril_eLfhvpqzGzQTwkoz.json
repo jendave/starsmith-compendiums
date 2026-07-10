@@ -1,0 +1,192 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Contaminated water supply",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "rhfbv7HrgSIqqodj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.rhfbv7HrgSIqqodj"
+    },
+    {
+      "text": "Domestic dispute",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "V6U3ge0z1R9srqwU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.V6U3ge0z1R9srqwU"
+    },
+    {
+      "text": "Exploitative living conditions",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "XRdo7h0TdpdU9VUA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.XRdo7h0TdpdU9VUA"
+    },
+    {
+      "text": "Illegal substance dealer",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "fS8jptXf9zQxMEan",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.fS8jptXf9zQxMEan"
+    },
+    {
+      "text": "Inadvertent trespass",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "HChehrdKT8vU3sga",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.HChehrdKT8vU3sga"
+    },
+    {
+      "text": "Infectious vermin",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "xIIAg1W0PHuiI7n9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.xIIAg1W0PHuiI7n9"
+    },
+    {
+      "text": "Nosy neighbor draws unwanted     attention",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "imfGHu3jiPbeqxqR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.imfGHu3jiPbeqxqR"
+    },
+    {
+      "text": "Parent looking for a lost child",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "41ZuXOeihD6klkta",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.41ZuXOeihD6klkta"
+    },
+    {
+      "text": "Shunned as an outsider",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "KduC0pP776ktTb6R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.KduC0pP776ktTb6R"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "bIXPemNd2aqOmPU7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.bIXPemNd2aqOmPU7"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Yl185bdRh8absckD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!eLfhvpqzGzQTwkoz.Yl185bdRh8absckD"
+    }
+  ],
+  "folder": "nnXmNsTGKj2qsDbm",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676658105,
+    "modifiedTime": 1699035706519,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "eLfhvpqzGzQTwkoz",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!eLfhvpqzGzQTwkoz"
+}

@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Access granted to helpful area",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "FrvnevHN7Kj8FNol",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XplkuU7q0umRy0ST.FrvnevHN7Kj8FNol"
+    },
+    {
+      "text": "Beneficial surveillance footage",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "0G2qhSvGegF19IIF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XplkuU7q0umRy0ST.0G2qhSvGegF19IIF"
+    },
+    {
+      "text": "Investigator seeking collaboration",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "UOhvRj6uzhscB1lR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XplkuU7q0umRy0ST.UOhvRj6uzhscB1lR"
+    },
+    {
+      "text": "Protocols slow down a rival or threat",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "Ae2eOGW3H91NC0Lq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XplkuU7q0umRy0ST.Ae2eOGW3H91NC0Lq"
+    },
+    {
+      "text": "Secret makes its way to light",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "4ZPCQzOgi4mxzxUD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XplkuU7q0umRy0ST.4ZPCQzOgi4mxzxUD"
+    }
+  ],
+  "folder": "tqS3sJ4uJqhLhQVD",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658132,
+    "modifiedTime": 1693870832647,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "XplkuU7q0umRy0ST",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!XplkuU7q0umRy0ST"
+}

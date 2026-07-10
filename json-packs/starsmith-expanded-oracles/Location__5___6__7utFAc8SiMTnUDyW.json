@@ -1,0 +1,69 @@
+{
+  "name": "Location (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Asteroid",
+      "range": [
+        1,
+        40
+      ],
+      "_id": "18HYkVrA2of62sDS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7utFAc8SiMTnUDyW.18HYkVrA2of62sDS"
+    },
+    {
+      "text": "Planetary ring",
+      "range": [
+        41,
+        75
+      ],
+      "_id": "WeU5Ogw005PdZp78",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7utFAc8SiMTnUDyW.WeU5Ogw005PdZp78"
+    },
+    {
+      "text": "Exoplanet",
+      "range": [
+        76,
+        100
+      ],
+      "_id": "A5XuXZtj3FcBNF9J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7utFAc8SiMTnUDyW.A5XuXZtj3FcBNF9J"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676424332,
+    "modifiedTime": 1693072125477,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "7utFAc8SiMTnUDyW",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!7utFAc8SiMTnUDyW"
+}

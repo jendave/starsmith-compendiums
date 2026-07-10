@@ -1,0 +1,207 @@
+{
+  "name": "Area",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Control room",
+      "range": [
+        1,
+        8
+      ],
+      "_id": "1fEn0cCaqrCp2cCE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.1fEn0cCaqrCp2cCE"
+    },
+    {
+      "text": "Engine room / power core",
+      "range": [
+        9,
+        16
+      ],
+      "_id": "nzzHbgq7G3o0g5kP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.nzzHbgq7G3o0g5kP"
+    },
+    {
+      "text": "Engineering offices",
+      "range": [
+        17,
+        24
+      ],
+      "_id": "IIqmowVTFFfVYRqE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.IIqmowVTFFfVYRqE"
+    },
+    {
+      "text": "Equipment storage",
+      "range": [
+        25,
+        32
+      ],
+      "_id": "A2NLriZhzfNfBNpF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.A2NLriZhzfNfBNpF"
+    },
+    {
+      "text": "Fuel or coolant tanks",
+      "range": [
+        33,
+        40
+      ],
+      "_id": "w4YgugT6nrbzA2sH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.w4YgugT6nrbzA2sH"
+    },
+    {
+      "text": "Life support",
+      "range": [
+        41,
+        48
+      ],
+      "_id": "k407BV6uC3vbg166",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.k407BV6uC3vbg166"
+    },
+    {
+      "text": "Maintenance tube",
+      "range": [
+        49,
+        56
+      ],
+      "_id": "ij03LdxQ2ygX0bQw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.ij03LdxQ2ygX0bQw"
+    },
+    {
+      "text": "Refuse recycling",
+      "range": [
+        57,
+        64
+      ],
+      "_id": "6dhjZBbb3h4nRut4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.6dhjZBbb3h4nRut4"
+    },
+    {
+      "text": "Vehicle bay or garage",
+      "range": [
+        65,
+        72
+      ],
+      "_id": "I3xZfw0yUiFrFFnI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.I3xZfw0yUiFrFFnI"
+    },
+    {
+      "text": "Water processing",
+      "range": [
+        73,
+        80
+      ],
+      "_id": "kVpXVUKj6aEf1na7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.kVpXVUKj6aEf1na7"
+    },
+    {
+      "text": "Workshop",
+      "range": [
+        81,
+        88
+      ],
+      "_id": "d3O2F3yoeIzyx1tv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.d3O2F3yoeIzyx1tv"
+    },
+    {
+      "text": "New zone via Access",
+      "range": [
+        89,
+        100
+      ],
+      "_id": "ShASjNE2T7tAgPJc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vOp4EtWnZwtkVOM4.ShASjNE2T7tAgPJc"
+    }
+  ],
+  "folder": "yIrjqo4T2v8hXe7o",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658087,
+    "modifiedTime": 1693870728882,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "vOp4EtWnZwtkVOM4",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!vOp4EtWnZwtkVOM4"
+}

@@ -1,0 +1,207 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ambushed by a lurking foe",
+      "range": [
+        1,
+        9
+      ],
+      "_id": "4Y8P2dGsp7j60X2q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.4Y8P2dGsp7j60X2q"
+    },
+    {
+      "text": "Automated suppressing fire",
+      "range": [
+        10,
+        18
+      ],
+      "_id": "wKIWgYpMa1LDJjb7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.wKIWgYpMa1LDJjb7"
+    },
+    {
+      "text": "Battlefield tech is triggered",
+      "range": [
+        19,
+        27
+      ],
+      "_id": "voXRX7hEs11bhpm9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.voXRX7hEs11bhpm9"
+    },
+    {
+      "text": "Caught in the crossfire",
+      "range": [
+        28,
+        36
+      ],
+      "_id": "F1yHfGLHgPzu9sBX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.F1yHfGLHgPzu9sBX"
+    },
+    {
+      "text": "Enemy sniper pins you down",
+      "range": [
+        37,
+        45
+      ],
+      "_id": "9EHzXZu6qk6SrR9Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.9EHzXZu6qk6SrR9Y"
+    },
+    {
+      "text": "Explosive change in the battlefield",
+      "range": [
+        46,
+        54
+      ],
+      "_id": "AYTG0EHzVz7Ltkvc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.AYTG0EHzVz7Ltkvc"
+    },
+    {
+      "text": "Lost in the chaos or debris",
+      "range": [
+        55,
+        63
+      ],
+      "_id": "ALxTVfDf24lMpEQK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.ALxTVfDf24lMpEQK"
+    },
+    {
+      "text": "Mistaken for the enemy",
+      "range": [
+        64,
+        72
+      ],
+      "_id": "AjFCpClNhjrvOxpm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.AjFCpClNhjrvOxpm"
+    },
+    {
+      "text": "Opportunistic looters take notice",
+      "range": [
+        73,
+        81
+      ],
+      "_id": "wyH4XCmuRbRPywlm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.wyH4XCmuRbRPywlm"
+    },
+    {
+      "text": "Shrapnel or collateral damage",
+      "range": [
+        82,
+        90
+      ],
+      "_id": "AjO8IzOJvd7rSsjA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.AjO8IzOJvd7rSsjA"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "VGA0L6dmheHIJbcG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.VGA0L6dmheHIJbcG"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "6Mm5zMtxe7nSiee8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7OWQYSOYnTGTHS1w.6Mm5zMtxe7nSiee8"
+    }
+  ],
+  "folder": "rb078vNpkjwXsLBL",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Combatants trade fire tensely in this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676712212,
+    "modifiedTime": 1699036166819,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "7OWQYSOYnTGTHS1w",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!7OWQYSOYnTGTHS1w"
+}

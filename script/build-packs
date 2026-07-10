@@ -1,0 +1,19 @@
+#! /bin/bash
+# Compile each JSON compendium source directory under json-packs/ into a
+# ClassicLevel (LevelDB) pack under dist/packs/, ready for release.
+#
+# Source of truth is json-packs/. To pull changes made in the Foundry client
+# back into JSON, use script/extract-packs.
+#
+# Each pack runs in its own subshell so the Foundry CLI's ClassicLevel database
+# is fully torn down before the next pack begins.
+
+set -eu
+
+for src in json-packs/*/; do
+	pack=${src%*/}  # remove the trailing "/"
+	pack=${pack##*/} # get everything after the final "/"
+	(
+		npx fvtt package --id starsmith-expanded-oracles --type Module pack "${pack}" -c --json --in "${src}" --out "dist/packs"
+	)
+done

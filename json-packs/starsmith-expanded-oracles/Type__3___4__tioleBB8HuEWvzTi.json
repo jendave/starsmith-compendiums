@@ -1,0 +1,357 @@
+{
+  "name": "Type (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Scorpion (Launches atmospheric fighters)",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "rZetfeomrKVaICtO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.rZetfeomrKVaICtO"
+    },
+    {
+      "text": "Lightning (Light bomber)",
+      "range": [
+        3,
+        6
+      ],
+      "_id": "vVCnDqQXfKwNqbc4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.vVCnDqQXfKwNqbc4"
+    },
+    {
+      "text": "Knight (Escort fighter)",
+      "range": [
+        7,
+        11
+      ],
+      "_id": "AnOd7UPQofUuHUw1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.AnOd7UPQofUuHUw1"
+    },
+    {
+      "text": "Thunder (Medium bomber)",
+      "range": [
+        12,
+        14
+      ],
+      "_id": "bJkznogglmbfzISq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.bJkznogglmbfzISq"
+    },
+    {
+      "text": "Storm (Heavy bomber)",
+      "range": [
+        15,
+        16
+      ],
+      "_id": "92DtTkNGELdbdlww",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.92DtTkNGELdbdlww"
+    },
+    {
+      "text": "Montgomery (Maintenance craft)",
+      "range": [
+        17,
+        19
+      ],
+      "_id": "WazXjAWTjFI6RcCs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.WazXjAWTjFI6RcCs"
+    },
+    {
+      "text": "Fabricator (Mobile production plant)",
+      "range": [
+        20,
+        22
+      ],
+      "_id": "xwhpV7G8Ix4i9Zbe",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.xwhpV7G8Ix4i9Zbe"
+    },
+    {
+      "text": "Generator (Mobile power supplier)",
+      "range": [
+        23,
+        27
+      ],
+      "_id": "d30J1dsdw8pZgKYp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.d30J1dsdw8pZgKYp"
+    },
+    {
+      "text": "Conveyor (Medium transport)",
+      "range": [
+        28,
+        33
+      ],
+      "_id": "XwY6odFYG3wgQZlA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.XwY6odFYG3wgQZlA"
+    },
+    {
+      "text": "Infiltrator (Stealthy surveillance craft)",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "GBqhskIGKCIo1hTt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.GBqhskIGKCIo1hTt"
+    },
+    {
+      "text": "Devastator (Vessel of mass destruction)",
+      "range": [
+        37,
+        38
+      ],
+      "_id": "3rp7UXT19InnWdeJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.3rp7UXT19InnWdeJ"
+    },
+    {
+      "text": "Explorer (Deep space cruiser)",
+      "range": [
+        39,
+        42
+      ],
+      "_id": "16RL0OwGDeV3ThpT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.16RL0OwGDeV3ThpT"
+    },
+    {
+      "text": "Caduceus (Medical ship)",
+      "range": [
+        43,
+        47
+      ],
+      "_id": "CbtZ0rU0SyKFOcXX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.CbtZ0rU0SyKFOcXX"
+    },
+    {
+      "text": "Horizon (Mobile communications array)",
+      "range": [
+        48,
+        50
+      ],
+      "_id": "rUshe3FRBnHV4WSU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.rUshe3FRBnHV4WSU"
+    },
+    {
+      "text": "Compass (Surveyor ship)",
+      "range": [
+        51,
+        56
+      ],
+      "_id": "4LDm7U9RMEUbcKrq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.4LDm7U9RMEUbcKrq"
+    },
+    {
+      "text": "Tug (Wreckage transport)",
+      "range": [
+        57,
+        61
+      ],
+      "_id": "bjA5L69675vNC9Gv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.bjA5L69675vNC9Gv"
+    },
+    {
+      "text": "Coach (Interplanetary transport)",
+      "range": [
+        62,
+        64
+      ],
+      "_id": "cQ7NHM4up7kJQZhr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.cQ7NHM4up7kJQZhr"
+    },
+    {
+      "text": "Schooner (Solar sail vessel)",
+      "range": [
+        65,
+        67
+      ],
+      "_id": "br2Sgp8QlmyIDb4n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.br2Sgp8QlmyIDb4n"
+    },
+    {
+      "text": "Multipurpose (Starship Mission)",
+      "range": [
+        68,
+        82
+      ],
+      "_id": "jB4wqW1bHVHD83JD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.jB4wqW1bHVHD83JD"
+    },
+    {
+      "text": "Unusual or unknown",
+      "range": [
+        83,
+        84
+      ],
+      "_id": "c1Mmf6bdi25AGYdk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.c1Mmf6bdi25AGYdk"
+    },
+    {
+      "text": "Fleet",
+      "range": [
+        85,
+        94
+      ],
+      "_id": "J7RgD9cueQ6Zi2Hw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.J7RgD9cueQ6Zi2Hw"
+    },
+    {
+      "text": "Ships in conflict (roll twice)",
+      "range": [
+        95,
+        100
+      ],
+      "_id": "HXlS7ZwJRNC5rob6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.HXlS7ZwJRNC5rob6"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461184,
+    "modifiedTime": 1693731306645,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "tioleBB8HuEWvzTi",
+  "sort": 43750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!tioleBB8HuEWvzTi"
+}

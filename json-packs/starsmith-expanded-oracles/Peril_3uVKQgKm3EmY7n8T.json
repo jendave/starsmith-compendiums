@@ -1,0 +1,207 @@
+{
+  "name": "Peril",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Avalanche",
+      "range": [
+        1,
+        9
+      ],
+      "_id": "wjko70Y8zWdYjjxs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.wjko70Y8zWdYjjxs"
+    },
+    {
+      "text": "Deceptively deep snow",
+      "range": [
+        10,
+        18
+      ],
+      "_id": "ntnosiabOhAiabmq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.ntnosiabOhAiabmq"
+    },
+    {
+      "text": "Falling icicles or hail",
+      "range": [
+        19,
+        27
+      ],
+      "_id": "2OsLWlmHxVZcljfN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.2OsLWlmHxVZcljfN"
+    },
+    {
+      "text": "Freezing rain quickly coats all in ice",
+      "range": [
+        28,
+        36
+      ],
+      "_id": "GDlNLi8uXOi9nC6J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.GDlNLi8uXOi9nC6J"
+    },
+    {
+      "text": "Frozen equipment malfunctions",
+      "range": [
+        37,
+        45
+      ],
+      "_id": "fgIDRpdp45GvnvfC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.fgIDRpdp45GvnvfC"
+    },
+    {
+      "text": "Frozen to a surface",
+      "range": [
+        46,
+        54
+      ],
+      "_id": "MLzMkiUlxmSu3SSI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.MLzMkiUlxmSu3SSI"
+    },
+    {
+      "text": "Path blocked by wall of ice",
+      "range": [
+        55,
+        63
+      ],
+      "_id": "zUSogbXw6kI8M9vL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.zUSogbXw6kI8M9vL"
+    },
+    {
+      "text": "Subzero temperatures",
+      "range": [
+        64,
+        72
+      ],
+      "_id": "TVWLQ2RcDL1S07PS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.TVWLQ2RcDL1S07PS"
+    },
+    {
+      "text": "Unexpected heat melts key support structure",
+      "range": [
+        73,
+        81
+      ],
+      "_id": "FWqJbK6Zgm2lbDRC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.FWqJbK6Zgm2lbDRC"
+    },
+    {
+      "text": "White-out conditions",
+      "range": [
+        82,
+        90
+      ],
+      "_id": "kbtWBbKTHD65nCIG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.kbtWBbKTHD65nCIG"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        91,
+        98
+      ],
+      "_id": "162pNeMoDZExvlqK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.162pNeMoDZExvlqK"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "mJpljLLLAJGPxWg3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!3uVKQgKm3EmY7n8T.mJpljLLLAJGPxWg3"
+    }
+  ],
+  "folder": "29i0Qfdk8Mh4M5fX",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Winter holds a permanent grip in this place.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676712166,
+    "modifiedTime": 1699036198778,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "3uVKQgKm3EmY7n8T",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!3uVKQgKm3EmY7n8T"
+}

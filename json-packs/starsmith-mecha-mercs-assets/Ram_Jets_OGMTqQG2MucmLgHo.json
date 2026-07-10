@@ -1,0 +1,54 @@
+{
+  "type": "asset",
+  "folder": "2aCuqfE0tm3YDPWk",
+  "name": "Ram Jets",
+  "system": {
+    "requirement": "",
+    "category": "Mech Module",
+    "color": "#883529",
+    "fields": [],
+    "abilities": [
+      {
+        "description": "<p>Your mech is equipped with a reinforced ramming surface and a short-burst hyper-acceleration jet.<p><p>When you @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.ae5994ceb3cba098]{Strike} or @UUID[Compendium.foundry-ironsworn.starforgedmoves.Item.3f5a834fa3fea5d1]{Gain Ground} by ramming a foe or obstacle at jet speed, you may roll +integrity. If you do, take +1 momentum on a hit. No matter the result, if the lowest challenge die is greater than your integrity, suffer -1 integrity.</p>",
+        "enabled": true,
+        "hasClock": false,
+        "clockMax": 4,
+        "clockTicks": 0
+      }
+    ],
+    "track": {
+      "enabled": false,
+      "name": "Integrity",
+      "current": 0,
+      "max": null,
+      "value": null,
+      "min": 0
+    },
+    "exclusiveOptions": [],
+    "conditions": [],
+    "description": ""
+  },
+  "img": "modules/starsmith-expanded-oracles/assets/rocket-thruster.svg",
+  "effects": [],
+  "flags": {
+    "core": {}
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "13.351",
+    "createdTime": 1708110961631,
+    "modifiedTime": 1764319987563,
+    "lastModifiedBy": "MmM06BuCrG9h1GLg",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "OGMTqQG2MucmLgHo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "_key": "!items!OGMTqQG2MucmLgHo"
+}

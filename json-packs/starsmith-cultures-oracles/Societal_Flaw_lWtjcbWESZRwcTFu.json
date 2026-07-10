@@ -1,0 +1,522 @@
+{
+  "name": "Societal Flaw",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Ambition",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "HwFzat8Qh3o0XurH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.HwFzat8Qh3o0XurH"
+    },
+    {
+      "text": "Classism",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "o5IYNLKkciS4NRth",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.o5IYNLKkciS4NRth"
+    },
+    {
+      "text": "Conformity",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "QAuGZtKUD9zwUfjx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.QAuGZtKUD9zwUfjx"
+    },
+    {
+      "text": "Consumerism",
+      "range": [
+        10,
+        12
+      ],
+      "_id": "IaBXK0E0OU0aLrlL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.IaBXK0E0OU0aLrlL"
+    },
+    {
+      "text": "Cowardice",
+      "range": [
+        13,
+        15
+      ],
+      "_id": "zbC9zfmJ4fb407ri",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.zbC9zfmJ4fb407ri"
+    },
+    {
+      "text": "Curiosity",
+      "range": [
+        16,
+        18
+      ],
+      "_id": "XNb8rp25eL77YdM7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.XNb8rp25eL77YdM7"
+    },
+    {
+      "text": "Discrimination",
+      "range": [
+        19,
+        21
+      ],
+      "_id": "JJOsSK5iFCI5C9l1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.JJOsSK5iFCI5C9l1"
+    },
+    {
+      "text": "Disregard for environment",
+      "range": [
+        22,
+        24
+      ],
+      "_id": "xiWqrosrKZo7SN7g",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.xiWqrosrKZo7SN7g"
+    },
+    {
+      "text": "Greed",
+      "range": [
+        25,
+        27
+      ],
+      "_id": "CNOjFNuX1ykDXhHt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.CNOjFNuX1ykDXhHt"
+    },
+    {
+      "text": "Hedonism",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "V9L7VhxizdX22KqI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.V9L7VhxizdX22KqI"
+    },
+    {
+      "text": "Honesty",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "T54cmrMneTmLQQxt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.T54cmrMneTmLQQxt"
+    },
+    {
+      "text": "Hubris",
+      "range": [
+        34,
+        36
+      ],
+      "_id": "ELglAp2DvIOhJAC3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.ELglAp2DvIOhJAC3"
+    },
+    {
+      "text": "Hyper-competitiveness",
+      "range": [
+        37,
+        39
+      ],
+      "_id": "Y5FWgNsfWTUe4LGn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.Y5FWgNsfWTUe4LGn"
+    },
+    {
+      "text": "Ignorance",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "o88y6xxp1TP3FLLK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.o88y6xxp1TP3FLLK"
+    },
+    {
+      "text": "Inaction",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "AN8WduqDOsMOwmfJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.AN8WduqDOsMOwmfJ"
+    },
+    {
+      "text": "Intolerance",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "z3S9sRWO1I5sqPQs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.z3S9sRWO1I5sqPQs"
+    },
+    {
+      "text": "Jealousy",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "h3i2pVXcTokKvjAH",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.h3i2pVXcTokKvjAH"
+    },
+    {
+      "text": "Loyalty",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "NDxRhbOaT9bdJsCQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.NDxRhbOaT9bdJsCQ"
+    },
+    {
+      "text": "Materialism",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "ZpKNKZTPgPLdku1Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.ZpKNKZTPgPLdku1Y"
+    },
+    {
+      "text": "Narrow-mindedness",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "bqxtJZ3oXmpXX6JU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.bqxtJZ3oXmpXX6JU"
+    },
+    {
+      "text": "Nationalism",
+      "range": [
+        61,
+        63
+      ],
+      "_id": "ZGm2NhJjx1lZKROK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.ZGm2NhJjx1lZKROK"
+    },
+    {
+      "text": "Neutrality",
+      "range": [
+        64,
+        66
+      ],
+      "_id": "4jWAoZMafFcxCqhE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.4jWAoZMafFcxCqhE"
+    },
+    {
+      "text": "Obsession with beauty",
+      "range": [
+        67,
+        69
+      ],
+      "_id": "evGBqR53WVNhkxOg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.evGBqR53WVNhkxOg"
+    },
+    {
+      "text": "Paranoia",
+      "range": [
+        70,
+        72
+      ],
+      "_id": "qintOm3cGDxPYXl9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.qintOm3cGDxPYXl9"
+    },
+    {
+      "text": "Perfectionism",
+      "range": [
+        73,
+        75
+      ],
+      "_id": "yiTEy206yjXINA5L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.yiTEy206yjXINA5L"
+    },
+    {
+      "text": "Polarization",
+      "range": [
+        76,
+        78
+      ],
+      "_id": "EpvKp4enZwdpPtSF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.EpvKp4enZwdpPtSF"
+    },
+    {
+      "text": "Pride",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "CNFTVrpF5LQWwfIl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.CNFTVrpF5LQWwfIl"
+    },
+    {
+      "text": "Reliance on technology",
+      "range": [
+        82,
+        84
+      ],
+      "_id": "KhRj59xoTJn8Qesg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.KhRj59xoTJn8Qesg"
+    },
+    {
+      "text": "Scheming",
+      "range": [
+        85,
+        87
+      ],
+      "_id": "4t2CqtkbRJFYEKna",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.4t2CqtkbRJFYEKna"
+    },
+    {
+      "text": "Selfishness",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "c8CQvZ8NsDFBOsun",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.c8CQvZ8NsDFBOsun"
+    },
+    {
+      "text": "Vanity",
+      "range": [
+        91,
+        93
+      ],
+      "_id": "8Niqnz3UxsX0KUJG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.8Niqnz3UxsX0KUJG"
+    },
+    {
+      "text": "Wealth",
+      "range": [
+        94,
+        96
+      ],
+      "_id": "PeSDZtxso11eg7EO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.PeSDZtxso11eg7EO"
+    },
+    {
+      "text": "Zealotry",
+      "range": [
+        97,
+        100
+      ],
+      "_id": "WqI4y7tBQnTwG9cV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!lWtjcbWESZRwcTFu.WqI4y7tBQnTwG9cV"
+    }
+  ],
+  "folder": "ajYYFv3X2N9JeKwP",
+  "sort": 2,
+  "_id": "lWtjcbWESZRwcTFu",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When designing a culture, it may be handy to include a flaw, or cultural blind spot, that can add to the tension of your play. This flaw is viewed as beneficial by the vast majority of society, and many traditions and/or policies are built on this flaw. However, ultimately, it is still a flaw that if left unchecked can bring down the whole society.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144706337,
+    "modifiedTime": 1708147637451,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!lWtjcbWESZRwcTFu"
+}

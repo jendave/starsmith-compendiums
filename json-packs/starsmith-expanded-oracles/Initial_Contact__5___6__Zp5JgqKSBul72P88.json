@@ -1,0 +1,195 @@
+{
+  "name": "Initial Contact (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Informative",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "3y5wBd2evWSRU0wj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.3y5wBd2evWSRU0wj"
+    },
+    {
+      "text": "Seeking mutual benefit",
+      "range": [
+        4,
+        15
+      ],
+      "_id": "lnsUqVyraStHSo14",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.lnsUqVyraStHSo14"
+    },
+    {
+      "text": "Bureaucratic protocols",
+      "range": [
+        16,
+        25
+      ],
+      "_id": "N3efZKhwidBHvqlk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.N3efZKhwidBHvqlk"
+    },
+    {
+      "text": "Apathetic",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "oTqcGzqYLwCWGyai",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.oTqcGzqYLwCWGyai"
+    },
+    {
+      "text": "Stubborn contrarian",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "Xa71H4awSBCNDNPG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.Xa71H4awSBCNDNPG"
+    },
+    {
+      "text": "Arrogant jerk",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "XtItpfbCR271IdOg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.XtItpfbCR271IdOg"
+    },
+    {
+      "text": "Apathetic",
+      "range": [
+        51,
+        65
+      ],
+      "_id": "JQxXoCAaBxSyau9k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.JQxXoCAaBxSyau9k"
+    },
+    {
+      "text": "Wants to travel together",
+      "range": [
+        66,
+        80
+      ],
+      "_id": "dJuGXXVYxz4XTO5W",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.dJuGXXVYxz4XTO5W"
+    },
+    {
+      "text": "In a time crunch",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "5n7nk1oDp3mRjGxY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.5n7nk1oDp3mRjGxY"
+    },
+    {
+      "text": "Looped distress call",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "tkkFewdXPLAcFeoT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.tkkFewdXPLAcFeoT"
+    },
+    {
+      "text": "Core going critical",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "XtsVpR5Oa8ByR7Z5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.XtsVpR5Oa8ByR7Z5"
+    },
+    {
+      "text": "Derelict",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "3rOVwaoatNzKiQx1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!Zp5JgqKSBul72P88.3rOVwaoatNzKiQx1"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461211,
+    "modifiedTime": 1693073469675,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "Zp5JgqKSBul72P88",
+  "sort": 75000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Zp5JgqKSBul72P88"
+}

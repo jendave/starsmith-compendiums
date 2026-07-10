@@ -1,0 +1,111 @@
+{
+  "name": "Plant or Fungus",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Carnivorous",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "KR8q3CaNDKra6kpo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!nJDxYDhJBJTrv8wS.KR8q3CaNDKra6kpo"
+    },
+    {
+      "text": "Flower or leaf",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "Yn5V5W4HIwbygs3y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!nJDxYDhJBJTrv8wS.Yn5V5W4HIwbygs3y"
+    },
+    {
+      "text": "Pod or roots",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "BeITFOPAYRamUM9n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!nJDxYDhJBJTrv8wS.BeITFOPAYRamUM9n"
+    },
+    {
+      "text": "Sporeling",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "3Uek9HKZHDmnyrYA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!nJDxYDhJBJTrv8wS.3Uek9HKZHDmnyrYA"
+    },
+    {
+      "text": "Tree or wooden",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "untrdCQqFYCFKVS7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!nJDxYDhJBJTrv8wS.untrdCQqFYCFKVS7"
+    },
+    {
+      "text": "Vine mass",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "SgkhZN7mwVTJp1LW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!nJDxYDhJBJTrv8wS.SgkhZN7mwVTJp1LW"
+    }
+  ],
+  "folder": "DorJeKLUFKEXAJXi",
+  "sort": 9,
+  "_id": "nJDxYDhJBJTrv8wS",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144773821,
+    "modifiedTime": 1708145194398,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!nJDxYDhJBJTrv8wS"
+}

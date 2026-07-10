@@ -1,0 +1,72 @@
+{
+  "name": "Restraint",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Society views happiness as the ultimate goal",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "VkqKMEokzHPq6rEY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XQMGDghIkIquxjC7.VkqKMEokzHPq6rEY"
+    },
+    {
+      "text": "Drive for personal happiness is tempered by moderate restraint",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "nB7RVqSM7UbKsXnL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XQMGDghIkIquxjC7.nB7RVqSM7UbKsXnL"
+    },
+    {
+      "text": "Indulgences are restricted and regulated to prevent vices",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "aQa1RpqjYkmkM2eL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!XQMGDghIkIquxjC7.aQa1RpqjYkmkM2eL"
+    }
+  ],
+  "folder": "oD0dazVrvD3ZwkCK",
+  "sort": 5,
+  "_id": "XQMGDghIkIquxjC7",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>This is a measure of how a society feels about allowing gratification of human desire to enjoy life and have fun. Where indulgent societies see themselves in control of their emotions, restrained societies see others as overly influencing their own emotions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708140096018,
+    "modifiedTime": 1708147324165,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!XQMGDghIkIquxjC7"
+}

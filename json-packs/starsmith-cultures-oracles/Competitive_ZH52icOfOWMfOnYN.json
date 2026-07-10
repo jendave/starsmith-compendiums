@@ -1,0 +1,72 @@
+{
+  "name": "Competitive",
+  "formula": "1d6",
+  "results": [
+    {
+      "text": "Consensus building and care for weak are prioritized",
+      "range": [
+        1,
+        2
+      ],
+      "_id": "DyQ2vyc1CLK3vgor",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZH52icOfOWMfOnYN.DyQ2vyc1CLK3vgor"
+    },
+    {
+      "text": "Individual achievement is balanced by a team player attitude",
+      "range": [
+        3,
+        4
+      ],
+      "_id": "5zE4P3E39ov07zcD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZH52icOfOWMfOnYN.5zE4P3E39ov07zcD"
+    },
+    {
+      "text": "Individual superstars wield the most power and influence",
+      "range": [
+        5,
+        6
+      ],
+      "_id": "4ayTBTbSoZXUuMC8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!ZH52icOfOWMfOnYN.4ayTBTbSoZXUuMC8"
+    }
+  ],
+  "folder": "oD0dazVrvD3ZwkCK",
+  "sort": 3,
+  "_id": "ZH52icOfOWMfOnYN",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Originally called the masculine vs. feminine index, this represents a society’s preference for achievement, material reward, and assertiveness vs. a preference for cooperation, modesty, caring for the weak, and caring for the quality of life.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708140096013,
+    "modifiedTime": 1708147298024,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!ZH52icOfOWMfOnYN"
+}

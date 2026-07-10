@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Abandoned orbital stations",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "sNtku9V57Ay9HjAx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.sNtku9V57Ay9HjAx"
+    },
+    {
+      "text": "Dead and frozen core",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "XvDt8OFbkzJ1ggey",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.XvDt8OFbkzJ1ggey"
+    },
+    {
+      "text": "Debris field fused together by intense heat",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "PUdhIxTVtgcIyuYg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.PUdhIxTVtgcIyuYg"
+    },
+    {
+      "text": "Erratic magnetic pulses",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "2VmBoyAqPxm9lEyt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.2VmBoyAqPxm9lEyt"
+    },
+    {
+      "text": "Moon pushed into an unusual orbit",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "pgJTCE6NPRdX23Tm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.pgJTCE6NPRdX23Tm"
+    },
+    {
+      "text": "Radiation on specific fragments",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "4jWj4SH9CttpzRb8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.4jWj4SH9CttpzRb8"
+    },
+    {
+      "text": "Ring system with large gaps",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "ioBMk6NBXjuMRuz4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.ioBMk6NBXjuMRuz4"
+    },
+    {
+      "text": "Solar winds scattering planetary fragments",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "laboAMq2k7vW0d3s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.laboAMq2k7vW0d3s"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "hHgrzh9BUkTKOuML",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.hHgrzh9BUkTKOuML"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "URi1Gf807ki7SSSX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!VD3Q2RTuFjSouslM.URi1Gf807ki7SSSX"
+    }
+  ],
+  "folder": "v5cvqSu1q6CUcfPg",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676402039,
+    "modifiedTime": 1699054158006,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "VD3Q2RTuFjSouslM",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!VD3Q2RTuFjSouslM"
+}

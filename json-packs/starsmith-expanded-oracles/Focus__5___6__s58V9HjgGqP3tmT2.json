@@ -1,0 +1,1527 @@
+{
+  "name": "Focus (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Agreement",
+      "range": [
+        1,
+        1
+      ],
+      "_id": "Kw5f7KFomEVT0Izs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.Kw5f7KFomEVT0Izs"
+    },
+    {
+      "text": "Ambush",
+      "range": [
+        2,
+        2
+      ],
+      "_id": "6Jua3bqp7GkZcrUO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.6Jua3bqp7GkZcrUO"
+    },
+    {
+      "text": "Ansible (A device used for faster-than-light communication)",
+      "range": [
+        3,
+        3
+      ],
+      "_id": "V7dgDWMZ9OuvaoZK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.V7dgDWMZ9OuvaoZK"
+    },
+    {
+      "text": "Astrogate",
+      "range": [
+        4,
+        4
+      ],
+      "_id": "4f2FYHZqUiwRf3oz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.4f2FYHZqUiwRf3oz"
+    },
+    {
+      "text": "Automaton",
+      "range": [
+        5,
+        5
+      ],
+      "_id": "4ogFSfFwkzKBAogV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.4ogFSfFwkzKBAogV"
+    },
+    {
+      "text": "Barrier",
+      "range": [
+        6,
+        6
+      ],
+      "_id": "q7zbSg5Ej0b61Ylk",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.q7zbSg5Ej0b61Ylk"
+    },
+    {
+      "text": "Base",
+      "range": [
+        7,
+        7
+      ],
+      "_id": "uifPWBDwK7xlw2F1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.uifPWBDwK7xlw2F1"
+    },
+    {
+      "text": "Battle",
+      "range": [
+        8,
+        8
+      ],
+      "_id": "gclAGTfdtufm1UsS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.gclAGTfdtufm1UsS"
+    },
+    {
+      "text": "Battlefield",
+      "range": [
+        9,
+        9
+      ],
+      "_id": "BIKzgmXL7hmkVSCm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.BIKzgmXL7hmkVSCm"
+    },
+    {
+      "text": "Biotech",
+      "range": [
+        10,
+        10
+      ],
+      "_id": "ZNEPNRJJDh5J3ZQ7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ZNEPNRJJDh5J3ZQ7"
+    },
+    {
+      "text": "Boost",
+      "range": [
+        11,
+        11
+      ],
+      "_id": "A3WsvUZwODvc7BZv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.A3WsvUZwODvc7BZv"
+    },
+    {
+      "text": "Camp",
+      "range": [
+        12,
+        12
+      ],
+      "_id": "Vpj8PMvCrWEUPSP6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.Vpj8PMvCrWEUPSP6"
+    },
+    {
+      "text": "Ceasefire",
+      "range": [
+        13,
+        13
+      ],
+      "_id": "8Wevhl4LVxswZirG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.8Wevhl4LVxswZirG"
+    },
+    {
+      "text": "Chimera",
+      "range": [
+        14,
+        14
+      ],
+      "_id": "2GwuPpFfzX7yVlxh",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.2GwuPpFfzX7yVlxh"
+    },
+    {
+      "text": "Climate",
+      "range": [
+        15,
+        15
+      ],
+      "_id": "XL2SWbX40lQ61vur",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.XL2SWbX40lQ61vur"
+    },
+    {
+      "text": "Cloak",
+      "range": [
+        16,
+        16
+      ],
+      "_id": "5rg0qbFYIvimqm1x",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.5rg0qbFYIvimqm1x"
+    },
+    {
+      "text": "Cloud",
+      "range": [
+        17,
+        17
+      ],
+      "_id": "lJVssQykcFsDisWt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.lJVssQykcFsDisWt"
+    },
+    {
+      "text": "Company",
+      "range": [
+        18,
+        18
+      ],
+      "_id": "NkPyQRCen7q1XGEq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.NkPyQRCen7q1XGEq"
+    },
+    {
+      "text": "Component",
+      "range": [
+        19,
+        19
+      ],
+      "_id": "lD977ymxvcWYbzfp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.lD977ymxvcWYbzfp"
+    },
+    {
+      "text": "Computer",
+      "range": [
+        20,
+        20
+      ],
+      "_id": "benUtMynTP148z6S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.benUtMynTP148z6S"
+    },
+    {
+      "text": "Consortium",
+      "range": [
+        21,
+        21
+      ],
+      "_id": "hPaO73nL4YGkE2XI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.hPaO73nL4YGkE2XI"
+    },
+    {
+      "text": "Contract",
+      "range": [
+        22,
+        22
+      ],
+      "_id": "cms7B4bfvd9qZkIy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.cms7B4bfvd9qZkIy"
+    },
+    {
+      "text": "Converter",
+      "range": [
+        23,
+        23
+      ],
+      "_id": "GpxOIvaMEmWzz8yD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.GpxOIvaMEmWzz8yD"
+    },
+    {
+      "text": "Cyborg",
+      "range": [
+        24,
+        24
+      ],
+      "_id": "NwFaODUzzk7acx3Y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.NwFaODUzzk7acx3Y"
+    },
+    {
+      "text": "Documents",
+      "range": [
+        25,
+        25
+      ],
+      "_id": "5Zqad10rO2vfFfSL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.5Zqad10rO2vfFfSL"
+    },
+    {
+      "text": "Dome",
+      "range": [
+        26,
+        26
+      ],
+      "_id": "xiLxVZ7rVKsyAjfC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.xiLxVZ7rVKsyAjfC"
+    },
+    {
+      "text": "Drug",
+      "range": [
+        27,
+        27
+      ],
+      "_id": "ROPFX9P22APqDrwu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ROPFX9P22APqDrwu"
+    },
+    {
+      "text": "Economy",
+      "range": [
+        28,
+        28
+      ],
+      "_id": "hNaBjLT384QFArO6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.hNaBjLT384QFArO6"
+    },
+    {
+      "text": "Empath",
+      "range": [
+        29,
+        29
+      ],
+      "_id": "fbhFmRIXfF92Ln2A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.fbhFmRIXfF92Ln2A"
+    },
+    {
+      "text": "Epidemic",
+      "range": [
+        30,
+        30
+      ],
+      "_id": "y6LkFHfKqLXgZoZq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.y6LkFHfKqLXgZoZq"
+    },
+    {
+      "text": "Esper (A person who uses psychic abilities)",
+      "range": [
+        31,
+        31
+      ],
+      "_id": "82SemPC87j76A6t9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.82SemPC87j76A6t9"
+    },
+    {
+      "text": "Flagship",
+      "range": [
+        32,
+        32
+      ],
+      "_id": "0AWEEKw9kOhV9LKq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.0AWEEKw9kOhV9LKq"
+    },
+    {
+      "text": "Fortress",
+      "range": [
+        33,
+        33
+      ],
+      "_id": "VL5zjlbITJChnAwc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.VL5zjlbITJChnAwc"
+    },
+    {
+      "text": "Fund",
+      "range": [
+        34,
+        34
+      ],
+      "_id": "OqrdlDZBKLUulRsO",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.OqrdlDZBKLUulRsO"
+    },
+    {
+      "text": "Graveyard",
+      "range": [
+        35,
+        35
+      ],
+      "_id": "bMp2zlkZjbWXLRDB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.bMp2zlkZjbWXLRDB"
+    },
+    {
+      "text": "Hardware",
+      "range": [
+        36,
+        36
+      ],
+      "_id": "r1OegP0v8ERpauiP",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.r1OegP0v8ERpauiP"
+    },
+    {
+      "text": "Hindrance",
+      "range": [
+        37,
+        37
+      ],
+      "_id": "ZzOUJCUGaiUfWana",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ZzOUJCUGaiUfWana"
+    },
+    {
+      "text": "Hivemind",
+      "range": [
+        38,
+        38
+      ],
+      "_id": "vsIqy6gVwVhx26n0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.vsIqy6gVwVhx26n0"
+    },
+    {
+      "text": "Hyperspace",
+      "range": [
+        39,
+        39
+      ],
+      "_id": "eDO6rzVbTSJl8qi7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.eDO6rzVbTSJl8qi7"
+    },
+    {
+      "text": "Hypospray",
+      "range": [
+        40,
+        40
+      ],
+      "_id": "YFNQAcw4FGVhGOEC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.YFNQAcw4FGVhGOEC"
+    },
+    {
+      "text": "Image",
+      "range": [
+        41,
+        41
+      ],
+      "_id": "vejpMU2ckAAgpDMV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.vejpMU2ckAAgpDMV"
+    },
+    {
+      "text": "Impact",
+      "range": [
+        42,
+        42
+      ],
+      "_id": "e4aovHI0bNVEj5kg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.e4aovHI0bNVEj5kg"
+    },
+    {
+      "text": "Information",
+      "range": [
+        43,
+        43
+      ],
+      "_id": "DTMVkYzD7iihMkCM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.DTMVkYzD7iihMkCM"
+    },
+    {
+      "text": "Interface",
+      "range": [
+        44,
+        44
+      ],
+      "_id": "h9lgvmsrPyV8jzEL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.h9lgvmsrPyV8jzEL"
+    },
+    {
+      "text": "Invasion",
+      "range": [
+        45,
+        45
+      ],
+      "_id": "Ny03seA4QDMqxRp1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.Ny03seA4QDMqxRp1"
+    },
+    {
+      "text": "Invention",
+      "range": [
+        46,
+        46
+      ],
+      "_id": "7X4hptwdpOPPHxD6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.7X4hptwdpOPPHxD6"
+    },
+    {
+      "text": "Inventory",
+      "range": [
+        47,
+        47
+      ],
+      "_id": "Tq4KEwanYzcfE8jb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.Tq4KEwanYzcfE8jb"
+    },
+    {
+      "text": "Knowledge",
+      "range": [
+        48,
+        48
+      ],
+      "_id": "Ii4fbNFmsoXbZJoE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.Ii4fbNFmsoXbZJoE"
+    },
+    {
+      "text": "Leader",
+      "range": [
+        49,
+        49
+      ],
+      "_id": "mV7aYbFymCpAvuex",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.mV7aYbFymCpAvuex"
+    },
+    {
+      "text": "Manifesto",
+      "range": [
+        50,
+        50
+      ],
+      "_id": "sYlEVVuEYFwwnxFT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.sYlEVVuEYFwwnxFT"
+    },
+    {
+      "text": "Manuscript",
+      "range": [
+        51,
+        51
+      ],
+      "_id": "AE9IGlWKRGxdCrYR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.AE9IGlWKRGxdCrYR"
+    },
+    {
+      "text": "Mass",
+      "range": [
+        52,
+        52
+      ],
+      "_id": "g2ilVi57ZCn93chY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.g2ilVi57ZCn93chY"
+    },
+    {
+      "text": "Matter",
+      "range": [
+        53,
+        53
+      ],
+      "_id": "EBKG0z6NUiL9iizl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.EBKG0z6NUiL9iizl"
+    },
+    {
+      "text": "Media",
+      "range": [
+        54,
+        54
+      ],
+      "_id": "SItuWDU45COixnpj",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.SItuWDU45COixnpj"
+    },
+    {
+      "text": "Military",
+      "range": [
+        55,
+        55
+      ],
+      "_id": "tAEFRlpqMz0jN5a6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.tAEFRlpqMz0jN5a6"
+    },
+    {
+      "text": "Miniaturization",
+      "range": [
+        56,
+        56
+      ],
+      "_id": "n9tc8GAV6apoCz10",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.n9tc8GAV6apoCz10"
+    },
+    {
+      "text": "Mutant",
+      "range": [
+        57,
+        57
+      ],
+      "_id": "eOSe38BH5pnsdQkD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.eOSe38BH5pnsdQkD"
+    },
+    {
+      "text": "Myth",
+      "range": [
+        58,
+        58
+      ],
+      "_id": "WzdG6WN29UY5TXoK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.WzdG6WN29UY5TXoK"
+    },
+    {
+      "text": "Order",
+      "range": [
+        59,
+        59
+      ],
+      "_id": "WzQdQnNu3aPrbXgU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.WzQdQnNu3aPrbXgU"
+    },
+    {
+      "text": "Organ",
+      "range": [
+        60,
+        60
+      ],
+      "_id": "yMttEt4KzrQM614J",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.yMttEt4KzrQM614J"
+    },
+    {
+      "text": "Parallel World",
+      "range": [
+        61,
+        61
+      ],
+      "_id": "3p6hz02LnC9AKuhd",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.3p6hz02LnC9AKuhd"
+    },
+    {
+      "text": "Parasite",
+      "range": [
+        62,
+        62
+      ],
+      "_id": "0FjzJDjI0Nnxb5W7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.0FjzJDjI0Nnxb5W7"
+    },
+    {
+      "text": "Particle",
+      "range": [
+        63,
+        63
+      ],
+      "_id": "ZpF5k3xHNqIootCX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ZpF5k3xHNqIootCX"
+    },
+    {
+      "text": "Passage",
+      "range": [
+        64,
+        64
+      ],
+      "_id": "aVI73Adr4g3tBR3v",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.aVI73Adr4g3tBR3v"
+    },
+    {
+      "text": "Pathogen",
+      "range": [
+        65,
+        65
+      ],
+      "_id": "ucQ6UC3qLuJ73fjn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ucQ6UC3qLuJ73fjn"
+    },
+    {
+      "text": "Phantasm",
+      "range": [
+        66,
+        66
+      ],
+      "_id": "ub9oWwZt3HcoWdwB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ub9oWwZt3HcoWdwB"
+    },
+    {
+      "text": "Prison",
+      "range": [
+        67,
+        67
+      ],
+      "_id": "62GGZAgZTEQ1Csm1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.62GGZAgZTEQ1Csm1"
+    },
+    {
+      "text": "Processor",
+      "range": [
+        68,
+        68
+      ],
+      "_id": "aos9dnRCTcs7hGHF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.aos9dnRCTcs7hGHF"
+    },
+    {
+      "text": "Red Shirt",
+      "range": [
+        69,
+        69
+      ],
+      "_id": "KKBncmfIV3LA2OEM",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.KKBncmfIV3LA2OEM"
+    },
+    {
+      "text": "Regeneration",
+      "range": [
+        70,
+        70
+      ],
+      "_id": "amIujOAXf5VTrrUQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.amIujOAXf5VTrrUQ"
+    },
+    {
+      "text": "Replicant (Artificial or genetically engineered exact copy of a human)",
+      "range": [
+        71,
+        71
+      ],
+      "_id": "wV2s4J5ws8K47vPX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.wV2s4J5ws8K47vPX"
+    },
+    {
+      "text": "Repository",
+      "range": [
+        72,
+        72
+      ],
+      "_id": "sb1NoIHkYOXs9ggw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.sb1NoIHkYOXs9ggw"
+    },
+    {
+      "text": "Reservoir",
+      "range": [
+        73,
+        73
+      ],
+      "_id": "w8FNv0gBi4KuWyLW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.w8FNv0gBi4KuWyLW"
+    },
+    {
+      "text": "Revolt",
+      "range": [
+        74,
+        74
+      ],
+      "_id": "y3gEnrK3LXxX4kYq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.y3gEnrK3LXxX4kYq"
+    },
+    {
+      "text": "Revolution",
+      "range": [
+        75,
+        75
+      ],
+      "_id": "OHsHqBfWILRZz8i5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.OHsHqBfWILRZz8i5"
+    },
+    {
+      "text": "Scapegoat",
+      "range": [
+        76,
+        76
+      ],
+      "_id": "0l6mMZA5td67xzlJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.0l6mMZA5td67xzlJ"
+    },
+    {
+      "text": "Sensor",
+      "range": [
+        77,
+        77
+      ],
+      "_id": "82dBLnzGjgUgMrHE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.82dBLnzGjgUgMrHE"
+    },
+    {
+      "text": "Shipyard",
+      "range": [
+        78,
+        78
+      ],
+      "_id": "8rbDVw3tX7lQOT3n",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.8rbDVw3tX7lQOT3n"
+    },
+    {
+      "text": "Skirmish",
+      "range": [
+        79,
+        79
+      ],
+      "_id": "3RAfwscFyINYOJdp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.3RAfwscFyINYOJdp"
+    },
+    {
+      "text": "Slipstream",
+      "range": [
+        80,
+        80
+      ],
+      "_id": "IHu3FDE370OXq5sv",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.IHu3FDE370OXq5sv"
+    },
+    {
+      "text": "Software",
+      "range": [
+        81,
+        81
+      ],
+      "_id": "52xpBPl4pZr0qSzV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.52xpBPl4pZr0qSzV"
+    },
+    {
+      "text": "Spirit",
+      "range": [
+        82,
+        82
+      ],
+      "_id": "M6yfLrgUAouJOg7e",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.M6yfLrgUAouJOg7e"
+    },
+    {
+      "text": "Stockpile",
+      "range": [
+        83,
+        83
+      ],
+      "_id": "n1BfBU2XLj5SYTmp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.n1BfBU2XLj5SYTmp"
+    },
+    {
+      "text": "Stronghold",
+      "range": [
+        84,
+        84
+      ],
+      "_id": "ITvi3U1A1A7kYGeI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ITvi3U1A1A7kYGeI"
+    },
+    {
+      "text": "Surplus",
+      "range": [
+        85,
+        85
+      ],
+      "_id": "7jaTuLYShAkHtAYq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.7jaTuLYShAkHtAYq"
+    },
+    {
+      "text": "Symbiote",
+      "range": [
+        86,
+        86
+      ],
+      "_id": "OsDpmfwLAHTMWHoq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.OsDpmfwLAHTMWHoq"
+    },
+    {
+      "text": "Sympathizer",
+      "range": [
+        87,
+        87
+      ],
+      "_id": "xK00mJdl65Ukgn0Z",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.xK00mJdl65Ukgn0Z"
+    },
+    {
+      "text": "Theory",
+      "range": [
+        88,
+        88
+      ],
+      "_id": "rD63esHww85Gizl1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.rD63esHww85Gizl1"
+    },
+    {
+      "text": "Threat",
+      "range": [
+        89,
+        89
+      ],
+      "_id": "ksJKi9kqBWV6AwDb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ksJKi9kqBWV6AwDb"
+    },
+    {
+      "text": "Universe",
+      "range": [
+        90,
+        90
+      ],
+      "_id": "K2ji5JbQ0aH5Gc9w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.K2ji5JbQ0aH5Gc9w"
+    },
+    {
+      "text": "Utopia",
+      "range": [
+        91,
+        91
+      ],
+      "_id": "zqw5bJ65nmErMuK6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.zqw5bJ65nmErMuK6"
+    },
+    {
+      "text": "Vestiges",
+      "range": [
+        92,
+        92
+      ],
+      "_id": "ysN1apu4G9U3o1iq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.ysN1apu4G9U3o1iq"
+    },
+    {
+      "text": "Victim",
+      "range": [
+        93,
+        93
+      ],
+      "_id": "sR5Sug03p4fzaOhA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.sR5Sug03p4fzaOhA"
+    },
+    {
+      "text": "Virus",
+      "range": [
+        94,
+        94
+      ],
+      "_id": "rPt1lMB6L9NprKm0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.rPt1lMB6L9NprKm0"
+    },
+    {
+      "text": "Voyage",
+      "range": [
+        95,
+        95
+      ],
+      "_id": "QpVsgFopojQeJHno",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.QpVsgFopojQeJHno"
+    },
+    {
+      "text": "War",
+      "range": [
+        96,
+        96
+      ],
+      "_id": "LSSrslbTlRY0VzJ7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.LSSrslbTlRY0VzJ7"
+    },
+    {
+      "text": "Warp",
+      "range": [
+        97,
+        97
+      ],
+      "_id": "VgU0fzNPPC2WixLw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.VgU0fzNPPC2WixLw"
+    },
+    {
+      "text": "Xenobot",
+      "range": [
+        98,
+        98
+      ],
+      "_id": "qIqeQ03M714sjMaG",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.qIqeQ03M714sjMaG"
+    },
+    {
+      "text": "Zero-Gravity",
+      "range": [
+        99,
+        99
+      ],
+      "_id": "b3EY1cwCp9dnLLyY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.b3EY1cwCp9dnLLyY"
+    },
+    {
+      "text": "Zone",
+      "range": [
+        100,
+        100
+      ],
+      "_id": "kEFkCjuGmNBmkxvL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!s58V9HjgGqP3tmT2.kEFkCjuGmNBmkxvL"
+    }
+  ],
+  "folder": "SW9eKiLhIBf4c0Km",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676265560,
+    "modifiedTime": 1693042400786,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "s58V9HjgGqP3tmT2",
+  "sort": 1400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!s58V9HjgGqP3tmT2"
+}

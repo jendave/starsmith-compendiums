@@ -1,0 +1,167 @@
+{
+  "name": "Outer First Look (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Sprung traps",
+      "range": [
+        1,
+        15
+      ],
+      "_id": "bytwCCdSepvF4y1V",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.bytwCCdSepvF4y1V"
+    },
+    {
+      "text": "Abandoned weapons",
+      "range": [
+        16,
+        30
+      ],
+      "_id": "KjveKFL2KqYslZIJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.KjveKFL2KqYslZIJ"
+    },
+    {
+      "text": "Leaking unknown gases or vapor",
+      "range": [
+        31,
+        45
+      ],
+      "_id": "lu5EMu9O2gtQ8H4D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.lu5EMu9O2gtQ8H4D"
+    },
+    {
+      "text": "Multiple attached structures",
+      "range": [
+        46,
+        50
+      ],
+      "_id": "84ohsYYhD3oOyOiV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.84ohsYYhD3oOyOiV"
+    },
+    {
+      "text": "Clearly lacking a key system",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "V3zCG6zvtGOf0NsL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.V3zCG6zvtGOf0NsL"
+    },
+    {
+      "text": "Partially buried or subsumed",
+      "range": [
+        61,
+        65
+      ],
+      "_id": "mLlpLUgb9jfukb27",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.mLlpLUgb9jfukb27"
+    },
+    {
+      "text": "Message scrawled on exterior",
+      "range": [
+        66,
+        80
+      ],
+      "_id": "z9NzNwh3sVHC2VoZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.z9NzNwh3sVHC2VoZ"
+    },
+    {
+      "text": "Signs of lifeforms",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "w3azEcgezeDBuwiA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.w3azEcgezeDBuwiA"
+    },
+    {
+      "text": "Deteriorating exterior",
+      "range": [
+        86,
+        95
+      ],
+      "_id": "wAwTTE3PqcwTZd52",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.wAwTTE3PqcwTZd52"
+    },
+    {
+      "text": "Affected by local stellar phenomenon",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "08oUNV2jAXlYyhDC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!uW58pJGwNVqUKWh0.08oUNV2jAXlYyhDC"
+    }
+  ],
+  "folder": "uFBHcawqNPAmWvqe",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676611924,
+    "modifiedTime": 1693042481037,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "uW58pJGwNVqUKWh0",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!uW58pJGwNVqUKWh0"
+}

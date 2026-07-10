@@ -1,0 +1,207 @@
+{
+  "name": "Disposition (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Helpful",
+      "range": [
+        1,
+        6
+      ],
+      "_id": "6VRKlvvqlJDJlbEl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.6VRKlvvqlJDJlbEl"
+    },
+    {
+      "text": "Friendly",
+      "range": [
+        7,
+        14
+      ],
+      "_id": "rTqOlxUG5FDUXIAV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.rTqOlxUG5FDUXIAV"
+    },
+    {
+      "text": "Cooperative",
+      "range": [
+        15,
+        22
+      ],
+      "_id": "vAiewP6ksDAFApFg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.vAiewP6ksDAFApFg"
+    },
+    {
+      "text": "Curious",
+      "range": [
+        23,
+        30
+      ],
+      "_id": "GzAcbMXNjPLOrLhX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.GzAcbMXNjPLOrLhX"
+    },
+    {
+      "text": "Indifferent",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "5FiqZEZAUmjB4RS5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.5FiqZEZAUmjB4RS5"
+    },
+    {
+      "text": "Suspicious",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "bx6lqlxYmgBE7fto",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.bx6lqlxYmgBE7fto"
+    },
+    {
+      "text": "Wanting",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "BPnV1N3jRRg3V8WR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.BPnV1N3jRRg3V8WR"
+    },
+    {
+      "text": "Desperate",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "qWZJSlxWko5mx4vw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.qWZJSlxWko5mx4vw"
+    },
+    {
+      "text": "Demanding",
+      "range": [
+        71,
+        78
+      ],
+      "_id": "a2swQsqMgHPGmH5k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.a2swQsqMgHPGmH5k"
+    },
+    {
+      "text": "Unfriendly",
+      "range": [
+        79,
+        86
+      ],
+      "_id": "IgmBq4uXjWbKbKut",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.IgmBq4uXjWbKbKut"
+    },
+    {
+      "text": "Threatening",
+      "range": [
+        87,
+        94
+      ],
+      "_id": "zGmOX3VGakjGgHbA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.zGmOX3VGakjGgHbA"
+    },
+    {
+      "text": "Hostile",
+      "range": [
+        95,
+        100
+      ],
+      "_id": "XR3Xb4DXH8nfjCwL",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!Lu30o0Mx9Arwipnw.XR3Xb4DXH8nfjCwL"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676518270,
+    "modifiedTime": 1693510293096,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "Lu30o0Mx9Arwipnw",
+  "sort": 262500,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Lu30o0Mx9Arwipnw"
+}

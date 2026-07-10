@@ -1,0 +1,507 @@
+{
+  "name": "Terminus (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Blockade a location",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "A1w7y5lk7v88ub8L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.A1w7y5lk7v88ub8L"
+    },
+    {
+      "text": "Break a blockade",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "XHaxr3Dh8gon71Mq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.XHaxr3Dh8gon71Mq"
+    },
+    {
+      "text": "Collect a resource",
+      "range": [
+        7,
+        9
+      ],
+      "_id": "obsEu7DDyO9r2YIs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.obsEu7DDyO9r2YIs"
+    },
+    {
+      "text": "Command others",
+      "range": [
+        10,
+        11
+      ],
+      "_id": "IoQRvueGhry56Vir",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.IoQRvueGhry56Vir"
+    },
+    {
+      "text": "Conduct diplomacy",
+      "range": [
+        12,
+        14
+      ],
+      "_id": "7j9uTgctc0rvUppQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.7j9uTgctc0rvUppQ"
+    },
+    {
+      "text": "Conduct espionage",
+      "range": [
+        15,
+        17
+      ],
+      "_id": "6MzUNxUDFWAVhmOm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.6MzUNxUDFWAVhmOm"
+    },
+    {
+      "text": "Conduct piracy",
+      "range": [
+        18,
+        20
+      ],
+      "_id": "wJLKhotC27FlGfLQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.wJLKhotC27FlGfLQ"
+    },
+    {
+      "text": "Conduct research",
+      "range": [
+        21,
+        23
+      ],
+      "_id": "TOQSs5vInvvJUQjU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.TOQSs5vInvvJUQjU"
+    },
+    {
+      "text": "Defend against an attack",
+      "range": [
+        24,
+        26
+      ],
+      "_id": "E2viUFu64wpGb3hb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.E2viUFu64wpGb3hb"
+    },
+    {
+      "text": "Deliver messages or data",
+      "range": [
+        27,
+        29
+      ],
+      "_id": "nAUOFjPM3VJ8WEfp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.nAUOFjPM3VJ8WEfp"
+    },
+    {
+      "text": "Establish a settlement",
+      "range": [
+        30,
+        32
+      ],
+      "_id": "27Ym9begoiN9U0lR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.27Ym9begoiN9U0lR"
+    },
+    {
+      "text": "Evacuate a location",
+      "range": [
+        33,
+        35
+      ],
+      "_id": "Yzt6a0Wd5I2H3Gml",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.Yzt6a0Wd5I2H3Gml"
+    },
+    {
+      "text": "Explore a region",
+      "range": [
+        36,
+        37
+      ],
+      "_id": "xwyV2ngwyMiRuqzn",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.xwyV2ngwyMiRuqzn"
+    },
+    {
+      "text": "Hold prisoners",
+      "range": [
+        38,
+        39
+      ],
+      "_id": "HNsxke47pCxbKxti",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.HNsxke47pCxbKxti"
+    },
+    {
+      "text": "Hunt down another ship",
+      "range": [
+        40,
+        42
+      ],
+      "_id": "eVy9853Dxp8mtCs8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.eVy9853Dxp8mtCs8"
+    },
+    {
+      "text": "Launch an attack",
+      "range": [
+        43,
+        45
+      ],
+      "_id": "HTUXJ2CGrBTFpk7G",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.HTUXJ2CGrBTFpk7G"
+    },
+    {
+      "text": "Patrol an area",
+      "range": [
+        46,
+        48
+      ],
+      "_id": "G1plxqvNJPc1dxXs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.G1plxqvNJPc1dxXs"
+    },
+    {
+      "text": "Provide medical aid",
+      "range": [
+        49,
+        51
+      ],
+      "_id": "wU42U8SjGkzQOaLF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.wU42U8SjGkzQOaLF"
+    },
+    {
+      "text": "Provide repairs",
+      "range": [
+        52,
+        54
+      ],
+      "_id": "QQhEbXbYO2zBdMuu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.QQhEbXbYO2zBdMuu"
+    },
+    {
+      "text": "Provide shelter",
+      "range": [
+        55,
+        57
+      ],
+      "_id": "HWiDv3tH3ke3H0oD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.HWiDv3tH3ke3H0oD"
+    },
+    {
+      "text": "Quarantine a danger",
+      "range": [
+        58,
+        59
+      ],
+      "_id": "elqgeheJCFKH6o6b",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.elqgeheJCFKH6o6b"
+    },
+    {
+      "text": "Raid a settlement",
+      "range": [
+        60,
+        62
+      ],
+      "_id": "8rPmlGI8rUQe25Re",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.8rPmlGI8rUQe25Re"
+    },
+    {
+      "text": "Resupply a settlement",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "iKdc9M8rHbVB80n8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.iKdc9M8rHbVB80n8"
+    },
+    {
+      "text": "Retrieve salvage",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "dWsCxnc9Xy8OJNVo",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.dWsCxnc9Xy8OJNVo"
+    },
+    {
+      "text": "Search and rescue",
+      "range": [
+        69,
+        71
+      ],
+      "_id": "kVHFKr3MxJsalClE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.kVHFKr3MxJsalClE"
+    },
+    {
+      "text": "Smuggle cargo",
+      "range": [
+        72,
+        74
+      ],
+      "_id": "NILiPLPxLeOx7gpu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.NILiPLPxLeOx7gpu"
+    },
+    {
+      "text": "Survey a site",
+      "range": [
+        75,
+        77
+      ],
+      "_id": "L60s3gMW8LeotDsz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.L60s3gMW8LeotDsz"
+    },
+    {
+      "text": "Test a technology",
+      "range": [
+        78,
+        79
+      ],
+      "_id": "IViUOsoGwCMOF0K5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.IViUOsoGwCMOF0K5"
+    },
+    {
+      "text": "Transport cargo",
+      "range": [
+        80,
+        82
+      ],
+      "_id": "xgNg8PUw84v36tre",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.xgNg8PUw84v36tre"
+    },
+    {
+      "text": "Transport passengers",
+      "range": [
+        83,
+        85
+      ],
+      "_id": "bpTVVwqWK1WnnkMA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.bpTVVwqWK1WnnkMA"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "L8meZFUEhpKGYpk2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.L8meZFUEhpKGYpk2"
+    },
+    {
+      "text": "Roll Twice",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "HPK5saahhBrnxm9w",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!svjsxDT4R9rSH8YE.HPK5saahhBrnxm9w"
+    }
+  ],
+  "folder": "bo8ruejwx9kV7n4Q",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet which has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676461233,
+    "modifiedTime": 1699041775675,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "svjsxDT4R9rSH8YE",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!svjsxDT4R9rSH8YE"
+}

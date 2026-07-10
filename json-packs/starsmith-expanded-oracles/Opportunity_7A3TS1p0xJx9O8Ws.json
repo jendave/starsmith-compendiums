@@ -1,0 +1,102 @@
+{
+  "name": "Opportunity",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Eager youth willing to help",
+      "range": [
+        1,
+        20
+      ],
+      "_id": "AUyUkYgBheWzusVz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7A3TS1p0xJx9O8Ws.AUyUkYgBheWzusVz"
+    },
+    {
+      "text": "Elderly wisdom passed on",
+      "range": [
+        21,
+        40
+      ],
+      "_id": "2fbW4PWFLlupst4s",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7A3TS1p0xJx9O8Ws.2fbW4PWFLlupst4s"
+    },
+    {
+      "text": "Hidden stash of valuable contraband",
+      "range": [
+        41,
+        60
+      ],
+      "_id": "8yqff9aK2kHYQPG1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7A3TS1p0xJx9O8Ws.8yqff9aK2kHYQPG1"
+    },
+    {
+      "text": "Offer of shelter and respite",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "SZwYStleJjyNRB50",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7A3TS1p0xJx9O8Ws.SZwYStleJjyNRB50"
+    },
+    {
+      "text": "Useful personal gear",
+      "range": [
+        81,
+        100
+      ],
+      "_id": "9P02OBLdTQL2IAl4",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!7A3TS1p0xJx9O8Ws.9P02OBLdTQL2IAl4"
+    }
+  ],
+  "folder": "nnXmNsTGKj2qsDbm",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676658108,
+    "modifiedTime": 1693870775097,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "7A3TS1p0xJx9O8Ws",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!7A3TS1p0xJx9O8Ws"
+}

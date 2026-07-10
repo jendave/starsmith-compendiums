@@ -1,0 +1,573 @@
+{
+  "name": "First Look (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Alert",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "kSVSGnjpKNHJtQPW",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.kSVSGnjpKNHJtQPW"
+    },
+    {
+      "text": "Bald",
+      "range": [
+        4,
+        6
+      ],
+      "_id": "MZggcUPi2FpJ8Npr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.MZggcUPi2FpJ8Npr"
+    },
+    {
+      "text": "Bruised",
+      "range": [
+        7,
+        8
+      ],
+      "_id": "DlWcyO3BBZ42Q4GC",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.DlWcyO3BBZ42Q4GC"
+    },
+    {
+      "text": "Burly",
+      "range": [
+        9,
+        11
+      ],
+      "_id": "lk1hLK4zDiD2f0wQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.lk1hLK4zDiD2f0wQ"
+    },
+    {
+      "text": "Comely",
+      "range": [
+        12,
+        13
+      ],
+      "_id": "eILKQ7V4ETP0s60D",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.eILKQ7V4ETP0s60D"
+    },
+    {
+      "text": "Curly hair",
+      "range": [
+        14,
+        15
+      ],
+      "_id": "9f9J8I8HEC1hIYyp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.9f9J8I8HEC1hIYyp"
+    },
+    {
+      "text": "Dusky",
+      "range": [
+        16,
+        17
+      ],
+      "_id": "qSlj1F5NBt5cpSgQ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.qSlj1F5NBt5cpSgQ"
+    },
+    {
+      "text": "Envirosuit",
+      "range": [
+        18,
+        20
+      ],
+      "_id": "DaFNGDEqjcRzqctf",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.DaFNGDEqjcRzqctf"
+    },
+    {
+      "text": "Fidgety",
+      "range": [
+        21,
+        23
+      ],
+      "_id": "q5HZDTmjv481gK0j",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.q5HZDTmjv481gK0j"
+    },
+    {
+      "text": "Fit",
+      "range": [
+        24,
+        25
+      ],
+      "_id": "WXZb7zo6fkyg6rg6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.WXZb7zo6fkyg6rg6"
+    },
+    {
+      "text": "Formal dress",
+      "range": [
+        26,
+        27
+      ],
+      "_id": "QEA6yPrq7P7obKpT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.QEA6yPrq7P7obKpT"
+    },
+    {
+      "text": "Freckled",
+      "range": [
+        28,
+        30
+      ],
+      "_id": "6o1tTdZnUr5B8sn2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.6o1tTdZnUr5B8sn2"
+    },
+    {
+      "text": "Frizzy hair",
+      "range": [
+        31,
+        33
+      ],
+      "_id": "fzq62ptvljR5Oqbb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.fzq62ptvljR5Oqbb"
+    },
+    {
+      "text": "Full-lipped",
+      "range": [
+        34,
+        35
+      ],
+      "_id": "VdQsEPZGmCELLJnA",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.VdQsEPZGmCELLJnA"
+    },
+    {
+      "text": "Gaunt",
+      "range": [
+        36,
+        37
+      ],
+      "_id": "2WEcgB1SQuZjbMMK",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.2WEcgB1SQuZjbMMK"
+    },
+    {
+      "text": "Hairy",
+      "range": [
+        38,
+        40
+      ],
+      "_id": "tUcXlfW1n1ajikAS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.tUcXlfW1n1ajikAS"
+    },
+    {
+      "text": "Helmeted",
+      "range": [
+        41,
+        43
+      ],
+      "_id": "X501eR4jhIjsLk7a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.X501eR4jhIjsLk7a"
+    },
+    {
+      "text": "Husky",
+      "range": [
+        44,
+        46
+      ],
+      "_id": "m8YuuiKjVVf7wIm3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.m8YuuiKjVVf7wIm3"
+    },
+    {
+      "text": "Injured",
+      "range": [
+        47,
+        49
+      ],
+      "_id": "pdR1pUN3HbuUdt1B",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.pdR1pUN3HbuUdt1B"
+    },
+    {
+      "text": "Lanky",
+      "range": [
+        50,
+        52
+      ],
+      "_id": "JDoLyt1jvzRHN2mw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.JDoLyt1jvzRHN2mw"
+    },
+    {
+      "text": "Large mouth",
+      "range": [
+        53,
+        55
+      ],
+      "_id": "rAw4Xbwh3HT05Ap3",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.rAw4Xbwh3HT05Ap3"
+    },
+    {
+      "text": "Missing teeth",
+      "range": [
+        56,
+        57
+      ],
+      "_id": "qqyHzBIYXHlPPYFy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.qqyHzBIYXHlPPYFy"
+    },
+    {
+      "text": "Muscled",
+      "range": [
+        58,
+        60
+      ],
+      "_id": "uxBM85avdT6ubbAs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.uxBM85avdT6ubbAs"
+    },
+    {
+      "text": "Painted",
+      "range": [
+        61,
+        62
+      ],
+      "_id": "H08iUbNdfZLB5zBu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.H08iUbNdfZLB5zBu"
+    },
+    {
+      "text": "Penetrating gaze",
+      "range": [
+        63,
+        65
+      ],
+      "_id": "F8r0JnkFzxOOhobF",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.F8r0JnkFzxOOhobF"
+    },
+    {
+      "text": "Piercings",
+      "range": [
+        66,
+        68
+      ],
+      "_id": "Row4WmcVeljqaQpz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.Row4WmcVeljqaQpz"
+    },
+    {
+      "text": "Plump",
+      "range": [
+        69,
+        71
+      ],
+      "_id": "QUsd4jw22Uy66ERz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.QUsd4jw22Uy66ERz"
+    },
+    {
+      "text": "Ponytail",
+      "range": [
+        72,
+        73
+      ],
+      "_id": "CfJvF6Eoe1HoKWtT",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.CfJvF6Eoe1HoKWtT"
+    },
+    {
+      "text": "Rough",
+      "range": [
+        74,
+        76
+      ],
+      "_id": "gOcEwScqjZyvcZfS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.gOcEwScqjZyvcZfS"
+    },
+    {
+      "text": "Sallow",
+      "range": [
+        77,
+        78
+      ],
+      "_id": "QILvH6Vq6BryeKdm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.QILvH6Vq6BryeKdm"
+    },
+    {
+      "text": "Short hair",
+      "range": [
+        79,
+        81
+      ],
+      "_id": "KFPVr7PdWsE5whEI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.KFPVr7PdWsE5whEI"
+    },
+    {
+      "text": "Small",
+      "range": [
+        82,
+        83
+      ],
+      "_id": "kpt1GcpHG3xNCRPD",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.kpt1GcpHG3xNCRPD"
+    },
+    {
+      "text": "Stealth suit",
+      "range": [
+        84,
+        85
+      ],
+      "_id": "q6m7mVPsDfFElQK2",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.q6m7mVPsDfFElQK2"
+    },
+    {
+      "text": "Tanned",
+      "range": [
+        86,
+        87
+      ],
+      "_id": "67yh7lydOVmxbVYI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.67yh7lydOVmxbVYI"
+    },
+    {
+      "text": "Tired",
+      "range": [
+        88,
+        90
+      ],
+      "_id": "PkLNKFVB8s5NTBpJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.PkLNKFVB8s5NTBpJ"
+    },
+    {
+      "text": "Unarmored",
+      "range": [
+        91,
+        92
+      ],
+      "_id": "oF35rg7NF1n4pPi1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.oF35rg7NF1n4pPi1"
+    },
+    {
+      "text": "Unfocused",
+      "range": [
+        93,
+        95
+      ],
+      "_id": "YZRogfRUhugaxTn6",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.YZRogfRUhugaxTn6"
+    },
+    {
+      "text": "Unkempt",
+      "range": [
+        96,
+        97
+      ],
+      "_id": "zbTcrK51YzrZtU6q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.zbTcrK51YzrZtU6q"
+    },
+    {
+      "text": "Wavy hair",
+      "range": [
+        98,
+        100
+      ],
+      "_id": "98C9ZHpyGOMfxP1t",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!MsQ7rPo2gDyVIQEE.98C9ZHpyGOMfxP1t"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676518262,
+    "modifiedTime": 1693035507899,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "MsQ7rPo2gDyVIQEE",
+  "sort": 250000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!MsQ7rPo2gDyVIQEE"
+}

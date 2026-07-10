@@ -1,0 +1,97 @@
+{
+  "name": "Form (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Woven into environment",
+      "range": [
+        1,
+        35
+      ],
+      "_id": "5agLoT6nMJSZyn3L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OnrAyLWl8O4X07DO.5agLoT6nMJSZyn3L"
+    },
+    {
+      "text": "Enclosed settlement",
+      "range": [
+        36,
+        60
+      ],
+      "_id": "oRimumPLADIvY5CV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OnrAyLWl8O4X07DO.oRimumPLADIvY5CV"
+    },
+    {
+      "text": "Temple",
+      "range": [
+        61,
+        80
+      ],
+      "_id": "qHMM5DoK06QGRme0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OnrAyLWl8O4X07DO.qHMM5DoK06QGRme0"
+    },
+    {
+      "text": "Rube-Goldberg",
+      "range": [
+        81,
+        95
+      ],
+      "_id": "x5553YzaZHwY8e3Q",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OnrAyLWl8O4X07DO.x5553YzaZHwY8e3Q"
+    },
+    {
+      "text": "Incomprehensible",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "crmwlYTNcLrvOhIy",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!OnrAyLWl8O4X07DO.crmwlYTNcLrvOhIy"
+    }
+  ],
+  "folder": "N2sObuKzWFZ5LEU2",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676692213,
+    "modifiedTime": 1693073816745,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "OnrAyLWl8O4X07DO",
+  "sort": -100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!OnrAyLWl8O4X07DO"
+}

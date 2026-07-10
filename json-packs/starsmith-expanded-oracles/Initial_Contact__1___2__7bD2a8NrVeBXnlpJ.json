@@ -1,0 +1,195 @@
+{
+  "name": "Initial Contact (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Familiar",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "7kEMgREwoz8Ijqva",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.7kEMgREwoz8Ijqva"
+    },
+    {
+      "text": "Friendly",
+      "range": [
+        4,
+        15
+      ],
+      "_id": "qKl3XcUgwG1a3hhU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.qKl3XcUgwG1a3hhU"
+    },
+    {
+      "text": "Neutral / automated",
+      "range": [
+        16,
+        25
+      ],
+      "_id": "6mO8XVCdx47fUEhV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.6mO8XVCdx47fUEhV"
+    },
+    {
+      "text": "Wary",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "0ngY1wra2d9Cli8H",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.0ngY1wra2d9Cli8H"
+    },
+    {
+      "text": "Dismissive",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "bLuYYIcrHNbOfhRX",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.bLuYYIcrHNbOfhRX"
+    },
+    {
+      "text": "Uncooperative",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "rACdMWCvARfU5PVl",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.rACdMWCvARfU5PVl"
+    },
+    {
+      "text": "Hostile",
+      "range": [
+        51,
+        65
+      ],
+      "_id": "qIyjIZBTCZBM1V36",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.qIyjIZBTCZBM1V36"
+    },
+    {
+      "text": "Asking for help",
+      "range": [
+        66,
+        80
+      ],
+      "_id": "V9d89tvECkishH77",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.V9d89tvECkishH77"
+    },
+    {
+      "text": "In battle",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "R2s3dSbs0o10UKfz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.R2s3dSbs0o10UKfz"
+    },
+    {
+      "text": "Unresponsive",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "MbYqhMyKTqLfdS6C",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.MbYqhMyKTqLfdS6C"
+    },
+    {
+      "text": "Destroyed",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "cVG1BrAi7uYb9nGs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.cVG1BrAi7uYb9nGs"
+    },
+    {
+      "text": "Derelict",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "hMccVt7pqaPcP1W1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!7bD2a8NrVeBXnlpJ.hMccVt7pqaPcP1W1"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461202,
+    "modifiedTime": 1693073287522,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "7bD2a8NrVeBXnlpJ",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!7bD2a8NrVeBXnlpJ"
+}

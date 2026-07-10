@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Expansive fungal plains",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "4QLUCsvJfSaVBokR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.4QLUCsvJfSaVBokR"
+    },
+    {
+      "text": "Fungal forests",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "AljKiFTkMwIlDEt0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.AljKiFTkMwIlDEt0"
+    },
+    {
+      "text": "Scabrous, infected terrain",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "Ux0Vf2Uz1mLdgdc7",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.Ux0Vf2Uz1mLdgdc7"
+    },
+    {
+      "text": "Sky-breaching fungus",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "sP6jNNw3BmU0goF8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.sP6jNNw3BmU0goF8"
+    },
+    {
+      "text": "Sludge-filled river networks",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "OweNqKBYeWa8cJFY",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.OweNqKBYeWa8cJFY"
+    },
+    {
+      "text": "Stagnant cloud cover",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "FSwqKIhyLpkvuZO8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.FSwqKIhyLpkvuZO8"
+    },
+    {
+      "text": "Thick, murky atmosphere",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "JyyWRM1hgHFfQ08r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.JyyWRM1hgHFfQ08r"
+    },
+    {
+      "text": "Toxic seas",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "kJarlpja5CDHlVKN",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.kJarlpja5CDHlVKN"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "X78Q13qEWAL8ZZU0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.X78Q13qEWAL8ZZU0"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "pMNF49j9dnvojU6y",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!WVdSiIWYWSpIUCTN.pMNF49j9dnvojU6y"
+    }
+  ],
+  "folder": "kr3MLzciAv6E5cjr",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.314",
+    "createdTime": 1692676402057,
+    "modifiedTime": 1699054271959,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "WVdSiIWYWSpIUCTN",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!WVdSiIWYWSpIUCTN"
+}

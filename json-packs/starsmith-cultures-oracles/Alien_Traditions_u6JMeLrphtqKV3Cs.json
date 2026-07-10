@@ -1,0 +1,177 @@
+{
+  "name": "Alien Traditions",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Certain colors or color combinations must be avoided as they are inherently harmful or dangerous.",
+      "range": [
+        1,
+        10
+      ],
+      "_id": "u4EJkrH5rV8rLTsV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.u4EJkrH5rV8rLTsV"
+    },
+    {
+      "text": "Disputes must be settled through games of pure chance.",
+      "range": [
+        11,
+        20
+      ],
+      "_id": "sBoQEvxiypEob9Xu",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.sBoQEvxiypEob9Xu"
+    },
+    {
+      "text": "Extreme reverence is held for inanimate objects.",
+      "range": [
+        21,
+        30
+      ],
+      "_id": "UFV7Xwgh1dXYWqYU",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.UFV7Xwgh1dXYWqYU"
+    },
+    {
+      "text": "Imperfections are celebrated, but it is taboo to create imperfections on purpose in art, architecture, or engineering.",
+      "range": [
+        31,
+        40
+      ],
+      "_id": "Jfyaf2uyJoWWnV14",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.Jfyaf2uyJoWWnV14"
+    },
+    {
+      "text": "Mingling bodily fluids is a traditional greeting that shows trust.",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "HsvkPUugUaP1Soi5",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.HsvkPUugUaP1Soi5"
+    },
+    {
+      "text": "Obsession with symmetry in all things has led to fanaticism.",
+      "range": [
+        51,
+        60
+      ],
+      "_id": "uO5KpGy9iDCMySE0",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.uO5KpGy9iDCMySE0"
+    },
+    {
+      "text": "Physical touch is frowned upon and viewed as a great offense. 81-90 The dead must be honored by consuming their corpses.",
+      "range": [
+        61,
+        70
+      ],
+      "_id": "X94GdLz1zMyRlqTt",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.X94GdLz1zMyRlqTt"
+    },
+    {
+      "text": "Silence is taboo such that methods of continual background noise have evolved biologically or been devised technologically.",
+      "range": [
+        71,
+        80
+      ],
+      "_id": "sBCFCqUgrILO9S1O",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.sBCFCqUgrILO9S1O"
+    },
+    {
+      "text": "The dead must be honored by consuming their corpses.",
+      "range": [
+        81,
+        90
+      ],
+      "_id": "RyYJpUKDokoPsYSw",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.RyYJpUKDokoPsYSw"
+    },
+    {
+      "text": "Time itself is viewed as divine and worshiped.",
+      "range": [
+        91,
+        100
+      ],
+      "_id": "Jn6MpMsGTZXdLLiq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!u6JMeLrphtqKV3Cs.Jn6MpMsGTZXdLLiq"
+    }
+  ],
+  "folder": "oppVhzsLYkyZtbu6",
+  "sort": 300000,
+  "_id": "u6JMeLrphtqKV3Cs",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Alien cultures may have strange traditions brought about by unusual circumstances. Build a tradition using the tables in the previous section or roll a tradition with the table below.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "ownership": {
+    "default": 0,
+    "S0d41AhaDywX0Vut": 3
+  },
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.11",
+    "coreVersion": "11.315",
+    "createdTime": 1708144820823,
+    "modifiedTime": 1708148275190,
+    "lastModifiedBy": "S0d41AhaDywX0Vut"
+  },
+  "_key": "!tables!u6JMeLrphtqKV3Cs"
+}

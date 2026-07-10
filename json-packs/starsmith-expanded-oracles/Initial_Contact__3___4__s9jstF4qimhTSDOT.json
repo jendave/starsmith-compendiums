@@ -1,0 +1,195 @@
+{
+  "name": "Initial Contact (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Helpful",
+      "range": [
+        1,
+        3
+      ],
+      "_id": "tVSimkwVNpbgsR74",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.tVSimkwVNpbgsR74"
+    },
+    {
+      "text": "All business",
+      "range": [
+        4,
+        15
+      ],
+      "_id": "IJNlmODY2t0VT0qm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.IJNlmODY2t0VT0qm"
+    },
+    {
+      "text": "Tolerant",
+      "range": [
+        16,
+        25
+      ],
+      "_id": "G0tmauZUMjErGrkz",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.G0tmauZUMjErGrkz"
+    },
+    {
+      "text": "Defensive",
+      "range": [
+        26,
+        35
+      ],
+      "_id": "KBTxgQ1IzJKtqhyZ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.KBTxgQ1IzJKtqhyZ"
+    },
+    {
+      "text": "Reckless showboating",
+      "range": [
+        36,
+        40
+      ],
+      "_id": "mkO4MbiGU04AcP1a",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.mkO4MbiGU04AcP1a"
+    },
+    {
+      "text": "Asking for a bribe",
+      "range": [
+        41,
+        50
+      ],
+      "_id": "Hp1lRtjW4n9PGbBb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.Hp1lRtjW4n9PGbBb"
+    },
+    {
+      "text": "Easily offended",
+      "range": [
+        51,
+        65
+      ],
+      "_id": "ktUTPa769eNdtw24",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.ktUTPa769eNdtw24"
+    },
+    {
+      "text": "Demanding",
+      "range": [
+        66,
+        80
+      ],
+      "_id": "tu9WaRXfalXtkD4R",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.tu9WaRXfalXtkD4R"
+    },
+    {
+      "text": "In crisis",
+      "range": [
+        81,
+        85
+      ],
+      "_id": "a4TxOxFXuUDaWhZg",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.a4TxOxFXuUDaWhZg"
+    },
+    {
+      "text": "On emergency power",
+      "range": [
+        86,
+        90
+      ],
+      "_id": "eyRL4alnpv3xKo9f",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.eyRL4alnpv3xKo9f"
+    },
+    {
+      "text": "Drifting dead in space",
+      "range": [
+        91,
+        95
+      ],
+      "_id": "dQQEznA0OjkO7FYx",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.dQQEznA0OjkO7FYx"
+    },
+    {
+      "text": "Derelict",
+      "range": [
+        96,
+        100
+      ],
+      "_id": "LqSXE8j9icZwOuZI",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_key": "!tables.results!s9jstF4qimhTSDOT.LqSXE8j9icZwOuZI"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676461207,
+    "modifiedTime": 1693073574134,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "s9jstF4qimhTSDOT",
+  "sort": 62500,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!s9jstF4qimhTSDOT"
+}

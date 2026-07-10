@@ -1,0 +1,342 @@
+{
+  "name": "Expanse (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Space/Stellar_Object\"><i class=\"fa fa-caret-right\"></i> Stellar Object</a>",
+      "range": [
+        1,
+        15
+      ],
+      "_id": "dsSvrZA0C58HDoe1",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.dsSvrZA0C58HDoe1"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Planets\"><i class=\"fa fa-caret-right\"></i> Planet</a>",
+      "range": [
+        16,
+        35
+      ],
+      "_id": "KITl9LVylVLeyhnq",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.KITl9LVylVLeyhnq"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Settlements\"><i class=\"fa fa-caret-right\"></i> Settlement</a>",
+      "range": [
+        36,
+        37
+      ],
+      "_id": "reEmakhStjmb6aAR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.reEmakhStjmb6aAR"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Starships\"><i class=\"fa fa-caret-right\"></i> Starship</a>",
+      "range": [
+        38,
+        39
+      ],
+      "_id": "lDs1crvtULYUgYWE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.lDs1crvtULYUgYWE"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Derelicts\"><i class=\"fa fa-caret-right\"></i> Derelict</a>",
+      "range": [
+        40,
+        41
+      ],
+      "_id": "p7dNdPuGHN8wTtyr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.p7dNdPuGHN8wTtyr"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
+      "range": [
+        42,
+        45
+      ],
+      "_id": "x1MatoygSOlM5JVr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.x1MatoygSOlM5JVr"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Creatures\"><i class=\"fa fa-caret-right\"></i> Creature</a>",
+      "range": [
+        46,
+        49
+      ],
+      "_id": "Kqx9pQGScoCro5mB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.Kqx9pQGScoCro5mB"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        50,
+        56
+      ],
+      "_id": "jEw55E4FpvlNujfS",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.jEw55E4FpvlNujfS"
+    },
+    {
+      "text": "Debris field: Mineral asteroids",
+      "range": [
+        57,
+        61
+      ],
+      "_id": "5LemAeXAyJHe4OUs",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.5LemAeXAyJHe4OUs"
+    },
+    {
+      "text": "Debris field: Frozen asteroids",
+      "range": [
+        62,
+        64
+      ],
+      "_id": "DlXG5uslpkPdyoRJ",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.DlXG5uslpkPdyoRJ"
+    },
+    {
+      "text": "Debris field: Crystalline asteroids",
+      "range": [
+        65,
+        66
+      ],
+      "_id": "vRoaLnIYlDLY6N2A",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.vRoaLnIYlDLY6N2A"
+    },
+    {
+      "text": "Debris field: Creature boneyard",
+      "range": [
+        67,
+        68
+      ],
+      "_id": "r78MXDuBojLU2eFR",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.r78MXDuBojLU2eFR"
+    },
+    {
+      "text": "Debris field: Metallic wreckage",
+      "range": [
+        69,
+        70
+      ],
+      "_id": "S2r7GLsKe1RtP6Pp",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.S2r7GLsKe1RtP6Pp"
+    },
+    {
+      "text": "Large rogue asteroid",
+      "range": [
+        71,
+        72
+      ],
+      "_id": "ynpKb143OORLIxpE",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.ynpKb143OORLIxpE"
+    },
+    {
+      "text": "Comet with a tail of ionized gas",
+      "range": [
+        73,
+        74
+      ],
+      "_id": "L6bMo2LbZlbjblQV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.L6bMo2LbZlbjblQV"
+    },
+    {
+      "text": "Fiery energy storm",
+      "range": [
+        75,
+        79
+      ],
+      "_id": "fJYNxGHUgX0dPQJm",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.fJYNxGHUgX0dPQJm"
+    },
+    {
+      "text": "Chaotic meteoroid storm",
+      "range": [
+        80,
+        81
+      ],
+      "_id": "v6cTMBda7H0cGUcb",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.v6cTMBda7H0cGUcb"
+    },
+    {
+      "text": "Turbulent gravitational wave",
+      "range": [
+        82,
+        85
+      ],
+      "_id": "hPMiEgf48GeNQz9L",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.hPMiEgf48GeNQz9L"
+    },
+    {
+      "text": "Dense nebula cloud",
+      "range": [
+        86,
+        93
+      ],
+      "_id": "yRPMrXOk2EaSuE5k",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.yRPMrXOk2EaSuE5k"
+    },
+    {
+      "text": "Roll twice",
+      "range": [
+        94,
+        98
+      ],
+      "_id": "gqTpLPrB16i3Bbdi",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.gqTpLPrB16i3Bbdi"
+    },
+    {
+      "text": "Roll three times",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "UcjVxpmWiuJJ4N7U",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!iuepGP5QpCa8k4hu.UcjVxpmWiuJJ4N7U"
+    }
+  ],
+  "folder": "wWgVqKGopxpyBO0b",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you Ask the Oracle to envision the primary feature of a waypoint as you Undertake an Expedition. Check your result by referencing the column for your current location: Terminus, Outlands, or Expanse.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676313121,
+    "modifiedTime": 1699001809117,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "iuepGP5QpCa8k4hu",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!iuepGP5QpCa8k4hu"
+}

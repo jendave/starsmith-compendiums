@@ -1,0 +1,177 @@
+{
+  "name": "Observed From Space (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Artificial moon in a decaying orbit",
+      "range": [
+        1,
+        11
+      ],
+      "_id": "0tAeUCq8M2ScoSyr",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.0tAeUCq8M2ScoSyr"
+    },
+    {
+      "text": "Crumbling domed cities",
+      "range": [
+        12,
+        22
+      ],
+      "_id": "LsTKaPK3oDgTwwTV",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.LsTKaPK3oDgTwwTV"
+    },
+    {
+      "text": "Debris field of dead satellites",
+      "range": [
+        23,
+        33
+      ],
+      "_id": "kYG3OMyGDupUjx9S",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.kYG3OMyGDupUjx9S"
+    },
+    {
+      "text": "Massive areas of strip mining",
+      "range": [
+        34,
+        44
+      ],
+      "_id": "QNpOmlsQHv3aABje",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.QNpOmlsQHv3aABje"
+    },
+    {
+      "text": "Tiny polar ice caps nearly melted away",
+      "range": [
+        45,
+        55
+      ],
+      "_id": "LSiHPe2oLChusj12",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.LSiHPe2oLChusj12"
+    },
+    {
+      "text": "Tracts of scorched earth",
+      "range": [
+        56,
+        66
+      ],
+      "_id": "8VfJfVw4JyOqU7Ga",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.8VfJfVw4JyOqU7Ga"
+    },
+    {
+      "text": "Violent weather systems",
+      "range": [
+        67,
+        77
+      ],
+      "_id": "7c76d3QnY1qm1Stc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.7c76d3QnY1qm1Stc"
+    },
+    {
+      "text": "Weakened and sporadic magnetosphere",
+      "range": [
+        78,
+        88
+      ],
+      "_id": "CVwIqET9SI9ET0ju",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.CVwIqET9SI9ET0ju"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "range": [
+        89,
+        98
+      ],
+      "_id": "vZMLcnedv1HtRld9",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.vZMLcnedv1HtRld9"
+    },
+    {
+      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "range": [
+        99,
+        100
+      ],
+      "_id": "uQkwYiOM7IV1oglB",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!vBC6s29505G4SVUW.uQkwYiOM7IV1oglB"
+    }
+  ],
+  "folder": "EJoSoFU1mGwf60NT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "11.313",
+    "createdTime": 1692676401811,
+    "modifiedTime": 1699042453775,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+  },
+  "_id": "vBC6s29505G4SVUW",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!vBC6s29505G4SVUW"
+}

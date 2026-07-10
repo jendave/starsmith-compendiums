@@ -1,0 +1,72 @@
+{
+  "name": "Type (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "text": "Dominion (Governing power)",
+      "range": [
+        1,
+        40
+      ],
+      "_id": "9SeMljHmMaxJn7H8",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jrxDHQYEuB6XayQB.9SeMljHmMaxJn7H8"
+    },
+    {
+      "text": "Guild (Organization of specialists)",
+      "range": [
+        41,
+        70
+      ],
+      "_id": "7UNumxxQcIs8334r",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jrxDHQYEuB6XayQB.7UNumxxQcIs8334r"
+    },
+    {
+      "text": "Fringe Group (Band of outlaws, outcasts, or rogues)",
+      "range": [
+        71,
+        100
+      ],
+      "_id": "Lhxyoj6Tg3ss1Kgc",
+      "type": 0,
+      "documentId": null,
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_key": "!tables.results!jrxDHQYEuB6XayQB.Lhxyoj6Tg3ss1Kgc"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Type tells you the general type of organization it is while the Influence tells you how strong or wide their influence is.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {},
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "11.308",
+    "createdTime": 1692676597020,
+    "modifiedTime": 1693866842923,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+  },
+  "_id": "jrxDHQYEuB6XayQB",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!jrxDHQYEuB6XayQB"
+}
