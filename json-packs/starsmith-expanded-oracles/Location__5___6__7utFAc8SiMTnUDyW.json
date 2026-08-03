@@ -3,45 +3,81 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Asteroid",
       "range": [
         1,
         40
       ],
       "_id": "18HYkVrA2of62sDS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!7utFAc8SiMTnUDyW.18HYkVrA2of62sDS"
     },
     {
-      "text": "Planetary ring",
       "range": [
         41,
         75
       ],
       "_id": "WeU5Ogw005PdZp78",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary ring",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!7utFAc8SiMTnUDyW.WeU5Ogw005PdZp78"
     },
     {
-      "text": "Exoplanet",
       "range": [
         76,
         100
       ],
       "_id": "A5XuXZtj3FcBNF9J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exoplanet",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!7utFAc8SiMTnUDyW.A5XuXZtj3FcBNF9J"
     }
   ],
@@ -50,14 +86,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Location",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/location_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676424332,
     "modifiedTime": 1693072125477,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "7utFAc8SiMTnUDyW",
   "sort": 200000,

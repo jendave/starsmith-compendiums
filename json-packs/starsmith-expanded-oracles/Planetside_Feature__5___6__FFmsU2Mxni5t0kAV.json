@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "ARtvbIj3sRxEcNLy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clouds that fluctuate in elevation",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.ARtvbIj3sRxEcNLy"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "Nc6qiUsDx9TUMY3r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystal clear watering holes",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.Nc6qiUsDx9TUMY3r"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "5QIGN6k2DPTfwbmp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deafening thunderstorms",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.5QIGN6k2DPTfwbmp"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "IrH20jkdwFc8ansx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep series of caves",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.IrH20jkdwFc8ansx"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "vV6HKCQ0J2AmygdF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dense underbrush with unique defense mechanisms",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.vV6HKCQ0J2AmygdF"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "n21kFQBnp0Cf3iYu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fauna with extreme camouflage",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.n21kFQBnp0Cf3iYu"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "OrjVHo0eF0t6zM3q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geysers of mineral rich water",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.OrjVHo0eF0t6zM3q"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "IsAPFaWQuC7n2uy7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intense heat waves",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.IsAPFaWQuC7n2uy7"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "FUdbpGAKkb8LSgSY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lake with a natural dam near bursting",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.FUdbpGAKkb8LSgSY"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "jf5lQ4YmqdXIcano",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lazy shallow streams",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.jf5lQ4YmqdXIcano"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "e2GENmYbCDIPvryV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains dotted with rocky clearings",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.e2GENmYbCDIPvryV"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "6NBOASzZ6xorCZQt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Underground rivers",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.6NBOASzZ6xorCZQt"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "b13DClY499jaEO1H",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vegetation growing in geometric designs",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.b13DClY499jaEO1H"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "5jvj3e60OLOvL7A1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.5jvj3e60OLOvL7A1"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "f80vYfTAQDD5CXHh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!FFmsU2Mxni5t0kAV.f80vYfTAQDD5CXHh"
+    }
+  ],
+  "folder": "khXSFYiPdcUTBfbE",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Jungle/Feature",
+      "category": "Starsmith/Oracles/Planet/Jungle",
+      "dsid": "oracle_rollable:starforged/planet/jungle/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401941,
+    "modifiedTime": 1699053658986,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "FFmsU2Mxni5t0kAV",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!FFmsU2Mxni5t0kAV"
+}

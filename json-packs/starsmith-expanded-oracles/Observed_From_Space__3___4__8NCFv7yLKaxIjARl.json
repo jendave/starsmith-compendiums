@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Canopy broken by an impact crater",
       "range": [
         1,
         11
       ],
       "_id": "KugsyQsthNlVyvrj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Canopy broken by an impact crater",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.KugsyQsthNlVyvrj"
     },
     {
-      "text": "Interconnected system of lakes",
       "range": [
         12,
         22
       ],
       "_id": "ZNSrL0yx5705J5hQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interconnected system of lakes",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.ZNSrL0yx5705J5hQ"
     },
     {
-      "text": "Intermittent storm systems",
       "range": [
         23,
         33
       ],
       "_id": "iHfzt1A6NHfYDXLb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intermittent storm systems",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.iHfzt1A6NHfYDXLb"
     },
     {
-      "text": "Rolling hills of forests",
       "range": [
         34,
         44
       ],
       "_id": "EBzpPGYaLUfp6OzO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rolling hills of forests",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.EBzpPGYaLUfp6OzO"
     },
     {
-      "text": "Solitary mountain reaching to the heavens",
       "range": [
         45,
         55
       ],
       "_id": "WVDMqPQTPavaL5KC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solitary mountain reaching to the heavens",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.WVDMqPQTPavaL5KC"
     },
     {
-      "text": "Supersized plateaus",
       "range": [
         56,
         66
       ],
       "_id": "9xn3yPusS4PSrBiv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supersized plateaus",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.9xn3yPusS4PSrBiv"
     },
     {
-      "text": "Waters of an unusual color palette",
       "range": [
         67,
         77
       ],
       "_id": "5cHpvttwdVZA7iku",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waters of an unusual color palette",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.5cHpvttwdVZA7iku"
     },
     {
-      "text": "Wide river deltas",
       "range": [
         78,
         88
       ],
       "_id": "Un98XEJ3DDFznMEv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wide river deltas",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.Un98XEJ3DDFznMEv"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "yqfb3ZQP2F7j4ly3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.yqfb3ZQP2F7j4ly3"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "NZWePsqRAro6vJ10",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!8NCFv7yLKaxIjARl.NZWePsqRAro6vJ10"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Jungle/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Jungle",
+      "dsid": "oracle_rollable:starforged/planet/jungle/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676401928,
     "modifiedTime": 1699053672184,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "8NCFv7yLKaxIjARl",
   "sort": 0,

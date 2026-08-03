@@ -3,198 +3,341 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Ash-covered terrain",
       "range": [
         1,
         8
       ],
       "_id": "NZXLXpzCUIhdFJMk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ash-covered terrain",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.NZXLXpzCUIhdFJMk"
     },
     {
-      "text": "Geysers of lava",
       "range": [
         9,
         16
       ],
       "_id": "Fz8cyAa9ZF9CjdDu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geysers of lava",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.Fz8cyAa9ZF9CjdDu"
     },
     {
-      "text": "Giant rock columns or boulders",
       "range": [
         17,
         24
       ],
       "_id": "PSKtLEhEFe8d73qu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Giant rock columns or boulders",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.PSKtLEhEFe8d73qu"
     },
     {
-      "text": "Heat-induced electromagnetic field",
       "range": [
         25,
         32
       ],
       "_id": "DyOYS538lXOFaQ06",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heat-induced electromagnetic field",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.DyOYS538lXOFaQ06"
     },
     {
-      "text": "Islands floating on lava",
       "range": [
         33,
         40
       ],
       "_id": "KCb1ZNxeI1zgWXJC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Islands floating on lava",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.KCb1ZNxeI1zgWXJC"
     },
     {
-      "text": "Maze of lava tubes",
       "range": [
         41,
         48
       ],
       "_id": "h1Fi7ubFWTdM6HDz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maze of lava tubes",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.h1Fi7ubFWTdM6HDz"
     },
     {
-      "text": "Mineral deposits fused together",
       "range": [
         49,
         56
       ],
       "_id": "DXOX8y1xcSuToLln",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mineral deposits fused together",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.DXOX8y1xcSuToLln"
     },
     {
-      "text": "Obscuring soot and smoke",
       "range": [
         57,
         64
       ],
       "_id": "eKiBI07gmpE8ZfUE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obscuring soot and smoke",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.eKiBI07gmpE8ZfUE"
     },
     {
-      "text": "Rivulets of lava or liquid flame",
       "range": [
         65,
         72
       ],
       "_id": "6jhk1FMLFZs41Qsv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivulets of lava or liquid flame",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.6jhk1FMLFZs41Qsv"
     },
     {
-      "text": "Slowly cooling sections of lava",
       "range": [
         73,
         80
       ],
       "_id": "yI323lYCabrdloMU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slowly cooling sections of lava",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.yI323lYCabrdloMU"
     },
     {
-      "text": "Stable islands separated by lava",
       "range": [
         81,
         88
       ],
       "_id": "WtHzsJ7lJFyTedY8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stable islands separated by lava",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.WtHzsJ7lJFyTedY8"
     },
     {
-      "text": "Vents spewing steaming gases",
       "range": [
         89,
         96
       ],
       "_id": "Z3KwGcm2Idi4RRsg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vents spewing steaming gases",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.Z3KwGcm2Idi4RRsg"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         97,
         100
       ],
       "_id": "5gUxzoSW1ncJMper",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!qDumRuCiRh386guP.5gUxzoSW1ncJMper"
     }
   ],
@@ -203,14 +346,23 @@
   "description": "<p>Flame and noxious gases fill this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Inferno/Feature",
+      "category": "Starsmith/Oracles/Location_Theme/Inferno",
+      "dsid": "oracle_rollable:starforged/location_theme/inferno/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712126,
     "modifiedTime": 1699036074409,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "qDumRuCiRh386guP",
   "sort": 0,

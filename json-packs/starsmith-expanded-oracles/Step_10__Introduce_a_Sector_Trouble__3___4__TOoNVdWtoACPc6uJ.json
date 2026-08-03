@@ -1,0 +1,556 @@
+{
+  "name": "Step 10: Introduce a Sector Trouble (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "uaAx5RaEfISsglp7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advanced technology is being weaponized",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.uaAx5RaEfISsglp7"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "8E9JpI2AiVxYUDzu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated defense network has been hacked",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.8E9JpI2AiVxYUDzu"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "aRPO8gQIyrVFa9mv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cargo vessels with desperately needed supplies have gone missing",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.aRPO8gQIyrVFa9mv"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "vVAsNeJM8xt8okcU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cold war between settlements or factions takes its toll",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.vVAsNeJM8xt8okcU"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "6mWWqsmqt5NY9rrn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous lifeforms have escaped from an illegal experimentation site",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.6mWWqsmqt5NY9rrn"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "knXQMz49b6DpSQr0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disinformation is fomenting insurrection",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.knXQMz49b6DpSQr0"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "A6yxb64SiNVDx2am",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhanced military presence causes tension with local citizens",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.A6yxb64SiNVDx2am"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "yyihmfy2ubNBOQx2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Greedy corporations charge astronomical tolls for travel",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.yyihmfy2ubNBOQx2"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "HTqbikHQO9BpYxhQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leadership has raised taxes for personal enrichment",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.HTqbikHQO9BpYxhQ"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "95n2T7EhATcPAOUJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Local government may shut down due to underfunding",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.95n2T7EhATcPAOUJ"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "91oKGug2NjrTi6rq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Morphing star plays havoc with energy systems",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.91oKGug2NjrTi6rq"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "WNdAPwVtU8rsaNEQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Necessary trade negotiations stand on the brink of failure",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.WNdAPwVtU8rsaNEQ"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "AxsqYsSit7IMI3Fa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oppressive faction takes dominion over the sector",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.AxsqYsSit7IMI3Fa"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "tfI9sKKgMy0hxufC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirates hold a beloved leader hostage",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.tfI9sKKgMy0hxufC"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "spsePkSCX7rLZOKs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political dissenters are disappearing",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.spsePkSCX7rLZOKs"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "IZFLO5J5xZFrSoua",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious zealots take a slim majority in leadership and enact drastic changes",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.IZFLO5J5xZFrSoua"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "7LfZ57peWR5nXJDh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rumors and sightings of a ship captained by the dead cause panic",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.7LfZ57peWR5nXJDh"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "vFSi4rHuz8TOLTVy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarce resources lead to price gouging",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.vFSi4rHuz8TOLTVy"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "2xFa1XrXUbIrZ1i7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship sabotage is rampant at the largest spaceport",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.2xFa1XrXUbIrZ1i7"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "c9Wd7iyfLVOLPcy2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange energy field suppresses Eidolon drives",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!TOoNVdWtoACPc6uJ.c9Wd7iyfLVOLPcy2"
+    }
+  ],
+  "folder": "1FBaNVu2zFr4Aeji",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Launching_Your_Campaign/Starting_Sector/Trouble",
+      "category": "Starsmith/Oracles/Launching_Your_Campaign/Starting_Sector",
+      "dsid": "oracle_rollable:starforged/launching_your_campaign/starting_sector/trouble_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676224840,
+    "modifiedTime": 1785569571856,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "TOoNVdWtoACPc6uJ",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!TOoNVdWtoACPc6uJ"
+}

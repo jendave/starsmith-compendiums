@@ -1,0 +1,948 @@
+{
+  "name": "Spaceborne Peril (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "4UV7k2riMFPDuHNM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificial gravity generator malfunctions",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.4UV7k2riMFPDuHNM"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "ytCJehnyqkBpUwrl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated defenses or mines protect this area",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.ytCJehnyqkBpUwrl"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "PWXA0gSj3ZU4IzqH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Compartment catches fire or is breached",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.PWXA0gSj3ZU4IzqH"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "jz6EXCp2Nk3HM26E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Contagion or illness threatens to take hold",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.jz6EXCp2Nk3HM26E"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "nOoRCN9iHoprNtOC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dust clouds imperil navigation or conceal foes",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.nOoRCN9iHoprNtOC"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "TYkymwNRlp8qEHWT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy storm looms",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.TYkymwNRlp8qEHWT"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "xHgwDOnjczgXBFuT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Familiar foe appears or sends an ominous message",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.xHgwDOnjczgXBFuT"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "PnuQ0VGmfEcck6xF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gravity well or vortex takes hold",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.PnuQ0VGmfEcck6xF"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "3VqjSypXOI4VJS4G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imperiled ship calls for help",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.3VqjSypXOI4VJS4G"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "DVBYiEp3dPz6FvKL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Important device fails or malfunctions",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.DVBYiEp3dPz6FvKL"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "OFTc4LajfKMmSgsI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infestation is revealed",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.OFTc4LajfKMmSgsI"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "aoIegitTNLhvw8JJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intruder or stowaway creates trouble",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.aoIegitTNLhvw8JJ"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "OGDriOvJ7wAwI9la",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolation or fear presses in",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.OGDriOvJ7wAwI9la"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "1qxdsBlf3bXMrIvK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Life support system malfunctions",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.1qxdsBlf3bXMrIvK"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "h6IRmGc3zPOAlxjt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Meteoroid storm fills the sky",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.h6IRmGc3zPOAlxjt"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "HgKZnRPq6p6Byshw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mysterious wreckage portends a new threat",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.HgKZnRPq6p6Byshw"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "pVPbEkDKN7TacCYf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nearby settlement calls for help",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.pVPbEkDKN7TacCYf"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "lua70lCuLTNyQZsD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Old repair or patch fails",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.lua70lCuLTNyQZsD"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "HKqZdR8oVhqW522J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Onboard dispute or inner turmoil causes a disruption",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.HKqZdR8oVhqW522J"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "ebDQmtj1bWGFIxYh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Others obstruct your path or form a blockade",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.ebDQmtj1bWGFIxYh"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "gnZ4VGrQHMk6zHjg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phantom signals suggest a lurking foe",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.gnZ4VGrQHMk6zHjg"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "hq8JuY83lb4Ex9GV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirates hunt for prey",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.hq8JuY83lb4Ex9GV"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "5AOn18dzGpNH6Frd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power fails",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.5AOn18dzGpNH6Frd"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "hzpBWld1Kps1CjDj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primary drive or generator malfunctions",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.hzpBWld1Kps1CjDj"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "vDnma5eNZG5yQIJy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sabotage is revealed",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.vDnma5eNZG5yQIJy"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "333arsWBcw83d6qq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shock wave or gravity wave approaches",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.333arsWBcw83d6qq"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "LmNxLyFqPAFOV3Ek",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone questions your presence here",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.LmNxLyFqPAFOV3Ek"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "cp2BIhZgwlsr9hZT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar anomaly emits hazardous energies",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.cp2BIhZgwlsr9hZT"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "S5QOG5azjcfl9vvs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threatening lifeform draws near",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.S5QOG5azjcfl9vvs"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "2zRMZBM6qul3N7XT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troubling visions or apparitions",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.2zRMZBM6qul3N7XT"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "uXVvYYySHs0hxCWH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "True nature of a cargo, occupant, or passenger is revealed",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.uXVvYYySHs0hxCWH"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "X6BWLi62UtblTEB3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unsettling sounds or disturbances",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.X6BWLi62UtblTEB3"
+    },
+    {
+      "range": [
+        97,
+        99
+      ],
+      "_id": "fKrLNe26cJN15kF2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.fKrLNe26cJN15kF2"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "7cyX9CSobhzX3B9U",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Spaceborne Peril (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.G90eIxEM1jKH5YY4",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.7cyX9CSobhzX3B9U"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "dt2VZJu3XEZDLe7U",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Spaceborne Peril (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.G90eIxEM1jKH5YY4",
+      "_key": "!tables.results!G90eIxEM1jKH5YY4.dt2VZJu3XEZDLe7U"
+    }
+  ],
+  "folder": "9aKg1x9pvKGwheVZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a trouble during spaceborne exploration or on an interstellar expedition.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Space/Peril",
+      "category": "Starsmith/Oracles/Space",
+      "dsid": "oracle_rollable:starforged/space/peril_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676313218,
+    "modifiedTime": 1699002158276,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "G90eIxEM1jKH5YY4",
+  "sort": 2193750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!G90eIxEM1jKH5YY4"
+}

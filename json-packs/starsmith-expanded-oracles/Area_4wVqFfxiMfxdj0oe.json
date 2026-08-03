@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Bar or club",
       "range": [
         1,
         8
       ],
       "_id": "qtTyRwx6DCYQCVjC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bar or club",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.qtTyRwx6DCYQCVjC"
     },
     {
-      "text": "Classroom or education",
       "range": [
         9,
         16
       ],
       "_id": "H8do94JOmXxEwOMf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Classroom or education",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.H8do94JOmXxEwOMf"
     },
     {
-      "text": "Entertainment",
       "range": [
         17,
         24
       ],
       "_id": "pRmULT9ZEJSAlVo7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.pRmULT9ZEJSAlVo7"
     },
     {
-      "text": "Gym or fitness",
       "range": [
         25,
         32
       ],
       "_id": "GqZNwPhvioUOLxJh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gym or fitness",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.GqZNwPhvioUOLxJh"
     },
     {
-      "text": "Market or trade shop",
       "range": [
         33,
         40
       ],
       "_id": "RYkVR14qdkT3HCuS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Market or trade shop",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.RYkVR14qdkT3HCuS"
     },
     {
-      "text": "Park or garden",
       "range": [
         41,
         48
       ],
       "_id": "A95TwPM2lFRjaGt8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Park or garden",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.A95TwPM2lFRjaGt8"
     },
     {
-      "text": "Promenade or hub",
       "range": [
         49,
         56
       ],
       "_id": "zSgtud2jV5ltU8Vx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Promenade or hub",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.zSgtud2jV5ltU8Vx"
     },
     {
-      "text": "Restaurant or dining",
       "range": [
         57,
         64
       ],
       "_id": "iySEe9rYG28HRCca",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restaurant or dining",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.iySEe9rYG28HRCca"
     },
     {
-      "text": "Specialty shop",
       "range": [
         65,
         72
       ],
       "_id": "L8TCZfUsOCCZgzGU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Specialty shop",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.L8TCZfUsOCCZgzGU"
     },
     {
-      "text": "Tech shop",
       "range": [
         73,
         80
       ],
       "_id": "9dgA3uPvgwSNtIMz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tech shop",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.9dgA3uPvgwSNtIMz"
     },
     {
-      "text": "Temple or chapel",
       "range": [
         81,
         88
       ],
       "_id": "uWFCKRWgBztGdcF9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temple or chapel",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.uWFCKRWgBztGdcF9"
     },
     {
-      "text": "New zone via Access",
       "range": [
         89,
         100
       ],
       "_id": "ht3aGH0M9tNfr35k",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>New zone via \n<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/access\">\n    <i class=\"fa fa-caret-right\"></i> Access\n</a></p>",
+      "name": "",
       "_key": "!tables.results!4wVqFfxiMfxdj0oe.ht3aGH0M9tNfr35k"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Community/Area",
+      "category": "Starsmith/Oracles/District/Community",
+      "dsid": "oracle_rollable:starforged/district/community/area_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658076,
     "modifiedTime": 1693870691757,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "4wVqFfxiMfxdj0oe",
   "sort": 100000,

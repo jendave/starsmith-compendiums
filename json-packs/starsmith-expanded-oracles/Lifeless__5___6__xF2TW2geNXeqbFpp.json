@@ -3,394 +3,708 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Evidence of endangered life is revealed",
       "range": [
         1,
         3
       ],
       "_id": "4ROCWsERwUKfD8QL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of endangered life is revealed",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.4ROCWsERwUKfD8QL"
     },
     {
-      "text": "Abrupt change in the path's direction",
       "range": [
         4,
         7
       ],
       "_id": "pw5ccYnacWrBz2Es",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abrupt change in the path's direction",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.pw5ccYnacWrBz2Es"
     },
     {
-      "text": "Dangerous interaction between equipment",
       "range": [
         8,
         11
       ],
       "_id": "8CWfqEh9n7Hgjayw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous interaction between equipment",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.8CWfqEh9n7Hgjayw"
     },
     {
-      "text": "Destination is the opposite of what was expected",
       "range": [
         12,
         15
       ],
       "_id": "D9eedUIQf6LEOBRn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destination is the opposite of what was expected",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.D9eedUIQf6LEOBRn"
     },
     {
-      "text": "Enemy invading this area",
       "range": [
         16,
         19
       ],
       "_id": "mBh81du5CJJ4Uziv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy invading this area",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.mBh81du5CJJ4Uziv"
     },
     {
-      "text": "Extreme temperatures",
       "range": [
         20,
         23
       ],
       "_id": "MFaqa2Dh9T86uqnY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extreme temperatures",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.MFaqa2Dh9T86uqnY"
     },
     {
-      "text": "Flash flood",
       "range": [
         24,
         27
       ],
       "_id": "9IkFeVQnpN5bK6OB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flash flood",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.9IkFeVQnpN5bK6OB"
     },
     {
-      "text": "Gained the attention of a foe",
       "range": [
         28,
         31
       ],
       "_id": "ncwGthz6243n9Q1q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gained the attention of a foe",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.ncwGthz6243n9Q1q"
     },
     {
-      "text": "Hazard requiring feats of edge",
       "range": [
         32,
         35
       ],
       "_id": "o6EbJLCUVVVKeUcK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazard requiring feats of edge",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.o6EbJLCUVVVKeUcK"
     },
     {
-      "text": "Lethargy or confusion-inducing environment",
       "range": [
         36,
         39
       ],
       "_id": "5SQDQGrv0EwAC4Uy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lethargy or confusion-inducing environment",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.5SQDQGrv0EwAC4Uy"
     },
     {
-      "text": "Object radiating strange energies",
       "range": [
         40,
         43
       ],
       "_id": "Pu6EFF0m7GpeVklJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Object radiating strange energies",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.Pu6EFF0m7GpeVklJ"
     },
     {
-      "text": "Overwhelming stench",
       "range": [
         44,
         47
       ],
       "_id": "5PNHLvI8kvkEc7EA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelming stench",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.5PNHLvI8kvkEc7EA"
     },
     {
-      "text": "Past comes back to haunt you",
       "range": [
         48,
         51
       ],
       "_id": "HLe6SCLrDEjXlk9E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Past comes back to haunt you",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.HLe6SCLrDEjXlk9E"
     },
     {
-      "text": "Path that will lead to necessary sacrifice",
       "range": [
         52,
         55
       ],
       "_id": "cBRZtzIy44z3DHNR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Path that will lead to necessary sacrifice",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.cBRZtzIy44z3DHNR"
     },
     {
-      "text": "Pounding waves from the sea or ocean",
       "range": [
         56,
         59
       ],
       "_id": "T4YfOUaFoMiDB3TW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pounding waves from the sea or ocean",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.T4YfOUaFoMiDB3TW"
     },
     {
-      "text": "Realization of a missed opportunity",
       "range": [
         60,
         63
       ],
       "_id": "u5HrNFRpw536lDWG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Realization of a missed opportunity",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.u5HrNFRpw536lDWG"
     },
     {
-      "text": "Site of mass death",
       "range": [
         64,
         67
       ],
       "_id": "6W7mR9MmLJhP2Q1D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Site of mass death",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.6W7mR9MmLJhP2Q1D"
     },
     {
-      "text": "Slow-rising flood waters",
       "range": [
         68,
         71
       ],
       "_id": "Zw9MJG7P53tvIXAC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slow-rising flood waters",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.Zw9MJG7P53tvIXAC"
     },
     {
-      "text": "Sudden change in gravity",
       "range": [
         72,
         75
       ],
       "_id": "RvklGpT9XMupzlPH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden change in gravity",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.RvklGpT9XMupzlPH"
     },
     {
-      "text": "Surprise assault by foe",
       "range": [
         76,
         79
       ],
       "_id": "M1HOaW92U1Ta4Srw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surprise assault by foe",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.M1HOaW92U1Ta4Srw"
     },
     {
-      "text": "Time-sensitive path",
       "range": [
         80,
         83
       ],
       "_id": "moH9WgehKoqaqyU3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time-sensitive path",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.moH9WgehKoqaqyU3"
     },
     {
-      "text": "Troubling whispers from the past",
       "range": [
         84,
         87
       ],
       "_id": "JD7X5OPT6aIspj8y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Troubling whispers from the past",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.JD7X5OPT6aIspj8y"
     },
     {
-      "text": "Vanguard of a great approaching force",
       "range": [
         88,
         91
       ],
       "_id": "Urgz9xrkbyskj4BS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vanguard of a great approaching force",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.Urgz9xrkbyskj4BS"
     },
     {
-      "text": "Wreckage or ruins portend the loss of an ally",
       "range": [
         92,
         95
       ],
       "_id": "gpCBENtdiubJlskp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wreckage or ruins portend the loss of an ally",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.gpCBENtdiubJlskp"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         96,
         99
       ],
       "_id": "bw7CfQ2RvtfMdt09",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.bw7CfQ2RvtfMdt09"
     },
     {
-      "text": "Roll Twice",
       "range": [
         100,
         100
       ],
       "_id": "kZ1iYmvYK4skDJyt",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Lifeless (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp",
       "_key": "!tables.results!xF2TW2geNXeqbFpp.kZ1iYmvYK4skDJyt"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "s3f028xZClKMpch1",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Lifeless (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.xF2TW2geNXeqbFpp",
+      "_key": "!tables.results!xF2TW2geNXeqbFpp.s3f028xZClKMpch1"
     }
   ],
   "folder": "pRHK9NiXjihlEnF1",
@@ -398,14 +712,23 @@
   "description": "<p>Choose or roll on this table when you want inspiration for a trouble during planetside exploration or a planetside expedition.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Peril/Lifeless",
+      "category": "Starsmith/Oracles/Planet/Peril",
+      "dsid": "oracle_rollable:starforged/planet/peril/lifeless_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676402164,
     "modifiedTime": 1699053853172,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "xF2TW2geNXeqbFpp",
   "sort": 0,

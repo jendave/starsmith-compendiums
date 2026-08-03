@@ -3,1503 +3,2603 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Agent",
       "range": [
         1,
         1
       ],
       "_id": "QJEMCVZYSL5ja3da",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agent",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.QJEMCVZYSL5ja3da"
     },
     {
-      "text": "Android",
       "range": [
         2,
         2
       ],
       "_id": "o536VLwEFFgTV8w0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Android",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.o536VLwEFFgTV8w0"
     },
     {
-      "text": "Anti-Gravity",
       "range": [
         3,
         3
       ],
       "_id": "Mim1pMfVa5TGJC1e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anti-Gravity",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Mim1pMfVa5TGJC1e"
     },
     {
-      "text": "Antimatter",
       "range": [
         4,
         4
       ],
       "_id": "i8hdquVlMzou20BR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Antimatter",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.i8hdquVlMzou20BR"
     },
     {
-      "text": "Armor",
       "range": [
         5,
         5
       ],
       "_id": "JemWQqNvbAc6GPzQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armor",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.JemWQqNvbAc6GPzQ"
     },
     {
-      "text": "Asteroid",
       "range": [
         6,
         6
       ],
       "_id": "nclxzuyEnfxB8iBa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.nclxzuyEnfxB8iBa"
     },
     {
-      "text": "Asteroid Belt",
       "range": [
         7,
         7
       ],
       "_id": "VM8FyXiHK61KFWlR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid Belt",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.VM8FyXiHK61KFWlR"
     },
     {
-      "text": "Augmentation",
       "range": [
         8,
         8
       ],
       "_id": "RbDQhFpxZYmtEdKj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Augmentation",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.RbDQhFpxZYmtEdKj"
     },
     {
-      "text": "Avatar",
       "range": [
         9,
         9
       ],
       "_id": "YXXm1h3QNQTcQw5Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avatar",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.YXXm1h3QNQTcQw5Y"
     },
     {
-      "text": "Beam",
       "range": [
         10,
         10
       ],
       "_id": "ZNqWV2mXuuxFRl1Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beam",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.ZNqWV2mXuuxFRl1Y"
     },
     {
-      "text": "Black Hole",
       "range": [
         11,
         11
       ],
       "_id": "uX69e68u6DxjzzfY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Black Hole",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.uX69e68u6DxjzzfY"
     },
     {
-      "text": "Breach",
       "range": [
         12,
         12
       ],
       "_id": "1ssgosdqY6UgbKx4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breach",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.1ssgosdqY6UgbKx4"
     },
     {
-      "text": "Breakthrough",
       "range": [
         13,
         13
       ],
       "_id": "KayHPSIs7ghrczkJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breakthrough",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.KayHPSIs7ghrczkJ"
     },
     {
-      "text": "Broker",
       "range": [
         14,
         14
       ],
       "_id": "00AUy2ANm0WzR0RZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broker",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.00AUy2ANm0WzR0RZ"
     },
     {
-      "text": "Change",
       "range": [
         15,
         15
       ],
       "_id": "XLon1p0eaynOe3hZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Change",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.XLon1p0eaynOe3hZ"
     },
     {
-      "text": "Circuit",
       "range": [
         16,
         16
       ],
       "_id": "lXnyB0NgGmJfpD1o",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Circuit",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.lXnyB0NgGmJfpD1o"
     },
     {
-      "text": "Clone",
       "range": [
         17,
         17
       ],
       "_id": "OkfXTAngeCOvCEeW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clone",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.OkfXTAngeCOvCEeW"
     },
     {
-      "text": "Cluster",
       "range": [
         18,
         18
       ],
       "_id": "jOTyxQrCIW6Z4VUW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cluster",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.jOTyxQrCIW6Z4VUW"
     },
     {
-      "text": "Colony",
       "range": [
         19,
         19
       ],
       "_id": "vxXAYt6gJq5x4C6y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colony",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.vxXAYt6gJq5x4C6y"
     },
     {
-      "text": "Comet",
       "range": [
         20,
         20
       ],
       "_id": "QMUyHTaK4KO917Cp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Comet",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.QMUyHTaK4KO917Cp"
     },
     {
-      "text": "Communicator",
       "range": [
         21,
         21
       ],
       "_id": "5LECfanbDVZUt3EE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communicator",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.5LECfanbDVZUt3EE"
     },
     {
-      "text": "Conjunction",
       "range": [
         22,
         22
       ],
       "_id": "zHAeBnUJuXiwzMmq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conjunction",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.zHAeBnUJuXiwzMmq"
     },
     {
-      "text": "Connection",
       "range": [
         23,
         23
       ],
       "_id": "KY842fzu0y3NyoJO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connection",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.KY842fzu0y3NyoJO"
     },
     {
-      "text": "Coordinates",
       "range": [
         24,
         24
       ],
       "_id": "10DVABL5cwBDy984",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coordinates",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.10DVABL5cwBDy984"
     },
     {
-      "text": "Corona",
       "range": [
         25,
         25
       ],
       "_id": "irkovsUlHwrhOQss",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corona",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.irkovsUlHwrhOQss"
     },
     {
-      "text": "Credit",
       "range": [
         26,
         26
       ],
       "_id": "cLdn4IWkvKX2XEpo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Credit",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.cLdn4IWkvKX2XEpo"
     },
     {
-      "text": "Cryonics",
       "range": [
         27,
         27
       ],
       "_id": "nErcLMTI5KYd2A02",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cryonics",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.nErcLMTI5KYd2A02"
     },
     {
-      "text": "Cult",
       "range": [
         28,
         28
       ],
       "_id": "hpdoRdpsgCdTqmmR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cult",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.hpdoRdpsgCdTqmmR"
     },
     {
-      "text": "Culture",
       "range": [
         29,
         29
       ],
       "_id": "hltstJfqjp3Pdo9a",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Culture",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.hltstJfqjp3Pdo9a"
     },
     {
-      "text": "Cybernetics",
       "range": [
         30,
         30
       ],
       "_id": "XB0NMoWeNlfylvR8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cybernetics",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.XB0NMoWeNlfylvR8"
     },
     {
-      "text": "Derelict",
       "range": [
         31,
         31
       ],
       "_id": "Nij0S5lgyxSrm4sR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Derelict",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Nij0S5lgyxSrm4sR"
     },
     {
-      "text": "Development",
       "range": [
         32,
         32
       ],
       "_id": "vAmpRqiEcIVhEOoF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Development",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.vAmpRqiEcIVhEOoF"
     },
     {
-      "text": "Drive",
       "range": [
         33,
         33
       ],
       "_id": "D6cBAAoWqTUsJiOa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drive",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.D6cBAAoWqTUsJiOa"
     },
     {
-      "text": "Dyson Sphere",
       "range": [
         34,
         34
       ],
       "_id": "hOHUTd0jwQFlIMyy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dyson Sphere",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.hOHUTd0jwQFlIMyy"
     },
     {
-      "text": "Element",
       "range": [
         35,
         35
       ],
       "_id": "rdC1bnz8QpNkFfZL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Element",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.rdC1bnz8QpNkFfZL"
     },
     {
-      "text": "Engine",
       "range": [
         36,
         36
       ],
       "_id": "4xWmjqNlco1biUSy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engine",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.4xWmjqNlco1biUSy"
     },
     {
-      "text": "Enhancement",
       "range": [
         37,
         37
       ],
       "_id": "GcsEy5kHk1Mc1snU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhancement",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.GcsEy5kHk1Mc1snU"
     },
     {
-      "text": "Entanglement",
       "range": [
         38,
         38
       ],
       "_id": "JPq2DHRRYVSFjgqE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entanglement",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.JPq2DHRRYVSFjgqE"
     },
     {
-      "text": "Entropy",
       "range": [
         39,
         39
       ],
       "_id": "3QP5sIwfQeAV4bj9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entropy",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.3QP5sIwfQeAV4bj9"
     },
     {
-      "text": "Exosuit",
       "range": [
         40,
         40
       ],
       "_id": "EEulcthqCblTen2i",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exosuit",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.EEulcthqCblTen2i"
     },
     {
-      "text": "Experiment",
       "range": [
         41,
         41
       ],
       "_id": "2P8o9ZDAaUPcRvhu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Experiment",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.2P8o9ZDAaUPcRvhu"
     },
     {
-      "text": "Exploration",
       "range": [
         42,
         42
       ],
       "_id": "Z8ZjBHo7eJBgwmR1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploration",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Z8ZjBHo7eJBgwmR1"
     },
     {
-      "text": "Explosion",
       "range": [
         43,
         43
       ],
       "_id": "rHnkrAcTP4R6wCp7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explosion",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.rHnkrAcTP4R6wCp7"
     },
     {
-      "text": "Exposure",
       "range": [
         44,
         44
       ],
       "_id": "sZFNH74tpkVnqgA7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposure",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.sZFNH74tpkVnqgA7"
     },
     {
-      "text": "Faction",
       "range": [
         45,
         45
       ],
       "_id": "u18e0FcXPf16C8gh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faction",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.u18e0FcXPf16C8gh"
     },
     {
-      "text": "Field",
       "range": [
         46,
         46
       ],
       "_id": "wuW9J3DgLqISdwBg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Field",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.wuW9J3DgLqISdwBg"
     },
     {
-      "text": "Fighter",
       "range": [
         47,
         47
       ],
       "_id": "oqj5e4pcEn1WwVHA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fighter",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.oqj5e4pcEn1WwVHA"
     },
     {
-      "text": "Fission",
       "range": [
         48,
         48
       ],
       "_id": "zaovEojUcgfFzMQ0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fission",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.zaovEojUcgfFzMQ0"
     },
     {
-      "text": "Fusion",
       "range": [
         49,
         49
       ],
       "_id": "TYzAeIXuiFLlXJlb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fusion",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.TYzAeIXuiFLlXJlb"
     },
     {
-      "text": "Hologram",
       "range": [
         50,
         50
       ],
       "_id": "yeCLaITNY4rab8Zm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hologram",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.yeCLaITNY4rab8Zm"
     },
     {
-      "text": "Humanoid",
       "range": [
         51,
         51
       ],
       "_id": "ZiTy1VvXkZnBX9rO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Humanoid",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.ZiTy1VvXkZnBX9rO"
     },
     {
-      "text": "Hydroponics",
       "range": [
         52,
         52
       ],
       "_id": "YcaKITpZ3NK91sJF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydroponics",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.YcaKITpZ3NK91sJF"
     },
     {
-      "text": "Icon",
       "range": [
         53,
         53
       ],
       "_id": "gh0DiCrn0z7LpPb3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Icon",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.gh0DiCrn0z7LpPb3"
     },
     {
-      "text": "Isotope",
       "range": [
         54,
         54
       ],
       "_id": "8VtS1aPmx7vGUT77",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isotope",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.8VtS1aPmx7vGUT77"
     },
     {
-      "text": "Key",
       "range": [
         55,
         55
       ],
       "_id": "oLp0kUHV5pLppMNm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.oLp0kUHV5pLppMNm"
     },
     {
-      "text": "Life",
       "range": [
         56,
         56
       ],
       "_id": "Lm5v9owxJ7jsVtaP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Life",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Lm5v9owxJ7jsVtaP"
     },
     {
-      "text": "Light Sail",
       "range": [
         57,
         57
       ],
       "_id": "zWYJqn3opVr0UjBX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light Sail",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.zWYJqn3opVr0UjBX"
     },
     {
-      "text": "Location",
       "range": [
         58,
         58
       ],
       "_id": "4RYIUMvHm1Uhoqyg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Location",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.4RYIUMvHm1Uhoqyg"
     },
     {
-      "text": "Magnetism",
       "range": [
         59,
         59
       ],
       "_id": "dQNTgaVaI5QXEtp9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetism",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.dQNTgaVaI5QXEtp9"
     },
     {
-      "text": "Map",
       "range": [
         60,
         60
       ],
       "_id": "OJ6ANU1l6nG0XoKD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Map",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.OJ6ANU1l6nG0XoKD"
     },
     {
-      "text": "Memorial",
       "range": [
         61,
         61
       ],
       "_id": "GnuF8v2KxlUePxbH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Memorial",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.GnuF8v2KxlUePxbH"
     },
     {
-      "text": "Microbe",
       "range": [
         62,
         62
       ],
       "_id": "lhuFNCv3xU6Q4eSp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Microbe",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.lhuFNCv3xU6Q4eSp"
     },
     {
-      "text": "Moon",
       "range": [
         63,
         63
       ],
       "_id": "Nfx1gMdNRVa7VmLS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moon",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Nfx1gMdNRVa7VmLS"
     },
     {
-      "text": "Motion",
       "range": [
         64,
         64
       ],
       "_id": "pnjRxlSI6z9XqJq1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Motion",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.pnjRxlSI6z9XqJq1"
     },
     {
-      "text": "Multiverse",
       "range": [
         65,
         65
       ],
       "_id": "KSwpcxNAONVXtIDr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiverse",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.KSwpcxNAONVXtIDr"
     },
     {
-      "text": "Mutation",
       "range": [
         66,
         66
       ],
       "_id": "tGhEagdw6DtwurJH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutation",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.tGhEagdw6DtwurJH"
     },
     {
-      "text": "Nanobots",
       "range": [
         67,
         67
       ],
       "_id": "akRjpDIqDbBCTV7o",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nanobots",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.akRjpDIqDbBCTV7o"
     },
     {
-      "text": "Nebula",
       "range": [
         68,
         68
       ],
       "_id": "O1ndW4P1FD5QuWgg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nebula",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.O1ndW4P1FD5QuWgg"
     },
     {
-      "text": "Nova",
       "range": [
         69,
         69
       ],
       "_id": "Sc5SsH67HrnwiCAQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nova",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Sc5SsH67HrnwiCAQ"
     },
     {
-      "text": "Organization",
       "range": [
         70,
         70
       ],
       "_id": "h6cIrSYVdS6knYth",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organization",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.h6cIrSYVdS6knYth"
     },
     {
-      "text": "Paradox",
       "range": [
         71,
         71
       ],
       "_id": "aiXYYCskJabNPawA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paradox",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.aiXYYCskJabNPawA"
     },
     {
-      "text": "Planet",
       "range": [
         72,
         72
       ],
       "_id": "uBTguob67qGVKqRo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planet",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.uBTguob67qGVKqRo"
     },
     {
-      "text": "Planetoid",
       "range": [
         73,
         73
       ],
       "_id": "OjFAe0wVyrBQcctW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetoid",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.OjFAe0wVyrBQcctW"
     },
     {
-      "text": "Plans",
       "range": [
         74,
         74
       ],
       "_id": "iaXl3YaPQ1WmHyrV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plans",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.iaXl3YaPQ1WmHyrV"
     },
     {
-      "text": "Power",
       "range": [
         75,
         75
       ],
       "_id": "J5EGWF7DhV0bWnYI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.J5EGWF7DhV0bWnYI"
     },
     {
-      "text": "Radioactivity",
       "range": [
         76,
         76
       ],
       "_id": "iTk5tGZfb2W9hUY7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactivity",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.iTk5tGZfb2W9hUY7"
     },
     {
-      "text": "Ramscoop",
       "range": [
         77,
         77
       ],
       "_id": "VXeMRQCTdR9sVPX9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ramscoop",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.VXeMRQCTdR9sVPX9"
     },
     {
-      "text": "Rays",
       "range": [
         78,
         78
       ],
       "_id": "1kAcbxJOIeYtp3Bi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rays",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.1kAcbxJOIeYtp3Bi"
     },
     {
-      "text": "Rift",
       "range": [
         79,
         79
       ],
       "_id": "6ggV3tjAg58CNyg6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rift",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.6ggV3tjAg58CNyg6"
     },
     {
-      "text": "Ring World",
       "range": [
         80,
         80
       ],
       "_id": "zW9SMnmxfWIqLmbA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ring World",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.zW9SMnmxfWIqLmbA"
     },
     {
-      "text": "Robot",
       "range": [
         81,
         81
       ],
       "_id": "GPs0F15TU8VHVBkn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Robot",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.GPs0F15TU8VHVBkn"
     },
     {
-      "text": "Rocket",
       "range": [
         82,
         82
       ],
       "_id": "TrwsQ8zjdLeZhtmV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocket",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.TrwsQ8zjdLeZhtmV"
     },
     {
-      "text": "Satellite",
       "range": [
         83,
         83
       ],
       "_id": "6Mi63A5eDlVo2qIw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Satellite",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.6Mi63A5eDlVo2qIw"
     },
     {
-      "text": "Schematics",
       "range": [
         84,
         84
       ],
       "_id": "tuvR91b9Dq0x3IJf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Schematics",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.tuvR91b9Dq0x3IJf"
     },
     {
-      "text": "Shield",
       "range": [
         85,
         85
       ],
       "_id": "3DI7PwMEUJpbY9Py",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shield",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.3DI7PwMEUJpbY9Py"
     },
     {
-      "text": "Shipment",
       "range": [
         86,
         86
       ],
       "_id": "O4TzixnqRuScNdrl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipment",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.O4TzixnqRuScNdrl"
     },
     {
-      "text": "Shuttle",
       "range": [
         87,
         87
       ],
       "_id": "kK53TaHxuc6R8kQZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuttle",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.kK53TaHxuc6R8kQZ"
     },
     {
-      "text": "Sigil",
       "range": [
         88,
         88
       ],
       "_id": "O9NtDj687kNTESI7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sigil",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.O9NtDj687kNTESI7"
     },
     {
-      "text": "Singularity",
       "range": [
         89,
         89
       ],
       "_id": "OKJJGn517vXBIKaA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Singularity",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.OKJJGn517vXBIKaA"
     },
     {
-      "text": "Space",
       "range": [
         90,
         90
       ],
       "_id": "j68wq9RptEpw529j",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.j68wq9RptEpw529j"
     },
     {
-      "text": "Star",
       "range": [
         91,
         91
       ],
       "_id": "9wEicegEklEPoreY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Star",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.9wEicegEklEPoreY"
     },
     {
-      "text": "Statue",
       "range": [
         92,
         92
       ],
       "_id": "YV1OrvLJbxJuU0Iv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Statue",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.YV1OrvLJbxJuU0Iv"
     },
     {
-      "text": "Subspace",
       "range": [
         93,
         93
       ],
       "_id": "QttPSAdMpRV3W0wT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subspace",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.QttPSAdMpRV3W0wT"
     },
     {
-      "text": "Supplier",
       "range": [
         94,
         94
       ],
       "_id": "eAATsLMpzHs4lRlz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supplier",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.eAATsLMpzHs4lRlz"
     },
     {
-      "text": "Terraformer",
       "range": [
         95,
         95
       ],
       "_id": "cl4hiTuWFzxazxot",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terraformer",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.cl4hiTuWFzxazxot"
     },
     {
-      "text": "Time",
       "range": [
         96,
         96
       ],
       "_id": "xC9NUnTaEISFu0Lg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.xC9NUnTaEISFu0Lg"
     },
     {
-      "text": "Transport",
       "range": [
         97,
         97
       ],
       "_id": "qfFGNvLQ7vxh42S6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.qfFGNvLQ7vxh42S6"
     },
     {
-      "text": "Vector",
       "range": [
         98,
         98
       ],
       "_id": "cJZfezeQ2DaRDeQi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vector",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.cJZfezeQ2DaRDeQi"
     },
     {
-      "text": "Water",
       "range": [
         99,
         99
       ],
       "_id": "DOitZlG1LX69akO1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Water",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.DOitZlG1LX69akO1"
     },
     {
-      "text": "Wormhole",
       "range": [
         100,
         100
       ],
       "_id": "Q9dvjX4TB8lC4i17",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wormhole",
+      "name": "",
       "_key": "!tables.results!vLrIoBVbDBjNziuq.Q9dvjX4TB8lC4i17"
     }
   ],
@@ -1508,14 +2608,23 @@
   "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} to help define the nature of a location, discovery, or encounter, roll for a Descriptor and a Focus for an adjective/noun prompt.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Core/Focus",
+      "category": "Starsmith/Oracles/Core",
+      "dsid": "oracle_rollable:starforged/core/focus_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676265547,
     "modifiedTime": 1693042399466,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "vLrIoBVbDBjNziuq",
   "sort": 1300000,

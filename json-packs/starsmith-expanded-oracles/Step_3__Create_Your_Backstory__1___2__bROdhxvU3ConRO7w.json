@@ -1,0 +1,426 @@
+{
+  "name": "Step 3: Create Your Backstory (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "F3du15P8jswhOrAf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You abandoned your kin after learning a troubling truth",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.F3du15P8jswhOrAf"
+    },
+    {
+      "range": [
+        8,
+        13
+      ],
+      "_id": "nVqH9Qd4D4u3sWPL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are guided by a vision or prophecy",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.nVqH9Qd4D4u3sWPL"
+    },
+    {
+      "range": [
+        14,
+        20
+      ],
+      "_id": "yR5lFXbdbpXlzDd7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are haunted by past actions or failures",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.yR5lFXbdbpXlzDd7"
+    },
+    {
+      "range": [
+        21,
+        27
+      ],
+      "_id": "ShpsL4snlHwdJpPl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are running from a criminal past",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.ShpsL4snlHwdJpPl"
+    },
+    {
+      "range": [
+        28,
+        34
+      ],
+      "_id": "GFBYF1e6XCsjQ33h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are the sole survivor of an attack or calamity",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.GFBYF1e6XCsjQ33h"
+    },
+    {
+      "range": [
+        35,
+        40
+      ],
+      "_id": "IPYb1lDciPll97SE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You escaped an abusive or unjust situation",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.IPYb1lDciPll97SE"
+    },
+    {
+      "range": [
+        41,
+        46
+      ],
+      "_id": "2NIF6KjqEoGLIHM5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You have no memory of your former life",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.2NIF6KjqEoGLIHM5"
+    },
+    {
+      "range": [
+        47,
+        53
+      ],
+      "_id": "Udx3c7oVLWyNyzF8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You rejected a duty or destiny",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.Udx3c7oVLWyNyzF8"
+    },
+    {
+      "range": [
+        54,
+        60
+      ],
+      "_id": "pTwgcRrA7a03QeVD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were banished from your former home",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.pTwgcRrA7a03QeVD"
+    },
+    {
+      "range": [
+        61,
+        67
+      ],
+      "_id": "bbGSNJbjQ9rgemzY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were denied a birthright",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.bbGSNJbjQ9rgemzY"
+    },
+    {
+      "range": [
+        68,
+        74
+      ],
+      "_id": "fBfifPtidPSCq2ot",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were on your own for as long as you can remember",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.fBfifPtidPSCq2ot"
+    },
+    {
+      "range": [
+        75,
+        81
+      ],
+      "_id": "Yqy0dVcQc2MnUkmZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were sent away on a prolonged mission",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.Yqy0dVcQc2MnUkmZ"
+    },
+    {
+      "range": [
+        82,
+        87
+      ],
+      "_id": "nhq4KumMro3HY5Ni",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were taken or lured away by someone",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.nhq4KumMro3HY5Ni"
+    },
+    {
+      "range": [
+        88,
+        94
+      ],
+      "_id": "A91pwCSxE7ZgWFmv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your ambitions outgrew your humble origins",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.A91pwCSxE7ZgWFmv"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "kpISwdY1PzEuCFnL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your wanderlust carried you far away",
+      "name": "",
+      "_key": "!tables.results!bROdhxvU3ConRO7w.kpISwdY1PzEuCFnL"
+    }
+  ],
+  "folder": "H5A2UmsiDM3RKNcR",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>For some backstory inspiration, roll or pick from the table below. Then, take a moment to elaborate on the suggestion. Or just leave it a bit vague and mysterious for now; you can flesh it out in play.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Launching_Your_Campaign/Character/Backstory",
+      "category": "Starsmith/Oracles/Launching_Your_Campaign/Character",
+      "dsid": "oracle_rollable:starforged/launching_your_campaign/character/backstory_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676224788,
+    "modifiedTime": 1785569592393,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "bROdhxvU3ConRO7w",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!bROdhxvU3ConRO7w"
+}

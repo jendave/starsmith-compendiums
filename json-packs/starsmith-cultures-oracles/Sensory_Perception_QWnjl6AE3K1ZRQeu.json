@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Sense of Sight - This alien sees things in a different way than humanity. It may be seeing a different visual spectrum such as infrared, or it may be seeing something other than light such as force, electrical impulses, or background radiation.",
       "range": [
         1,
         10
       ],
       "_id": "ne1qWCTgUbX1hUtj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This alien sees things in a different way than humanity. It may be seeing a different visual spectrum such as infrared, or it may be seeing something other than light such as force, electrical impulses, or background radiation.",
+      "name": "Sense of Sight",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.ne1qWCTgUbX1hUtj"
     },
     {
-      "text": "Sense of Smell - This alien has an enhanced sense of smell that allows them to detect details beyond human capability. For example, they can detect diseases, discern lies from truth, or assess threat levels all from olfactory inputs.",
       "range": [
         11,
         20
       ],
       "_id": "NUkbf2fz2KjPFPWe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This alien has an enhanced sense of smell that allows them to detect details beyond human capability. For example, they can detect diseases, discern lies from truth, or assess threat levels all from olfactory inputs.",
+      "name": "Sense of Smell",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.NUkbf2fz2KjPFPWe"
     },
     {
-      "text": "Sense of Sound - This alien can perceive audio signals at higher or lower frequencies than humans. Alternately, they have super- hearing and can navigate via sound alone.",
       "range": [
         21,
         30
       ],
       "_id": "c4gDO0LwF8DAsDUe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This alien can perceive audio signals at higher or lower frequencies than humans. Alternately, they have super- hearing and can navigate via sound alone.",
+      "name": "Sense of Sound",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.c4gDO0LwF8DAsDUe"
     },
     {
-      "text": "Sense of Taste - An enhanced sense of taste has led to unusual behaviors or communication in this alien species such as a lick of greeting or messages embedded in food. They may have a highly detailed culture of cooking and preparing sustenance. Alternately, this alien may eat things that humans could not digest.",
       "range": [
         31,
         40
       ],
       "_id": "DlXowJ0pV0KwrDdL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An enhanced sense of taste has led to unusual behaviors or communication in this alien species such as a lick of greeting or messages embedded in food. They may have a highly detailed culture of cooking and preparing sustenance. Alternately, this alien may eat things that humans could not digest.",
+      "name": "Sense of Taste",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.DlXowJ0pV0KwrDdL"
     },
     {
-      "text": "Sense of Touch - This alien can detect minute physical distortions or changes in angles through a specialized touch sensory organ. This has led to better medical care, feats of engineering, and other scientific breakthroughs.",
       "range": [
         41,
         50
       ],
       "_id": "NGVcRwq13eN5haLX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This alien can detect minute physical distortions or changes in angles through a specialized touch sensory organ. This has led to better medical care, feats of engineering, and other scientific breakthroughs.",
+      "name": "Sense of Touch",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.NGVcRwq13eN5haLX"
     },
     {
-      "text": "Sixth Sense - An entirely new layer of reality was discovered after contact with this alien species was made. Their ability to natively detect this reality gives them a leg up in all interactions with humans.",
       "range": [
         51,
         60
       ],
       "_id": "8P0o1QRKE6MBEC5E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An entirely new layer of reality was discovered after contact with this alien species was made. Their ability to natively detect this reality gives them a leg up in all interactions with humans.",
+      "name": "Sixth Sense",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.8P0o1QRKE6MBEC5E"
     },
     {
-      "text": "Hivemind or Sense of Others - This alien has an altered sense of self because it perceives others of its kind not as distinct individuals but as an extension of itself. This does not occur as a cultural choice but rather as a biological byproduct of hivemind sensory ability.",
       "range": [
         61,
         70
       ],
       "_id": "oDJPbspUYS48F3Z6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "This alien has an altered sense of self because it perceives others of its kind not as distinct individuals but as an extension of itself. This does not occur as a cultural choice but rather as a biological byproduct of hivemind sensory ability.",
+      "name": "Hivemind or Sense of Others",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.oDJPbspUYS48F3Z6"
     },
     {
-      "text": "Dark Matter - Perceiving dark matter is as simple for this alien as perceiving matter is for humans. Their intimate knowledge of dark matter has been both a boon and bane for their scientific research.",
       "range": [
         71,
         80
       ],
       "_id": "cyzBseyPUbzsTXIV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perceiving dark matter is as simple for this alien as perceiving matter is for humans. Their intimate knowledge of dark matter has been both a boon and bane for their scientific research.",
+      "name": "Dark Matter",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.cyzBseyPUbzsTXIV"
     },
     {
-      "text": "Time Perception - As far as this alien is concerned, time is non- linear. Past, present, and future are all one and the same which makes interactions with humans prone to miscommunication.",
       "range": [
         81,
         90
       ],
       "_id": "qqZ5gCYzz0kMoZlI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "As far as this alien is concerned, time is non- linear. Past, present, and future are all one and the same which makes interactions with humans prone to miscommunication.",
+      "name": "Time Perception",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.qqZ5gCYzz0kMoZlI"
     },
     {
-      "text": "Pleasure / Pain - The way that pleasure or pain sensations are sent to the brain of this alien are contrary to the human experience. Acts meant to elicit calm or comfort within this alien species cause physical discomfort in humans and vice versa.",
       "range": [
         91,
         100
       ],
       "_id": "c9jk4HPZp4dMdMFX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The way that pleasure or pain sensations are sent to the brain of this alien are contrary to the human experience. Acts meant to elicit calm or comfort within this alien species cause physical discomfort in humans and vice versa.",
+      "name": "Pleasure / Pain",
       "_key": "!tables.results!QWnjl6AE3K1ZRQeu.c9jk4HPZp4dMdMFX"
     }
   ],
@@ -168,10 +278,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144820809,
     "modifiedTime": 1708148208483,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!QWnjl6AE3K1ZRQeu"
 }

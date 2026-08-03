@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Complex ring system",
       "range": [
         1,
         11
       ],
       "_id": "PnU7KFiuRlSRNFS3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Complex ring system",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.PnU7KFiuRlSRNFS3"
     },
     {
-      "text": "Dramatic seasonal variation",
       "range": [
         12,
         22
       ],
       "_id": "OTi3m0Ih3Ut8jJkN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dramatic seasonal variation",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.OTi3m0Ih3Ut8jJkN"
     },
     {
-      "text": "High gravity",
       "range": [
         23,
         33
       ],
       "_id": "RGiVWZLXRFByHYM1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High gravity",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.RGiVWZLXRFByHYM1"
     },
     {
-      "text": "Large moon",
       "range": [
         34,
         44
       ],
       "_id": "GfTF6vW1VyG6Tkwj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large moon",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.GfTF6vW1VyG6Tkwj"
     },
     {
-      "text": "Narrow livable band",
       "range": [
         45,
         55
       ],
       "_id": "mwDRzkKFiQkVJPAB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narrow livable band",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.mwDRzkKFiQkVJPAB"
     },
     {
-      "text": "Numerous small moons",
       "range": [
         56,
         66
       ],
       "_id": "vaUBHGhkGg4Gpq8D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Numerous small moons",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.vaUBHGhkGg4Gpq8D"
     },
     {
-      "text": "Unusual day or night cycle",
       "range": [
         67,
         77
       ],
       "_id": "zJVmoUd0y89L3oRJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual day or night cycle",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.zJVmoUd0y89L3oRJ"
     },
     {
-      "text": "Vibrantly colored landscapes",
       "range": [
         78,
         88
       ],
       "_id": "YoOh43Niowmy6Z61",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrantly colored landscapes",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.YoOh43Niowmy6Z61"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "nmT8ntYLm2AFfzFW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.nmT8ntYLm2AFfzFW"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "7Z2XwPoEjx4FZuEk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!WF7PRchsM9oevTjM.7Z2XwPoEjx4FZuEk"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Vital/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Vital",
+      "dsid": "oracle_rollable:starforged/planet/vital/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676402113,
     "modifiedTime": 1699054382651,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "WF7PRchsM9oevTjM",
   "sort": 500000,

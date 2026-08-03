@@ -3,186 +3,370 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Alien worshipers",
       "range": [
         1,
         8
       ],
       "_id": "89e6vkMY7b3WiLA4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alien worshipers",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.89e6vkMY7b3WiLA4"
     },
     {
-      "text": "Crusaders",
       "range": [
         9,
         16
       ],
       "_id": "rDHGuB6jJrZ6Rock",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crusaders",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.rDHGuB6jJrZ6Rock"
     },
     {
-      "text": "Devout atheists",
       "range": [
         17,
         24
       ],
       "_id": "kimhMGLW2ovvRy94",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devout atheists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.kimhMGLW2ovvRy94"
     },
     {
-      "text": "Doomsayers",
       "range": [
         25,
         32
       ],
       "_id": "d30L6ArqqBf41DIy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Doomsayers",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.d30L6ArqqBf41DIy"
     },
     {
-      "text": "Evangelists",
       "range": [
         33,
         40
       ],
       "_id": "MshVQcDWmVB0dxSG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evangelists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.MshVQcDWmVB0dxSG"
     },
     {
-      "text": "Monotheists",
       "range": [
         41,
         48
       ],
       "_id": "HCbODpKxxtjNKsoN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monotheists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.HCbODpKxxtjNKsoN"
     },
     {
-      "text": "Pantheists",
       "range": [
         49,
         56
       ],
       "_id": "TNeng6PVjnkm5cFH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pantheists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.TNeng6PVjnkm5cFH"
     },
     {
-      "text": "Puritans",
       "range": [
         57,
         64
       ],
       "_id": "xIoROkb1XSY1rUzG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Puritans",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.xIoROkb1XSY1rUzG"
     },
     {
-      "text": "Self edifying",
       "range": [
         65,
         72
       ],
       "_id": "erKxM14XadRg5IhJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self edifying",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.erKxM14XadRg5IhJ"
     },
     {
-      "text": "Star worshipers",
       "range": [
         73,
         80
       ],
       "_id": "6gDs1PF1hUn6KHVY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Star worshipers",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.6gDs1PF1hUn6KHVY"
     },
     {
-      "text": "Universalists",
       "range": [
         81,
         88
       ],
       "_id": "LfnRwA6stEyKVIWd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Universalists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.LfnRwA6stEyKVIWd"
     },
     {
-      "text": "Worshipers of the dead",
       "range": [
         89,
         96
       ],
       "_id": "VsZFG6OlRqMs6dNf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worshipers of the dead",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.VsZFG6OlRqMs6dNf"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "OCPTOZwMqdadsbAv",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1785624122181,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Religious: Role",
+      "img": "icons/dice/d10black.svg",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KAFl5CXZdfKUmt9J",
       "_key": "!tables.results!KAFl5CXZdfKUmt9J.OCPTOZwMqdadsbAv"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        97,
+        100
+      ],
+      "_id": "jZcDyPO7YE0csFo1",
+      "name": "Religious: Role",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll twice</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1785624096652,
+        "modifiedTime": 1785624112234,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.KAFl5CXZdfKUmt9J",
+      "_key": "!tables.results!KAFl5CXZdfKUmt9J.jZcDyPO7YE0csFo1"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -190,14 +374,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Religious_Role",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/religious_role_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597186,
-    "modifiedTime": 1693070246608,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "modifiedTime": 1785624103714,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "KAFl5CXZdfKUmt9J",
   "sort": 199708,

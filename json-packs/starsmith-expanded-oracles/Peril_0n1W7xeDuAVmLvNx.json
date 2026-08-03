@@ -3,169 +3,318 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Corrosive leak",
       "range": [
         1,
         10
       ],
       "_id": "jHEXyVfnOdMG6Lmu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive leak",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.jHEXyVfnOdMG6Lmu"
     },
     {
-      "text": "Environmental controls gone haywire",
       "range": [
         11,
         20
       ],
       "_id": "V0WolGbmqp2g02SX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental controls gone haywire",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.V0WolGbmqp2g02SX"
     },
     {
-      "text": "Erratic utility bots",
       "range": [
         21,
         30
       ],
       "_id": "3tyTaZTIny78skwu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic utility bots",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.3tyTaZTIny78skwu"
     },
     {
-      "text": "Failing equipment requires a specific part or skill",
       "range": [
         31,
         40
       ],
       "_id": "ufsdahuFQgYk7Nyp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Failing equipment requires a specific part or skill",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.ufsdahuFQgYk7Nyp"
     },
     {
-      "text": "Fire or energy surge",
       "range": [
         41,
         50
       ],
       "_id": "h3fcmXKzozsZTzxZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fire or energy surge",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.h3fcmXKzozsZTzxZ"
     },
     {
-      "text": "Gremlin in the system",
       "range": [
         51,
         60
       ],
       "_id": "0SWSwCAmqtYMSpmQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gremlin in the system",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.0SWSwCAmqtYMSpmQ"
     },
     {
-      "text": "Power core failing",
       "range": [
         61,
         70
       ],
       "_id": "1CHMU0NVvLhpUkZj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power core failing",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.1CHMU0NVvLhpUkZj"
     },
     {
-      "text": "Radioactive hotspot",
       "range": [
         71,
         80
       ],
       "_id": "nPqRJmFv1onrgMbk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive hotspot",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.nPqRJmFv1onrgMbk"
     },
     {
-      "text": "Worksite accident",
       "range": [
         81,
         90
       ],
       "_id": "GH4FytzMqsy29XxC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worksite accident",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.GH4FytzMqsy29XxC"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "MCk1D8qyKvkeSvmY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.MCk1D8qyKvkeSvmY"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "v80LXgFFsSvWbQOm",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0n1W7xeDuAVmLvNx",
       "_key": "!tables.results!0n1W7xeDuAVmLvNx.v80LXgFFsSvWbQOm"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "8n6OwaIyKv4RxNVP",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.0n1W7xeDuAVmLvNx",
+      "_key": "!tables.results!0n1W7xeDuAVmLvNx.8n6OwaIyKv4RxNVP"
     }
   ],
   "folder": "yIrjqo4T2v8hXe7o",
@@ -173,14 +322,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Engineering/Peril",
+      "category": "Starsmith/Oracles/District/Engineering",
+      "dsid": "oracle_rollable:starforged/district/engineering/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658093,
     "modifiedTime": 1699035712179,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "0n1W7xeDuAVmLvNx",
   "sort": 400000,

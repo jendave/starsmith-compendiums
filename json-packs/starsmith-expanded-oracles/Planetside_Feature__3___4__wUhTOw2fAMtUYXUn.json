@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "TL3XQIOxj5HPdyR1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avalanche of ice and snow",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.TL3XQIOxj5HPdyR1"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "EYBHGn4fnRBdoTPj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bridge of ice connecting glaciers",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.EYBHGn4fnRBdoTPj"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "D3aC7dTw3bZDNsGe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devastating hail storms",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.D3aC7dTw3bZDNsGe"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "FoobltlT5CZBbJZV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emeralds of ice",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.FoobltlT5CZBbJZV"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "gLbbRBXeQPsRsv30",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fierce lightning fueled by solar radiation",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.gLbbRBXeQPsRsv30"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "QCdndLcji9YxTTyP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hidden valley with relatively little snow",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.QCdndLcji9YxTTyP"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "jMj6BiTec6BYbMeE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preserved midden heap of an ancient people",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.jMj6BiTec6BYbMeE"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "yRbWABmbjecacOE3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "River of glacial melt",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.yRbWABmbjecacOE3"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "20G5xlP5apD16vlG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sections of ice jutting up at odd angles",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.20G5xlP5apD16vlG"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "0OJmnm8baRj70mKj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spheres of ice rounded by the wind",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.0OJmnm8baRj70mKj"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "WC2neLmmp6pBrI3E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sprawling tunnels through the ice",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.WC2neLmmp6pBrI3E"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "gHipLjhDs3GcQelB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thin ice covering a deep lake",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.gHipLjhDs3GcQelB"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "PedXEQ1DCQrjHYnR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whirlpool dragging icebergs to the depths",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.PedXEQ1DCQrjHYnR"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "LVBRRMt5EHzN72aV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.LVBRRMt5EHzN72aV"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "cknaMrZMHdzqq7eX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!wUhTOw2fAMtUYXUn.cknaMrZMHdzqq7eX"
+    }
+  ],
+  "folder": "NxLWkP3u1WpG2vuX",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Ice/Feature",
+      "category": "Starsmith/Oracles/Planet/Ice",
+      "dsid": "oracle_rollable:starforged/planet/ice/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401851,
+    "modifiedTime": 1699043155506,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "wUhTOw2fAMtUYXUn",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wUhTOw2fAMtUYXUn"
+}

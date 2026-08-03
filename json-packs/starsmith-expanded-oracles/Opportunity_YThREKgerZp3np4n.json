@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Access granted to advanced or experimental equipment",
       "range": [
         1,
         20
       ],
       "_id": "Gcu5M5AKVYv49avY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access granted to advanced or experimental equipment",
+      "name": "",
       "_key": "!tables.results!YThREKgerZp3np4n.Gcu5M5AKVYv49avY"
     },
     {
-      "text": "Access to a specialized tool or device",
       "range": [
         21,
         40
       ],
       "_id": "SfcftXW8raDFab1p",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to a specialized tool or device",
+      "name": "",
       "_key": "!tables.results!YThREKgerZp3np4n.SfcftXW8raDFab1p"
     },
     {
-      "text": "Expert engineer willing to talk shop",
       "range": [
         41,
         60
       ],
       "_id": "lfj3Y75Bc6CYsW4D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expert engineer willing to talk shop",
+      "name": "",
       "_key": "!tables.results!YThREKgerZp3np4n.lfj3Y75Bc6CYsW4D"
     },
     {
-      "text": "Helpful plans or schematics",
       "range": [
         61,
         80
       ],
       "_id": "Xl675uKp6MFGzZce",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful plans or schematics",
+      "name": "",
       "_key": "!tables.results!YThREKgerZp3np4n.Xl675uKp6MFGzZce"
     },
     {
-      "text": "Helpful utility bot",
       "range": [
         81,
         100
       ],
       "_id": "4dnNiNvsc7dJdN8e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful utility bot",
+      "name": "",
       "_key": "!tables.results!YThREKgerZp3np4n.4dnNiNvsc7dJdN8e"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Engineering/Opportunity",
+      "category": "Starsmith/Oracles/District/Engineering",
+      "dsid": "oracle_rollable:starforged/district/engineering/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658096,
     "modifiedTime": 1693870739972,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "YThREKgerZp3np4n",
   "sort": 300000,

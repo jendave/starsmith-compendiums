@@ -3,87 +3,159 @@
   "formula": "1d6",
   "results": [
     {
-      "text": "Gaseous nebuloid",
       "range": [
         1,
         1
       ],
       "_id": "OB47v9PwEt28WIZd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gaseous nebuloid",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!xExa90On1uzweMfN.OB47v9PwEt28WIZd"
     },
     {
-      "text": "Liquid shape changer",
       "range": [
         2,
         2
       ],
       "_id": "ET9f58yrDrrt8cHc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Liquid shape changer",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!xExa90On1uzweMfN.ET9f58yrDrrt8cHc"
     },
     {
-      "text": "Living water",
       "range": [
         3,
         3
       ],
       "_id": "8mSIwvqwFAkVg2zi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living water",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!xExa90On1uzweMfN.8mSIwvqwFAkVg2zi"
     },
     {
-      "text": "Plasma based",
       "range": [
         4,
         4
       ],
       "_id": "bult5YXDj8NoLcY6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plasma based",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!xExa90On1uzweMfN.bult5YXDj8NoLcY6"
     },
     {
-      "text": "Pseudopod slime",
       "range": [
         5,
         5
       ],
       "_id": "Bv1gkbRocCyBUjrQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pseudopod slime",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!xExa90On1uzweMfN.Bv1gkbRocCyBUjrQ"
     },
     {
-      "text": "Slug",
       "range": [
         6,
         6
       ],
       "_id": "X6t8dPZQ0BbZCZpZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slug",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!xExa90On1uzweMfN.X6t8dPZQ0BbZCZpZ"
     }
   ],
@@ -102,10 +174,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144773804,
     "modifiedTime": 1708145194398,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!xExa90On1uzweMfN"
 }

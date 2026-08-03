@@ -3,48 +3,81 @@
   "formula": "1d6",
   "results": [
     {
-      "text": "Consensus building and care for weak are prioritized",
       "range": [
         1,
         2
       ],
       "_id": "DyQ2vyc1CLK3vgor",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consensus building and care for weak are prioritized",
+      "name": "",
       "_key": "!tables.results!ZH52icOfOWMfOnYN.DyQ2vyc1CLK3vgor"
     },
     {
-      "text": "Individual achievement is balanced by a team player attitude",
       "range": [
         3,
         4
       ],
       "_id": "5zE4P3E39ov07zcD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Individual achievement is balanced by a team player attitude",
+      "name": "",
       "_key": "!tables.results!ZH52icOfOWMfOnYN.5zE4P3E39ov07zcD"
     },
     {
-      "text": "Individual superstars wield the most power and influence",
       "range": [
         5,
         6
       ],
       "_id": "4ayTBTbSoZXUuMC8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Individual superstars wield the most power and influence",
+      "name": "",
       "_key": "!tables.results!ZH52icOfOWMfOnYN.4ayTBTbSoZXUuMC8"
     }
   ],
@@ -63,10 +96,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708140096013,
     "modifiedTime": 1708147298024,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!ZH52icOfOWMfOnYN"
 }

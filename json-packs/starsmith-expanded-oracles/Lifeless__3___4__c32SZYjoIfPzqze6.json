@@ -3,394 +3,708 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Evidence of life recently deceased is revealed",
       "range": [
         1,
         3
       ],
       "_id": "G00WLEFd2huhdXsh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of life recently deceased is revealed",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.G00WLEFd2huhdXsh"
     },
     {
-      "text": "Avalanche or landslide",
       "range": [
         4,
         7
       ],
       "_id": "lvbZJfHT4say27wx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avalanche or landslide",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.lvbZJfHT4say27wx"
     },
     {
-      "text": "Disturbing implements of death",
       "range": [
         8,
         11
       ],
       "_id": "o5oJ5RpwJ61fwB56",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disturbing implements of death",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.o5oJ5RpwJ61fwB56"
     },
     {
-      "text": "Enemy recently abandoned this area",
       "range": [
         12,
         15
       ],
       "_id": "vAWHZBoQmsnHZPbS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy recently abandoned this area",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.vAWHZBoQmsnHZPbS"
     },
     {
-      "text": "Enemy scouting the area",
       "range": [
         16,
         19
       ],
       "_id": "ORDgdD7nPGTwvdpi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy scouting the area",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.ORDgdD7nPGTwvdpi"
     },
     {
-      "text": "Environment of extreme decay",
       "range": [
         20,
         23
       ],
       "_id": "VT7sTFYQisdOTGmO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment of extreme decay",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.VT7sTFYQisdOTGmO"
     },
     {
-      "text": "Equipment breaks beyond repair",
       "range": [
         24,
         27
       ],
       "_id": "W5VmL8dF0jcupWbS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment breaks beyond repair",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.W5VmL8dF0jcupWbS"
     },
     {
-      "text": "Evidence a threat is further advanced than expected",
       "range": [
         28,
         31
       ],
       "_id": "zJ49VIHibTJiukIz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence a threat is further advanced than expected",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.zJ49VIHibTJiukIz"
     },
     {
-      "text": "Ground gives way to a sinkhole",
       "range": [
         32,
         35
       ],
       "_id": "hEf7hmaOGRG1S5mz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ground gives way to a sinkhole",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.hEf7hmaOGRG1S5mz"
     },
     {
-      "text": "Hallucinogenic environment",
       "range": [
         36,
         39
       ],
       "_id": "HT7cCall8LSiWH9j",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hallucinogenic environment",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.HT7cCall8LSiWH9j"
     },
     {
-      "text": "Hazard requiring feats of iron",
       "range": [
         40,
         43
       ],
       "_id": "92ym8lq2Te38Afbk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazard requiring feats of iron",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.92ym8lq2Te38Afbk"
     },
     {
-      "text": "Lost resources",
       "range": [
         44,
         47
       ],
       "_id": "vWmKV2YlvfyOZu5q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost resources",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.vWmKV2YlvfyOZu5q"
     },
     {
-      "text": "One false move will trigger the trap",
       "range": [
         48,
         51
       ],
       "_id": "HOsKPgYw1FvZ3mE6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "One false move will trigger the trap",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.HOsKPgYw1FvZ3mE6"
     },
     {
-      "text": "Out of place rune-covered pillar of iron",
       "range": [
         52,
         55
       ],
       "_id": "A66suSzOVhTtibXj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Out of place rune-covered pillar of iron",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.A66suSzOVhTtibXj"
     },
     {
-      "text": "Pulverizing hail falls from the sky",
       "range": [
         56,
         59
       ],
       "_id": "l2CGAceIJTTvq8x5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulverizing hail falls from the sky",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.l2CGAceIJTTvq8x5"
     },
     {
-      "text": "Shortcut with great risks",
       "range": [
         60,
         63
       ],
       "_id": "qsUeUQI2swvvKvMV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shortcut with great risks",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.qsUeUQI2swvvKvMV"
     },
     {
-      "text": "Significant artifact or object has broken",
       "range": [
         64,
         67
       ],
       "_id": "KMuHZMyqiyiV1WGG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant artifact or object has broken",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.KMuHZMyqiyiV1WGG"
     },
     {
-      "text": "Signs of a foe swiftly gaining ground",
       "range": [
         68,
         71
       ],
       "_id": "h3MUfkfaDqv9PO2g",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a foe swiftly gaining ground",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.h3MUfkfaDqv9PO2g"
     },
     {
-      "text": "Sound waves reflect oddly here",
       "range": [
         72,
         75
       ],
       "_id": "uYmrxFmre9DODNg2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sound waves reflect oddly here",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.uYmrxFmre9DODNg2"
     },
     {
-      "text": "Subtle environment changes noticed too late",
       "range": [
         76,
         79
       ],
       "_id": "u9365aIGgkiaLAu2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subtle environment changes noticed too late",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.u9365aIGgkiaLAu2"
     },
     {
-      "text": "Suffocating environment",
       "range": [
         80,
         83
       ],
       "_id": "ukq75fkcqRVuaAjN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suffocating environment",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.ukq75fkcqRVuaAjN"
     },
     {
-      "text": "Time-consuming path",
       "range": [
         84,
         87
       ],
       "_id": "wzqeIwzJOdE6F8Oz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time-consuming path",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.wzqeIwzJOdE6F8Oz"
     },
     {
-      "text": "Trapped with no apparent way out",
       "range": [
         88,
         91
       ],
       "_id": "DMe6LAfEKNwDTyY5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trapped with no apparent way out",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.DMe6LAfEKNwDTyY5"
     },
     {
-      "text": "Worrying arrival of a person",
       "range": [
         92,
         95
       ],
       "_id": "TkJEvrt6auuLaAD4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worrying arrival of a person",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.TkJEvrt6auuLaAD4"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         96,
         99
       ],
       "_id": "HIlNqhVdg4BIfZsu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!c32SZYjoIfPzqze6.HIlNqhVdg4BIfZsu"
     },
     {
-      "text": "Roll Twice",
       "range": [
         100,
         100
       ],
       "_id": "MTo8bh4xiaudRII6",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Lifeless (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6",
       "_key": "!tables.results!c32SZYjoIfPzqze6.MTo8bh4xiaudRII6"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "tUpSxSw1LbcvHaA5",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Lifeless (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c32SZYjoIfPzqze6",
+      "_key": "!tables.results!c32SZYjoIfPzqze6.tUpSxSw1LbcvHaA5"
     }
   ],
   "folder": "pRHK9NiXjihlEnF1",
@@ -398,14 +712,23 @@
   "description": "<p>Choose or roll on this table when you want inspiration for a trouble during planetside exploration or a planetside expedition.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Peril/Lifeless",
+      "category": "Starsmith/Oracles/Planet/Peril",
+      "dsid": "oracle_rollable:starforged/planet/peril/lifeless_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676402158,
     "modifiedTime": 1699053859423,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "c32SZYjoIfPzqze6",
   "sort": 0,

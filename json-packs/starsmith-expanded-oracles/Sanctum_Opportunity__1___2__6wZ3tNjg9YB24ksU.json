@@ -1,0 +1,296 @@
+{
+  "name": "Sanctum Opportunity (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "UjhWgBfU0w6E7klO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to a secret or protected area",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.UjhWgBfU0w6E7klO"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "hcaVA0jRKKb89tGC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue points the way to your destination or target",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.hcaVA0jRKKb89tGC"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "jHabSSECgbhBgLtc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Comforting illusion or vision",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.jHabSSECgbhBgLtc"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "UPaE2XFxGKa483PY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control or terminal adjusts to accept your input",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.UPaE2XFxGKa483PY"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "yVstk6EBNAY5xutO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deeper insight into the history or nature of this site",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.yVstk6EBNAY5xutO"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "HOt8kSU87rnSftpa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Device or artifact reveals its purpose",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.HOt8kSU87rnSftpa"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "WPwDS7anlQVTPORI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment adjusts to better suit you",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.WPwDS7anlQVTPORI"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "cxKWzAZXkLJt4L3B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foes stand down or give way",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.cxKWzAZXkLJt4L3B"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "qGgkmFAXLYO2n28Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key offers control of a function or aspect of this site",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.qGgkmFAXLYO2n28Y"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "jHPm9nRH9OYh156g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shortcut or less perilous path speeds your way",
+      "name": "",
+      "_key": "!tables.results!6wZ3tNjg9YB24ksU.jHPm9nRH9OYh156g"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Opportunity",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/opportunity_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692371,
+    "modifiedTime": 1693867888173,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "6wZ3tNjg9YB24ksU",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!6wZ3tNjg9YB24ksU"
+}

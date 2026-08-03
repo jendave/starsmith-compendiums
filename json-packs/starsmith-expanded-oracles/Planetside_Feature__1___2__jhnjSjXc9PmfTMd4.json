@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "g18nUhXkA3Qgtq9Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Background radiation",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.g18nUhXkA3Qgtq9Y"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "3P6jdRWxPyFKidMf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotically juxtaposed biomes",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.3P6jdRWxPyFKidMf"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "hDVZcAQO9EQaW8Dt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creature boneyards",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.hDVZcAQO9EQaW8Dt"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "M7duKvunam3bkjpL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creature lairs or watering holes",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.M7duKvunam3bkjpL"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "jqeWQUtsZ5NOofzq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline formations",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.jqeWQUtsZ5NOofzq"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "4yJ0aSZcjmxoN3if",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fierce electrical storms",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.4yJ0aSZcjmxoN3if"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "YG3QMUtDwA9x3v8y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floating terrain",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.YG3QMUtDwA9x3v8y"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "IfHDPvU0XpPuv4Ro",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frequent seismic activity",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.IfHDPvU0XpPuv4Ro"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "7zcky98rFVBtSTOk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic disturbances",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.7zcky98rFVBtSTOk"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "7KJgbHiRISkKvOIb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred or excavated terrain",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.7KJgbHiRISkKvOIb"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "1WNqHxB28SJu6F9T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of an engineered biosphere",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.1WNqHxB28SJu6F9T"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "pc6dhfNjxjynGBTj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden weather fluctuations",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.pc6dhfNjxjynGBTj"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "UhxXS7vB5ahPo1Di",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering geological formations",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.UhxXS7vB5ahPo1Di"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "DgT6ecGhBnYX3HGA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.DgT6ecGhBnYX3HGA"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Ci8OkWjB5PVpEdoP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!jhnjSjXc9PmfTMd4.Ci8OkWjB5PVpEdoP"
+    }
+  ],
+  "folder": "xJpOuGNKKjAVrR3q",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Vital/Feature",
+      "category": "Starsmith/Oracles/Planet/Vital",
+      "dsid": "oracle_rollable:starforged/planet/vital/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676402115,
+    "modifiedTime": 1699054387501,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jhnjSjXc9PmfTMd4",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!jhnjSjXc9PmfTMd4"
+}

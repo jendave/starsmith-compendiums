@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cloud-breaching trees",
       "range": [
         1,
         11
       ],
       "_id": "USVWT74S130ZXEy8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloud-breaching trees",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.USVWT74S130ZXEy8"
     },
     {
-      "text": "Expansive rivers or wetlands",
       "range": [
         12,
         22
       ],
       "_id": "riwQYx68YPPmeFrk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansive rivers or wetlands",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.riwQYx68YPPmeFrk"
     },
     {
-      "text": "Inland seas",
       "range": [
         23,
         33
       ],
       "_id": "p9sNVlHKS7HYSHfV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inland seas",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.p9sNVlHKS7HYSHfV"
     },
     {
-      "text": "Massive canyons",
       "range": [
         34,
         44
       ],
       "_id": "TG6Oj7lQdiK6dQNC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive canyons",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.TG6Oj7lQdiK6dQNC"
     },
     {
-      "text": "Persistent cloud cover",
       "range": [
         45,
         55
       ],
       "_id": "2tZXPcOyejt4zqeR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Persistent cloud cover",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.2tZXPcOyejt4zqeR"
     },
     {
-      "text": "Towering mountains",
       "range": [
         56,
         66
       ],
       "_id": "Yq73TZGNMXyGjx8O",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering mountains",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.Yq73TZGNMXyGjx8O"
     },
     {
-      "text": "Unbroken canopy",
       "range": [
         67,
         77
       ],
       "_id": "d7DT3TBcVWx79q3M",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unbroken canopy",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.d7DT3TBcVWx79q3M"
     },
     {
-      "text": "Unusual vegetation color",
       "range": [
         78,
         88
       ],
       "_id": "ldn734WFUDusdWLt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual vegetation color",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.ldn734WFUDusdWLt"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "FU82MAwnSAnJvZ1h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.FU82MAwnSAnJvZ1h"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "HTCLXLf7yaXZpPQx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!9wCWNV5mg80zJCzz.HTCLXLf7yaXZpPQx"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Jungle/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Jungle",
+      "dsid": "oracle_rollable:starforged/planet/jungle/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676401917,
     "modifiedTime": 1699053677072,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "9wCWNV5mg80zJCzz",
   "sort": 0,

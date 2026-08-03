@@ -1,0 +1,1336 @@
+{
+  "name": "Revealed Creature Aspect (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "HAXOY5eVCGe1SuLx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acidic blood",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.HAXOY5eVCGe1SuLx"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "ulv1Y8eNijlGHkh9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Behavioral weakness",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.ulv1Y8eNijlGHkh9"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "WzNTVYOEURIYOG7l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding light flashes",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.WzNTVYOEURIYOG7l"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "b2s25mrLONJGSkfr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blindsight",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.b2s25mrLONJGSkfr"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "0BJv875YIfPEyYIi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bury self",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.0BJv875YIfPEyYIi"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "UIl3nkc37fDo4nQd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cat-like reflexes",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.UIl3nkc37fDo4nQd"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "F5secLpARHvekUY9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Climber",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.F5secLpARHvekUY9"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "dPm9U8yuvXOE7gdV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confusion-inducing fog",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.dPm9U8yuvXOE7gdV"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "XQDjRumhxk45Rd04",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Darkvision",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.XQDjRumhxk45Rd04"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "86o871GHFGM3oZpm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Detachable limbs",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.86o871GHFGM3oZpm"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "KRChw1WrfNojGhNu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elemental aura",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.KRChw1WrfNojGhNu"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "2CJIOm1yvsoksv1b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emits shadow",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.2CJIOm1yvsoksv1b"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "vxOW08tjXCqJYc6T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy discharges",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.vxOW08tjXCqJYc6T"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "WLxHRPgAP3SbJ8Rd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhanced intelligence",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.WLxHRPgAP3SbJ8Rd"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "ANF5CF06qb4e6u0c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhanced stamina",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.ANF5CF06qb4e6u0c"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "42UqQoDcZ37WUvN1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evasive maneuvers",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.42UqQoDcZ37WUvN1"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "vhfYAYdyPNAv5RjY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extendable tendrils",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.vhfYAYdyPNAv5RjY"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "JYEac9vCGu3jWnOp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fear eater",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.JYEac9vCGu3jWnOp"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "dpiXiGJOwimTyjPd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feinting attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.dpiXiGJOwimTyjPd"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "zcrr0r5weA6PrRPD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flier",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.zcrr0r5weA6PrRPD"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "Wy5N7m6e4iz5lr0f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gore attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.Wy5N7m6e4iz5lr0f"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "Bc7huSKDUNBE5EDU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hovering",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.Bc7huSKDUNBE5EDU"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "TWEUx1nXJ83aYvWC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Icy touch",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.TWEUx1nXJ83aYvWC"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "p4cAFleldtLNRSl8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immunity to energy",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.p4cAFleldtLNRSl8"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "VwVUPekWAHXW4sUW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ink cloud excretion",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.VwVUPekWAHXW4sUW"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "feRlEuWK016TSGbt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jumper",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.feRlEuWK016TSGbt"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "YJieR0TUDRd8Sgnw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Levitation",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.YJieR0TUDRd8Sgnw"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "s5kq5gFkVm5ii8ao",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Meld into shadow",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.s5kq5gFkVm5ii8ao"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "j8CAav14juIieoTB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mounted tech",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.j8CAav14juIieoTB"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "VkevbOaq5xiwLoFo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mystic ability",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.VkevbOaq5xiwLoFo"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "mXFLtmdIbhSZ5riP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organic projectiles",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.mXFLtmdIbhSZ5riP"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "QX2K7tAzNRq0a1Qf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phasing",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.QX2K7tAzNRq0a1Qf"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "y7oInX2YiZEkKIQQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pinning attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.y7oInX2YiZEkKIQQ"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "gXJ4VYWkEt0ia5O2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Playing dead",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.gXJ4VYWkEt0ia5O2"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "BxgqqHIMHhHitEH5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rapid color shifts",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.BxgqqHIMHhHitEH5"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "J8hrX0wtDwxO3FG1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rapid healing",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.J8hrX0wtDwxO3FG1"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "ZbJj6vPcxD2PKfyY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Released swarm",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.ZbJj6vPcxD2PKfyY"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "0rXK4hw36iagBSAS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resistance to damage",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.0rXK4hw36iagBSAS"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "TRwsO9O6ABj0Kxj1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Self-harming attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.TRwsO9O6ABj0Kxj1"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "q9rpXgVVpZ53Ce7V",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slashing attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.q9rpXgVVpZ53Ce7V"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "ixCBKIFnw7zcOBUM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sonic attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.ixCBKIFnw7zcOBUM"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "ZBKlWiBiApRYrXuu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Splits into smaller parts",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.ZBKlWiBiApRYrXuu"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "wwghMfPg0poxmjto",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stone thrower",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.wwghMfPg0poxmjto"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "Ia8X8ZKSHx183XPh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swarm summoner",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.Ia8X8ZKSHx183XPh"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "T3YbzTojOQ8TOvlF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Telepathic",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.T3YbzTojOQ8TOvlF"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "c1Y0cOLL9GLoxB5m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temporary vaporous form",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.c1Y0cOLL9GLoxB5m"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "ApVeCMQfz0YtwIgH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transformation",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.ApVeCMQfz0YtwIgH"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "GLfV884tTxNEAt7B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tripping attack",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.GLfV884tTxNEAt7B"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "aGX9al2ky4bm7F3r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visual displacement",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.aGX9al2ky4bm7F3r"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "CIsiRRu10sjJMT9E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vulnerability to energy",
+      "name": "",
+      "_key": "!tables.results!n2OENgk435wG7mS1.CIsiRRu10sjJMT9E"
+    }
+  ],
+  "folder": "RSG7ksc1DxCTpccr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on this table as you interact with the creature to introduce new features or behaviors. Some results may contradict the established nature of a creature. For example, an amorphous creature that you envisioned as a mass of pure energy would not have typical physical features. If a result doesn’t fit, feel free to ignore, reroll, or adjust. Or envision how this contradiction signals a new understanding or unexpected transformation.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Creature/Revealed_Aspect",
+      "category": "Starsmith/Oracles/Creature",
+      "dsid": "oracle_rollable:starforged/creature/revealed_aspect_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676547770,
+    "modifiedTime": 1693042445738,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "n2OENgk435wG7mS1",
+  "sort": 487500,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!n2OENgk435wG7mS1"
+}

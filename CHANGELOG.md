@@ -2,6 +2,15 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [3.0.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-07-xx)
+
+* Major revamp of oracles.
+  * [Add "Roll twice" and "Roll three times" functionality to tables](https://github.com/jendave/starsmith-compendiums/issues/22).
+  * [Fix links in oracles so they can link to the character sheet](https://github.com/jendave/starsmith-compendiums/issues/21).
+  * [Oracles - Reorganize Folders and Names](https://github.com/jendave/starsmith-compendiums/issues/20).
+  * [Add name and description to rolltables](https://github.com/jendave/starsmith-compendiums/issues/19).
+  * [Bump actions/setup-node from 4 to 7](https://github.com/jendave/starsmith-compendiums/pull/23).
+
 ## [2.6.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-07-10)
 
 * Create build process.

@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Arid       Wind and heat cover this place in a thick blanket.",
       "range": [
         1,
         10
       ],
       "_id": "kqLslIFzRQSRJayo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/arid\">\n    <i class=\"fa fa-caret-right\"></i> Arid\n</a></p></p><p>Wind and heat cover this place in a thick blanket.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.kqLslIFzRQSRJayo"
     },
     {
-      "text": "Chronal    Time flits back and forth in this place.",
       "range": [
         11,
         20
       ],
       "_id": "2xFTRHEN70Jk88Bs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/chronal\">\n    <i class=\"fa fa-caret-right\"></i> Chronal\n</a></p></p><p>Time flits back and forth in this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.2xFTRHEN70Jk88Bs"
     },
     {
-      "text": "Floating   Pockets of stable ground dance on gravity waves in this place.",
       "range": [
         21,
         30
       ],
       "_id": "llpjzdt253g33yQe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/floating\">\n    <i class=\"fa fa-caret-right\"></i> Floating\n</a></p></p><p>Pockets of stable ground dance on gravity waves in this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.llpjzdt253g33yQe"
     },
     {
-      "text": "Flooded    Murky waters or thick vapors have overtaken this place.",
       "range": [
         31,
         40
       ],
       "_id": "xGVNlHYSPx1CXZCR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/flooded\">\n    <i class=\"fa fa-caret-right\"></i> Flooded\n</a></p></p><p>Murky waters or thick vapors have overtaken this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.xGVNlHYSPx1CXZCR"
     },
     {
-      "text": "Frozen     Winter holds a permanent grip in this place.",
       "range": [
         41,
         50
       ],
       "_id": "RbRCouP3SLV3LkFa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/frozen\">\n    <i class=\"fa fa-caret-right\"></i> Frozen\n</a></p></p><p>Winter holds a permanent grip in this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.RbRCouP3SLV3LkFa"
     },
     {
-      "text": "Inferno    Flame and noxious gases fill this place.",
       "range": [
         51,
         60
       ],
       "_id": "7r7oyMwiVv3KMd6Z",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/inferno\">\n    <i class=\"fa fa-caret-right\"></i> Inferno\n</a></p></p><p>Flame and noxious gases fill this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.7r7oyMwiVv3KMd6Z"
     },
     {
-      "text": "Lifeform   Inside a living creature, microscopic or colossal.",
       "range": [
         61,
         70
       ],
       "_id": "1Ruyh4Mh1tnXkhCp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/lifeform\">\n    <i class=\"fa fa-caret-right\"></i> Lifeform\n</a></p></p><p>Inside a living creature, microscopic or colossal.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.1Ruyh4Mh1tnXkhCp"
     },
     {
-      "text": "Mystical   Arcane energies permeate this place.",
       "range": [
         71,
         80
       ],
       "_id": "uyXeTwvL8Qq9VFXP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/mystical\">\n    <i class=\"fa fa-caret-right\"></i> Mystical\n</a></p></p><p>Arcane energies permeate this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.uyXeTwvL8Qq9VFXP"
     },
     {
-      "text": "Overgrown Thriving ecosystems abound in this place.",
       "range": [
         81,
         90
       ],
       "_id": "D2KdENivL8xMtYDC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/overgrown\">\n    <i class=\"fa fa-caret-right\"></i> Overgrown\n</a></p></p><p>Thriving ecosystems abound in this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.D2KdENivL8xMtYDC"
     },
     {
-      "text": "War Zone   Combatants trade fire tensely in this place.",
       "range": [
         91,
         100
       ],
       "_id": "GFdNxAZGcx8PGE38",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/war_zone\">\n    <i class=\"fa fa-caret-right\"></i> War Zone\n</a></p></p><p>Combatants trade fire tensely in this place.</p>",
+      "name": "",
       "_key": "!tables.results!LFxOkncnKTFTisw3.GFdNxAZGcx8PGE38"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "<p>Choose a theme that supports what you know of that location’s nature. For a random theme, roll on the table above.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Type",
+      "category": "Starsmith/Oracles/Location_Theme",
+      "dsid": "oracle_rollable:starforged/location_theme/type_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676712099,
     "modifiedTime": 1693776929339,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "LFxOkncnKTFTisw3",
   "sort": -100000,

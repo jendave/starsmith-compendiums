@@ -1,0 +1,974 @@
+{
+  "name": "Sanctum Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "NDloJr9pB9cDqeR1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abyssal pit or chasm",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.NDloJr9pB9cDqeR1"
+    },
+    {
+      "range": [
+        3,
+        5
+      ],
+      "_id": "ySfWrnTIfNxM2YnJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Altered gravity",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.ySfWrnTIfNxM2YnJ"
+    },
+    {
+      "range": [
+        6,
+        7
+      ],
+      "_id": "qTmFPPXjsyVLlQRw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Area filled with strange liquid",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.qTmFPPXjsyVLlQRw"
+    },
+    {
+      "range": [
+        8,
+        10
+      ],
+      "_id": "EdTtzSFPSCklJOF1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Area humming with aberrant energy",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.EdTtzSFPSCklJOF1"
+    },
+    {
+      "range": [
+        11,
+        13
+      ],
+      "_id": "Z1s8OVHzz4QRC9wb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blasted or wrecked area",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.Z1s8OVHzz4QRC9wb"
+    },
+    {
+      "range": [
+        14,
+        16
+      ],
+      "_id": "6mosdkRbQFspCAEL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Central chamber of immense proportions or    grandeur",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.6mosdkRbQFspCAEL"
+    },
+    {
+      "range": [
+        17,
+        19
+      ],
+      "_id": "HDMbpprFqG6NvnPI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colossal machine",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.HDMbpprFqG6NvnPI"
+    },
+    {
+      "range": [
+        20,
+        21
+      ],
+      "_id": "Q9LNgJeE4RhdQMKJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted plant life",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.Q9LNgJeE4RhdQMKJ"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "1ojXDiCEhwq0OvFU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enigmatic mechanisms come to life",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.1ojXDiCEhwq0OvFU"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "IwoShDzDFrx7g5Sv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haze of spores or nanomachines",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.IwoShDzDFrx7g5Sv"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "3lIjMocSR29jSGu5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incomprehensible architecture or geometry",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.3lIjMocSR29jSGu5"
+    },
+    {
+      "range": [
+        29,
+        31
+      ],
+      "_id": "7yHmaD8y7qFKDOHs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incongruent space contradicts the nature of  this site",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.7yHmaD8y7qFKDOHs"
+    },
+    {
+      "range": [
+        32,
+        34
+      ],
+      "_id": "CNJrZHG8AhRR7U4u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inscrutable object emits sound and energy",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.CNJrZHG8AhRR7U4u"
+    },
+    {
+      "range": [
+        35,
+        37
+      ],
+      "_id": "qBdNZhavvo0S5aog",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machinery fused with organic growths",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.qBdNZhavvo0S5aog"
+    },
+    {
+      "range": [
+        38,
+        40
+      ],
+      "_id": "xXyaY4qR2AThzapA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moving chamber or passage",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.xXyaY4qR2AThzapA"
+    },
+    {
+      "range": [
+        41,
+        43
+      ],
+      "_id": "y8p8q3KsQX2vgTA2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated remains of the dead",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.y8p8q3KsQX2vgTA2"
+    },
+    {
+      "range": [
+        44,
+        46
+      ],
+      "_id": "AT9wfQbyQvFhKh9n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nest of invasive creatures",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.AT9wfQbyQvFhKh9n"
+    },
+    {
+      "range": [
+        47,
+        49
+      ],
+      "_id": "iCLEIcPyp6IrHfvy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pockets or layers of altered atmosphere",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.iCLEIcPyp6IrHfvy"
+    },
+    {
+      "range": [
+        50,
+        51
+      ],
+      "_id": "UB8eEeDBtMZVlqWX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pods or chambers with preserved corpses",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.UB8eEeDBtMZVlqWX"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "2AQbSSQNDONLvk52",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of strange liquid",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.2AQbSSQNDONLvk52"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "yIETkjqXxtstFtjb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulsating surfaces",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.yIETkjqXxtstFtjb"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "dCxpZYDFYP34fkXt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rampant biological infestation",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.dCxpZYDFYP34fkXt"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "0VVocNvyxDD63tn0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repository of biological specimens",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.0VVocNvyxDD63tn0"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "3E1HJTrXS8eYTORw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sealed chamber",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.3E1HJTrXS8eYTORw"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "5THeXbv3IGuJSKeD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sealed containers of inscrutable purpose",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.5THeXbv3IGuJSKeD"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "rKq9SfYsBgI4InVC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simulated or illusionary environment",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.rKq9SfYsBgI4InVC"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "AURkNrJy8M20wt9X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surfaces covered in slime or fungus",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.AURkNrJy8M20wt9X"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "XXOLd5neZfJYTfUa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temporal distortions",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.XXOLd5neZfJYTfUa"
+    },
+    {
+      "range": [
+        77,
+        79
+      ],
+      "_id": "aoKhkYEhcf5ZXj4U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transforming spaces",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.aoKhkYEhcf5ZXj4U"
+    },
+    {
+      "range": [
+        80,
+        82
+      ],
+      "_id": "6780VWfdZzkgvXZb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visions of this place in another time",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.6780VWfdZzkgvXZb"
+    },
+    {
+      "range": [
+        83,
+        85
+      ],
+      "_id": "huUgeCLYFhmP1fJY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visions or reflections of another reality",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.huUgeCLYFhmP1fJY"
+    },
+    {
+      "range": [
+        86,
+        88
+      ],
+      "_id": "KMVLhncLm77sZqo1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warped or misshapen spaces",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.KMVLhncLm77sZqo1"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "VuwovnuIYqczzHjQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whispering voices speak to you",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.VuwovnuIYqczzHjQ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "ZIQrqSKzZRyNnQBe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.ZIQrqSKzZRyNnQBe"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "JOaw1z0Vj39Et9tO",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Sanctum Feature (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tMI4HdhdS3uPcQ7A",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.JOaw1z0Vj39Et9tO"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "nKBDzHKMREAbdAb6",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Sanctum Feature (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tMI4HdhdS3uPcQ7A",
+      "_key": "!tables.results!tMI4HdhdS3uPcQ7A.nKBDzHKMREAbdAb6"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Feature",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692348,
+    "modifiedTime": 1699042000548,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tMI4HdhdS3uPcQ7A",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!tMI4HdhdS3uPcQ7A"
+}

@@ -3,198 +3,341 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Battle standard or beacon buoy",
       "range": [
         1,
         8
       ],
       "_id": "5PhBdxeUHCvpiiub",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Battle standard or beacon buoy",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.5PhBdxeUHCvpiiub"
     },
     {
-      "text": "Combatants fleeing the battle",
       "range": [
         9,
         16
       ],
       "_id": "pQpshous6yFM5jv1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Combatants fleeing the battle",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.pQpshous6yFM5jv1"
     },
     {
-      "text": "Command ship or center",
       "range": [
         17,
         24
       ],
       "_id": "GSvw3LbHgwht9aqZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command ship or center",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.GSvw3LbHgwht9aqZ"
     },
     {
-      "text": "Damaged engines of war now abandoned",
       "range": [
         25,
         32
       ],
       "_id": "botlV3bw2W8gVEEJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged engines of war now abandoned",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.botlV3bw2W8gVEEJ"
     },
     {
-      "text": "Debris and wrecked terrain",
       "range": [
         33,
         40
       ],
       "_id": "ugwzc6W7HhUdIowM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris and wrecked terrain",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.ugwzc6W7HhUdIowM"
     },
     {
-      "text": "Fallen combatants",
       "range": [
         41,
         48
       ],
       "_id": "FR85WT3226Bbgf3i",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fallen combatants",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.FR85WT3226Bbgf3i"
     },
     {
-      "text": "Nervous units held in reserve",
       "range": [
         49,
         56
       ],
       "_id": "kcLNylJ4epivUDpr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nervous units held in reserve",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.kcLNylJ4epivUDpr"
     },
     {
-      "text": "Officer barking orders to a squad",
       "range": [
         57,
         64
       ],
       "_id": "lRBTbpN1WG7Qyc4K",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officer barking orders to a squad",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.lRBTbpN1WG7Qyc4K"
     },
     {
-      "text": "Perimeter guards on patrol",
       "range": [
         65,
         72
       ],
       "_id": "uye6vAbDHy4C6Cxd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perimeter guards on patrol",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.uye6vAbDHy4C6Cxd"
     },
     {
-      "text": "Scout observing enemy movements",
       "range": [
         73,
         80
       ],
       "_id": "xm4Cr0n1vxXlyDNe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scout observing enemy movements",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.xm4Cr0n1vxXlyDNe"
     },
     {
-      "text": "Vehicular wreckage",
       "range": [
         81,
         88
       ],
       "_id": "s62pyU1AJIK5kPxv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vehicular wreckage",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.s62pyU1AJIK5kPxv"
     },
     {
-      "text": "Wounded troops hunkering down",
       "range": [
         89,
         96
       ],
       "_id": "2KiJt34W1bZSTRNO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wounded troops hunkering down",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.2KiJt34W1bZSTRNO"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         97,
         100
       ],
       "_id": "7MQND21afhKxhK9b",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!H1G8RPwsZSNB9w9m.7MQND21afhKxhK9b"
     }
   ],
@@ -203,14 +346,23 @@
   "description": "<p>Combatants trade fire tensely in this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/War_Zone/Feature",
+      "category": "Starsmith/Oracles/Location_Theme/War_Zone",
+      "dsid": "oracle_rollable:starforged/location_theme/war_zone/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712208,
     "modifiedTime": 1699036108276,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "H1G8RPwsZSNB9w9m",
   "sort": 100000,

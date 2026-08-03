@@ -3,592 +3,1124 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "AI",
       "range": [
         1,
         2
       ],
       "_id": "Q7sPUWXXgtVdwSTq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AI",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.Q7sPUWXXgtVdwSTq"
     },
     {
-      "text": "Archaeology",
       "range": [
         3,
         4
       ],
       "_id": "uGX1SGxCx4l8uHpM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archaeology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.uGX1SGxCx4l8uHpM"
     },
     {
-      "text": "Astrophysics",
       "range": [
         5,
         7
       ],
       "_id": "Qwcb2AbVq2C7fdtX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Astrophysics",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.Qwcb2AbVq2C7fdtX"
     },
     {
-      "text": "Atmospheric sciences",
       "range": [
         8,
         9
       ],
       "_id": "t2ScWQwJWymHPYeX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmospheric sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.t2ScWQwJWymHPYeX"
     },
     {
-      "text": "Behavioral studies",
       "range": [
         10,
         11
       ],
       "_id": "qxxyifuKD0u5oeaJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Behavioral studies",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.qxxyifuKD0u5oeaJ"
     },
     {
-      "text": "Biological engineering",
       "range": [
         12,
         13
       ],
       "_id": "21HPBcbaHjeWrOhq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.21HPBcbaHjeWrOhq"
     },
     {
-      "text": "Biological sciences",
       "range": [
         14,
         16
       ],
       "_id": "2Go6Nkxe3nWetKyN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.2Go6Nkxe3nWetKyN"
     },
     {
-      "text": "Chemical engineering",
       "range": [
         17,
         18
       ],
       "_id": "2JtOLxu7XDMU12AP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemical engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.2JtOLxu7XDMU12AP"
     },
     {
-      "text": "Chemistry",
       "range": [
         19,
         21
       ],
       "_id": "pxWHFSGFiBLsGJE9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemistry",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.pxWHFSGFiBLsGJE9"
     },
     {
-      "text": "Civil engineering",
       "range": [
         22,
         23
       ],
       "_id": "puSVDBQmXfTrTm8N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Civil engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.puSVDBQmXfTrTm8N"
     },
     {
-      "text": "Cognitive sciences",
       "range": [
         24,
         25
       ],
       "_id": "hsNILQ4d3siC4tNu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cognitive sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.hsNILQ4d3siC4tNu"
     },
     {
-      "text": "Communications",
       "range": [
         26,
         28
       ],
       "_id": "1gGWOrnBq1gBinb9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communications",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.1gGWOrnBq1gBinb9"
     },
     {
-      "text": "Computer sciences",
       "range": [
         29,
         30
       ],
       "_id": "CS7SdhKYRIXHMl8I",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Computer sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.CS7SdhKYRIXHMl8I"
     },
     {
-      "text": "Cyber infrastructure",
       "range": [
         31,
         32
       ],
       "_id": "JB4RqAOrmde94mng",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cyber infrastructure",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.JB4RqAOrmde94mng"
     },
     {
-      "text": "Data sciences",
       "range": [
         33,
         35
       ],
       "_id": "UVJr1wxAupInIfWr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Data sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.UVJr1wxAupInIfWr"
     },
     {
-      "text": "Defensive capabilities",
       "range": [
         36,
         37
       ],
       "_id": "dgyU3lR5xfUVtrtY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defensive capabilities",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.dgyU3lR5xfUVtrtY"
     },
     {
-      "text": "Economic manipulations",
       "range": [
         38,
         39
       ],
       "_id": "VOBsHZjJOV5VXwI3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Economic manipulations",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.VOBsHZjJOV5VXwI3"
     },
     {
-      "text": "Electrical engineering",
       "range": [
         40,
         42
       ],
       "_id": "KkKzZhkSqA4nwncA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrical engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.KkKzZhkSqA4nwncA"
     },
     {
-      "text": "Environmental biology",
       "range": [
         43,
         44
       ],
       "_id": "NQXiOiuVNGHa3d6x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental biology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.NQXiOiuVNGHa3d6x"
     },
     {
-      "text": "Environmental engineering",
       "range": [
         45,
         46
       ],
       "_id": "9UtnmnBJbvhyk9Zn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.9UtnmnBJbvhyk9Zn"
     },
     {
-      "text": "Genetic modifications",
       "range": [
         47,
         49
       ],
       "_id": "rTAU0fxI97ksIyVt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Genetic modifications",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.rTAU0fxI97ksIyVt"
     },
     {
-      "text": "Geospace sciences",
       "range": [
         50,
         51
       ],
       "_id": "dtm5hNeGmuNn7VWs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geospace sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.dtm5hNeGmuNn7VWs"
     },
     {
-      "text": "Information systems",
       "range": [
         52,
         53
       ],
       "_id": "0n9TUszNIAR1OwgO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information systems",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.0n9TUszNIAR1OwgO"
     },
     {
-      "text": "Manufacturing innovation",
       "range": [
         54,
         56
       ],
       "_id": "x3dXfGSXEwZtbujH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing innovation",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.x3dXfGSXEwZtbujH"
     },
     {
-      "text": "Materials research",
       "range": [
         57,
         58
       ],
       "_id": "XJzaaNSyQA4XnHgf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Materials research",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.XJzaaNSyQA4XnHgf"
     },
     {
-      "text": "Mechanical engineering",
       "range": [
         59,
         60
       ],
       "_id": "VMhr1InQ76tskAyw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanical engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.VMhr1InQ76tskAyw"
     },
     {
-      "text": "Medical sciences",
       "range": [
         61,
         63
       ],
       "_id": "OTDYJjZHySb6yUNo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.OTDYJjZHySb6yUNo"
     },
     {
-      "text": "Molecular biology",
       "range": [
         64,
         65
       ],
       "_id": "JXC5bJ665mua5FQD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Molecular biology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.JXC5bJ665mua5FQD"
     },
     {
-      "text": "Network systems",
       "range": [
         66,
         67
       ],
       "_id": "Qt8iSgUL3WVlfOIB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Network systems",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.Qt8iSgUL3WVlfOIB"
     },
     {
-      "text": "Organic tech",
       "range": [
         68,
         70
       ],
       "_id": "1y4uHmYmzLHaC9nx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Organic tech",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.1y4uHmYmzLHaC9nx"
     },
     {
-      "text": "Physics",
       "range": [
         71,
         72
       ],
       "_id": "XRyICfoSpdDgTB6x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Physics",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.XRyICfoSpdDgTB6x"
     },
     {
-      "text": "Planetary sciences",
       "range": [
         73,
         74
       ],
       "_id": "wWbsCcvO4U1HSZMt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.wWbsCcvO4U1HSZMt"
     },
     {
-      "text": "Precognition",
       "range": [
         75,
         77
       ],
       "_id": "zd66VYwp6NXnXQYc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precognition",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.zd66VYwp6NXnXQYc"
     },
     {
-      "text": "Social sciences",
       "range": [
         78,
         79
       ],
       "_id": "JuKP0QBzjJZaICzl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Social sciences",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.JuKP0QBzjJZaICzl"
     },
     {
-      "text": "Structural engineering",
       "range": [
         80,
         81
       ],
       "_id": "Hzp6bIISvW1uEzmN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structural engineering",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.Hzp6bIISvW1uEzmN"
     },
     {
-      "text": "Technology",
       "range": [
         82,
         84
       ],
       "_id": "AFFRX1YPam4ZSFvx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.AFFRX1YPam4ZSFvx"
     },
     {
-      "text": "Transportation systems",
       "range": [
         85,
         86
       ],
       "_id": "WdyC2SY2jq0XK4Hx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transportation systems",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.WdyC2SY2jq0XK4Hx"
     },
     {
-      "text": "Virology",
       "range": [
         87,
         88
       ],
       "_id": "IfK0nBAHRvxQdva5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Virology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.IfK0nBAHRvxQdva5"
     },
     {
-      "text": "Weapons technology",
       "range": [
         89,
         91
       ],
       "_id": "QuGiu1RJFLX7MvNB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapons technology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.QuGiu1RJFLX7MvNB"
     },
     {
-      "text": "Xenobiology",
       "range": [
         92,
         93
       ],
       "_id": "O9t7QrySJ0cZNuFC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenobiology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.O9t7QrySJ0cZNuFC"
     },
     {
-      "text": "Xenozoology",
       "range": [
         94,
         95
       ],
       "_id": "bJc31b94ppI6xMIk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenozoology",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!AVjqygbVDncdAY0P.bJc31b94ppI6xMIk"
     },
     {
-      "text": "Roll twice",
       "range": [
         96,
         100
       ],
       "_id": "VRCMZ8KwUTtDjSbW",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1785624161961,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Research: Field Of Study",
+      "img": "icons/dice/d10black.svg",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AVjqygbVDncdAY0P",
       "_key": "!tables.results!AVjqygbVDncdAY0P.VRCMZ8KwUTtDjSbW"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        96,
+        100
+      ],
+      "_id": "OeDNg1BxbysHzu3f",
+      "name": "Research: Field Of Study",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll twice</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1785624132353,
+        "modifiedTime": 1785624152257,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AVjqygbVDncdAY0P",
+      "_key": "!tables.results!AVjqygbVDncdAY0P.OeDNg1BxbysHzu3f"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -596,14 +1128,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Research_Field_Of_Study",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/research_field_of_study_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597202,
-    "modifiedTime": 1693070254892,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "modifiedTime": 1785624142822,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "AVjqygbVDncdAY0P",
   "sort": 199854,

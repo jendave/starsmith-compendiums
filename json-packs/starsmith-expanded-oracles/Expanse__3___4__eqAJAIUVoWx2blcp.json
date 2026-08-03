@@ -3,484 +3,864 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Enforce martial law",
       "range": [
         1,
         2
       ],
       "_id": "m1kOrtp888Qy5kZb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enforce martial law",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.m1kOrtp888Qy5kZb"
     },
     {
-      "text": "Reinforce supply lines",
       "range": [
         3,
         4
       ],
       "_id": "uCh7WJgB1lJdHbuY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reinforce supply lines",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.uCh7WJgB1lJdHbuY"
     },
     {
-      "text": "Destroy a resource",
       "range": [
         5,
         8
       ],
       "_id": "hiZRcBm6yFplv0Ce",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroy a resource",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.hiZRcBm6yFplv0Ce"
     },
     {
-      "text": "Follow orders",
       "range": [
         9,
         10
       ],
       "_id": "cKdZnx88d0kbxn1Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Follow orders",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.cKdZnx88d0kbxn1Y"
     },
     {
-      "text": "Disrupt diplomatic relations",
       "range": [
         11,
         12
       ],
       "_id": "op6J5DEmf5HoND4m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disrupt diplomatic relations",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.op6J5DEmf5HoND4m"
     },
     {
-      "text": "Infiltrate territory",
       "range": [
         13,
         14
       ],
       "_id": "FfTrrC84Vfk6WHpf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infiltrate territory",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.FfTrrC84Vfk6WHpf"
     },
     {
-      "text": "Negotiate a treaty",
       "range": [
         15,
         16
       ],
       "_id": "KjSDODysye9U0N4m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Negotiate a treaty",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.KjSDODysye9U0N4m"
     },
     {
-      "text": "Conduct questionable experiments",
       "range": [
         17,
         22
       ],
       "_id": "IfDgU0EK6daHiLtp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conduct questionable experiments",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.IfDgU0EK6daHiLtp"
     },
     {
-      "text": "Prepare for impending disaster",
       "range": [
         23,
         25
       ],
       "_id": "3UATydZhTsRaBSUI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prepare for impending disaster",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.3UATydZhTsRaBSUI"
     },
     {
-      "text": "Confiscate data",
       "range": [
         26,
         29
       ],
       "_id": "EObbsM4HUpaw25Si",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confiscate data",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.EObbsM4HUpaw25Si"
     },
     {
-      "text": "Establish a passage",
       "range": [
         30,
         35
       ],
       "_id": "cHJuCagQOhWrokLu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Establish a passage",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.cHJuCagQOhWrokLu"
     },
     {
-      "text": "Rebuild location",
       "range": [
         36,
         39
       ],
       "_id": "TIPShd40osmHKwBT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebuild location",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.TIPShd40osmHKwBT"
     },
     {
-      "text": "Investigate space lifeforms",
       "range": [
         40,
         45
       ],
       "_id": "23fCfKCVb1hC6fF1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Investigate space lifeforms",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.23fCfKCVb1hC6fF1"
     },
     {
-      "text": "Apprehend criminals",
       "range": [
         46,
         47
       ],
       "_id": "04Q4M7iWDGRnJGr4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apprehend criminals",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.04Q4M7iWDGRnJGr4"
     },
     {
-      "text": "Uncover hidden location",
       "range": [
         48,
         49
       ],
       "_id": "DhdxlCSRwsQgfmDI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncover hidden location",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.DhdxlCSRwsQgfmDI"
     },
     {
-      "text": "Search and destroy",
       "range": [
         50,
         51
       ],
       "_id": "xaVqN9qpNh8pWW6J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Search and destroy",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.xaVqN9qpNh8pWW6J"
     },
     {
-      "text": "Protect location",
       "range": [
         52,
         53
       ],
       "_id": "NalT3qc1ykNatXfV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protect location",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.NalT3qc1ykNatXfV"
     },
     {
-      "text": "Provide supplies",
       "range": [
         54,
         55
       ],
       "_id": "JFvKruJPq0xQgaQj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Provide supplies",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.JFvKruJPq0xQgaQj"
     },
     {
-      "text": "Perform satellite/probe maintenance",
       "range": [
         56,
         57
       ],
       "_id": "QKWpkDg4Jw3Yt9K0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perform satellite/probe maintenance",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.QKWpkDg4Jw3Yt9K0"
     },
     {
-      "text": "Protect valuable witness",
       "range": [
         58,
         61
       ],
       "_id": "pK89fNgJfYyWfW5v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protect valuable witness",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.pK89fNgJfYyWfW5v"
     },
     {
-      "text": "Assess quarantined zone danger",
       "range": [
         62,
         63
       ],
       "_id": "xXCpZJZY9763lzUe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assess quarantined zone danger",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.xXCpZJZY9763lzUe"
     },
     {
-      "text": "Extort a settlement",
       "range": [
         64,
         65
       ],
       "_id": "Mw06PoGOAiZn31km",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extort a settlement",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.Mw06PoGOAiZn31km"
     },
     {
-      "text": "Pickup sensitive cargo",
       "range": [
         66,
         69
       ],
       "_id": "eCqisoNgutLOkMWN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pickup sensitive cargo",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.eCqisoNgutLOkMWN"
     },
     {
-      "text": "Scrub evidence",
       "range": [
         70,
         71
       ],
       "_id": "qloRGYEeORGtxtYL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scrub evidence",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.qloRGYEeORGtxtYL"
     },
     {
-      "text": "Take hostage",
       "range": [
         72,
         73
       ],
       "_id": "9qmo1DTdf2gvct7a",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take hostage",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.9qmo1DTdf2gvct7a"
     },
     {
-      "text": "Establish new trade routes",
       "range": [
         74,
         75
       ],
       "_id": "eIwdeiKAcacfsMUW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Establish new trade routes",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.eIwdeiKAcacfsMUW"
     },
     {
-      "text": "Map a sector",
       "range": [
         76,
         77
       ],
       "_id": "zmbqKGy0iUBjiip2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Map a sector",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.zmbqKGy0iUBjiip2"
     },
     {
-      "text": "Test a weapon",
       "range": [
         78,
         79
       ],
       "_id": "q4mJDdYyseRuRqGR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Test a weapon",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.q4mJDdYyseRuRqGR"
     },
     {
-      "text": "Transport vehicles",
       "range": [
         80,
         83
       ],
       "_id": "3MV8XsaZlZtJVLAD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport vehicles",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.3MV8XsaZlZtJVLAD"
     },
     {
-      "text": "Transport leaders in secret",
       "range": [
         84,
         85
       ],
       "_id": "6ilLEhEiI7GltoBA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport leaders in secret",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.6ilLEhEiI7GltoBA"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         86,
         90
       ],
       "_id": "tRXgmB83yLfvMy8O",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.tRXgmB83yLfvMy8O"
     },
     {
-      "text": "Roll Twice",
       "range": [
         91,
         100
       ],
       "_id": "fgKUfYHnKDA8mAxo",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Expanse (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eqAJAIUVoWx2blcp",
       "_key": "!tables.results!eqAJAIUVoWx2blcp.fgKUfYHnKDA8mAxo"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "nrq0QVVzMsThb9rR",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Expanse (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.eqAJAIUVoWx2blcp",
+      "_key": "!tables.results!eqAJAIUVoWx2blcp.nrq0QVVzMsThb9rR"
     }
   ],
   "folder": "bo8ruejwx9kV7n4Q",
@@ -488,14 +868,23 @@
   "description": "<p>Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet which has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/Mission/Expanse",
+      "category": "Starsmith/Oracles/Starship/Mission",
+      "dsid": "oracle_rollable:starforged/starship/mission/expanse_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676461282,
     "modifiedTime": 1699041809278,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "eqAJAIUVoWx2blcp",
   "sort": 900000,

@@ -1,0 +1,686 @@
+{
+  "name": "Spaceborne Opportunity (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "3J4ebL2iEUSYgkDq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned settlement still has supplies",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.3J4ebL2iEUSYgkDq"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "p5EiDbjREq9i7zMd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advance warning of a lifeform threat",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.p5EiDbjREq9i7zMd"
+    },
+    {
+      "range": [
+        9,
+        12
+      ],
+      "_id": "nnbGfZbRm4Jo08Zg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Another adversary of a foe is revealed",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.nnbGfZbRm4Jo08Zg"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "Bqc4qrYaXUoy7iqJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to a lifeform's strengths or capabilities",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.Bqc4qrYaXUoy7iqJ"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "Ao4yz7RW5B8nNJzH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultural expert offers insight",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.Ao4yz7RW5B8nNJzH"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "pD75SQiDlQsFYXTQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decontamination protocols isolate a vector before it can spread",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.pD75SQiDlQsFYXTQ"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "TLHl6V4PpOrLl0dO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dispute between allies is settled",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.TLHl6V4PpOrLl0dO"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "jzmyj9h96vH22fqI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental conditions hide your movements",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.jzmyj9h96vH22fqI"
+    },
+    {
+      "range": [
+        33,
+        36
+      ],
+      "_id": "KszFxDE26FA9jRTt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Faint precursor signal offers a tantalizing mystery",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.KszFxDE26FA9jRTt"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "Jgg8gpHpiaOzTh5G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foe caught in a vulnerable position",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.Jgg8gpHpiaOzTh5G"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "RnasOjZuqBnCpdBN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly fleet passes by",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.RnasOjZuqBnCpdBN"
+    },
+    {
+      "range": [
+        45,
+        48
+      ],
+      "_id": "mlG8VWNwM3LrGjjg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly interaction with a symbiotic lifeform",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.mlG8VWNwM3LrGjjg"
+    },
+    {
+      "range": [
+        49,
+        52
+      ],
+      "_id": "zydmJOUu9hbeZZMx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly spacers volunteer aboard ship for a time",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.zydmJOUu9hbeZZMx"
+    },
+    {
+      "range": [
+        53,
+        56
+      ],
+      "_id": "VEtCAgiSSxJkYH2n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly starship seeks aid or information",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.VEtCAgiSSxJkYH2n"
+    },
+    {
+      "range": [
+        57,
+        60
+      ],
+      "_id": "DIeQPY1fycz7EBTq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Item found that makes a quest easier",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.DIeQPY1fycz7EBTq"
+    },
+    {
+      "range": [
+        61,
+        64
+      ],
+      "_id": "BEDbmDqASKaArW04",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Location of strategic value is discovered",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.BEDbmDqASKaArW04"
+    },
+    {
+      "range": [
+        65,
+        68
+      ],
+      "_id": "y5dceQtTlllWiEpV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Negative conviction is undermined",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.y5dceQtTlllWiEpV"
+    },
+    {
+      "range": [
+        69,
+        72
+      ],
+      "_id": "BhLvlvG1ulC9wTrE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival seeks your help",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.BhLvlvG1ulC9wTrE"
+    },
+    {
+      "range": [
+        73,
+        76
+      ],
+      "_id": "TK2S3yRue24QX6eD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secret to traversing a navigational hazard is found",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.TK2S3yRue24QX6eD"
+    },
+    {
+      "range": [
+        77,
+        80
+      ],
+      "_id": "fjbWOpSMx51wZx56",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sensors reveal a shorter path to your objective",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.fjbWOpSMx51wZx56"
+    },
+    {
+      "range": [
+        81,
+        84
+      ],
+      "_id": "d1UAvZSYknaDXADb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significance of a site is revealed",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.d1UAvZSYknaDXADb"
+    },
+    {
+      "range": [
+        85,
+        88
+      ],
+      "_id": "4fSpo4Jhhjs5chWq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threat of a foe is reduced",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.4fSpo4Jhhjs5chWq"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "MegbAyGeuj1RpjbK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Useful specialist asks for passage aboard your vessel",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.MegbAyGeuj1RpjbK"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "4glJ0wJR2wIepMB2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valuable sensor data is recovered from wreckage",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.4glJ0wJR2wIepMB2"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "TVr5ZRdzm4WTteVi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You find a way to temporarily boost a system's power",
+      "name": "",
+      "_key": "!tables.results!t1AOwc3lKoqF9cJ8.TVr5ZRdzm4WTteVi"
+    }
+  ],
+  "folder": "9aKg1x9pvKGwheVZ",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Choose or roll on this table when you want inspiration for a beneficial encounter or event on a spaceborne journey, such as when you roll a strong hit with a match as you Undertake an Expedition, or if you Explore a Waypoint and find an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Space/Opportunity",
+      "category": "Starsmith/Oracles/Space",
+      "dsid": "oracle_rollable:starforged/space/opportunity_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676313243,
+    "modifiedTime": 1693516535856,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "t1AOwc3lKoqF9cJ8",
+  "sort": 2400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!t1AOwc3lKoqF9cJ8"
+}

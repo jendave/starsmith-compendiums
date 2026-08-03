@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cargo lifts",
       "range": [
         1,
         8
       ],
       "_id": "XKWhL3HKCJsWTgsd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cargo lifts",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.XKWhL3HKCJsWTgsd"
     },
     {
-      "text": "Control panels",
       "range": [
         9,
         16
       ],
       "_id": "hAp4XQxRvVeUS8Ob",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control panels",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.hAp4XQxRvVeUS8Ob"
     },
     {
-      "text": "Elevated walkways",
       "range": [
         17,
         24
       ],
       "_id": "GydRpFac6wDHRCKl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elevated walkways",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.GydRpFac6wDHRCKl"
     },
     {
-      "text": "Environment suits",
       "range": [
         25,
         32
       ],
       "_id": "atMlzoeXmjxEryln",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment suits",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.atMlzoeXmjxEryln"
     },
     {
-      "text": "Immense machinery",
       "range": [
         33,
         40
       ],
       "_id": "9y0Xvnn8h5SlG1x4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense machinery",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.9y0Xvnn8h5SlG1x4"
     },
     {
-      "text": "Inventory data",
       "range": [
         41,
         48
       ],
       "_id": "FC1RcII6fT4WL2dn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inventory data",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.FC1RcII6fT4WL2dn"
     },
     {
-      "text": "Large transports",
       "range": [
         49,
         56
       ],
       "_id": "sujeg3SnxQeOTskt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large transports",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.sujeg3SnxQeOTskt"
     },
     {
-      "text": "Loading dock",
       "range": [
         57,
         64
       ],
       "_id": "a2GYHFziUU0qNeGP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loading dock",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.a2GYHFziUU0qNeGP"
     },
     {
-      "text": "Machine maintenance",
       "range": [
         65,
         72
       ],
       "_id": "ukjrGzkyBMEoVvCf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machine maintenance",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.ukjrGzkyBMEoVvCf"
     },
     {
-      "text": "Storage containers",
       "range": [
         73,
         80
       ],
       "_id": "jkFjUwORyKuaXfW2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storage containers",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.jkFjUwORyKuaXfW2"
     },
     {
-      "text": "Tools and equipment",
       "range": [
         81,
         88
       ],
       "_id": "SjlEv1epYhUTSCQN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tools and equipment",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.SjlEv1epYhUTSCQN"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         100
       ],
       "_id": "N9FNw5SAkf5zPBnd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!G1kgbuN1Cimyz0SE.N9FNw5SAkf5zPBnd"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Production/Feature",
+      "category": "Starsmith/Oracles/District/Production",
+      "dsid": "oracle_rollable:starforged/district/production/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658137,
     "modifiedTime": 1699035608262,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "G1kgbuN1Cimyz0SE",
   "sort": 200000,

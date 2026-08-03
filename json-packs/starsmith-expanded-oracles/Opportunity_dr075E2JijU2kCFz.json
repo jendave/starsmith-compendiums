@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Condensed ice crystal acts as temporary power booster",
       "range": [
         1,
         20
       ],
       "_id": "Q41d3mmguIc8st5j",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Condensed ice crystal acts as temporary power booster",
+      "name": "",
       "_key": "!tables.results!dr075E2JijU2kCFz.Q41d3mmguIc8st5j"
     },
     {
-      "text": "Evidence of prior explorers preserved in ice",
       "range": [
         21,
         40
       ],
       "_id": "Mij1Gkk5F6bmBtoo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of prior explorers preserved in ice",
+      "name": "",
       "_key": "!tables.results!dr075E2JijU2kCFz.Mij1Gkk5F6bmBtoo"
     },
     {
-      "text": "Nearly enclosed space offers a moment of relative warmth",
       "range": [
         41,
         60
       ],
       "_id": "PgINHIcu3Wke3n3C",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nearly enclosed space offers a moment of relative warmth",
+      "name": "",
       "_key": "!tables.results!dr075E2JijU2kCFz.PgINHIcu3Wke3n3C"
     },
     {
-      "text": "Rare specimen preserved in ice",
       "range": [
         61,
         80
       ],
       "_id": "IxCnvoOZAfmj45iN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare specimen preserved in ice",
+      "name": "",
       "_key": "!tables.results!dr075E2JijU2kCFz.IxCnvoOZAfmj45iN"
     },
     {
-      "text": "Thin wall of ice offers a shortcut",
       "range": [
         81,
         100
       ],
       "_id": "5N7CnJAgZXFR9k9F",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thin wall of ice offers a shortcut",
+      "name": "",
       "_key": "!tables.results!dr075E2JijU2kCFz.5N7CnJAgZXFR9k9F"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "<p>Winter holds a permanent grip in this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Frozen/Opportunity",
+      "category": "Starsmith/Oracles/Location_Theme/Frozen",
+      "dsid": "oracle_rollable:starforged/location_theme/frozen/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676712172,
     "modifiedTime": 1693777100622,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "dr075E2JijU2kCFz",
   "sort": 300000,

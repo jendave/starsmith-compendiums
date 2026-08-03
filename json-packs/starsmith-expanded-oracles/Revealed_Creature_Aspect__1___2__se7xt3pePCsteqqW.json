@@ -1,0 +1,1336 @@
+{
+  "name": "Revealed Creature Aspect (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "2yJwml2ryh2ltt33",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative environment",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.2yJwml2ryh2ltt33"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "P54eoB2cZDgfmzha",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative movement",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.P54eoB2cZDgfmzha"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "zqCQeqFhb0MYwHWv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alternative senses",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.zqCQeqFhb0MYwHWv"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "1rdzGYo5bOGvJBQd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Burrower",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.1rdzGYo5bOGvJBQd"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "bkaJHW75LCCfU7Q2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chameleon",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.bkaJHW75LCCfU7Q2"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "kuYbrZLXHQGNa7Yz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clever",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.kuYbrZLXHQGNa7Yz"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "GjogdpPcQzKMbwl4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumes energy",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.GjogdpPcQzKMbwl4"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "udNLjQhMPBfAu88W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consumes inorganic matter",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.udNLjQhMPBfAu88W"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "uIgl0xwY4wGHPu1h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Controlled or puppeteered",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.uIgl0xwY4wGHPu1h"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "M4P1tOrdQlTIN2ni",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Controls lesser creatures",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.M4P1tOrdQlTIN2ni"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "l56NDpPRcIcsfO4d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive excretion",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.l56NDpPRcIcsfO4d"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "yA54PyYvOFKSA8Ny",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crusher or constrictor",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.yA54PyYvOFKSA8Ny"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "0c54S1M2e6HWnD9p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Egg sac or carried offspring",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.0c54S1M2e6HWnD9p"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "Cpn1sxRSpxKOgsnK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electric shock",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.Cpn1sxRSpxKOgsnK"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "p0cnCsz32KQMS6Za",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electromagnetic pulse",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.p0cnCsz32KQMS6Za"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "X2r8ivG7HFaYVqnb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy breath",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.X2r8ivG7HFaYVqnb"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "MsDyVvLgzGRTT5o2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy manipulation",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.MsDyVvLgzGRTT5o2"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "WEPyPpnrwRMMpx7K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineered biology",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.WEPyPpnrwRMMpx7K"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "YGx1XmRsIGM36Hlw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhanced senses",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.YGx1XmRsIGM36Hlw"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "bzpst1KL0rHepQJ9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhanced strength",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.bzpst1KL0rHepQJ9"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "Qx3y3nfhkoWhItri",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entangling secretion",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.Qx3y3nfhkoWhItri"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "47YFPH2jtPEfoME3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extra-dimensional",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.47YFPH2jtPEfoME3"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "P2W8EMq0ZUOqVieY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hallucinogen secretion",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.P2W8EMq0ZUOqVieY"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "E6GCMwv4A9kFl56s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hidden symbiote",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.E6GCMwv4A9kFl56s"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "SB82cT8mJZv3wdfd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hive mind",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.SB82cT8mJZv3wdfd"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "vBv4ZfdS2yfBagKo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Illusionary",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.vBv4ZfdS2yfBagKo"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "q67Z3QtBNcg3sN4x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infectious",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.q67Z3QtBNcg3sN4x"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "aEFaNVkqGaLRgzoU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infested with parasites",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.aEFaNVkqGaLRgzoU"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "8V4IEZbF7Jp0r3sr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intimidating threat display",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.8V4IEZbF7Jp0r3sr"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "Nd5PU2Y85BW6PIe8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Limited sense",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.Nd5PU2Y85BW6PIe8"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "OMk265yHJoyaRYim",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.OMk265yHJoyaRYim"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "7iAtKNGo5vwOl5ew",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mental influence or control",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.7iAtKNGo5vwOl5ew"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "UoMApz6hxHhSfRLT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metamorphic",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.UoMApz6hxHhSfRLT"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "K9OWQ93F3tE9zoQG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious cloud or spores",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.K9OWQ93F3tE9zoQG"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "xjO4RZ54xDhem7mV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paralytic toxin",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.xjO4RZ54xDhem7mV"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "ZBnYW7YHkTxxgY6i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parasitic",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.ZBnYW7YHkTxxgY6i"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "cm7bGyKmtIVZaw6e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pheromones",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.cm7bGyKmtIVZaw6e"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "NFw76V8ziaq0v6mh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poisonous",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.NFw76V8ziaq0v6mh"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "k0RBH5s7nrvqGKrx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful bite",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.k0RBH5s7nrvqGKrx"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "XSdwVYpJGe13H6OC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proboscis or inner   jaw",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.XSdwVYpJGe13H6OC"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "UnBRq9am8nxiSj0J",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Projectile attack",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.UnBRq9am8nxiSj0J"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "pbrWY97NmF2ntB44",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.pbrWY97NmF2ntB44"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "JLa4aks71pJwL4x8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regeneration",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.JLa4aks71pJwL4x8"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "UNVF2jFfGcFNOPqV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Replication",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.UNVF2jFfGcFNOPqV"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "Z45BSwOf91XXKnoe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sacrificial defense",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.Z45BSwOf91XXKnoe"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "knRbpAN1MqL77unJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shapechanger",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.knRbpAN1MqL77unJ"
+    },
+    {
+      "range": [
+        93,
+        94
+      ],
+      "_id": "0zJCgQd8FbI5QHth",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Telekinetic",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.0zJCgQd8FbI5QHth"
+    },
+    {
+      "range": [
+        95,
+        96
+      ],
+      "_id": "KHW1LKf38vSpMrTC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Teleportation",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.KHW1LKf38vSpMrTC"
+    },
+    {
+      "range": [
+        97,
+        98
+      ],
+      "_id": "soxugXill7irGtOO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Territorial",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.soxugXill7irGtOO"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "sact1l3HiedJaSNc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic spew",
+      "name": "",
+      "_key": "!tables.results!se7xt3pePCsteqqW.sact1l3HiedJaSNc"
+    }
+  ],
+  "folder": "RSG7ksc1DxCTpccr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll on this table as you interact with the creature to introduce new features or behaviors. Some results may contradict the established nature of a creature. For example, an amorphous creature that you envisioned as a mass of pure energy would not have typical physical features. If a result doesn’t fit, feel free to ignore, reroll, or adjust. Or envision how this contradiction signals a new understanding or unexpected transformation.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Creature/Revealed_Aspect",
+      "category": "Starsmith/Oracles/Creature",
+      "dsid": "oracle_rollable:starforged/creature/revealed_aspect_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676547762,
+    "modifiedTime": 1693042444021,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "se7xt3pePCsteqqW",
+  "sort": 475000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!se7xt3pePCsteqqW"
+}

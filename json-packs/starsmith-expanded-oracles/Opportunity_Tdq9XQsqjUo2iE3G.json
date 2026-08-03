@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Access to specialized research tools",
       "range": [
         1,
         20
       ],
       "_id": "aAO3KMwvW1FMmfEd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to specialized research tools",
+      "name": "",
       "_key": "!tables.results!Tdq9XQsqjUo2iE3G.aAO3KMwvW1FMmfEd"
     },
     {
-      "text": "Access to unique prototype",
       "range": [
         21,
         40
       ],
       "_id": "LvrPhyVJ1g1lAH9J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to unique prototype",
+      "name": "",
       "_key": "!tables.results!Tdq9XQsqjUo2iE3G.LvrPhyVJ1g1lAH9J"
     },
     {
-      "text": "Helpful researcher or data",
       "range": [
         41,
         60
       ],
       "_id": "5lGL48xZPl1WhLJ9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful researcher or data",
+      "name": "",
       "_key": "!tables.results!Tdq9XQsqjUo2iE3G.5lGL48xZPl1WhLJ9"
     },
     {
-      "text": "Insight to a potential solution",
       "range": [
         61,
         80
       ],
       "_id": "o7OvaCdbhKdhiFlN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insight to a potential solution",
+      "name": "",
       "_key": "!tables.results!Tdq9XQsqjUo2iE3G.o7OvaCdbhKdhiFlN"
     },
     {
-      "text": "Investment or collaborative opportunity",
       "range": [
         81,
         100
       ],
       "_id": "n4LJWjUQgYR84OEE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Investment or collaborative opportunity",
+      "name": "",
       "_key": "!tables.results!Tdq9XQsqjUo2iE3G.n4LJWjUQgYR84OEE"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Research/Opportunity",
+      "category": "Starsmith/Oracles/District/Research",
+      "dsid": "oracle_rollable:starforged/district/research/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658167,
     "modifiedTime": 1693870883270,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "Tdq9XQsqjUo2iE3G",
   "sort": 300000,

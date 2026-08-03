@@ -3,228 +3,393 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Buried zygotes that dig out as they grow",
       "range": [
         1,
         5
       ],
       "_id": "uM5MMCts4w3SovB7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Buried zygotes that dig out as they grow",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.uM5MMCts4w3SovB7"
     },
     {
-      "text": "Chemical / energy reaction spawns young",
       "range": [
         6,
         10
       ],
       "_id": "k2SzuEBnSXaO9SS9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemical / energy reaction spawns young",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.k2SzuEBnSXaO9SS9"
     },
     {
-      "text": "Eggs fertilized and then laid",
       "range": [
         11,
         15
       ],
       "_id": "2WTg9j9C7x55BeZw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eggs fertilized and then laid",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.2WTg9j9C7x55BeZw"
     },
     {
-      "text": "Eggs laid and then fertilized",
       "range": [
         16,
         20
       ],
       "_id": "uxrQpX0tHI4oN9V2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eggs laid and then fertilized",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.uxrQpX0tHI4oN9V2"
     },
     {
-      "text": "External growth / protrusion off parent’s body",
       "range": [
         21,
         25
       ],
       "_id": "qgm8yBDLvTmlhpGQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "External growth / protrusion off parent’s body",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.qgm8yBDLvTmlhpGQ"
     },
     {
-      "text": "Gestated by a separate species",
       "range": [
         26,
         30
       ],
       "_id": "ucyOCbrYV9ZsUgWW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gestated by a separate species",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.ucyOCbrYV9ZsUgWW"
     },
     {
-      "text": "Incubated / grown in fully external nutrient sacs",
       "range": [
         31,
         40
       ],
       "_id": "TWyhRzdiAQ17UWbt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incubated / grown in fully external nutrient sacs",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.TWyhRzdiAQ17UWbt"
     },
     {
-      "text": "Larvae spawned followed by external metamorphic stages",
       "range": [
         41,
         50
       ],
       "_id": "xcWsgEl03YNlBlZB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Larvae spawned followed by external metamorphic stages",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.xcWsgEl03YNlBlZB"
     },
     {
-      "text": "Larvae spawned and cocooned for metamorphosis",
       "range": [
         51,
         60
       ],
       "_id": "eiuavd3gQgbq2S7E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Larvae spawned and cocooned for metamorphosis",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.eiuavd3gQgbq2S7E"
     },
     {
-      "text": "Live birth after full gestation",
       "range": [
         61,
         70
       ],
       "_id": "nZWQARrVoGTLuxUK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Live birth after full gestation",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.nZWQARrVoGTLuxUK"
     },
     {
-      "text": "Live birth followed by pouch-dwelling period",
       "range": [
         71,
         80
       ],
       "_id": "JByWa3Ttl1LUOVEL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Live birth followed by pouch-dwelling period",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.JByWa3Ttl1LUOVEL"
     },
     {
-      "text": "Parasitic births where eggs / larva are injected into another species",
       "range": [
         81,
         85
       ],
       "_id": "1O2SNWvYGPW2FRzC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parasitic births where eggs / larva are injected into another species",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.1O2SNWvYGPW2FRzC"
     },
     {
-      "text": "Parent body consumed as young grows within",
       "range": [
         86,
         90
       ],
       "_id": "It5IpG8BlgVozgLM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parent body consumed as young grows within",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.It5IpG8BlgVozgLM"
     },
     {
-      "text": "Seeds / pods planted in nutrient-rich substance",
       "range": [
         91,
         95
       ],
       "_id": "s2HQmP6kQQrl32dH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seeds / pods planted in nutrient-rich substance",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.s2HQmP6kQQrl32dH"
     },
     {
-      "text": "Symbiotic childbearing with another species",
       "range": [
         96,
         100
       ],
       "_id": "FDWNLx2TCqDTj5QY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symbiotic childbearing with another species",
+      "name": "",
       "_key": "!tables.results!Jjvn33r1BvOirbtN.FDWNLx2TCqDTj5QY"
     }
   ],
@@ -243,10 +408,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144820804,
     "modifiedTime": 1708148193586,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!Jjvn33r1BvOirbtN"
 }

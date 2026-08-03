@@ -3,499 +3,890 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Allows the spirits of the dead to speak",
       "range": [
         1,
         3
       ],
       "_id": "mC0p3FhaHvC5BNQE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Allows the spirits of the dead to speak",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.mC0p3FhaHvC5BNQE"
     },
     {
-      "text": "Alters or reshapes living matter",
       "range": [
         4,
         6
       ],
       "_id": "B3pinEcnEkEeTnoH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alters or reshapes living matter",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.B3pinEcnEkEeTnoH"
     },
     {
-      "text": "Awakens an ancient being or intelligence",
       "range": [
         7,
         9
       ],
       "_id": "2V1oNpnhq7Js7GCq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Awakens an ancient being or intelligence",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.2V1oNpnhq7Js7GCq"
     },
     {
-      "text": "Causes impossible visions of madness",
       "range": [
         10,
         12
       ],
       "_id": "Tk6DJGtXc5F7mVYc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Causes impossible visions of madness",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.Tk6DJGtXc5F7mVYc"
     },
     {
-      "text": "Corrupts nonliving matter",
       "range": [
         13,
         15
       ],
       "_id": "szzZJzYWlw1HHvxz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupts nonliving matter",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.szzZJzYWlw1HHvxz"
     },
     {
-      "text": "Creates matter from nothing",
       "range": [
         16,
         18
       ],
       "_id": "peYVM7gmMOjKzsGE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creates matter from nothing",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.peYVM7gmMOjKzsGE"
     },
     {
-      "text": "Emits turbulent gravitational waves",
       "range": [
         19,
         21
       ],
       "_id": "nPKm2aYhar2cY7Yb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emits turbulent gravitational waves",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.nPKm2aYhar2cY7Yb"
     },
     {
-      "text": "Emits violent or uncontrollable energy",
       "range": [
         22,
         24
       ],
       "_id": "BX0JGk5nL71O5Dj1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emits violent or uncontrollable energy",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.BX0JGk5nL71O5Dj1"
     },
     {
-      "text": "Enhances strength or vitality to uncontrollable levels",
       "range": [
         25,
         27
       ],
       "_id": "nd1gmJsqa7d8wuia",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhances strength or vitality to uncontrollable levels",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.nd1gmJsqa7d8wuia"
     },
     {
-      "text": "Enhances surrounding ecosystem",
       "range": [
         28,
         30
       ],
       "_id": "Rpwwdk1TgOPMiQHn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhances surrounding ecosystem",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.Rpwwdk1TgOPMiQHn"
     },
     {
-      "text": "Entraps in a cage of energy",
       "range": [
         31,
         33
       ],
       "_id": "nrC1zEsBbhCerNMm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entraps in a cage of energy",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.nrC1zEsBbhCerNMm"
     },
     {
-      "text": "Generates a tractor beam field",
       "range": [
         34,
         36
       ],
       "_id": "uAXpDovD089KA2oY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates a tractor beam field",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.uAXpDovD089KA2oY"
     },
     {
-      "text": "Generates overwhelming sensations",
       "range": [
         37,
         39
       ],
       "_id": "QKQhic4BvxSayZaU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates overwhelming sensations",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.QKQhic4BvxSayZaU"
     },
     {
-      "text": "Generates tendrils of energy that shock or stun",
       "range": [
         40,
         42
       ],
       "_id": "HczbKxVXHLCVKxff",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generates tendrils of energy that shock or stun",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.HczbKxVXHLCVKxff"
     },
     {
-      "text": "Grants devices or computers a life of their own",
       "range": [
         43,
         45
       ],
       "_id": "LKVPposSZphGOeNN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grants devices or computers a life of their own",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.LKVPposSZphGOeNN"
     },
     {
-      "text": "Immobilizes creatures or beings",
       "range": [
         46,
         48
       ],
       "_id": "uq6RRiJI53m8Otp1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immobilizes creatures or beings",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.uq6RRiJI53m8Otp1"
     },
     {
-      "text": "Jumps forward in time by a few moments or minutes",
       "range": [
         49,
         51
       ],
       "_id": "uD571U92bHuS4Z4v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Jumps forward in time by a few moments or minutes",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.uD571U92bHuS4Z4v"
     },
     {
-      "text": "Morphs or consolidates equipment or devices",
       "range": [
         52,
         54
       ],
       "_id": "DbiIsgTARiGxucv6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Morphs or consolidates equipment or devices",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.DbiIsgTARiGxucv6"
     },
     {
-      "text": "Opens a viewing portal to another location",
       "range": [
         55,
         57
       ],
       "_id": "5rsjVoMtXMXly8Gm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opens a viewing portal to another location",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.5rsjVoMtXMXly8Gm"
     },
     {
-      "text": "Overloads equipment or device",
       "range": [
         58,
         60
       ],
       "_id": "ERccg4bI0WkKmJte",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overloads equipment or device",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.ERccg4bI0WkKmJte"
     },
     {
-      "text": "Releases a swarm that feasts on spacetime",
       "range": [
         61,
         63
       ],
       "_id": "FqIkuh5oD6uikCcc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Releases a swarm that feasts on spacetime",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.FqIkuh5oD6uikCcc"
     },
     {
-      "text": "Releases toxic gases",
       "range": [
         64,
         66
       ],
       "_id": "j3bjwaZm1aya8mMT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Releases toxic gases",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.j3bjwaZm1aya8mMT"
     },
     {
-      "text": "Removes gravity",
       "range": [
         67,
         69
       ],
       "_id": "PtYPz2S0vXMSfeCa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Removes gravity",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.PtYPz2S0vXMSfeCa"
     },
     {
-      "text": "Repositions or twists surrounding terrain or structures into  a maze or labyrinth",
       "range": [
         70,
         72
       ],
       "_id": "uu9wBPLUgJfgOBl8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repositions or twists surrounding terrain or structures into  a maze or labyrinth",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.uu9wBPLUgJfgOBl8"
     },
     {
-      "text": "Reveals glimpses of the immediate future",
       "range": [
         73,
         75
       ],
       "_id": "cQxrNbMwd5yDvjVS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals glimpses of the immediate future",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.cQxrNbMwd5yDvjVS"
     },
     {
-      "text": "Reveals glimpses of the immediate past",
       "range": [
         76,
         78
       ],
       "_id": "Eqmv4DxQqP9kUPaM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals glimpses of the immediate past",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.Eqmv4DxQqP9kUPaM"
     },
     {
-      "text": "Speeds up the flow of time",
       "range": [
         79,
         81
       ],
       "_id": "oHZFHqKXkrCdEVEJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Speeds up the flow of time",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.oHZFHqKXkrCdEVEJ"
     },
     {
-      "text": "Summons alternate version of a creature or being from the multiverse",
       "range": [
         82,
         84
       ],
       "_id": "HEql25kGmwjMJOmj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Summons alternate version of a creature or being from the multiverse",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.HEql25kGmwjMJOmj"
     },
     {
-      "text": "Summons alternate version of equipment or tech from the multiverse",
       "range": [
         85,
         87
       ],
       "_id": "1R3YygXUkPcHofHM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Summons alternate version of equipment or tech from the multiverse",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.1R3YygXUkPcHofHM"
     },
     {
-      "text": "Triggers an impending spacetime implosion",
       "range": [
         88,
         90
       ],
       "_id": "koYYjwpmqdYZqbfg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Triggers an impending spacetime implosion",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.koYYjwpmqdYZqbfg"
     },
     {
-      "text": "Unravels living matter into constituent parts",
       "range": [
         91,
         93
       ],
       "_id": "APUsPQzCK6U2hMmG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unravels living matter into constituent parts",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.APUsPQzCK6U2hMmG"
     },
     {
-      "text": "Unravels nonliving matter into constituent parts",
       "range": [
         94,
         96
       ],
       "_id": "uSAqyZqKpIsNACpX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unravels nonliving matter into constituent parts",
+      "name": "",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.uSAqyZqKpIsNACpX"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "tw4mMk0XCQGQl41x",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Anomaly Effect (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tSkFbuKgAMurqmr2",
       "_key": "!tables.results!tSkFbuKgAMurqmr2.tw4mMk0XCQGQl41x"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "i5Vks38PFDDmS8op",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Anomaly Effect (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tSkFbuKgAMurqmr2",
+      "_key": "!tables.results!tSkFbuKgAMurqmr2.i5Vks38PFDDmS8op"
     }
   ],
   "folder": "EZdpqOZMdqwGsU7q",
@@ -503,14 +894,23 @@
   "description": "<p>Meddling with alien artifacts or forbidden magic may put you at the mercy of chaos. Use this table to resolve the effects of ancient tech, rituals, or other strange forces. Results on this table may have devastating implications, so use it only in rare and dramatic moments.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Anomaly_Effect",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/anomaly_effect_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676735998,
     "modifiedTime": 1693071609411,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "tSkFbuKgAMurqmr2",
   "sort": 1500000,

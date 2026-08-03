@@ -3,484 +3,864 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Escalate regional tensions",
       "range": [
         1,
         2
       ],
       "_id": "PLk99TwyIg4bcB8j",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escalate regional tensions",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.PLk99TwyIg4bcB8j"
     },
     {
-      "text": "Setup defensive perimeter",
       "range": [
         3,
         4
       ],
       "_id": "vcinAXcPaEo9E2yY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Setup defensive perimeter",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.vcinAXcPaEo9E2yY"
     },
     {
-      "text": "Trade a resource",
       "range": [
         5,
         7
       ],
       "_id": "VyJCULWwsrwBKoXz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trade a resource",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.VyJCULWwsrwBKoXz"
     },
     {
-      "text": "Flee duty or orders",
       "range": [
         8,
         9
       ],
       "_id": "4F2xlBML87so5ALf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flee duty or orders",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.4F2xlBML87so5ALf"
     },
     {
-      "text": "Stoke rebellion",
       "range": [
         10,
         11
       ],
       "_id": "tMAulLqcCNWkZam1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stoke rebellion",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.tMAulLqcCNWkZam1"
     },
     {
-      "text": "Sabotage the competition",
       "range": [
         12,
         13
       ],
       "_id": "7xdoXyVsaNkQpEvr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sabotage the competition",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.7xdoXyVsaNkQpEvr"
     },
     {
-      "text": "Broker a deal",
       "range": [
         14,
         16
       ],
       "_id": "rWOPhdZfzUeMMmGm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broker a deal",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.rWOPhdZfzUeMMmGm"
     },
     {
-      "text": "Eliminate evidence of research",
       "range": [
         17,
         20
       ],
       "_id": "SdaLuZyZ3rLOLJ4x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eliminate evidence of research",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.SdaLuZyZ3rLOLJ4x"
     },
     {
-      "text": "Perform saber rattling",
       "range": [
         21,
         24
       ],
       "_id": "KitxyLE3JvHylFRn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perform saber rattling",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.KitxyLE3JvHylFRn"
     },
     {
-      "text": "Proselytize belief",
       "range": [
         25,
         28
       ],
       "_id": "mlzL9jL8EFhrNPb4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proselytize belief",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.mlzL9jL8EFhrNPb4"
     },
     {
-      "text": "Lay claim to territory",
       "range": [
         29,
         32
       ],
       "_id": "vaxbmdVxC3hp1LhE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lay claim to territory",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.vaxbmdVxC3hp1LhE"
     },
     {
-      "text": "Mobilize a location against a threat",
       "range": [
         33,
         36
       ],
       "_id": "dEpk8xkoufIstRUX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mobilize a location against a threat",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.dEpk8xkoufIstRUX"
     },
     {
-      "text": "Study stellar phenomenon",
       "range": [
         37,
         40
       ],
       "_id": "HLZAUiQHNGmaOZTe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Study stellar phenomenon",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.HLZAUiQHNGmaOZTe"
     },
     {
-      "text": "Transfer dangerous prisoner",
       "range": [
         41,
         42
       ],
       "_id": "L9d3KIiPSN2m1G2J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transfer dangerous prisoner",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.L9d3KIiPSN2m1G2J"
     },
     {
-      "text": "Collect a bounty",
       "range": [
         43,
         45
       ],
       "_id": "KkaWBKFDZHoHjD0u",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collect a bounty",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.KkaWBKFDZHoHjD0u"
     },
     {
-      "text": "Preemptive strike mission",
       "range": [
         46,
         48
       ],
       "_id": "CSWx4fxToZpFc3FT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preemptive strike mission",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.CSWx4fxToZpFc3FT"
     },
     {
-      "text": "Upgrade infrastructure",
       "range": [
         49,
         50
       ],
       "_id": "BNiYmpkqYDFW2I2F",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Upgrade infrastructure",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.BNiYmpkqYDFW2I2F"
     },
     {
-      "text": "Transport medical specialist",
       "range": [
         51,
         53
       ],
       "_id": "49Hh4hnuogH5KIvh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport medical specialist",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.49Hh4hnuogH5KIvh"
     },
     {
-      "text": "Transport engineering specialist",
       "range": [
         54,
         56
       ],
       "_id": "P4YbD2GUQjbH15Ws",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport engineering specialist",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.P4YbD2GUQjbH15Ws"
     },
     {
-      "text": "Prevent stellar disaster",
       "range": [
         57,
         59
       ],
       "_id": "mcBbW6D8EcKa3vjp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prevent stellar disaster",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.mcBbW6D8EcKa3vjp"
     },
     {
-      "text": "Research quarantined environment",
       "range": [
         60,
         61
       ],
       "_id": "QlugGcxZK7QX2Nhc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research quarantined environment",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.QlugGcxZK7QX2Nhc"
     },
     {
-      "text": "Reinforce settlement defenses",
       "range": [
         62,
         64
       ],
       "_id": "CryEwCYPKWx4W28s",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reinforce settlement defenses",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.CryEwCYPKWx4W28s"
     },
     {
-      "text": "Pickup valuable cargo",
       "range": [
         65,
         68
       ],
       "_id": "kR0TqIHbidomtFCN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pickup valuable cargo",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.kR0TqIHbidomtFCN"
     },
     {
-      "text": "Deliver salvage",
       "range": [
         69,
         71
       ],
       "_id": "w4DjoAz0TEooRgKt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deliver salvage",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.w4DjoAz0TEooRgKt"
     },
     {
-      "text": "Break out prisoner",
       "range": [
         72,
         73
       ],
       "_id": "7esYONvU04DcgPgH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Break out prisoner",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.7esYONvU04DcgPgH"
     },
     {
-      "text": "Smuggle people",
       "range": [
         74,
         75
       ],
       "_id": "jIsQKxHIhocPBTLn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smuggle people",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.jIsQKxHIhocPBTLn"
     },
     {
-      "text": "Shutdown illegal activity",
       "range": [
         76,
         78
       ],
       "_id": "4Je4RjPRygBDobYS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shutdown illegal activity",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.4Je4RjPRygBDobYS"
     },
     {
-      "text": "Test an alliance",
       "range": [
         79,
         80
       ],
       "_id": "EzV9u1XIqlQJGcIU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Test an alliance",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.EzV9u1XIqlQJGcIU"
     },
     {
-      "text": "Transport energy source",
       "range": [
         81,
         83
       ],
       "_id": "A80pmuj99OkLXzrk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport energy source",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.A80pmuj99OkLXzrk"
     },
     {
-      "text": "Transport lifeforms",
       "range": [
         84,
         85
       ],
       "_id": "WePoglNIzgF7kR8E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport lifeforms",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.WePoglNIzgF7kR8E"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         86,
         90
       ],
       "_id": "l7bJjqjRVjMpefCt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.l7bJjqjRVjMpefCt"
     },
     {
-      "text": "Roll Twice",
       "range": [
         91,
         100
       ],
       "_id": "2AXfzbjGBPSqOE4A",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Outlands (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.g6wu6JxaxGRjpNoY",
       "_key": "!tables.results!g6wu6JxaxGRjpNoY.2AXfzbjGBPSqOE4A"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "coFMQNIMdfL5Twms",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Outlands (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.g6wu6JxaxGRjpNoY",
+      "_key": "!tables.results!g6wu6JxaxGRjpNoY.coFMQNIMdfL5Twms"
     }
   ],
   "folder": "bo8ruejwx9kV7n4Q",
@@ -488,14 +868,23 @@
   "description": "<p>Use the Starship Mission table when prompted by another oracle, or to flesh out the nature of a ship or fleet which has a flexible or uncertain role. You can also roll to generate the focus of a spaceborne quest.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/Mission/Outlands",
+      "category": "Starsmith/Oracles/Starship/Mission",
+      "dsid": "oracle_rollable:starforged/starship/mission/outlands_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676461296,
     "modifiedTime": 1699041781647,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "g6wu6JxaxGRjpNoY",
   "sort": 700000,

@@ -3,303 +3,523 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Culture of the community",
       "range": [
         1,
         5
       ],
       "_id": "a7fKuqZd4vtqefXB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Culture of the community",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.a7fKuqZd4vtqefXB"
     },
     {
-      "text": "Distribution of wealth",
       "range": [
         6,
         10
       ],
       "_id": "lIEf0DkEwEZ9UUYc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distribution of wealth",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.lIEf0DkEwEZ9UUYc"
     },
     {
-      "text": "Famous people",
       "range": [
         11,
         15
       ],
       "_id": "fU683XG1tdPYojbA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Famous people",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.fU683XG1tdPYojbA"
     },
     {
-      "text": "Famous places",
       "range": [
         16,
         20
       ],
       "_id": "mnhSz3kif5fKlAsX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Famous places",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.mnhSz3kif5fKlAsX"
     },
     {
-      "text": "Heritage of a PC",
       "range": [
         21,
         25
       ],
       "_id": "GqjMWTMQVUOzEYRl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heritage of a PC",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.GqjMWTMQVUOzEYRl"
     },
     {
-      "text": "Heritage of an NPC",
       "range": [
         26,
         30
       ],
       "_id": "SflIXiX1i2bbPAtT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heritage of an NPC",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.SflIXiX1i2bbPAtT"
     },
     {
-      "text": "How to curry favor",
       "range": [
         31,
         35
       ],
       "_id": "YUGNkCQupkHECwGk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "How to curry favor",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.YUGNkCQupkHECwGk"
     },
     {
-      "text": "Ingenious or outlandish ideas",
       "range": [
         36,
         40
       ],
       "_id": "RMhvyCAzQ97PZJiD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ingenious or outlandish ideas",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.RMhvyCAzQ97PZJiD"
     },
     {
-      "text": "Items of importance",
       "range": [
         41,
         45
       ],
       "_id": "vsMqu8T4fc70Rxzz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Items of importance",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.vsMqu8T4fc70Rxzz"
     },
     {
-      "text": "Legends of heroic deeds",
       "range": [
         46,
         50
       ],
       "_id": "nZQUvrovzkaA55UQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Legends of heroic deeds",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.nZQUvrovzkaA55UQ"
     },
     {
-      "text": "Legends of relics",
       "range": [
         51,
         55
       ],
       "_id": "bMttlimEj3fUGWjy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Legends of relics",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.bMttlimEj3fUGWjy"
     },
     {
-      "text": "Local faction",
       "range": [
         56,
         60
       ],
       "_id": "kP2CJCMFY6BcbnO5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Local faction",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.kP2CJCMFY6BcbnO5"
     },
     {
-      "text": "Powerful people",
       "range": [
         61,
         65
       ],
       "_id": "gQOzaq7RViyqX3oY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful people",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.gQOzaq7RViyqX3oY"
     },
     {
-      "text": "Quickest way to fame",
       "range": [
         66,
         70
       ],
       "_id": "sbSYVDvrhVZtIhG0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quickest way to fame",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.sbSYVDvrhVZtIhG0"
     },
     {
-      "text": "Shifting political alliances",
       "range": [
         71,
         75
       ],
       "_id": "86mW2dbfwduo6AVO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting political alliances",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.86mW2dbfwduo6AVO"
     },
     {
-      "text": "Significant death",
       "range": [
         76,
         80
       ],
       "_id": "hwDncr52NI1p5Wfa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant death",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.hwDncr52NI1p5Wfa"
     },
     {
-      "text": "Source of wealth",
       "range": [
         81,
         85
       ],
       "_id": "zs7NBnW98VPUyu9w",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Source of wealth",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.zs7NBnW98VPUyu9w"
     },
     {
-      "text": "Their own heritage",
       "range": [
         86,
         90
       ],
       "_id": "vHlCALBCfIevQtvg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Their own heritage",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.vHlCALBCfIevQtvg"
     },
     {
-      "text": "Useful contacts",
       "range": [
         91,
         95
       ],
       "_id": "93irqRiK3hEjBDue",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Useful contacts",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.93irqRiK3hEjBDue"
     },
     {
-      "text": "Where the power lies",
       "range": [
         96,
         100
       ],
       "_id": "bJLNIt5YCxwvKQBO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Where the power lies",
+      "name": "",
       "_key": "!tables.results!DxF8KMERydgfvtsQ.bJLNIt5YCxwvKQBO"
     }
   ],
@@ -308,14 +528,23 @@
   "description": "<p>Use the RANDOM NPC CONVERSATION oracle when you just want a topic starter for a more mundane conversation. Think of this as a conversation starter that will allow some of your characters personality to come through without having to also force through plot information.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Character/Random_Npc_Conversation",
+      "category": "Starsmith/Oracles/Character",
+      "dsid": "oracle_rollable:starforged/character/random_npc_conversation_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676518576,
     "modifiedTime": 1693035428666,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "DxF8KMERydgfvtsQ",
   "sort": 1525000,

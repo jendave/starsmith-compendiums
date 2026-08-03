@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Abandoned pet",
       "range": [
         1,
         8
       ],
       "_id": "0qsiXQCLvHHmtuXx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned pet",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.0qsiXQCLvHHmtuXx"
     },
     {
-      "text": "Bio-locked doorways",
       "range": [
         9,
         16
       ],
       "_id": "AG8q0oqrkgHVCHuF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bio-locked doorways",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.AG8q0oqrkgHVCHuF"
     },
     {
-      "text": "Bulletin board of messages",
       "range": [
         17,
         24
       ],
       "_id": "fodAoc4HBuLsbWhV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulletin board of messages",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.fodAoc4HBuLsbWhV"
     },
     {
-      "text": "Children at play",
       "range": [
         25,
         32
       ],
       "_id": "DQwtAmWExFtT6xCE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Children at play",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.DQwtAmWExFtT6xCE"
     },
     {
-      "text": "Communal transport",
       "range": [
         33,
         40
       ],
       "_id": "Q0ZzYS3YPOWvJBFc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communal transport",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.Q0ZzYS3YPOWvJBFc"
     },
     {
-      "text": "Homes with a view",
       "range": [
         41,
         48
       ],
       "_id": "7Jeuv4Lxg346dVOY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Homes with a view",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.7Jeuv4Lxg346dVOY"
     },
     {
-      "text": "Misplaced belongings",
       "range": [
         49,
         56
       ],
       "_id": "BxcSVXxzsdYbxJC3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Misplaced belongings",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.BxcSVXxzsdYbxJC3"
     },
     {
-      "text": "Ration dispenser",
       "range": [
         57,
         64
       ],
       "_id": "s2KkPClGoJ1n37V7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ration dispenser",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.s2KkPClGoJ1n37V7"
     },
     {
-      "text": "Security patrol",
       "range": [
         65,
         72
       ],
       "_id": "rr4WmPPLNbl9AVkb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security patrol",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.rr4WmPPLNbl9AVkb"
     },
     {
-      "text": "Unusual art",
       "range": [
         73,
         80
       ],
       "_id": "zjQs1N5G8T4qfCOg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual art",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.zjQs1N5G8T4qfCOg"
     },
     {
-      "text": "Work shift change over",
       "range": [
         81,
         88
       ],
       "_id": "8jqZAgfeUEkEumGm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Work shift change over",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.8jqZAgfeUEkEumGm"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         100
       ],
       "_id": "rgAjeN7ssrC9AmW7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!0XWUJFkDOKtYBGpe.rgAjeN7ssrC9AmW7"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Living/Feature",
+      "category": "Starsmith/Oracles/District/Living",
+      "dsid": "oracle_rollable:starforged/district/living/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658101,
     "modifiedTime": 1699035587100,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "0XWUJFkDOKtYBGpe",
   "sort": 200000,

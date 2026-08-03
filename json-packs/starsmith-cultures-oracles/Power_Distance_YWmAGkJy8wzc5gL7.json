@@ -3,48 +3,81 @@
   "formula": "1d6",
   "results": [
     {
-      "text": "Shared power",
       "range": [
         1,
         2
       ],
       "_id": "CYh9SzX9hrMrIWS2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shared power",
+      "name": "",
       "_key": "!tables.results!YWmAGkJy8wzc5gL7.CYh9SzX9hrMrIWS2"
     },
     {
-      "text": "Hierarchy of power but general population can influence power",
       "range": [
         3,
         4
       ],
       "_id": "DAUUHvXiB7QDjwsq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hierarchy of power but general population can influence power",
+      "name": "",
       "_key": "!tables.results!YWmAGkJy8wzc5gL7.DAUUHvXiB7QDjwsq"
     },
     {
-      "text": "Strict power hierarchy with no input from lower strata",
       "range": [
         5,
         6
       ],
       "_id": "EZ1RQEdxzD182yxG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strict power hierarchy with no input from lower strata",
+      "name": "",
       "_key": "!tables.results!YWmAGkJy8wzc5gL7.EZ1RQEdxzD182yxG"
     }
   ],
@@ -63,10 +96,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708140096001,
     "modifiedTime": 1708147245906,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!YWmAGkJy8wzc5gL7"
 }

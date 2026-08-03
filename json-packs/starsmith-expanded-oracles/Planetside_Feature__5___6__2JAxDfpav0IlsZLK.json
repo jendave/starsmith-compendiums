@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "wIzFEAWKdVDO2TQd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bombed military complexes",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.wIzFEAWKdVDO2TQd"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "Awskh3KZqfaf8FjJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken infrastructure for mass transit systems",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.Awskh3KZqfaf8FjJ"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "SOLckx1ILW6Njae5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling monuments to power",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.SOLckx1ILW6Njae5"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "mLgyEG8yimt2n07i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep trenches dug for warfare",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.mLgyEG8yimt2n07i"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "Co2YJFDZLmvRRnB9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desert sands turned to glass",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.Co2YJFDZLmvRRnB9"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "Cn4U0GalLuOhQYCW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dry riverbed",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.Cn4U0GalLuOhQYCW"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "P8up4ifDtpNVUStS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of the use of weapons of mass destruction",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.P8up4ifDtpNVUStS"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "oAy0Uv7vdYXEPGPo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flotsam littered shoreline",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.oAy0Uv7vdYXEPGPo"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "IgbIwJDGzOesSlbZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Humanoid remains still in life-like poses",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.IgbIwJDGzOesSlbZ"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "b68sjHP4AkefWQ8v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Indications of a corrupt or brutal system of justice",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.b68sjHP4AkefWQ8v"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "omyd8AO5qmEMA59C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poisoned spring waters",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.omyd8AO5qmEMA59C"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "frAvPvzePsZo2JG9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rotted vertical farms",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.frAvPvzePsZo2JG9"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "PojCywRVpEIbg6Ch",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stash of time-worn weapons",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.PojCywRVpEIbg6Ch"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "ozCMkT8MfYrKbMU5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.ozCMkT8MfYrKbMU5"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "zWZasZTNcLU4Tb4d",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!2JAxDfpav0IlsZLK.zWZasZTNcLU4Tb4d"
+    }
+  ],
+  "folder": "EJoSoFU1mGwf60NT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Grave/Feature",
+      "category": "Starsmith/Oracles/Planet/Grave",
+      "dsid": "oracle_rollable:starforged/planet/grave/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401825,
+    "modifiedTime": 1699042496428,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2JAxDfpav0IlsZLK",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!2JAxDfpav0IlsZLK"
+}

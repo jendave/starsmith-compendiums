@@ -1,0 +1,556 @@
+{
+  "name": "Step 1: Envision an Inciting Incident (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "rOqQBLQwj5kvBc5q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aid a starship in escaping pirates",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.rOqQBLQwj5kvBc5q"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "y3KwODynMIk9Y04r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apprehend escaped criminals",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.y3KwODynMIk9Y04r"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "LyC8RQGb3FXjjDoX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Break an innocent out of prison",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.LyC8RQGb3FXjjDoX"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "XjuUPxQ5ehHQabgZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Break through the blockade to deliver needed supplies",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.XjuUPxQ5ehHQabgZ"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "pYnKpSQYHR7Bbl8G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discover a murderer before they strike again",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.pYnKpSQYHR7Bbl8G"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "0MxPw1DKtCWNX7DQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escort a diplomat on an important mission of peace",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.0MxPw1DKtCWNX7DQ"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "OpJnmmdgOr0orWLY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evacuate the population before disaster strikes",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.OpJnmmdgOr0orWLY"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "rT8lXUQ4shk50liU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ferret out the mole before they do more damage",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.rT8lXUQ4shk50liU"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "JPhWS6OA73QZCfGU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Find a rogue agent before they sell their secrets",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.JPhWS6OA73QZCfGU"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "8LJxzKvbYMB8afjw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infiltrate a secure corporate site to steal a prototype",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.8LJxzKvbYMB8afjw"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "VLclLGlhaHi015XK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pull a heist to help someone pay off their crushing debt",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.VLclLGlhaHi015XK"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "ClYsbAtgDxHQ2RxB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recover goods from a crash site",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.ClYsbAtgDxHQ2RxB"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "ohokyW6CUpSHLw4s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rescue a political hostage",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.ohokyW6CUpSHLw4s"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "5b2DT8N7sfnygpi9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Retrieve stolen tech from a pirate ship",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.5b2DT8N7sfnygpi9"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "c4gub8ADFuWiSP4v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scrub evidence of a clandestine operation",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.c4gub8ADFuWiSP4v"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "khyjd3JrFGadlgdD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secretly deliver an encrypted data chip",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.khyjd3JrFGadlgdD"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "FucVo9YD5gEIXcSe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smuggle a fugitive to safety",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.FucVo9YD5gEIXcSe"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "rZz4nk7JZcZ3lehE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steal a symbolic artifact from an enemy",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.rZz4nk7JZcZ3lehE"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "ebIKZILUFDsqe6Gs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Survey a desolate planet for potential to build a settlement",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.ebIKZILUFDsqe6Gs"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "8KPKM2dcjBhCiafq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport experimental tech to a dangerous location for testing",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!HPjyLGuRT9orXBYO.8KPKM2dcjBhCiafq"
+    }
+  ],
+  "folder": "BzArU4WvT8dCHqhL",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Launching_Your_Campaign/Adventure/Inciting_Incident",
+      "category": "Starsmith/Oracles/Launching_Your_Campaign/Adventure",
+      "dsid": "oracle_rollable:starforged/launching_your_campaign/adventure/inciting_incident_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676224863,
+    "modifiedTime": 1785569557362,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "HPjyLGuRT9orXBYO",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!HPjyLGuRT9orXBYO"
+}

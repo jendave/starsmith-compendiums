@@ -3,184 +3,344 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Arcane knowledge in the wrong hands",
       "range": [
         1,
         9
       ],
       "_id": "zWLIte3jzPHcluAS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arcane knowledge in the wrong hands",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.zWLIte3jzPHcluAS"
     },
     {
-      "text": "Important equipment malfunctions",
       "range": [
         10,
         18
       ],
       "_id": "uVWcF3smZ4KSWNjI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Important equipment malfunctions",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.uVWcF3smZ4KSWNjI"
     },
     {
-      "text": "Lost in the illusions",
       "range": [
         19,
         27
       ],
       "_id": "pdGTiE4P9nDXB1aF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost in the illusions",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.pdGTiE4P9nDXB1aF"
     },
     {
-      "text": "Magically locked areas",
       "range": [
         28,
         36
       ],
       "_id": "S5EQ5nb3SNLr3sd7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magically locked areas",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.S5EQ5nb3SNLr3sd7"
     },
     {
-      "text": "Mystic energies growing unbounded",
       "range": [
         37,
         45
       ],
       "_id": "7YbtE8vmyg1cxNaf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mystic energies growing unbounded",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.7YbtE8vmyg1cxNaf"
     },
     {
-      "text": "Relic or artifact with a frightening cost",
       "range": [
         46,
         54
       ],
       "_id": "O4Go5jRuqAqjSPV0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Relic or artifact with a frightening cost",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.O4Go5jRuqAqjSPV0"
     },
     {
-      "text": "Surges of wild magic",
       "range": [
         55,
         63
       ],
       "_id": "zuL65MX5tnJURgDa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surges of wild magic",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.zuL65MX5tnJURgDa"
     },
     {
-      "text": "Technological interfaces only respond to magic",
       "range": [
         64,
         72
       ],
       "_id": "P4DQORTWdC3USVRa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technological interfaces only respond to magic",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.P4DQORTWdC3USVRa"
     },
     {
-      "text": "Temptations to unleash a darker force",
       "range": [
         73,
         81
       ],
       "_id": "WGbTqT7HZQvdCQ18",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temptations to unleash a darker force",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.WGbTqT7HZQvdCQ18"
     },
     {
-      "text": "Trapped by mystic energies",
       "range": [
         82,
         90
       ],
       "_id": "TocdEUXuJPZycEhn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trapped by mystic energies",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.TocdEUXuJPZycEhn"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "iXssaHGB29KsqZ0M",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!s9DxdLwfESICjln5.iXssaHGB29KsqZ0M"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "DpVAXVNGT1zLbLIZ",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s9DxdLwfESICjln5",
       "_key": "!tables.results!s9DxdLwfESICjln5.DpVAXVNGT1zLbLIZ"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "sSzMfbVOoKGpHYOB",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.s9DxdLwfESICjln5",
+      "_key": "!tables.results!s9DxdLwfESICjln5.sSzMfbVOoKGpHYOB"
     }
   ],
   "folder": "ON4JbgHNhFhb81EP",
@@ -188,14 +348,23 @@
   "description": "<p>Arcane energies permeate this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Mystical/Peril",
+      "category": "Starsmith/Oracles/Location_Theme/Mystical",
+      "dsid": "oracle_rollable:starforged/location_theme/mystical/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712190,
     "modifiedTime": 1699036183444,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "s9DxdLwfESICjln5",
   "sort": 200000,

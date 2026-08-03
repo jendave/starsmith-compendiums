@@ -3,184 +3,344 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Ash, soot, and smoke hide dangers",
       "range": [
         1,
         9
       ],
       "_id": "4wDWsI1XDaQB0nvN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ash, soot, and smoke hide dangers",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.4wDWsI1XDaQB0nvN"
     },
     {
-      "text": "Explosive eruption",
       "range": [
         10,
         18
       ],
       "_id": "lKYe0m46ReDTFVUz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explosive eruption",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.lKYe0m46ReDTFVUz"
     },
     {
-      "text": "Foe uses heat to its advantage",
       "range": [
         19,
         27
       ],
       "_id": "WQOKlgbCBLONrZ1I",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foe uses heat to its advantage",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.WQOKlgbCBLONrZ1I"
     },
     {
-      "text": "Gaping pit of lava",
       "range": [
         28,
         36
       ],
       "_id": "IBp6uwv08EpEPvB5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gaping pit of lava",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.IBp6uwv08EpEPvB5"
     },
     {
-      "text": "Heat, lava, or plasma threatens a crucial location",
       "range": [
         37,
         45
       ],
       "_id": "WvXk373aNJsurwgS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heat, lava, or plasma threatens a crucial location",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.WvXk373aNJsurwgS"
     },
     {
-      "text": "Noxious fumes",
       "range": [
         46,
         54
       ],
       "_id": "TlJcKBLarEvpadJ6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious fumes",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.TlJcKBLarEvpadJ6"
     },
     {
-      "text": "Overpowering heat",
       "range": [
         55,
         63
       ],
       "_id": "X5ekyO6DsDVe6VCG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overpowering heat",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.X5ekyO6DsDVe6VCG"
     },
     {
-      "text": "Razor-sharp rocks hardened by heat and pressure",
       "range": [
         64,
         72
       ],
       "_id": "TzlcpPNbBlIIEAgk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Razor-sharp rocks hardened by heat and pressure",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.TzlcpPNbBlIIEAgk"
     },
     {
-      "text": "Rising lava levels",
       "range": [
         73,
         81
       ],
       "_id": "nFMz6EOrUOFlmQel",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rising lava levels",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.nFMz6EOrUOFlmQel"
     },
     {
-      "text": "Violent tremors",
       "range": [
         82,
         90
       ],
       "_id": "miiCGPDHmIsI2hw6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent tremors",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.miiCGPDHmIsI2hw6"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "l7isPog8i2NcbfOE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.l7isPog8i2NcbfOE"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "gX5cghpxIKhQxKqn",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu",
       "_key": "!tables.results!FWkBb1FiTgjbJZyu.gX5cghpxIKhQxKqn"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "8FobRNxqUxWRGm6A",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.FWkBb1FiTgjbJZyu",
+      "_key": "!tables.results!FWkBb1FiTgjbJZyu.8FobRNxqUxWRGm6A"
     }
   ],
   "folder": "btT240SEzccoORFJ",
@@ -188,14 +348,23 @@
   "description": "<p>Flame and noxious gases fill this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Inferno/Peril",
+      "category": "Starsmith/Oracles/Location_Theme/Inferno",
+      "dsid": "oracle_rollable:starforged/location_theme/inferno/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712130,
     "modifiedTime": 1699036193761,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "FWkBb1FiTgjbJZyu",
   "sort": 100000,

@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "oX8xOBM5DAFzG6sg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Desolate area where even the fungi are dead",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.oX8xOBM5DAFzG6sg"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "2AZSQuh1U8BaZltj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungus-eating forest",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.2AZSQuh1U8BaZltj"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "hjnf862LoPV1Yjaq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Layer of spores kicked up by movement",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.hjnf862LoPV1Yjaq"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "3wXbVj7L9AqPSmbC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lightning storms setting fungus ablaze",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.3wXbVj7L9AqPSmbC"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "cJgniJVxo41GXNw5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated fauna",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.cJgniJVxo41GXNw5"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "mzm8EJhwrRTxHzzM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plains of bursting fungi",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.mzm8EJhwrRTxHzzM"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "RpGgExIvwD7JJqYK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sinkholes with fungus-lined walls",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.RpGgExIvwD7JJqYK"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "wJMtwXCSW7w2uwuE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sleep-inducing toxins",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.wJMtwXCSW7w2uwuE"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "aUFbZdrkAyG1ffbQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slow moving viscous flood",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.aUFbZdrkAyG1ffbQ"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "vcU9Euqf1iGxeWWs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steaming gas vents",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.vcU9Euqf1iGxeWWs"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "UmVaykEVWf404QBO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential downpour",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.UmVaykEVWf404QBO"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "e4ZCYm8UXXeJxO1L",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trapped and dying fauna",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.e4ZCYm8UXXeJxO1L"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "jcQCgr9JjOo71QRD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warring fungal species",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.jcQCgr9JjOo71QRD"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "gqMvX5f3J3NmWfMW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.gqMvX5f3J3NmWfMW"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "PybGXkMWBH30WAlc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!mhrRDafdMmbZTMBq.PybGXkMWBH30WAlc"
+    }
+  ],
+  "folder": "kr3MLzciAv6E5cjr",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Tainted/Feature",
+      "category": "Starsmith/Oracles/Planet/Tainted",
+      "dsid": "oracle_rollable:starforged/planet/tainted/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676402088,
+    "modifiedTime": 1699054279349,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "mhrRDafdMmbZTMBq",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!mhrRDafdMmbZTMBq"
+}

@@ -3,228 +3,448 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Rotating wheel",
       "range": [
         1,
         15
       ],
       "_id": "XyWx3AwUQ8qpWW3v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rotating wheel",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.XyWx3AwUQ8qpWW3v"
     },
     {
-      "text": "Geometric (cone)",
       "range": [
         16,
         20
       ],
       "_id": "pgzZ3CjRVCaHhXLI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (cone)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.pgzZ3CjRVCaHhXLI"
     },
     {
-      "text": "Geometric (cylinder)",
       "range": [
         21,
         25
       ],
       "_id": "lZXBmRN3HwC53piq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (cylinder)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.lZXBmRN3HwC53piq"
     },
     {
-      "text": "Geometric (prism)",
       "range": [
         26,
         30
       ],
       "_id": "IIrOufpGoNr4LVOA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (prism)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.IIrOufpGoNr4LVOA"
     },
     {
-      "text": "Geometric (octahedron)",
       "range": [
         31,
         35
       ],
       "_id": "ZvhDgFaaI2Q5gI7Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (octahedron)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.ZvhDgFaaI2Q5gI7Q"
     },
     {
-      "text": "Geometric (dodecahedron)",
       "range": [
         36,
         40
       ],
       "_id": "YQBXTlJysKCi5nrb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (dodecahedron)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.YQBXTlJysKCi5nrb"
     },
     {
-      "text": "Geometric (icosahedron)",
       "range": [
         41,
         45
       ],
       "_id": "TyqdT33jVQMdQJT8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric (icosahedron)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.TyqdT33jVQMdQJT8"
     },
     {
-      "text": "Topopolis",
       "range": [
         46,
         55
       ],
       "_id": "IQfX9dz5FIIgIQos",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Topopolis",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.IQfX9dz5FIIgIQos"
     },
     {
-      "text": "Multi-platformed",
       "range": [
         56,
         60
       ],
       "_id": "sWSvYYaVF1d6PyQX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-platformed",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.sWSvYYaVF1d6PyQX"
     },
     {
-      "text": "Pits or shafts",
       "range": [
         61,
         65
       ],
       "_id": "JujKAKqUyX6EaoIA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pits or shafts",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.JujKAKqUyX6EaoIA"
     },
     {
-      "text": "Walled",
       "range": [
         66,
         68
       ],
       "_id": "KnhipZFaGs14BiOZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Walled",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.KnhipZFaGs14BiOZ"
     },
     {
-      "text": "Dimpled",
       "range": [
         69,
         73
       ],
       "_id": "vDqGyyqiNPeWyXO4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dimpled",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.vDqGyyqiNPeWyXO4"
     },
     {
-      "text": "Coffin-like",
       "range": [
         74,
         76
       ],
       "_id": "hfJ1lwRX7BIs6MEL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coffin-like",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.hfJ1lwRX7BIs6MEL"
     },
     {
-      "text": "Fractal",
       "range": [
         77,
         79
       ],
       "_id": "KrD69dwY6eBGj4ns",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fractal",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.KrD69dwY6eBGj4ns"
     },
     {
-      "text": "Chained modules",
       "range": [
         80,
         85
       ],
       "_id": "Ck32PP8dhFXqQiDS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chained modules",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!EOUhqXJNMURqmZ23.Ck32PP8dhFXqQiDS"
     },
     {
-      "text": "Roll twice",
       "range": [
         86,
         100
       ],
       "_id": "BpyPc4jXfeS7lLkH",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Shape (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EOUhqXJNMURqmZ23",
       "_key": "!tables.results!EOUhqXJNMURqmZ23.BpyPc4jXfeS7lLkH"
+    },
+    {
+      "range": [
+        86,
+        100
+      ],
+      "_id": "mbkaSVCPlPVCWUcc",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Shape (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.EOUhqXJNMURqmZ23",
+      "_key": "!tables.results!EOUhqXJNMURqmZ23.mbkaSVCPlPVCWUcc"
     }
   ],
   "folder": "N2sObuKzWFZ5LEU2",
@@ -232,14 +452,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Shape",
+      "category": "Starsmith/Oracles/Precursor_Vault",
+      "dsid": "oracle_rollable:starforged/precursor_vault/shape_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676692219,
     "modifiedTime": 1693073784093,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "EOUhqXJNMURqmZ23",
   "sort": 100000,

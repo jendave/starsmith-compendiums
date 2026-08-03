@@ -7,6 +7,30 @@
 
 set -eu
 
+if [ ! -d dist/packs ]; then
+	echo "error: dist/packs/ not found — run 'npm run build' first" >&2
+	exit 1
+fi
+
+locked_packs=()
+for src in dist/packs/*/; do
+	pack=${src%*/}
+	pack=${pack##*/}
+	if [ -f "dist/packs/${pack}/LOCK" ] && lsof "dist/packs/${pack}/LOCK" >/dev/null 2>&1; then
+		locked_packs+=("${pack}")
+	fi
+done
+
+if [ ${#locked_packs[@]} -gt 0 ]; then
+	echo "error: compendium pack(s) are locked by another process:" >&2
+	printf '  - %s\n' "${locked_packs[@]}" >&2
+	echo >&2
+	echo "Close Foundry VTT completely, then run unpack again." >&2
+	echo "Foundry keeps LevelDB packs open while the world is loaded." >&2
+	lsof dist/packs/*/LOCK 2>/dev/null | head -5 >&2 || true
+	exit 1
+fi
+
 for src in dist/packs/*/; do
 	pack=${src%*/}  # remove the trailing "/"
 	pack=${pack##*/} # get everything after the final "/"

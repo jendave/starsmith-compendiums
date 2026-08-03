@@ -3,1503 +3,2603 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Adhesive fluids",
       "range": [
         1,
         1
       ],
       "_id": "jFQBcrEEvb4Jsgcf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Adhesive fluids",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.jFQBcrEEvb4Jsgcf"
     },
     {
-      "text": "Air tanks",
       "range": [
         2,
         2
       ],
       "_id": "tUAiJecoygqxkx1R",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Air tanks",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.tUAiJecoygqxkx1R"
     },
     {
-      "text": "Antique comms device",
       "range": [
         3,
         3
       ],
       "_id": "ZtxpPEqLxuNfelMc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Antique comms device",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ZtxpPEqLxuNfelMc"
     },
     {
-      "text": "Anti-radiation pills",
       "range": [
         4,
         4
       ],
       "_id": "HmyplKM8TqBB46dY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anti-radiation pills",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.HmyplKM8TqBB46dY"
     },
     {
-      "text": "Beeping centrifuge",
       "range": [
         5,
         5
       ],
       "_id": "C0G7jEl48iOJV4si",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beeping centrifuge",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.C0G7jEl48iOJV4si"
     },
     {
-      "text": "Brochure for a leisure destination",
       "range": [
         6,
         6
       ],
       "_id": "g4o30hE6tH0Q2Dgx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brochure for a leisure destination",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.g4o30hE6tH0Q2Dgx"
     },
     {
-      "text": "Broken drone",
       "range": [
         7,
         7
       ],
       "_id": "B2MlNv2OuO8trARv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken drone",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.B2MlNv2OuO8trARv"
     },
     {
-      "text": "Broken Petrie dishes",
       "range": [
         8,
         8
       ],
       "_id": "DfylFA795Iwq9OsN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken Petrie dishes",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.DfylFA795Iwq9OsN"
     },
     {
-      "text": "Broken prosthetic",
       "range": [
         9,
         9
       ],
       "_id": "sI1okHmLAhxiAMxg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken prosthetic",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.sI1okHmLAhxiAMxg"
     },
     {
-      "text": "Chemical or engineering piping",
       "range": [
         10,
         10
       ],
       "_id": "LPsoGdFmFHuhCDJx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemical or engineering piping",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.LPsoGdFmFHuhCDJx"
     },
     {
-      "text": "Cleaning supplies",
       "range": [
         11,
         11
       ],
       "_id": "MU7GmDxaIX3nTM0G",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cleaning supplies",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.MU7GmDxaIX3nTM0G"
     },
     {
-      "text": "Cold temperature survival gear",
       "range": [
         12,
         12
       ],
       "_id": "UrDW0aiJHxflDwlA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cold temperature survival gear",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.UrDW0aiJHxflDwlA"
     },
     {
-      "text": "Container of illegal drugs",
       "range": [
         13,
         13
       ],
       "_id": "5de8gvzF8FwF7eXR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Container of illegal drugs",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.5de8gvzF8FwF7eXR"
     },
     {
-      "text": "Container of non-approved medications",
       "range": [
         14,
         14
       ],
       "_id": "kfSwX779iblhDr2U",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Container of non-approved medications",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.kfSwX779iblhDr2U"
     },
     {
-      "text": "Cracked spacesuit helmet",
       "range": [
         15,
         15
       ],
       "_id": "4k0pXpFZuLeHYgQ3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cracked spacesuit helmet",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.4k0pXpFZuLeHYgQ3"
     },
     {
-      "text": "Crowbar",
       "range": [
         16,
         16
       ],
       "_id": "ehhnKMsIRaHUdIkI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crowbar",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ehhnKMsIRaHUdIkI"
     },
     {
-      "text": "Crowd control armor",
       "range": [
         17,
         17
       ],
       "_id": "w3MweE1KmZMpyEsP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crowd control armor",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.w3MweE1KmZMpyEsP"
     },
     {
-      "text": "Cut wires that are sparking",
       "range": [
         18,
         18
       ],
       "_id": "Hmgr08KkHQr7XayH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cut wires that are sparking",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.Hmgr08KkHQr7XayH"
     },
     {
-      "text": "Cybernetic implant",
       "range": [
         19,
         19
       ],
       "_id": "4gZDo8YavJKszhgj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cybernetic implant",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.4gZDo8YavJKszhgj"
     },
     {
-      "text": "Damaged envirosuit",
       "range": [
         20,
         20
       ],
       "_id": "IwkufQbBzD8l8Gzk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged envirosuit",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.IwkufQbBzD8l8Gzk"
     },
     {
-      "text": "Dark matter sensor",
       "range": [
         21,
         21
       ],
       "_id": "BTz7FTCaf4WJivho",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dark matter sensor",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.BTz7FTCaf4WJivho"
     },
     {
-      "text": "Deactivated maintenance bot",
       "range": [
         22,
         22
       ],
       "_id": "ITCYVbJHueh5EXQw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deactivated maintenance bot",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ITCYVbJHueh5EXQw"
     },
     {
-      "text": "Deck of cards",
       "range": [
         23,
         23
       ],
       "_id": "W3DSTDy9AaXhv8sE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deck of cards",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.W3DSTDy9AaXhv8sE"
     },
     {
-      "text": "Deployable ladder",
       "range": [
         24,
         24
       ],
       "_id": "XgjQEKBJyjuvAB3L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deployable ladder",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.XgjQEKBJyjuvAB3L"
     },
     {
-      "text": "Digital paper",
       "range": [
         25,
         25
       ],
       "_id": "0JywgxYqXtdJM08u",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Digital paper",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.0JywgxYqXtdJM08u"
     },
     {
-      "text": "Discarded augment",
       "range": [
         26,
         26
       ],
       "_id": "vFvhorOn9lOJeY0a",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discarded augment",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.vFvhorOn9lOJeY0a"
     },
     {
-      "text": "Discarded facial prosthetics",
       "range": [
         27,
         27
       ],
       "_id": "rOLemUNvLCuPHOXE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discarded facial prosthetics",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.rOLemUNvLCuPHOXE"
     },
     {
-      "text": "Discarded sterile gloves",
       "range": [
         28,
         28
       ],
       "_id": "4ynpnQ75Xtehc7oZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discarded sterile gloves",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.4ynpnQ75Xtehc7oZ"
     },
     {
-      "text": "Discarded uniform",
       "range": [
         29,
         29
       ],
       "_id": "rwtI6CmEqgD9RfhW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discarded uniform",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.rwtI6CmEqgD9RfhW"
     },
     {
-      "text": "DNA sequencer",
       "range": [
         30,
         30
       ],
       "_id": "YK3U0u8EyIL8Z7ue",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "DNA sequencer",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.YK3U0u8EyIL8Z7ue"
     },
     {
-      "text": "Doodle-filled journal",
       "range": [
         31,
         31
       ],
       "_id": "UPmO9OG1ERhN2Eoi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Doodle-filled journal",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.UPmO9OG1ERhN2Eoi"
     },
     {
-      "text": "Emergency vehicle repair kit",
       "range": [
         32,
         32
       ],
       "_id": "8cpQmNxvUcaWLcxj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emergency vehicle repair kit",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.8cpQmNxvUcaWLcxj"
     },
     {
-      "text": "Engineering lubricant",
       "range": [
         33,
         33
       ],
       "_id": "unJdzDjcYzpxUHFC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering lubricant",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.unJdzDjcYzpxUHFC"
     },
     {
-      "text": "Environmental system filters",
       "range": [
         34,
         34
       ],
       "_id": "HIwMElM4tpicoskW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental system filters",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.HIwMElM4tpicoskW"
     },
     {
-      "text": "Filterless gas mask",
       "range": [
         35,
         35
       ],
       "_id": "ByEaPXEMqIFZs3kK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Filterless gas mask",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ByEaPXEMqIFZs3kK"
     },
     {
-      "text": "Flame retardant suit",
       "range": [
         36,
         36
       ],
       "_id": "VzTkN0CNfPRd5Mbe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flame retardant suit",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.VzTkN0CNfPRd5Mbe"
     },
     {
-      "text": "Flood lights",
       "range": [
         37,
         37
       ],
       "_id": "TGbOFsH3qiZNVQrj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flood lights",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.TGbOFsH3qiZNVQrj"
     },
     {
-      "text": "Freshly printed augment",
       "range": [
         38,
         38
       ],
       "_id": "5iUeWO2MkLS98I7a",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Freshly printed augment",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.5iUeWO2MkLS98I7a"
     },
     {
-      "text": "Fuel residue",
       "range": [
         39,
         39
       ],
       "_id": "6fsNku9M1SnCpj0h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fuel residue",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.6fsNku9M1SnCpj0h"
     },
     {
-      "text": "Full-body VR rig",
       "range": [
         40,
         40
       ],
       "_id": "WgR344Kr6gKH4rmG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Full-body VR rig",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.WgR344Kr6gKH4rmG"
     },
     {
-      "text": "Gaudy knickknack",
       "range": [
         41,
         41
       ],
       "_id": "qCqEcvkRRunAlYKD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gaudy knickknack",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.qCqEcvkRRunAlYKD"
     },
     {
-      "text": "Geiger counter",
       "range": [
         42,
         42
       ],
       "_id": "BnYLkLvWmqLMQmZ2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geiger counter",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.BnYLkLvWmqLMQmZ2"
     },
     {
-      "text": "Hacking kit",
       "range": [
         43,
         43
       ],
       "_id": "pIF2JqUJ3iazTxkc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hacking kit",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.pIF2JqUJ3iazTxkc"
     },
     {
-      "text": "Hand-held multi-tool",
       "range": [
         44,
         44
       ],
       "_id": "dN4AI2BxxWyV9DvB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hand-held multi-tool",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.dN4AI2BxxWyV9DvB"
     },
     {
-      "text": "Head lamps",
       "range": [
         45,
         45
       ],
       "_id": "ax9dI3mCUApIraLp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Head lamps",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ax9dI3mCUApIraLp"
     },
     {
-      "text": "Holo-projected disguise",
       "range": [
         46,
         46
       ],
       "_id": "7cXCKax6lfa3lIT2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holo-projected disguise",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.7cXCKax6lfa3lIT2"
     },
     {
-      "text": "Impenetrable black box",
       "range": [
         47,
         47
       ],
       "_id": "XpkrAEf4yABuf07O",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impenetrable black box",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.XpkrAEf4yABuf07O"
     },
     {
-      "text": "Impossible energy readings",
       "range": [
         48,
         48
       ],
       "_id": "QVdzoNQaPSyY8ZjB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impossible energy readings",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.QVdzoNQaPSyY8ZjB"
     },
     {
-      "text": "Insulation",
       "range": [
         49,
         49
       ],
       "_id": "D9eTea1ZFNU7WOg9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insulation",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.D9eTea1ZFNU7WOg9"
     },
     {
-      "text": "Laser drill or cutting tool",
       "range": [
         50,
         50
       ],
       "_id": "dPDn3PjTjw7pL1ON",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laser drill or cutting tool",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.dPDn3PjTjw7pL1ON"
     },
     {
-      "text": "List of ship names",
       "range": [
         51,
         51
       ],
       "_id": "wlw5HjJpmofmi7VX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "List of ship names",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.wlw5HjJpmofmi7VX"
     },
     {
-      "text": "Lockpick set",
       "range": [
         52,
         52
       ],
       "_id": "SIbLDVpMoyBgjDF6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lockpick set",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.SIbLDVpMoyBgjDF6"
     },
     {
-      "text": "Low-volume replicator",
       "range": [
         53,
         53
       ],
       "_id": "V0jK5IWmsnB6TCNr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Low-volume replicator",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.V0jK5IWmsnB6TCNr"
     },
     {
-      "text": "Mag-lock boots",
       "range": [
         54,
         54
       ],
       "_id": "VxIIDKMcHXzGKL67",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mag-lock boots",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.VxIIDKMcHXzGKL67"
     },
     {
-      "text": "Mag-lock gloves",
       "range": [
         55,
         55
       ],
       "_id": "dyeEelqDvkmn03iI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mag-lock gloves",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.dyeEelqDvkmn03iI"
     },
     {
-      "text": "Malicious code",
       "range": [
         56,
         56
       ],
       "_id": "nucctKUPgCCm4OCz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malicious code",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.nucctKUPgCCm4OCz"
     },
     {
-      "text": "Medical brace",
       "range": [
         57,
         57
       ],
       "_id": "X0MZNCUxbYtVqJbG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical brace",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.X0MZNCUxbYtVqJbG"
     },
     {
-      "text": "Nanofiber cable",
       "range": [
         58,
         58
       ],
       "_id": "uAYwlIz2FyjboaBV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nanofiber cable",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.uAYwlIz2FyjboaBV"
     },
     {
-      "text": "Nano-sized computer chip",
       "range": [
         59,
         59
       ],
       "_id": "ArXRMe3SA4MGZ4ai",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nano-sized computer chip",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ArXRMe3SA4MGZ4ai"
     },
     {
-      "text": "Notes for a news article",
       "range": [
         60,
         60
       ],
       "_id": "MocVqydTIAFSHSg8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Notes for a news article",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.MocVqydTIAFSHSg8"
     },
     {
-      "text": "Novelty gadget",
       "range": [
         61,
         61
       ],
       "_id": "xWIwpskgr7txFqaa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Novelty gadget",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.xWIwpskgr7txFqaa"
     },
     {
-      "text": "Open link to a satellite",
       "range": [
         62,
         62
       ],
       "_id": "gKnmeM2qj4GRbimw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Open link to a satellite",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.gKnmeM2qj4GRbimw"
     },
     {
-      "text": "Optical scanner",
       "range": [
         63,
         63
       ],
       "_id": "cF5Ugppk0w3i4AOJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Optical scanner",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.cF5Ugppk0w3i4AOJ"
     },
     {
-      "text": "Outdated security badge",
       "range": [
         64,
         64
       ],
       "_id": "DWqNlsxTcpkpXYAi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outdated security badge",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.DWqNlsxTcpkpXYAi"
     },
     {
-      "text": "Personal grooming kit",
       "range": [
         65,
         65
       ],
       "_id": "5lx96pKPFf8HFAzP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Personal grooming kit",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.5lx96pKPFf8HFAzP"
     },
     {
-      "text": "Personal memorabilia",
       "range": [
         66,
         66
       ],
       "_id": "MDeZsXxzfMAiOKbq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Personal memorabilia",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.MDeZsXxzfMAiOKbq"
     },
     {
-      "text": "Physical book",
       "range": [
         67,
         67
       ],
       "_id": "gSqB4PwgMzDHXJUL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Physical book",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.gSqB4PwgMzDHXJUL"
     },
     {
-      "text": "Pictures from atomic microscope",
       "range": [
         68,
         68
       ],
       "_id": "KHtx5gjIzSlLSQMa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pictures from atomic microscope",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.KHtx5gjIzSlLSQMa"
     },
     {
-      "text": "Portable health scanner",
       "range": [
         69,
         69
       ],
       "_id": "9ypsKkaKHty3Z5gs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Portable health scanner",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.9ypsKkaKHty3Z5gs"
     },
     {
-      "text": "Portable vacuum pump",
       "range": [
         70,
         70
       ],
       "_id": "mJSaV4xqGX2h7Fv5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Portable vacuum pump",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.mJSaV4xqGX2h7Fv5"
     },
     {
-      "text": "Potted plant",
       "range": [
         71,
         71
       ],
       "_id": "io4QDEGTFhfuXkBq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potted plant",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.io4QDEGTFhfuXkBq"
     },
     {
-      "text": "Power regulator chips",
       "range": [
         72,
         72
       ],
       "_id": "KyTQZenc9yA5SlrV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Power regulator chips",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.KyTQZenc9yA5SlrV"
     },
     {
-      "text": "Prototype armor",
       "range": [
         73,
         73
       ],
       "_id": "RP43Twu3ZHIyhKr9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prototype armor",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.RP43Twu3ZHIyhKr9"
     },
     {
-      "text": "Prototype device",
       "range": [
         74,
         74
       ],
       "_id": "ZH7JCR7TaNNYVwtm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prototype device",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ZH7JCR7TaNNYVwtm"
     },
     {
-      "text": "Prototype weapon",
       "range": [
         75,
         75
       ],
       "_id": "HzEFLsdFlq6dxd7h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prototype weapon",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.HzEFLsdFlq6dxd7h"
     },
     {
-      "text": "Rare synthehol",
       "range": [
         76,
         76
       ],
       "_id": "dr5V44ZstNrAIh9p",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare synthehol",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.dr5V44ZstNrAIh9p"
     },
     {
-      "text": "Religious iconography",
       "range": [
         77,
         77
       ],
       "_id": "6rAi9oA8NpFvaG5f",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious iconography",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.6rAi9oA8NpFvaG5f"
     },
     {
-      "text": "Rewired circuit boards",
       "range": [
         78,
         78
       ],
       "_id": "Fx3if0WfoR0GTwo4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rewired circuit boards",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.Fx3if0WfoR0GTwo4"
     },
     {
-      "text": "Scalpel",
       "range": [
         79,
         79
       ],
       "_id": "WfSxXDcumQDkYKQr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scalpel",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.WfSxXDcumQDkYKQr"
     },
     {
-      "text": "Scan-proof containers",
       "range": [
         80,
         80
       ],
       "_id": "2Nhsb1QFrfLVbwEg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scan-proof containers",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.2Nhsb1QFrfLVbwEg"
     },
     {
-      "text": "Scrap metal",
       "range": [
         81,
         81
       ],
       "_id": "fP5gAZXlt6RGx2ld",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scrap metal",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.fP5gAZXlt6RGx2ld"
     },
     {
-      "text": "Set of dice",
       "range": [
         82,
         82
       ],
       "_id": "ZnLv8q9hR9zMOs7Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Set of dice",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ZnLv8q9hR9zMOs7Y"
     },
     {
-      "text": "Ship in a bottle",
       "range": [
         83,
         83
       ],
       "_id": "8VF9oON0n9GoZPHS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship in a bottle",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.8VF9oON0n9GoZPHS"
     },
     {
-      "text": "Signal jammer",
       "range": [
         84,
         84
       ],
       "_id": "g13YkEB59R8gBFy9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signal jammer",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.g13YkEB59R8gBFy9"
     },
     {
-      "text": "Smashed computer terminal",
       "range": [
         85,
         85
       ],
       "_id": "U5ywPtkf2XvSAkgU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smashed computer terminal",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.U5ywPtkf2XvSAkgU"
     },
     {
-      "text": "Spare electrical parts",
       "range": [
         86,
         86
       ],
       "_id": "0wUFqfg3CFCuuivc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spare electrical parts",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.0wUFqfg3CFCuuivc"
     },
     {
-      "text": "Stun rod or pain stick",
       "range": [
         87,
         87
       ],
       "_id": "deR4kPasVbbASoKK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stun rod or pain stick",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.deR4kPasVbbASoKK"
     },
     {
-      "text": "Syringe",
       "range": [
         88,
         88
       ],
       "_id": "AI7FqzV7LPoMhDBm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Syringe",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.AI7FqzV7LPoMhDBm"
     },
     {
-      "text": "Torn wetsuit",
       "range": [
         89,
         89
       ],
       "_id": "82CR1jshiQ9CNd1R",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torn wetsuit",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.82CR1jshiQ9CNd1R"
     },
     {
-      "text": "Tracking beacon",
       "range": [
         90,
         90
       ],
       "_id": "b527IBa4aCqObN5b",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tracking beacon",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.b527IBa4aCqObN5b"
     },
     {
-      "text": "Training manual",
       "range": [
         91,
         91
       ],
       "_id": "fdlMLwwUEQv0IkuM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Training manual",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.fdlMLwwUEQv0IkuM"
     },
     {
-      "text": "Unactivated distress beacon",
       "range": [
         92,
         92
       ],
       "_id": "l0HUclxZzc17stCs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unactivated distress beacon",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.l0HUclxZzc17stCs"
     },
     {
-      "text": "Unresponsive android",
       "range": [
         93,
         93
       ],
       "_id": "FD2c5A2NrBSDjLml",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unresponsive android",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.FD2c5A2NrBSDjLml"
     },
     {
-      "text": "Unusual flavor of coffee beans",
       "range": [
         94,
         94
       ],
       "_id": "rnLfG4hv9oPZz2BE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unusual flavor of coffee beans",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.rnLfG4hv9oPZz2BE"
     },
     {
-      "text": "Used hair dye",
       "range": [
         95,
         95
       ],
       "_id": "UCo42DVAFbJkAQfh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Used hair dye",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.UCo42DVAFbJkAQfh"
     },
     {
-      "text": "Used packing materials",
       "range": [
         96,
         96
       ],
       "_id": "HTH3iI8dtHq0qJX6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Used packing materials",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.HTH3iI8dtHq0qJX6"
     },
     {
-      "text": "Various dyes",
       "range": [
         97,
         97
       ],
       "_id": "ftRPMzFG4e2ZIRxy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Various dyes",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.ftRPMzFG4e2ZIRxy"
     },
     {
-      "text": "VR game running itself",
       "range": [
         98,
         98
       ],
       "_id": "VHl14SAhgPJ6BFw9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "VR game running itself",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.VHl14SAhgPJ6BFw9"
     },
     {
-      "text": "VR headset",
       "range": [
         99,
         99
       ],
       "_id": "C1wuw7Zxckcr6Csd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "VR headset",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.C1wuw7Zxckcr6Csd"
     },
     {
-      "text": "Water filter or purification pills",
       "range": [
         100,
         100
       ],
       "_id": "Bc070WpViHJssGiM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Water filter or purification pills",
+      "name": "",
       "_key": "!tables.results!lmGHgjJtjVjRZCRZ.Bc070WpViHJssGiM"
     }
   ],
@@ -1508,14 +2608,23 @@
   "description": "<p>Pair this with your Story Clue to see what led you to the clue or just grab an Item of Narrative Significance by itself and discover how it connects to the plot as the story continues to unfold.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Item_Of_Significance",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/item_of_significance_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676735974,
     "modifiedTime": 1693071609411,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "lmGHgjJtjVjRZCRZ",
   "sort": 1100000,

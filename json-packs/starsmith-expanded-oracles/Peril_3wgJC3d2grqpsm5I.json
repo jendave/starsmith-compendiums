@@ -3,169 +3,318 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Accusations of espionage",
       "range": [
         1,
         10
       ],
       "_id": "dkfhDwcCjI7BjieX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accusations of espionage",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.dkfhDwcCjI7BjieX"
     },
     {
-      "text": "Automated containment protocols",
       "range": [
         11,
         20
       ],
       "_id": "TAXECabdIMtyIwCG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated containment protocols",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.TAXECabdIMtyIwCG"
     },
     {
-      "text": "Dangerous specimen",
       "range": [
         21,
         30
       ],
       "_id": "fK9NKBz2LCwoGrQP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous specimen",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.fK9NKBz2LCwoGrQP"
     },
     {
-      "text": "Discovery used for ill",
       "range": [
         31,
         40
       ],
       "_id": "hC6sknN9GxtftkXx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discovery used for ill",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.hC6sknN9GxtftkXx"
     },
     {
-      "text": "Disturbing outcome of a failed experiment",
       "range": [
         41,
         50
       ],
       "_id": "jIyVegV0vMKjzVZS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disturbing outcome of a failed experiment",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.jIyVegV0vMKjzVZS"
     },
     {
-      "text": "Evidence of sinister experiments",
       "range": [
         51,
         60
       ],
       "_id": "QnjL6yiHaVcfEDUQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of sinister experiments",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.QnjL6yiHaVcfEDUQ"
     },
     {
-      "text": "Forced NDA or limited access",
       "range": [
         61,
         70
       ],
       "_id": "tU7HH10V2IRXDhMS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forced NDA or limited access",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.tU7HH10V2IRXDhMS"
     },
     {
-      "text": "Legal infraction",
       "range": [
         71,
         80
       ],
       "_id": "TzqTWERt8RaVG9oE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Legal infraction",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.TzqTWERt8RaVG9oE"
     },
     {
-      "text": "Unstable technology",
       "range": [
         81,
         90
       ],
       "_id": "1EdD4qwFZseyoat6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable technology",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.1EdD4qwFZseyoat6"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "XYUs3IatoI6IWBvG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.XYUs3IatoI6IWBvG"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "kKpwFilIEYH30ovz",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3wgJC3d2grqpsm5I",
       "_key": "!tables.results!3wgJC3d2grqpsm5I.kKpwFilIEYH30ovz"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ONMytlHzwL5bhHsh",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.3wgJC3d2grqpsm5I",
+      "_key": "!tables.results!3wgJC3d2grqpsm5I.ONMytlHzwL5bhHsh"
     }
   ],
   "folder": "1B0kNT3mWZDFVFFC",
@@ -173,14 +322,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Research/Peril",
+      "category": "Starsmith/Oracles/District/Research",
+      "dsid": "oracle_rollable:starforged/district/research/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658165,
     "modifiedTime": 1699035676938,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "3wgJC3d2grqpsm5I",
   "sort": 400000,

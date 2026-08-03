@@ -1,0 +1,894 @@
+{
+  "name": "Settlement Projects (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "Ncu3JCtVI28IO5Bm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Air supply",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.Ncu3JCtVI28IO5Bm"
+    },
+    {
+      "range": [
+        6,
+        7
+      ],
+      "_id": "JebBrsCZ2NSRcGnt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultural arts",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.JebBrsCZ2NSRcGnt"
+    },
+    {
+      "range": [
+        8,
+        9
+      ],
+      "_id": "WRmMjuuWe1DElLdT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coding",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.WRmMjuuWe1DElLdT"
+    },
+    {
+      "range": [
+        10,
+        11
+      ],
+      "_id": "jD28NwPIkA2LsdYd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trade routes",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.jD28NwPIkA2LsdYd"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "kRhzmvoJrypNtmip",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communications",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.kRhzmvoJrypNtmip"
+    },
+    {
+      "range": [
+        14,
+        17
+      ],
+      "_id": "d0TaIeJRZmlwgGlP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortification",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.d0TaIeJRZmlwgGlP"
+    },
+    {
+      "range": [
+        18,
+        22
+      ],
+      "_id": "d0j5IGd0bt782yJ8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fuel",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.d0j5IGd0bt782yJ8"
+    },
+    {
+      "range": [
+        23,
+        25
+      ],
+      "_id": "m2tjXoJTPswUMxxZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Architecture",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.m2tjXoJTPswUMxxZ"
+    },
+    {
+      "range": [
+        26,
+        27
+      ],
+      "_id": "N5UexASSZvGyyt5E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gambling",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.N5UexASSZvGyyt5E"
+    },
+    {
+      "range": [
+        28,
+        29
+      ],
+      "_id": "mxNlUvAuIsiN9htD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waste recycling",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.mxNlUvAuIsiN9htD"
+    },
+    {
+      "range": [
+        30,
+        31
+      ],
+      "_id": "9fGJDe7yP6yOKONT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Housing",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.9fGJDe7yP6yOKONT"
+    },
+    {
+      "range": [
+        32,
+        33
+      ],
+      "_id": "6j3ESx3dkfuAuIdc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repurposing",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.6j3ESx3dkfuAuIdc"
+    },
+    {
+      "range": [
+        34,
+        37
+      ],
+      "_id": "iyNWixygdpZAdkVm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary mapping",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.iyNWixygdpZAdkVm"
+    },
+    {
+      "range": [
+        38,
+        39
+      ],
+      "_id": "sfOJyvWS0X163s8O",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Laws",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.sfOJyvWS0X163s8O"
+    },
+    {
+      "range": [
+        40,
+        41
+      ],
+      "_id": "ppw5jOHl8DQXWGJS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Education",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.ppw5jOHl8DQXWGJS"
+    },
+    {
+      "range": [
+        42,
+        43
+      ],
+      "_id": "pQ1oqZfOx0qTfsHC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trapping",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.pQ1oqZfOx0qTfsHC"
+    },
+    {
+      "range": [
+        44,
+        46
+      ],
+      "_id": "O0bU6DqRssUSCDic",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infrastructure",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.O0bU6DqRssUSCDic"
+    },
+    {
+      "range": [
+        47,
+        49
+      ],
+      "_id": "GuooeSslo9XKz52h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Psychological",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.GuooeSslo9XKz52h"
+    },
+    {
+      "range": [
+        50,
+        51
+      ],
+      "_id": "mdQmW1XKMWuaNm0n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenobiology",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.mdQmW1XKMWuaNm0n"
+    },
+    {
+      "range": [
+        52,
+        57
+      ],
+      "_id": "UY2qClWYwh6Xuitl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animal husbandry",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.UY2qClWYwh6Xuitl"
+    },
+    {
+      "range": [
+        58,
+        59
+      ],
+      "_id": "V4nXDzYI2ZiyhFwT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political activism",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.V4nXDzYI2ZiyhFwT"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "d2QdMXv4MBBnrIZ7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patrolling",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.d2QdMXv4MBBnrIZ7"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "UkdIf2PERWuOdp1U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weaponry",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.UkdIf2PERWuOdp1U"
+    },
+    {
+      "range": [
+        66,
+        69
+      ],
+      "_id": "vAKweknJlvsYepRt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Piracy",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.vAKweknJlvsYepRt"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "kEoH3EgQw48KMb1S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Espionage",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.kEoH3EgQw48KMb1S"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "7uo3Xo1JdwcxJhjO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planning new settlement",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.7uo3Xo1JdwcxJhjO"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "rSkvPl05fd1fZIo6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Community identity",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.rSkvPl05fd1fZIo6"
+    },
+    {
+      "range": [
+        79,
+        84
+      ],
+      "_id": "soZRt13NNEQhUu47",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rationing",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.soZRt13NNEQhUu47"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "qqGbVNESN8cJRH4y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perimeter fencing",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.qqGbVNESN8cJRH4y"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "RqwSHIA0H7uzs2kw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmosphere building",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.RqwSHIA0H7uzs2kw"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "nfavOeVu3l3pH4Lh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peace treaty",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.nfavOeVu3l3pH4Lh"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "MGqwH7Tc30c8lQNF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.MGqwH7Tc30c8lQNF"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "LkUMQHgmc4snGfqI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!wPh8ecvQZvyebiE0.LkUMQHgmc4snGfqI"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Check the Settlement Projects table when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site—particularly at a large settlement—but are the most visible or noteworthy aspects.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Projects",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/projects_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676424399,
+    "modifiedTime": 1699036611333,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "wPh8ecvQZvyebiE0",
+  "sort": 397657,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!wPh8ecvQZvyebiE0"
+}

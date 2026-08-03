@@ -3,186 +3,370 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Artillery",
       "range": [
         1,
         8
       ],
       "_id": "3DfA6V5MDKArugTZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artillery",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.3DfA6V5MDKArugTZ"
     },
     {
-      "text": "Escort services",
       "range": [
         9,
         16
       ],
       "_id": "2Iwi8s1uzMdxsg02",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escort services",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.2Iwi8s1uzMdxsg02"
     },
     {
-      "text": "Infiltration",
       "range": [
         17,
         24
       ],
       "_id": "SvcUAOCJb9y3gU4E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infiltration",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.SvcUAOCJb9y3gU4E"
     },
     {
-      "text": "Orbital defense",
       "range": [
         25,
         32
       ],
       "_id": "MbTpt11WGnnE4ztK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital defense",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.MbTpt11WGnnE4ztK"
     },
     {
-      "text": "Planetary invasions",
       "range": [
         33,
         40
       ],
       "_id": "sL94jHVROy7zpW23",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary invasions",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.sL94jHVROy7zpW23"
     },
     {
-      "text": "Planetside defense",
       "range": [
         41,
         48
       ],
       "_id": "6nblvzmMuPp1nP5m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside defense",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.6nblvzmMuPp1nP5m"
     },
     {
-      "text": "Proxy warfare",
       "range": [
         49,
         56
       ],
       "_id": "AfWh90ZoX3Q4v521",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proxy warfare",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.AfWh90ZoX3Q4v521"
     },
     {
-      "text": "Robotic troops",
       "range": [
         57,
         64
       ],
       "_id": "jbHSFEE1KpsEbHzL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Robotic troops",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.jbHSFEE1KpsEbHzL"
     },
     {
-      "text": "Space force",
       "range": [
         65,
         72
       ],
       "_id": "gNjFlJTzUL7nFaDU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space force",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.gNjFlJTzUL7nFaDU"
     },
     {
-      "text": "Strike force",
       "range": [
         73,
         80
       ],
       "_id": "ODJBOQZACO8McXp9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strike force",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.ODJBOQZACO8McXp9"
     },
     {
-      "text": "Territory expansion",
       "range": [
         81,
         88
       ],
       "_id": "bsiLvbno36fw51JZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Territory expansion",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.bsiLvbno36fw51JZ"
     },
     {
-      "text": "Weapons of mass destruction",
       "range": [
         89,
         96
       ],
       "_id": "h9cvwdD366Nw9DBO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weapons of mass destruction",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!HvKV3pycO2gyqB92.h9cvwdD366Nw9DBO"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "r0BIh5XYrSw9xLFb",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1785624089235,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Military: Specialty",
+      "img": "icons/dice/d10black.svg",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HvKV3pycO2gyqB92",
       "_key": "!tables.results!HvKV3pycO2gyqB92.r0BIh5XYrSw9xLFb"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        97,
+        100
+      ],
+      "_id": "9GJa7wU7YGYkZW6V",
+      "name": "Military: Specialty",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll twice</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1785624061508,
+        "modifiedTime": 1785624077888,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HvKV3pycO2gyqB92",
+      "_key": "!tables.results!HvKV3pycO2gyqB92.9GJa7wU7YGYkZW6V"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -190,14 +374,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Military_Specialty",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/military_specialty_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597178,
-    "modifiedTime": 1693070234610,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "modifiedTime": 1785624067809,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "HvKV3pycO2gyqB92",
   "sort": 199415,

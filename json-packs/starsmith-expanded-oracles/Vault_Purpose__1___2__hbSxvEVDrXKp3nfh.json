@@ -1,0 +1,818 @@
+{
+  "name": "Vault Purpose (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "gvKrDutPlV1R7DJO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Capture or control of other beings",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.gvKrDutPlV1R7DJO"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "j7iCjrjUM9eZWfEg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command or communication relay",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.j7iCjrjUM9eZWfEg"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "DOrGTnbpaMXD1DYK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Commemoration of an event",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.DOrGTnbpaMXD1DYK"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "YugpORzdYUUJAjxK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conduit to mystical powers",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.YugpORzdYUUJAjxK"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "josT0576JrjfZ3cz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conservation of living specimens",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.josT0576JrjfZ3cz"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "Y79BlwFH3aYgLcJy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containment of a powerful being",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.Y79BlwFH3aYgLcJy"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "L7Q4D2rYEjvjIQT9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containment of dangerous creatures",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.L7Q4D2rYEjvjIQT9"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "i4ZJfTp2iJiWelNH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containment of weapons",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.i4ZJfTp2iJiWelNH"
+    },
+    {
+      "range": [
+        28,
+        31
+      ],
+      "_id": "JrEU4NoKnFGiIbHA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control of a destructive weapon",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.JrEU4NoKnFGiIbHA"
+    },
+    {
+      "range": [
+        32,
+        34
+      ],
+      "_id": "qHNs0BLrEM0vRVki",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generation of defenses or barriers",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.qHNs0BLrEM0vRVki"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "3aKm2tTPg5WLyjQ3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generation or transformation of energy",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.3aKm2tTPg5WLyjQ3"
+    },
+    {
+      "range": [
+        39,
+        41
+      ],
+      "_id": "Zd9eKQA3m5oAs1vK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Harvesting of resources",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.Zd9eKQA3m5oAs1vK"
+    },
+    {
+      "range": [
+        42,
+        44
+      ],
+      "_id": "hzwiAK9CFgG3rowJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interment of the dead",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.hzwiAK9CFgG3rowJ"
+    },
+    {
+      "range": [
+        45,
+        47
+      ],
+      "_id": "XBdWckPt4u1598xS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manipulation of spacetime",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.XBdWckPt4u1598xS"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "yKMHSbGkaV9WJNZW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing of lifeforms",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.yKMHSbGkaV9WJNZW"
+    },
+    {
+      "range": [
+        51,
+        53
+      ],
+      "_id": "gyVx03OO7ylFjmtd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing of machines or devices",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.gyVx03OO7ylFjmtd"
+    },
+    {
+      "range": [
+        54,
+        56
+      ],
+      "_id": "KQlSwxYphViqYBmi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Passage to another location",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.KQlSwxYphViqYBmi"
+    },
+    {
+      "range": [
+        57,
+        59
+      ],
+      "_id": "WgPjGIHU8TYWvJXL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preservation of an ancient intelligence",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.WgPjGIHU8TYWvJXL"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "MCGNBizczPAl8LC6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preservation of maps or navigational data",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.MCGNBizczPAl8LC6"
+    },
+    {
+      "range": [
+        63,
+        66
+      ],
+      "_id": "5mrmXbal0CeqUg1b",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protection of a sacred artifact",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.5mrmXbal0CeqUg1b"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "CE7DzO75IuusuF66",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Researching science or technology",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.CE7DzO75IuusuF66"
+    },
+    {
+      "range": [
+        70,
+        73
+      ],
+      "_id": "WbSTeHR8Bxa2TiIp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Safekeeping of cultural records or memories",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.WbSTeHR8Bxa2TiIp"
+    },
+    {
+      "range": [
+        74,
+        77
+      ],
+      "_id": "XV5HZE5CirUN9dzG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shelter for inhabitants",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.XV5HZE5CirUN9dzG"
+    },
+    {
+      "range": [
+        78,
+        80
+      ],
+      "_id": "PyEOsgclxOd5SYoO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stockpiling of resources",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.PyEOsgclxOd5SYoO"
+    },
+    {
+      "range": [
+        81,
+        83
+      ],
+      "_id": "B9tHcEXi9aNRWt3B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surveying or monitoring of a location",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.B9tHcEXi9aNRWt3B"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "ATaaMDFo2U79lXXL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transformation of terrain or environments",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.ATaaMDFo2U79lXXL"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "rnH0bv7m3P3pospN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Worship of a god or being",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.rnH0bv7m3P3pospN"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "jqSGcTd3lsFhBuF5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Action + Theme",
+      "name": "",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.jqSGcTd3lsFhBuF5"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "vD4uPYejwpckPol3",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Vault Purpose (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.hbSxvEVDrXKp3nfh",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.vD4uPYejwpckPol3"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "wUbROm4hFJczbcEl",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Vault Purpose (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.hbSxvEVDrXKp3nfh",
+      "_key": "!tables.results!hbSxvEVDrXKp3nfh.wUbROm4hFJczbcEl"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Because precursor vaults are alien and enigmatic, understanding their ultimate purpose requires investigation and exploration. Use this table to reveal the vault’s original function or role at an appropriate point in your survey. This can come as an outcome of completing an expedition, or when your story naturally leads you to a revelation of the site’s nature.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Purpose",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/purpose_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692283,
+    "modifiedTime": 1693867918890,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "hbSxvEVDrXKp3nfh",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!hbSxvEVDrXKp3nfh"
+}

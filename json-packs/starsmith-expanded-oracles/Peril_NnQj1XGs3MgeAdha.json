@@ -3,184 +3,344 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Aggressive and armored lifeforms",
       "range": [
         1,
         9
       ],
       "_id": "HeGrrL4GwwhZbqHm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aggressive and armored lifeforms",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.HeGrrL4GwwhZbqHm"
     },
     {
-      "text": "Apex predator on the prowl",
       "range": [
         10,
         18
       ],
       "_id": "9GB5rTLBsMScxFZN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apex predator on the prowl",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.9GB5rTLBsMScxFZN"
     },
     {
-      "text": "Evidence of exploitation of lifeforms",
       "range": [
         19,
         27
       ],
       "_id": "zbb9LYNHkkSq5Xy8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of exploitation of lifeforms",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.zbb9LYNHkkSq5Xy8"
     },
     {
-      "text": "Horned lifeforms bellowing before a charge",
       "range": [
         28,
         36
       ],
       "_id": "qMBVOE0dtA0ZKcaD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Horned lifeforms bellowing before a charge",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.qMBVOE0dtA0ZKcaD"
     },
     {
-      "text": "Lifeform stalks from the shadows",
       "range": [
         37,
         45
       ],
       "_id": "aQDZvJRKQLpg3xY0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lifeform stalks from the shadows",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.aQDZvJRKQLpg3xY0"
     },
     {
-      "text": "Pack of predators on the hunt",
       "range": [
         46,
         54
       ],
       "_id": "UykiUcK52OtZ8uMn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pack of predators on the hunt",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.UykiUcK52OtZ8uMn"
     },
     {
-      "text": "Poisonous plant life or venomous lifeforms",
       "range": [
         55,
         63
       ],
       "_id": "vDRISL0rK3gH3i94",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poisonous plant life or venomous lifeforms",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.vDRISL0rK3gH3i94"
     },
     {
-      "text": "Protective parent lifeform attacks",
       "range": [
         64,
         72
       ],
       "_id": "RRBGPWWWouLsw0fA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protective parent lifeform attacks",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.RRBGPWWWouLsw0fA"
     },
     {
-      "text": "Spiked or razor-edged plants blocking the path",
       "range": [
         73,
         81
       ],
       "_id": "gesKw9AssQ53mE76",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spiked or razor-edged plants blocking the path",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.gesKw9AssQ53mE76"
     },
     {
-      "text": "Swarms of parasitic lifeforms",
       "range": [
         82,
         90
       ],
       "_id": "tsX2wetnYOnWMsk4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swarms of parasitic lifeforms",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.tsX2wetnYOnWMsk4"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "fRK13OaMP18psLVl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.fRK13OaMP18psLVl"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "bHQipxpBeNVo2tmA",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha",
       "_key": "!tables.results!NnQj1XGs3MgeAdha.bHQipxpBeNVo2tmA"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "PJt3cBgaN48BN4Pl",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NnQj1XGs3MgeAdha",
+      "_key": "!tables.results!NnQj1XGs3MgeAdha.PJt3cBgaN48BN4Pl"
     }
   ],
   "folder": "2RzgxItHIp8TYLG5",
@@ -188,14 +348,23 @@
   "description": "<p>Thriving ecosystems abound in this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Overgrown/Peril",
+      "category": "Starsmith/Oracles/Location_Theme/Overgrown",
+      "dsid": "oracle_rollable:starforged/location_theme/overgrown/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712201,
     "modifiedTime": 1699036178234,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "NnQj1XGs3MgeAdha",
   "sort": 200000,

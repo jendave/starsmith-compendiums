@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Feeble sunlight",
       "range": [
         1,
         11
       ],
       "_id": "YOfrI4JKpQYPO0pn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Feeble sunlight",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.YOfrI4JKpQYPO0pn"
     },
     {
-      "text": "Frozen oceans",
       "range": [
         12,
         22
       ],
       "_id": "kRq6RcHQ3e4mBtHa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Frozen oceans",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.kRq6RcHQ3e4mBtHa"
     },
     {
-      "text": "Rocky glacial islands",
       "range": [
         23,
         33
       ],
       "_id": "n4frMoiFwd12Gmup",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky glacial islands",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.n4frMoiFwd12Gmup"
     },
     {
-      "text": "Snowbound mountains",
       "range": [
         34,
         44
       ],
       "_id": "JrN4ayUxkrXgALHD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snowbound mountains",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.JrN4ayUxkrXgALHD"
     },
     {
-      "text": "Sky-breaching geysers",
       "range": [
         45,
         55
       ],
       "_id": "zVXOi1CWtqRleZyi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sky-breaching geysers",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.zVXOi1CWtqRleZyi"
     },
     {
-      "text": "Supersized ice volcano",
       "range": [
         56,
         66
       ],
       "_id": "daFY4NJI5x65a95s",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supersized ice volcano",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.daFY4NJI5x65a95s"
     },
     {
-      "text": "Vibrantly colored ice",
       "range": [
         67,
         77
       ],
       "_id": "BDC8RWVIvi3pNyeR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrantly colored ice",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.BDC8RWVIvi3pNyeR"
     },
     {
-      "text": "World-spanning ice canyon",
       "range": [
         78,
         88
       ],
       "_id": "kAq8lamdzoHJkOag",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "World-spanning ice canyon",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.kAq8lamdzoHJkOag"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "nyp8c4sCB0Wbnsnr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.nyp8c4sCB0Wbnsnr"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "6yDt4uZe5MGNd789",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!Uq1ybjzg3WVNH50Q.6yDt4uZe5MGNd789"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Ice/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Ice",
+      "dsid": "oracle_rollable:starforged/planet/ice/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676401834,
     "modifiedTime": 1699043180379,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "Uq1ybjzg3WVNH50Q",
   "sort": 0,

@@ -3,439 +3,786 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Calling in a favor comes up short",
       "range": [
         1,
         4
       ],
       "_id": "T9VATskKA8Vc2PIK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Calling in a favor comes up short",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.T9VATskKA8Vc2PIK"
     },
     {
-      "text": "Collateral damage",
       "range": [
         5,
         7
       ],
       "_id": "aL94NS710w0n0nUY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collateral damage",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.aL94NS710w0n0nUY"
     },
     {
-      "text": "Cover is blown",
       "range": [
         8,
         10
       ],
       "_id": "DPehTD8EM3HWMlIC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cover is blown",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.DPehTD8EM3HWMlIC"
     },
     {
-      "text": "Crucial equipment is bugged to pass data along to an enemy",
       "range": [
         11,
         14
       ],
       "_id": "cQVALK9vLhnV1FFS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crucial equipment is bugged to pass data along to an enemy",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.cQVALK9vLhnV1FFS"
     },
     {
-      "text": "Enemies join forces",
       "range": [
         15,
         17
       ],
       "_id": "kI6FMaXwjbgZz0IX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemies join forces",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.kI6FMaXwjbgZz0IX"
     },
     {
-      "text": "Enemy gains authority or jurisdiction over crucial arena",
       "range": [
         18,
         20
       ],
       "_id": "tF02Q42DT15gZbPw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy gains authority or jurisdiction over crucial arena",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.tF02Q42DT15gZbPw"
     },
     {
-      "text": "Enemy sends minions to dissuade you",
       "range": [
         21,
         23
       ],
       "_id": "XBalIjOsokzWpfhV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy sends minions to dissuade you",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.XBalIjOsokzWpfhV"
     },
     {
-      "text": "Enemy turns the court of public opinion against you",
       "range": [
         24,
         26
       ],
       "_id": "1WCRcitKfnmEYBSc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy turns the court of public opinion against you",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.1WCRcitKfnmEYBSc"
     },
     {
-      "text": "Enemy wields great influence",
       "range": [
         27,
         29
       ],
       "_id": "BTpRVkEqqwUIP3bQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy wields great influence",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.BTpRVkEqqwUIP3bQ"
     },
     {
-      "text": "Key authorities are bribed or turned against you",
       "range": [
         30,
         33
       ],
       "_id": "64XVExaxa6rF9oJJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key authorities are bribed or turned against you",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.64XVExaxa6rF9oJJ"
     },
     {
-      "text": "Lack of access proves to be a problem",
       "range": [
         34,
         36
       ],
       "_id": "lEDnii71MXuEicH4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lack of access proves to be a problem",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.lEDnii71MXuEicH4"
     },
     {
-      "text": "Making progress offends local culture or custom",
       "range": [
         37,
         39
       ],
       "_id": "CNtoWxGXNFZlrK2D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Making progress offends local culture or custom",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.CNtoWxGXNFZlrK2D"
     },
     {
-      "text": "Need for secrecy arises",
       "range": [
         40,
         42
       ],
       "_id": "NPrN43AEh3RMJNGz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Need for secrecy arises",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.NPrN43AEh3RMJNGz"
     },
     {
-      "text": "New need for false identity",
       "range": [
         43,
         45
       ],
       "_id": "2irMoKJ0BNLjc6MN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New need for false identity",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.2irMoKJ0BNLjc6MN"
     },
     {
-      "text": "Object of a quest is lost or stolen",
       "range": [
         46,
         48
       ],
       "_id": "YnF2Q3Tm2CHuBA8m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Object of a quest is lost or stolen",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.YnF2Q3Tm2CHuBA8m"
     },
     {
-      "text": "Opportunity comes with a cost",
       "range": [
         49,
         51
       ],
       "_id": "qXe9SCmMcXRBCzrY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opportunity comes with a cost",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.qXe9SCmMcXRBCzrY"
     },
     {
-      "text": "Past comes back to haunt you",
       "range": [
         52,
         54
       ],
       "_id": "UDG2Enzq7IlpSYNz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Past comes back to haunt you",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.UDG2Enzq7IlpSYNz"
     },
     {
-      "text": "Rival leaves obstacle in your way",
       "range": [
         55,
         57
       ],
       "_id": "aXPxz8n9V9qt2ebZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival leaves obstacle in your way",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.aXPxz8n9V9qt2ebZ"
     },
     {
-      "text": "Rumors impede your progress",
       "range": [
         58,
         61
       ],
       "_id": "7JCsgdAXbCGlmjfM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rumors impede your progress",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.7JCsgdAXbCGlmjfM"
     },
     {
-      "text": "Someone important reveals their true agenda",
       "range": [
         62,
         65
       ],
       "_id": "ExsXtwPYwBOo5CMF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone important reveals their true agenda",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.ExsXtwPYwBOo5CMF"
     },
     {
-      "text": "Someone's death was greatly exaggerated",
       "range": [
         66,
         68
       ],
       "_id": "RNVs70Le3jHXTKV7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone's death was greatly exaggerated",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.RNVs70Le3jHXTKV7"
     },
     {
-      "text": "The way forward lies in compromise with an enemy or rival",
       "range": [
         69,
         72
       ],
       "_id": "CoRaNp84f25lgHqs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The way forward lies in compromise with an enemy or rival",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.CoRaNp84f25lgHqs"
     },
     {
-      "text": "Threats of blackmail arrive",
       "range": [
         73,
         76
       ],
       "_id": "cYiBGh0CWxdfkCuU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threats of blackmail arrive",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.cYiBGh0CWxdfkCuU"
     },
     {
-      "text": "Transport or escape route is compromised",
       "range": [
         77,
         80
       ],
       "_id": "wolQYIG5xJlDWn7v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport or escape route is compromised",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.wolQYIG5xJlDWn7v"
     },
     {
-      "text": "Unexpected loss of power or ability",
       "range": [
         81,
         84
       ],
       "_id": "FQEBEQ1tbp90NMi4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected loss of power or ability",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.FQEBEQ1tbp90NMi4"
     },
     {
-      "text": "You are framed",
       "range": [
         85,
         88
       ],
       "_id": "hoBNovrlHuvkXTNg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are framed",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.hoBNovrlHuvkXTNg"
     },
     {
-      "text": "You were in the wrong location all along",
       "range": [
         89,
         92
       ],
       "_id": "r0pkYM0J52fHv8pA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were in the wrong location all along",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.r0pkYM0J52fHv8pA"
     },
     {
-      "text": "Your services have been exploited for an alternate purpose",
       "range": [
         93,
         95
       ],
       "_id": "rG8Wn6LML5EXGXCe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Your services have been exploited for an alternate purpose",
+      "name": "",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.rG8Wn6LML5EXGXCe"
     },
     {
-      "text": "Roll twice",
       "range": [
         96,
         100
       ],
       "_id": "dSM6GHhlygboB4Gr",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Story Complication (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy",
       "_key": "!tables.results!NEVc4gRTMwK9RKJy.dSM6GHhlygboB4Gr"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "iL9v8crjaqFjtnF7",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Story Complication (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.NEVc4gRTMwK9RKJy",
+      "_key": "!tables.results!NEVc4gRTMwK9RKJy.iL9v8crjaqFjtnF7"
     }
   ],
   "folder": "EZdpqOZMdqwGsU7q",
@@ -443,14 +790,23 @@
   "description": "<p>This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price} table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Story_Complication",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/story_complication_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676735894,
     "modifiedTime": 1693071618031,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "NEVc4gRTMwK9RKJy",
   "sort": 350000,

@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "wixqCh3lRi2wHIqA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caustic gas storms",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.wixqCh3lRi2wHIqA"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "seq26B5vqVc3MvW9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive, low-lying fog",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.seq26B5vqVc3MvW9"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "PeyMnTdoHTV2jBIE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungus-encrusted caves",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.PeyMnTdoHTV2jBIE"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "kZZXNQVSznUUuX3M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gelatinous ponds",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.kZZXNQVSznUUuX3M"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "zVNGQ03N8eSqpwlz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hallucinogenic toxins",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.zVNGQ03N8eSqpwlz"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "79IGCKko6OoOJuWU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Layers of fast-growing lichen",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.79IGCKko6OoOJuWU"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "vcRcUN8N5ZREebUu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moldering bones",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.vcRcUN8N5ZREebUu"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "ZYiGDt7XUdqMzxxm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated flora",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.ZYiGDt7XUdqMzxxm"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "UaVS7rh9JzabC9ft",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poisonous gas vents",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.UaVS7rh9JzabC9ft"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "nT3BLSlZMLHBeaAF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spore clouds",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.nT3BLSlZMLHBeaAF"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "qV1H9rWnHcazsgvE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrain marred by fleshy pustules",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.qV1H9rWnHcazsgvE"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "QhBR4hPZTFfsv1zs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic rain",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.QhBR4hPZTFfsv1zs"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "TGeCgiM5e7kaQ54T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Virulent fungal infestations",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.TGeCgiM5e7kaQ54T"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "7xnpfZstwtM824Xh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.7xnpfZstwtM824Xh"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ocBH99R6VkFZ0zly",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!gxozVy6LZuhqjSeC.ocBH99R6VkFZ0zly"
+    }
+  ],
+  "folder": "kr3MLzciAv6E5cjr",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Tainted/Feature",
+      "category": "Starsmith/Oracles/Planet/Tainted",
+      "dsid": "oracle_rollable:starforged/planet/tainted/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676402062,
+    "modifiedTime": 1699054277881,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "gxozVy6LZuhqjSeC",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!gxozVy6LZuhqjSeC"
+}

@@ -3,108 +3,185 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cloning",
       "range": [
         1,
         5
       ],
       "_id": "LaPoJhslZeUmZku4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloning",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.LaPoJhslZeUmZku4"
     },
     {
-      "text": "Asexual",
       "range": [
         6,
         20
       ],
       "_id": "WT4xVucdnwWvrHRJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asexual",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.WT4xVucdnwWvrHRJ"
     },
     {
-      "text": "Two-parent sexual",
       "range": [
         21,
         55
       ],
       "_id": "KGlbGqB4YUrXER46",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two-parent sexual",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.KGlbGqB4YUrXER46"
     },
     {
-      "text": "Three-parent sexual",
       "range": [
         56,
         75
       ],
       "_id": "CA6kkWNKGHseTjkZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Three-parent sexual",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.CA6kkWNKGHseTjkZ"
     },
     {
-      "text": "Four-parent sexual",
       "range": [
         76,
         90
       ],
       "_id": "MPbhbYJ93cvUgDMG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Four-parent sexual",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.MPbhbYJ93cvUgDMG"
     },
     {
-      "text": "Community genetic contributions",
       "range": [
         91,
         95
       ],
       "_id": "loccMpcZjKzxmGzU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Community genetic contributions",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.loccMpcZjKzxmGzU"
     },
     {
-      "text": "Artificially designed, built and animated",
       "range": [
         96,
         100
       ],
       "_id": "ryaKilHqwFAJPgWU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificially designed, built and animated",
+      "name": "",
       "_key": "!tables.results!vXlGiFxtnvtZI74D.ryaKilHqwFAJPgWU"
     }
   ],
@@ -123,10 +200,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144820801,
     "modifiedTime": 1708148187221,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!vXlGiFxtnvtZI74D"
 }

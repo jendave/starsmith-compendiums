@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Agricultural center",
       "range": [
         1,
         8
       ],
       "_id": "WOyUWVkSzVi6kpak",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural center",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.WOyUWVkSzVi6kpak"
     },
     {
-      "text": "Automated factory",
       "range": [
         9,
         16
       ],
       "_id": "LxGRJmuqSHgLgBeu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated factory",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.LxGRJmuqSHgLgBeu"
     },
     {
-      "text": "Construction company",
       "range": [
         17,
         24
       ],
       "_id": "h3Yl5uwjEe54yziB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction company",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.h3Yl5uwjEe54yziB"
     },
     {
-      "text": "Infrastructure complex",
       "range": [
         25,
         32
       ],
       "_id": "GZqilveNGlwru9vB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infrastructure complex",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.GZqilveNGlwru9vB"
     },
     {
-      "text": "Livestock breeding",
       "range": [
         33,
         40
       ],
       "_id": "vS8tgF6fxrOCTJdF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Livestock breeding",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.vS8tgF6fxrOCTJdF"
     },
     {
-      "text": "Mining headquarters",
       "range": [
         41,
         48
       ],
       "_id": "MHUkA6WnzmRnZgqV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining headquarters",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.MHUkA6WnzmRnZgqV"
     },
     {
-      "text": "Processing or  refinement plant",
       "range": [
         49,
         56
       ],
       "_id": "f6PDAPd1riw1pyoT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Processing or  refinement plant",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.f6PDAPd1riw1pyoT"
     },
     {
-      "text": "Scrapyard",
       "range": [
         57,
         64
       ],
       "_id": "BPz38H442OskcRwd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scrapyard",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.BPz38H442OskcRwd"
     },
     {
-      "text": "Shipping hub",
       "range": [
         65,
         72
       ],
       "_id": "8QrhLIHOGFfKZViS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipping hub",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.8QrhLIHOGFfKZViS"
     },
     {
-      "text": "Shipyard",
       "range": [
         73,
         80
       ],
       "_id": "K89wwVBN0xFFef1N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipyard",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.K89wwVBN0xFFef1N"
     },
     {
-      "text": "Warehouse",
       "range": [
         81,
         88
       ],
       "_id": "0dAJVxRnNAW2exBE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warehouse",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.0dAJVxRnNAW2exBE"
     },
     {
-      "text": "New zone via   Access",
       "range": [
         89,
         100
       ],
       "_id": "oyUsb5UP5iVznQ3y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>New zone via \n<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/access\">\n    <i class=\"fa fa-caret-right\"></i> Access\n</a></p>",
+      "name": "",
       "_key": "!tables.results!DvXahtGuzoYnWYDZ.oyUsb5UP5iVznQ3y"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Production/Area",
+      "category": "Starsmith/Oracles/District/Production",
+      "dsid": "oracle_rollable:starforged/district/production/area_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658134,
     "modifiedTime": 1693870846336,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "DvXahtGuzoYnWYDZ",
   "sort": 100000,

@@ -3,45 +3,81 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Planetside",
       "range": [
         1,
         40
       ],
       "_id": "RxDq2Fu3hiieG0f8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetside",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!tKaPKKmKhxcgYflc.RxDq2Fu3hiieG0f8"
     },
     {
-      "text": "Orbital",
       "range": [
         41,
         75
       ],
       "_id": "Tnun5SOszPRTF8bx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!tKaPKKmKhxcgYflc.Tnun5SOszPRTF8bx"
     },
     {
-      "text": "Deepspace",
       "range": [
         76,
         100
       ],
       "_id": "HQe0X2NOf4ojEcxm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deepspace",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!tKaPKKmKhxcgYflc.HQe0X2NOf4ojEcxm"
     }
   ],
@@ -50,14 +86,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Location",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/location_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676424320,
     "modifiedTime": 1693072325534,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "tKaPKKmKhxcgYflc",
   "sort": 100000,

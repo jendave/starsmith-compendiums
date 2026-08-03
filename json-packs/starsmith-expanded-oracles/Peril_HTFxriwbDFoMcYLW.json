@@ -3,184 +3,344 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Airborne foe moves to attack",
       "range": [
         1,
         9
       ],
       "_id": "YqgVTUDD6CCFuPsP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Airborne foe moves to attack",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.YqgVTUDD6CCFuPsP"
     },
     {
-      "text": "Crumbling islands beneath your feet",
       "range": [
         10,
         18
       ],
       "_id": "GflGhLSEMNhO92YR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crumbling islands beneath your feet",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.GflGhLSEMNhO92YR"
     },
     {
-      "text": "Dramatic shift in orientation",
       "range": [
         19,
         27
       ],
       "_id": "GeVlJVEcH3XytReE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dramatic shift in orientation",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.GeVlJVEcH3XytReE"
     },
     {
-      "text": "Failure of forces keeping everything aloft",
       "range": [
         28,
         36
       ],
       "_id": "5e0kYkpaaZvwhOLI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Failure of forces keeping everything aloft",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.5e0kYkpaaZvwhOLI"
     },
     {
-      "text": "Guard rail, ladder, or natural barrier gives way",
       "range": [
         37,
         45
       ],
       "_id": "SJdzh1AKdGWwICHz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guard rail, ladder, or natural barrier gives way",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.SJdzh1AKdGWwICHz"
     },
     {
-      "text": "Hail-like rain of earth from above",
       "range": [
         46,
         54
       ],
       "_id": "N6rcimAGJEiHB1UH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hail-like rain of earth from above",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.N6rcimAGJEiHB1UH"
     },
     {
-      "text": "Precarious ledge",
       "range": [
         55,
         63
       ],
       "_id": "VeMMT6zbwpEGlY3d",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precarious ledge",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.VeMMT6zbwpEGlY3d"
     },
     {
-      "text": "Spinning forces of inertia threaten balance",
       "range": [
         64,
         72
       ],
       "_id": "c8rxbaqhMZrbnROt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spinning forces of inertia threaten balance",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.c8rxbaqhMZrbnROt"
     },
     {
-      "text": "Sudden shift in gravity or gravity's direction",
       "range": [
         73,
         81
       ],
       "_id": "ncwVWFnzskC7VMWg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden shift in gravity or gravity's direction",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.ncwVWFnzskC7VMWg"
     },
     {
-      "text": "Wide gulf of open air",
       "range": [
         82,
         90
       ],
       "_id": "AA5Z8FOTDkLijkIM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wide gulf of open air",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.AA5Z8FOTDkLijkIM"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "BDWGNgr7DsvlxE6D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.BDWGNgr7DsvlxE6D"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "j9tigQy2PMkK1Mba",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HTFxriwbDFoMcYLW",
       "_key": "!tables.results!HTFxriwbDFoMcYLW.j9tigQy2PMkK1Mba"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "nB2rnZVzuMaxeu8P",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.HTFxriwbDFoMcYLW",
+      "_key": "!tables.results!HTFxriwbDFoMcYLW.nB2rnZVzuMaxeu8P"
     }
   ],
   "folder": "zAFPSN5e3T57IPe4",
@@ -188,14 +348,23 @@
   "description": "<p>Pockets of stable ground dance on gravity waves in this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Floating/Peril",
+      "category": "Starsmith/Oracles/Location_Theme/Floating",
+      "dsid": "oracle_rollable:starforged/location_theme/floating/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712142,
     "modifiedTime": 1699036209161,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "HTFxriwbDFoMcYLW",
   "sort": 200000,

@@ -1,0 +1,894 @@
+{
+  "name": "Faction Quirks (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "teYDJV30KrbaqHgY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amalgamation of languages used",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.teYDJV30KrbaqHgY"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "th7XFDhPsA5n12Sq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animal or creature honored or deified in society",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.th7XFDhPsA5n12Sq"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "UUxidwkurE6e4Jt1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Banishes the unsuccessful",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.UUxidwkurE6e4Jt1"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "FxbhsB0ujZzJS8S0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Body augmentations are reviled and shunned",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.FxbhsB0ujZzJS8S0"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "ezhIsXzIzW751bfN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroys precursor artifacts",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.ezhIsXzIzW751bfN"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "rVb8w0CDLXZBsgkc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Do not move dwellings without adherence to strict protocols and ceremony",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.rVb8w0CDLXZBsgkc"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "sfpVt7SUOzZsFwWm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elite soldiers are part of celebrated strike team",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.sfpVt7SUOzZsFwWm"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "TipI5pG49fWvj7KV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Employs genetic enhancements at the risk of health",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.TipI5pG49fWvj7KV"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "lyoQoH4IZqBmDHVt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extreme hospitality shown to outsiders",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.lyoQoH4IZqBmDHVt"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "FFWBOKm7UNw0Eh56",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Facial tattoos signify castes or roles",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.FFWBOKm7UNw0Eh56"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "zcNfgkKwOkDEcpYg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Favors a defensive fighting style",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.zcNfgkKwOkDEcpYg"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "M7crN9z6fgJyOMAO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Follows rigid social norms and ceremonies",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.M7crN9z6fgJyOMAO"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "OuYQPIV8rsjT3h8Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guided by mystics and omens",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.OuYQPIV8rsjT3h8Y"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "ckzUi9i1A3QIofLu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lack of social stratification",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.ckzUi9i1A3QIofLu"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "9uMSRXeOKWRc5CF7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Members all use the same name after joining",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.9uMSRXeOKWRc5CF7"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "4Tiid15BVgn7EDQm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proud to have hunted important species to extinction",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.4Tiid15BVgn7EDQm"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "rvQGVk7nqflNnc6N",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Purposefully drab and mundane clothing",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.rvQGVk7nqflNnc6N"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "TWVDrxLYij1al9ty",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Refuses long space journeys more than a year and a day",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.TWVDrxLYij1al9ty"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "60PNnvRvl6rVTya9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regular vision quests through hallucinogenic drugs",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.60PNnvRvl6rVTya9"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "kXJZuXfQRs9wIiFL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regularly rewrite history to look kindly upon themselves",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.kXJZuXfQRs9wIiFL"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "XYy3zC9fjdfjfeOe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reliant on machine labor for production",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.XYy3zC9fjdfjfeOe"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "aLxTX6gjSD4gYIDK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resolves disputes through public debates or forums",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.aLxTX6gjSD4gYIDK"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "2E4buoVgqYv8EqR1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rites of formal acceptance into the faction",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.2E4buoVgqYv8EqR1"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "URGOuHNEDKrTQIk5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ritual words reserved only for other members",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.URGOuHNEDKrTQIk5"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "Z2t3xWpOWpPmF3tE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Romanticizes pre-cataclysmic times",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.Z2t3xWpOWpPmF3tE"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "qpTybyWMdaergvIa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuns machine labor as manual labor is seen as superior",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.qpTybyWMdaergvIa"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "KdHqfR3fUGXU1NUa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuns new or upgraded commodities for traditional ones",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.KdHqfR3fUGXU1NUa"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "pRg8jUNBJWx1n7Cl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuns the fallen and their families as unworthy",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.pRg8jUNBJWx1n7Cl"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "U5iydfCD5bMuvkcd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starships are considered individual works of art and distinct",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.U5iydfCD5bMuvkcd"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "14t8A1dkMeB7KC6r",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trains in a demanding mental discipline or science",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.14t8A1dkMeB7KC6r"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "ZGHDCXkjajNw2srr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wears official identification and clearance levels at all times",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.ZGHDCXkjajNw2srr"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "YNi1Rev0NDZFqY4X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Work or environment causes disease",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.YNi1Rev0NDZFqY4X"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "w7v1jHHpLvyNEIhK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!P1Z2tq2DiGNUalkD.w7v1jHHpLvyNEIhK"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Quirks",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/quirks_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676597425,
+    "modifiedTime": 1699035881637,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "P1Z2tq2DiGNUalkD",
+  "sort": 3975000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!P1Z2tq2DiGNUalkD"
+}

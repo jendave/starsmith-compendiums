@@ -1,0 +1,1104 @@
+{
+  "name": "Character Goal (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "MTYpva6mVxagBCUW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Avenge a wrong",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.MTYpva6mVxagBCUW"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "LNDoWhGhKsvGFYMp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Build a home",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.LNDoWhGhKsvGFYMp"
+    },
+    {
+      "range": [
+        5,
+        7
+      ],
+      "_id": "bLPNw5EPtZw9tNco",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Build a relationship",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.bLPNw5EPtZw9tNco"
+    },
+    {
+      "range": [
+        8,
+        10
+      ],
+      "_id": "bTGiXIea9OrclDkR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Claim a resource",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.bTGiXIea9OrclDkR"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "x0ett4cD30vLSMok",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collect a debt",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.x0ett4cD30vLSMok"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "77ZNeehoqP4VNN95",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Craft an object",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.77ZNeehoqP4VNN95"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "XQ5rM79PNJ2lUCjV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cure an ill",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.XQ5rM79PNJ2lUCjV"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "J3H4hK0kbilNtfUZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defeat a rival",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.J3H4hK0kbilNtfUZ"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "UivLfCGEzWB0eH7z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defend a person",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.UivLfCGEzWB0eH7z"
+    },
+    {
+      "range": [
+        21,
+        23
+      ],
+      "_id": "WaECcqRYWhymYk3x",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defend a place",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.WaECcqRYWhymYk3x"
+    },
+    {
+      "range": [
+        24,
+        25
+      ],
+      "_id": "L1jr1ZX1dYYXyaYb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Discover a truth",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.L1jr1ZX1dYYXyaYb"
+    },
+    {
+      "range": [
+        26,
+        27
+      ],
+      "_id": "Z7Ddj97jStD6S7Iv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "End a conflict",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.Z7Ddj97jStD6S7Iv"
+    },
+    {
+      "range": [
+        28,
+        29
+      ],
+      "_id": "sOAkRTj3ivtiNoNf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Escape a captor",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.sOAkRTj3ivtiNoNf"
+    },
+    {
+      "range": [
+        30,
+        31
+      ],
+      "_id": "RNAwBV4q9pFB8SBt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fight injustice",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.RNAwBV4q9pFB8SBt"
+    },
+    {
+      "range": [
+        32,
+        33
+      ],
+      "_id": "LCsvGg19r3Am5Nvs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Find a person",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.LCsvGg19r3Am5Nvs"
+    },
+    {
+      "range": [
+        34,
+        35
+      ],
+      "_id": "y45FI02FG2yLdlL2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Form an alliance",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.y45FI02FG2yLdlL2"
+    },
+    {
+      "range": [
+        36,
+        37
+      ],
+      "_id": "GA21JvE6ybkIyN1M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gain knowledge",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.GA21JvE6ybkIyN1M"
+    },
+    {
+      "range": [
+        38,
+        39
+      ],
+      "_id": "hGHNfguEqYDDpe4Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gain riches",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.hGHNfguEqYDDpe4Z"
+    },
+    {
+      "range": [
+        40,
+        41
+      ],
+      "_id": "039mW2n5kxPqIhWx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maintain order",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.039mW2n5kxPqIhWx"
+    },
+    {
+      "range": [
+        42,
+        43
+      ],
+      "_id": "RauJNlQVdLllnH7w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make an agreement",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.RauJNlQVdLllnH7w"
+    },
+    {
+      "range": [
+        44,
+        45
+      ],
+      "_id": "60WTPM5OqXhXCjNu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obtain an object",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.60WTPM5OqXhXCjNu"
+    },
+    {
+      "range": [
+        46,
+        47
+      ],
+      "_id": "h9GPmHrF39gi8kh6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pay a debt",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.h9GPmHrF39gi8kh6"
+    },
+    {
+      "range": [
+        48,
+        49
+      ],
+      "_id": "lXaQ8qELWR2r4N6w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protect a lifeform",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.lXaQ8qELWR2r4N6w"
+    },
+    {
+      "range": [
+        50,
+        51
+      ],
+      "_id": "jParmSsBFOp17y1q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protect a secret",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.jParmSsBFOp17y1q"
+    },
+    {
+      "range": [
+        52,
+        53
+      ],
+      "_id": "gVxxhReO0ogs2Tgv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prove worthiness",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.gVxxhReO0ogs2Tgv"
+    },
+    {
+      "range": [
+        54,
+        55
+      ],
+      "_id": "EknpGRO6woiI08uC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebel against power",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.EknpGRO6woiI08uC"
+    },
+    {
+      "range": [
+        56,
+        57
+      ],
+      "_id": "EMyYRmd3pBwNm10T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Refute a falsehood",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.EMyYRmd3pBwNm10T"
+    },
+    {
+      "range": [
+        58,
+        59
+      ],
+      "_id": "0hltXAcGf0zcTNpq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Repair a technology",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.0hltXAcGf0zcTNpq"
+    },
+    {
+      "range": [
+        60,
+        61
+      ],
+      "_id": "xRucNiIAAcExdTCo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resolve a dispute",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.xRucNiIAAcExdTCo"
+    },
+    {
+      "range": [
+        62,
+        63
+      ],
+      "_id": "JeWnMuKAy1mL4vP6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restore a relationship",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.JeWnMuKAy1mL4vP6"
+    },
+    {
+      "range": [
+        64,
+        65
+      ],
+      "_id": "mDhqfXjgWyIeW3C9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sabotage a technology",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.mDhqfXjgWyIeW3C9"
+    },
+    {
+      "range": [
+        66,
+        68
+      ],
+      "_id": "nzedIAGYm89Kr7hs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure a resource",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.nzedIAGYm89Kr7hs"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "6Uh6NqlFAv6q7iyd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seek redemption",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.6Uh6NqlFAv6q7iyd"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "HJ5IzE3LYVWPyJcH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seize power",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.HJ5IzE3LYVWPyJcH"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "Gg6Krl1B26vdnTSJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Solve a mystery",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.Gg6Krl1B26vdnTSJ"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "CspeskDmX3P8fVXq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spread faith",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.CspeskDmX3P8fVXq"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "wILUQmMQaIagYOqg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Travel to a place",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.wILUQmMQaIagYOqg"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "fkPgVkMUK2R8tbTx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undermine a relationship",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.fkPgVkMUK2R8tbTx"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "At49GN72s1StOugK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "@Compendium[starsmith-expanded-oracles.starsmithexpandedoracles.OSpHuphKhIOcJy6e]{Action} + @Compendium[starsmith-expanded-oracles.starsmithexpandedoracles.mgGRUu62QCdo0n2Z]{Theme}",
+      "name": "",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.At49GN72s1StOugK"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "ftGQ8M17DqXHjJWr",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Character Goal (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2xxntLbzYGLZ2cao",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.ftGQ8M17DqXHjJWr"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "bhzp5lVBqzn95pR3",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Character Goal (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.2xxntLbzYGLZ2cao",
+      "_key": "!tables.results!2xxntLbzYGLZ2cao.bhzp5lVBqzn95pR3"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Character/Goal",
+      "category": "Starsmith/Oracles/Character",
+      "dsid": "oracle_rollable:starforged/character/goal_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676518325,
+    "modifiedTime": 1698974754195,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2xxntLbzYGLZ2cao",
+  "sort": 400000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!2xxntLbzYGLZ2cao"
+}

@@ -3,483 +3,835 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Abnormal gravity",
       "range": [
         1,
         3
       ],
       "_id": "27RddY3ZtLomG82N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abnormal gravity",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.27RddY3ZtLomG82N"
     },
     {
-      "text": "Active bots",
       "range": [
         4,
         6
       ],
       "_id": "eOLsOGXRNNXba5eD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Active bots",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.eOLsOGXRNNXba5eD"
     },
     {
-      "text": "Archaic equipment",
       "range": [
         7,
         9
       ],
       "_id": "TctNEetfPQE9O0fQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archaic equipment",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.TctNEetfPQE9O0fQ"
     },
     {
-      "text": "Automated announcements",
       "range": [
         10,
         12
       ],
       "_id": "y4CgAAH6VuLFcJAU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated announcements",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.y4CgAAH6VuLFcJAU"
     },
     {
-      "text": "Biological infestation",
       "range": [
         13,
         15
       ],
       "_id": "WdRExsj3JnJDSAkL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological infestation",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.WdRExsj3JnJDSAkL"
     },
     {
-      "text": "Charred surfaces",
       "range": [
         16,
         18
       ],
       "_id": "7Oja3YwBbzV5OizI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charred surfaces",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.7Oja3YwBbzV5OizI"
     },
     {
-      "text": "Claw marks",
       "range": [
         19,
         21
       ],
       "_id": "AiWsvg7Qu8lKAXh8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Claw marks",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.AiWsvg7Qu8lKAXh8"
     },
     {
-      "text": "Cluttered with debris",
       "range": [
         22,
         24
       ],
       "_id": "NnybsLqxoaW0MCDp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cluttered with debris",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.NnybsLqxoaW0MCDp"
     },
     {
-      "text": "Corroded surfaces",
       "range": [
         25,
         27
       ],
       "_id": "iqHp1xqDVsLAXQIc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corroded surfaces",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.iqHp1xqDVsLAXQIc"
     },
     {
-      "text": "Cramped spaces",
       "range": [
         28,
         30
       ],
       "_id": "VkEOXIVkYZZWIR1E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cramped spaces",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.VkEOXIVkYZZWIR1E"
     },
     {
-      "text": "Creaking hull",
       "range": [
         31,
         33
       ],
       "_id": "MysjedglOBVsSfoT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creaking hull",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.MysjedglOBVsSfoT"
     },
     {
-      "text": "Esoteric writing or symbols",
       "range": [
         34,
         36
       ],
       "_id": "AWYFhD7ZukpogBki",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Esoteric writing or symbols",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.AWYFhD7ZukpogBki"
     },
     {
-      "text": "Evidence of new inhabitants",
       "range": [
         37,
         39
       ],
       "_id": "rVWpDBNShSLfRSxJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of new inhabitants",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.rVWpDBNShSLfRSxJ"
     },
     {
-      "text": "Exposed wiring or conduits",
       "range": [
         40,
         42
       ],
       "_id": "fGMVAzY7ZLSWWltI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed wiring or conduits",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.fGMVAzY7ZLSWWltI"
     },
     {
-      "text": "Flashing strobe lights",
       "range": [
         43,
         45
       ],
       "_id": "J8qBblfEOp3taqFx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashing strobe lights",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.J8qBblfEOp3taqFx"
     },
     {
-      "text": "Fluctuating power",
       "range": [
         46,
         48
       ],
       "_id": "celHWFNAnsZ1rlly",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluctuating power",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.celHWFNAnsZ1rlly"
     },
     {
-      "text": "Haunting vision of the dead",
       "range": [
         49,
         51
       ],
       "_id": "4IR8fc6nPn4p6yS6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haunting vision of the dead",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.4IR8fc6nPn4p6yS6"
     },
     {
-      "text": "Hazardous temperature",
       "range": [
         52,
         54
       ],
       "_id": "36jjKRjGVxTD3xt8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous temperature",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.36jjKRjGVxTD3xt8"
     },
     {
-      "text": "Heavy steam or moisture",
       "range": [
         55,
         57
       ],
       "_id": "efXIIBvYbzqc45bs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy steam or moisture",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.efXIIBvYbzqc45bs"
     },
     {
-      "text": "Littered with corpses",
       "range": [
         58,
         60
       ],
       "_id": "BEFikt8cVQM4aesL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Littered with corpses",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.BEFikt8cVQM4aesL"
     },
     {
-      "text": "Nesting or feeding creatures",
       "range": [
         61,
         63
       ],
       "_id": "mQ5LrEFmTGyFmUup",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nesting or feeding creatures",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.mQ5LrEFmTGyFmUup"
     },
     {
-      "text": "Ornate furnishings",
       "range": [
         64,
         66
       ],
       "_id": "rg7AvpxopeTSRVXR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ornate furnishings",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.rg7AvpxopeTSRVXR"
     },
     {
-      "text": "Scarred by gunfire",
       "range": [
         67,
         69
       ],
       "_id": "ch0Lqx0WBCbWLySj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred by gunfire",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.ch0Lqx0WBCbWLySj"
     },
     {
-      "text": "Sealed against intruders",
       "range": [
         70,
         72
       ],
       "_id": "9WgUc9i6CWcR2nSm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sealed against intruders",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.9WgUc9i6CWcR2nSm"
     },
     {
-      "text": "Signs of looting or scavenging",
       "range": [
         73,
         75
       ],
       "_id": "gZG12FchbwI52rZa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of looting or scavenging",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.gZG12FchbwI52rZa"
     },
     {
-      "text": "Smell or decay",
       "range": [
         76,
         78
       ],
       "_id": "8SYmMc0mZDjb5QFV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smell or decay",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.8SYmMc0mZDjb5QFV"
     },
     {
-      "text": "Splattered with blood",
       "range": [
         79,
         81
       ],
       "_id": "ulWvwbt1sittsU6v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Splattered with blood",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.ulWvwbt1sittsU6v"
     },
     {
-      "text": "Temporal distortions",
       "range": [
         82,
         84
       ],
       "_id": "Xz3jS71GGr62EbsG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temporal distortions",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.Xz3jS71GGr62EbsG"
     },
     {
-      "text": "Thick haze or smoke",
       "range": [
         85,
         87
       ],
       "_id": "yHRZ8vBkqsJvo8ik",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick haze or smoke",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.yHRZ8vBkqsJvo8ik"
     },
     {
-      "text": "Unstable energy surges",
       "range": [
         88,
         90
       ],
       "_id": "VOhaYxcHjGz5Wfeb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable energy surges",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.VOhaYxcHjGz5Wfeb"
     },
     {
-      "text": "Watchful AI",
       "range": [
         91,
         93
       ],
       "_id": "o8jOz8KkeK0MdIkt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Watchful AI",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.o8jOz8KkeK0MdIkt"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         94,
         100
       ],
       "_id": "3D827fi4ZBq60CZu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!PRqTRLRonCe8QJPt.3D827fi4ZBq60CZu"
     }
   ],
@@ -488,14 +840,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Derelict/Inner_First_Look",
+      "category": "Starsmith/Oracles/Derelict",
+      "dsid": "oracle_rollable:starforged/derelict/inner_first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676611931,
     "modifiedTime": 1699035459153,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "PRqTRLRonCe8QJPt",
   "sort": 300000,

@@ -1,0 +1,1312 @@
+{
+  "name": "Character Role (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "tDjD87fw1lZbWpvy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Administrator",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.tDjD87fw1lZbWpvy"
+    },
+    {
+      "range": [
+        3,
+        4
+      ],
+      "_id": "sZnvSLMWGU8qv8AI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arbiter",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.sZnvSLMWGU8qv8AI"
+    },
+    {
+      "range": [
+        5,
+        6
+      ],
+      "_id": "RvqOlbPuHei9aLGC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Architect",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.RvqOlbPuHei9aLGC"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "PMi9R2BMiEH4hXZx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arms Dealer",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.PMi9R2BMiEH4hXZx"
+    },
+    {
+      "range": [
+        9,
+        10
+      ],
+      "_id": "LecZPiy1a8vuzvP6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Attorney",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.LecZPiy1a8vuzvP6"
+    },
+    {
+      "range": [
+        11,
+        12
+      ],
+      "_id": "K0ivn0DhlnUGNcqV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biochemist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.K0ivn0DhlnUGNcqV"
+    },
+    {
+      "range": [
+        13,
+        14
+      ],
+      "_id": "x5133X7562CTCXSG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broker",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.x5133X7562CTCXSG"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "SY1Z0CEMAHAuZr7n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "CEO",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.SY1Z0CEMAHAuZr7n"
+    },
+    {
+      "range": [
+        17,
+        18
+      ],
+      "_id": "rQ1qAHFZ5uvwiUyY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chef",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.rQ1qAHFZ5uvwiUyY"
+    },
+    {
+      "range": [
+        19,
+        20
+      ],
+      "_id": "wD1N7jN01udJsKmV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Constable",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.wD1N7jN01udJsKmV"
+    },
+    {
+      "range": [
+        21,
+        22
+      ],
+      "_id": "UqbUUh61mCJ8eICe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corporate Flunky",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.UqbUUh61mCJ8eICe"
+    },
+    {
+      "range": [
+        23,
+        24
+      ],
+      "_id": "Rld5vBLMjYXxzUG6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crop Specialist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.Rld5vBLMjYXxzUG6"
+    },
+    {
+      "range": [
+        25,
+        26
+      ],
+      "_id": "KxODT9JIcSqpSNqX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Customs Official",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.KxODT9JIcSqpSNqX"
+    },
+    {
+      "range": [
+        27,
+        28
+      ],
+      "_id": "OzuAMGuchiPnTOgG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep Space Nutritionist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.OzuAMGuchiPnTOgG"
+    },
+    {
+      "range": [
+        29,
+        30
+      ],
+      "_id": "3ds8ckDEh0oeE10s",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Doctor",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.3ds8ckDEh0oeE10s"
+    },
+    {
+      "range": [
+        31,
+        32
+      ],
+      "_id": "TwvdGS2rbG0YUL5E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explosives Expert",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.TwvdGS2rbG0YUL5E"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "HNWlIXKElVwwsFhV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gas Extractor",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.HNWlIXKElVwwsFhV"
+    },
+    {
+      "range": [
+        35,
+        36
+      ],
+      "_id": "EHlzeCgdyzutHMez",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gunner",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.EHlzeCgdyzutHMez"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "XCQfsruQlfhIIO3m",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hydroponicist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.XCQfsruQlfhIIO3m"
+    },
+    {
+      "range": [
+        39,
+        40
+      ],
+      "_id": "CsQ4qGJTUP5H1HOs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "ID Specialist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.CsQ4qGJTUP5H1HOs"
+    },
+    {
+      "range": [
+        41,
+        42
+      ],
+      "_id": "x3x9oQuKacdsL8Fj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inspector",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.x3x9oQuKacdsL8Fj"
+    },
+    {
+      "range": [
+        43,
+        44
+      ],
+      "_id": "pijqNYk8WvnpQxe1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Journalist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.pijqNYk8WvnpQxe1"
+    },
+    {
+      "range": [
+        45,
+        46
+      ],
+      "_id": "WTXPDBvycTP3knWD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Junkyard Worker",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.WTXPDBvycTP3knWD"
+    },
+    {
+      "range": [
+        47,
+        48
+      ],
+      "_id": "5lxeinADNwpOC6XM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Livestock Farmer",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.5lxeinADNwpOC6XM"
+    },
+    {
+      "range": [
+        49,
+        50
+      ],
+      "_id": "aNY7GI3iFzRDstUl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nano Technician",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.aNY7GI3iFzRDstUl"
+    },
+    {
+      "range": [
+        51,
+        52
+      ],
+      "_id": "jnqG1gERyaeifglI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officer, Comms",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.jnqG1gERyaeifglI"
+    },
+    {
+      "range": [
+        53,
+        54
+      ],
+      "_id": "f7tVGTkpHo1WgiE3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officer, Helmsman",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.f7tVGTkpHo1WgiE3"
+    },
+    {
+      "range": [
+        55,
+        56
+      ],
+      "_id": "jYOWYJjNgjozMOy8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officer, Medical",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.jYOWYJjNgjozMOy8"
+    },
+    {
+      "range": [
+        57,
+        58
+      ],
+      "_id": "crk7gwLH4jV0Dmgu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officer, Security",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.crk7gwLH4jV0Dmgu"
+    },
+    {
+      "range": [
+        59,
+        60
+      ],
+      "_id": "zbnr4dKqU3EmE5Q7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbital Debris Scrubber",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.zbnr4dKqU3EmE5Q7"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "9w0c9JgbCH7D7RaD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Politician",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.9w0c9JgbCH7D7RaD"
+    },
+    {
+      "range": [
+        63,
+        64
+      ],
+      "_id": "8Dt9JMLBBH7Z7nt5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Programmer",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.8Dt9JMLBBH7Z7nt5"
+    },
+    {
+      "range": [
+        65,
+        66
+      ],
+      "_id": "JL9EXVNQ71aSRMER",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reclamator",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.JL9EXVNQ71aSRMER"
+    },
+    {
+      "range": [
+        67,
+        68
+      ],
+      "_id": "q5eNT9wkR6FtXKKO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rental Agent",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.q5eNT9wkR6FtXKKO"
+    },
+    {
+      "range": [
+        69,
+        70
+      ],
+      "_id": "qujxuXj8jPvZ8C6N",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scientist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.qujxuXj8jPvZ8C6N"
+    },
+    {
+      "range": [
+        71,
+        72
+      ],
+      "_id": "25PRikfNf7NLjMLW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Socialite",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.25PRikfNf7NLjMLW"
+    },
+    {
+      "range": [
+        73,
+        74
+      ],
+      "_id": "5Q9VfVNWDIRFJKHv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spaceship Dealer",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.5Q9VfVNWDIRFJKHv"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "oOvHoRHg9PxGzx1c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supply Dealer",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.oOvHoRHg9PxGzx1c"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "ydE46F5Anf3y043E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tactical Officer",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.ydE46F5Anf3y043E"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "lkmISF3fvpla90jC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technomage",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.lkmISF3fvpla90jC"
+    },
+    {
+      "range": [
+        81,
+        82
+      ],
+      "_id": "Vrk17kO6XsVhBpYU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transportation",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.Vrk17kO6XsVhBpYU"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "hGz4J2gHlxSygGYS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waste Manager",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.hGz4J2gHlxSygGYS"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "OC11oyLrLpibMl1Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenoanthropologist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.OC11oyLrLpibMl1Y"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "6XHKSfMT7GvMBzoG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenoecologist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.6XHKSfMT7GvMBzoG"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "b3dP95wfNMqe0GH3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenopathologist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.b3dP95wfNMqe0GH3"
+    },
+    {
+      "range": [
+        91,
+        92
+      ],
+      "_id": "yZsnS10h4I91Vm9j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Xenozoologist",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.yZsnS10h4I91Vm9j"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "XYOVH1Ua6VoqUuCT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.XYOVH1Ua6VoqUuCT"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "ELbBfuUenTqndSgA",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Character Role (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.VEL6LI4wBzI8eb7z",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.ELbBfuUenTqndSgA"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "3tMk9wFGjagHwA1a",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Character Role (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.VEL6LI4wBzI8eb7z",
+      "_key": "!tables.results!VEL6LI4wBzI8eb7z.3tMk9wFGjagHwA1a"
+    }
+  ],
+  "folder": "EDUYGoTtXEMkKKvh",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Character/Role",
+      "category": "Starsmith/Oracles/Character",
+      "dsid": "oracle_rollable:starforged/character/role_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676518302,
+    "modifiedTime": 1698974882037,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "VEL6LI4wBzI8eb7z",
+  "sort": 293750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!VEL6LI4wBzI8eb7z"
+}

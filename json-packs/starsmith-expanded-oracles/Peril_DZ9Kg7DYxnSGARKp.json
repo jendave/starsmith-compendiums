@@ -3,169 +3,318 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Child lost in the crowd",
       "range": [
         1,
         10
       ],
       "_id": "xXSgrTRhmlh51ZMZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Child lost in the crowd",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.xXSgrTRhmlh51ZMZ"
     },
     {
-      "text": "Goons extorting a business",
       "range": [
         11,
         20
       ],
       "_id": "tcN3grKyIXS2QvcW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Goons extorting a business",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.tcN3grKyIXS2QvcW"
     },
     {
-      "text": "Lockdown or quarantine instituted",
       "range": [
         21,
         30
       ],
       "_id": "Xf3c0ICr8DkoG16Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lockdown or quarantine instituted",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.Xf3c0ICr8DkoG16Y"
     },
     {
-      "text": "Lost in the shuffle",
       "range": [
         31,
         40
       ],
       "_id": "aAKFI70Z6cTAKBEM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost in the shuffle",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.aAKFI70Z6cTAKBEM"
     },
     {
-      "text": "Outbreak of violence",
       "range": [
         41,
         50
       ],
       "_id": "XG5sssD1NXwACNGI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outbreak of violence",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.XG5sssD1NXwACNGI"
     },
     {
-      "text": "Prowling pickpocket",
       "range": [
         51,
         60
       ],
       "_id": "dHIdQgKIoYIQYcBo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prowling pickpocket",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.dHIdQgKIoYIQYcBo"
     },
     {
-      "text": "Security or structural malfunction",
       "range": [
         61,
         70
       ],
       "_id": "9fPWxv57ldRcm1PQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security or structural malfunction",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.9fPWxv57ldRcm1PQ"
     },
     {
-      "text": "Tech dampeners hinder / harm equipment",
       "range": [
         71,
         80
       ],
       "_id": "iTsvOsN50S1RyBmJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tech dampeners hinder / harm equipment",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.iTsvOsN50S1RyBmJ"
     },
     {
-      "text": "Temptation towards a vice",
       "range": [
         81,
         90
       ],
       "_id": "8sgx6r3T8mKioxRq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temptation towards a vice",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.8sgx6r3T8mKioxRq"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "XOPYVKuIQVAQf19f",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.XOPYVKuIQVAQf19f"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "8MDnf36cpRslcXEX",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DZ9Kg7DYxnSGARKp",
       "_key": "!tables.results!DZ9Kg7DYxnSGARKp.8MDnf36cpRslcXEX"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "bfxcb6Dxq15i5qUk",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.DZ9Kg7DYxnSGARKp",
+      "_key": "!tables.results!DZ9Kg7DYxnSGARKp.bfxcb6Dxq15i5qUk"
     }
   ],
   "folder": "0KOsVPtcqTvj6Tbz",
@@ -173,14 +322,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Community/Peril",
+      "category": "Starsmith/Oracles/District/Community",
+      "dsid": "oracle_rollable:starforged/district/community/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658082,
     "modifiedTime": 1699035717970,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "DZ9Kg7DYxnSGARKp",
   "sort": 400000,

@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cloud-breaching volcanoes",
       "range": [
         1,
         11
       ],
       "_id": "yUDaeQp9OK8IMpDf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloud-breaching volcanoes",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.yUDaeQp9OK8IMpDf"
     },
     {
-      "text": "Continent-spanning canyons",
       "range": [
         12,
         22
       ],
       "_id": "ygIcqByjmUfaQcrs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Continent-spanning canyons",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.ygIcqByjmUfaQcrs"
     },
     {
-      "text": "Erratic orbit",
       "range": [
         23,
         33
       ],
       "_id": "Ps27GYHvfyntbDZa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erratic orbit",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.Ps27GYHvfyntbDZa"
     },
     {
-      "text": "Light and dark side of the planet",
       "range": [
         34,
         44
       ],
       "_id": "p2ScPmzDQihpKQz6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Light and dark side of the planet",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.p2ScPmzDQihpKQz6"
     },
     {
-      "text": "Massive comets in a slowly decaying orbit",
       "range": [
         45,
         55
       ],
       "_id": "wzXZNNXRyInJJUa5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive comets in a slowly decaying orbit",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.wzXZNNXRyInJJUa5"
     },
     {
-      "text": "Pockmarked plains",
       "range": [
         56,
         66
       ],
       "_id": "rGf0LG4LaKwO9AWj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pockmarked plains",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.rGf0LG4LaKwO9AWj"
     },
     {
-      "text": "Sphere of rocky debris surrounding the planet",
       "range": [
         67,
         77
       ],
       "_id": "8sFd5TILCJhuvD2e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sphere of rocky debris surrounding the planet",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.8sFd5TILCJhuvD2e"
     },
     {
-      "text": "Varied colors indicating different minerals",
       "range": [
         78,
         88
       ],
       "_id": "6K4HE8K2jFjh8n0I",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Varied colors indicating different minerals",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.6K4HE8K2jFjh8n0I"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "MOtCLyrBoQ6orLOg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.MOtCLyrBoQ6orLOg"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "pNwCWiI4atdoagWN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!aos2ItE40qIbg8aV.pNwCWiI4atdoagWN"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Rocky/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Rocky",
+      "dsid": "oracle_rollable:starforged/planet/rocky/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676401992,
     "modifiedTime": 1699054017665,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "aos2ItE40qIbg8aV",
   "sort": 0,

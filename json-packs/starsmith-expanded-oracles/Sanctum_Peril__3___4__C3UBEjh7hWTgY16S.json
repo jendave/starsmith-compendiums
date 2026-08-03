@@ -1,0 +1,610 @@
+{
+  "name": "Sanctum Peril (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "Ej1O65WmhYzf3qoF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assaulted by the spirits of those who came before",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.Ej1O65WmhYzf3qoF"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "ZPf5wNe5lWEd3KIJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated weapons take aim",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.ZPf5wNe5lWEd3KIJ"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "zUm3esLUvoEvtGvx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Backed into a corner by foes",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.zUm3esLUvoEvtGvx"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "gunkhtxNpzGiYL7g",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bowel-shaking earthquakes of doubt and remorse",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.gunkhtxNpzGiYL7g"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "aEfTrTY4aIe3o2NE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charnel house or pit slick with fresh kills",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.aEfTrTY4aIe3o2NE"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "KfcCdr7Kz6DDH53D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confounding spatial displacements",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.KfcCdr7Kz6DDH53D"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "eBoY8cIhZVP1Md0C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted AI vexes you with riddles",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.eBoY8cIhZVP1Md0C"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "QYBPJ1T0pyVCIn7U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destructive energies lash out",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.QYBPJ1T0pyVCIn7U"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "g5WnLcD00W6MAqYL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment hostile to organic life",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.g5WnLcD00W6MAqYL"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "CmE4yl7h5rGRAxdJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Failing life support systems",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.CmE4yl7h5rGRAxdJ"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "WaKuI4ZZPjNPhykk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knockout gas threatens consciousness",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.WaKuI4ZZPjNPhykk"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "74jbQAAQRYtFXNHm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanical trap is sprung",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.74jbQAAQRYtFXNHm"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "P9EjJ1SHLKWfBitZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pitted against an ally",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.P9EjJ1SHLKWfBitZ"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "PJdUwJFhvqziRcsI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful being awakened",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.PJdUwJFhvqziRcsI"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "N7q8TT7WbBxjREtO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting environment impedes progress",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.N7q8TT7WbBxjREtO"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "ItfAY9LyVwuH2eYt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Target slips out of reach",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.ItfAY9LyVwuH2eYt"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "O8pM4hFzcVIHiUET",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trophy wall of conquests holds an empty space for     you",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.O8pM4hFzcVIHiUET"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "5zPC4qUbEgimWcj4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visions of past failure cause dangerous hesitation",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.5zPC4qUbEgimWcj4"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "raQDbjdQ8oybJqHa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are marked by spiritual corruption",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.raQDbjdQ8oybJqHa"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "74430dCRajIW0oOz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.74430dCRajIW0oOz"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "uocvimIJRaFNuF7Y",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Sanctum Peril (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C3UBEjh7hWTgY16S",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.uocvimIJRaFNuF7Y"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "1OBmoGgnb8hA7lNg",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Sanctum Peril (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.C3UBEjh7hWTgY16S",
+      "_key": "!tables.results!C3UBEjh7hWTgY16S.1OBmoGgnb8hA7lNg"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Peril",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/peril_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692375,
+    "modifiedTime": 1699042032787,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "C3UBEjh7hWTgY16S",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!C3UBEjh7hWTgY16S"
+}

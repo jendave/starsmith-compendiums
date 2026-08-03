@@ -3,73 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Woven into environment",
       "range": [
         1,
         35
       ],
       "_id": "5agLoT6nMJSZyn3L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Woven into environment",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnrAyLWl8O4X07DO.5agLoT6nMJSZyn3L"
     },
     {
-      "text": "Enclosed settlement",
       "range": [
         36,
         60
       ],
       "_id": "oRimumPLADIvY5CV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enclosed settlement",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnrAyLWl8O4X07DO.oRimumPLADIvY5CV"
     },
     {
-      "text": "Temple",
       "range": [
         61,
         80
       ],
       "_id": "qHMM5DoK06QGRme0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temple",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnrAyLWl8O4X07DO.qHMM5DoK06QGRme0"
     },
     {
-      "text": "Rube-Goldberg",
       "range": [
         81,
         95
       ],
       "_id": "x5553YzaZHwY8e3Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rube-Goldberg",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnrAyLWl8O4X07DO.x5553YzaZHwY8e3Q"
     },
     {
-      "text": "Incomprehensible",
       "range": [
         96,
         100
       ],
       "_id": "crmwlYTNcLrvOhIy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incomprehensible",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnrAyLWl8O4X07DO.crmwlYTNcLrvOhIy"
     }
   ],
@@ -78,14 +138,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Form",
+      "category": "Starsmith/Oracles/Precursor_Vault",
+      "dsid": "oracle_rollable:starforged/precursor_vault/form_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676692213,
     "modifiedTime": 1693073816745,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "OnrAyLWl8O4X07DO",
   "sort": -100000,

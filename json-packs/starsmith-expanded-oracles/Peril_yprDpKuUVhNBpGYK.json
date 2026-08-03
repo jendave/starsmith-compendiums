@@ -3,184 +3,344 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Acidic digestive juices",
       "range": [
         1,
         9
       ],
       "_id": "MrldYf416Oxp5ukc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acidic digestive juices",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.MrldYf416Oxp5ukc"
     },
     {
-      "text": "Biological contaminants",
       "range": [
         10,
         18
       ],
       "_id": "2zjFZgigu3qRCu1V",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological contaminants",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.2zjFZgigu3qRCu1V"
     },
     {
-      "text": "Caught in the waste stream",
       "range": [
         19,
         27
       ],
       "_id": "JnUYcjCd8dw1t9d9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caught in the waste stream",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.JnUYcjCd8dw1t9d9"
     },
     {
-      "text": "Contracting muscles",
       "range": [
         28,
         36
       ],
       "_id": "h2HucV8ZmP27rpu8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Contracting muscles",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.h2HucV8ZmP27rpu8"
     },
     {
-      "text": "Defense mechanisms target you as invasive",
       "range": [
         37,
         45
       ],
       "_id": "LNPEiDLeZYVSKziw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defense mechanisms target you as invasive",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.LNPEiDLeZYVSKziw"
     },
     {
-      "text": "Lack of atmosphere",
       "range": [
         46,
         54
       ],
       "_id": "AL5FSZ5y2Bd4OVp4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lack of atmosphere",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.AL5FSZ5y2Bd4OVp4"
     },
     {
-      "text": "Rising bodily fluids",
       "range": [
         55,
         63
       ],
       "_id": "KR4LNxPhcP68J9sV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rising bodily fluids",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.KR4LNxPhcP68J9sV"
     },
     {
-      "text": "Surges of rapid expellant",
       "range": [
         64,
         72
       ],
       "_id": "8grDscjUvbmON1Jv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surges of rapid expellant",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.8grDscjUvbmON1Jv"
     },
     {
-      "text": "Symbiotic lifeforms attack",
       "range": [
         73,
         81
       ],
       "_id": "TahvPYqiyZBSaEkW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symbiotic lifeforms attack",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.TahvPYqiyZBSaEkW"
     },
     {
-      "text": "Virulent disease",
       "range": [
         82,
         90
       ],
       "_id": "etvSp0aI2WuKg7bb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Virulent disease",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.etvSp0aI2WuKg7bb"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "5inTO57irnYc1k3E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.5inTO57irnYc1k3E"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "xtHupqiaYBn2yHRT",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yprDpKuUVhNBpGYK",
       "_key": "!tables.results!yprDpKuUVhNBpGYK.xtHupqiaYBn2yHRT"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "pNS7o1Fs2AdbVzZ7",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.yprDpKuUVhNBpGYK",
+      "_key": "!tables.results!yprDpKuUVhNBpGYK.pNS7o1Fs2AdbVzZ7"
     }
   ],
   "folder": "uiKUIjuvGrcU7gx0",
@@ -188,14 +348,23 @@
   "description": "<p>Inside a living creature, microscopic or colossal.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Lifeform/Peril",
+      "category": "Starsmith/Oracles/Location_Theme/Lifeform",
+      "dsid": "oracle_rollable:starforged/location_theme/lifeform/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712178,
     "modifiedTime": 1699036187959,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "yprDpKuUVhNBpGYK",
   "sort": 200000,

@@ -3,93 +3,159 @@
   "formula": "1d6",
   "results": [
     {
-      "text": "Broad leaves",
       "range": [
         1,
         1
       ],
       "_id": "aSpxYEH850XQd32n",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broad leaves",
+      "name": "",
       "_key": "!tables.results!7JNNleZeFXvXs9Yv.aSpxYEH850XQd32n"
     },
     {
-      "text": "Fragrant leaves",
       "range": [
         2,
         2
       ],
       "_id": "T0GV59W8jLSiFkp8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragrant leaves",
+      "name": "",
       "_key": "!tables.results!7JNNleZeFXvXs9Yv.T0GV59W8jLSiFkp8"
     },
     {
-      "text": "Multi-pronged leaves",
       "range": [
         3,
         3
       ],
       "_id": "uqZNKGFPhT8O54Qc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-pronged leaves",
+      "name": "",
       "_key": "!tables.results!7JNNleZeFXvXs9Yv.uqZNKGFPhT8O54Qc"
     },
     {
-      "text": "Narrow leaves",
       "range": [
         4,
         4
       ],
       "_id": "Xax0GoqxbxLx1hMm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Narrow leaves",
+      "name": "",
       "_key": "!tables.results!7JNNleZeFXvXs9Yv.Xax0GoqxbxLx1hMm"
     },
     {
-      "text": "Twisted shoots/branches",
       "range": [
         5,
         5
       ],
       "_id": "oXhNMh6Lucbin964",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twisted shoots/branches",
+      "name": "",
       "_key": "!tables.results!7JNNleZeFXvXs9Yv.oXhNMh6Lucbin964"
     },
     {
-      "text": "Vibrant colors",
       "range": [
         6,
         6
       ],
       "_id": "ibAQzNgNrJsP7AIg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrant colors",
+      "name": "",
       "_key": "!tables.results!7JNNleZeFXvXs9Yv.ibAQzNgNrJsP7AIg"
     }
   ],
@@ -98,14 +164,23 @@
   "description": "<p>Since this is a vital world, you’ll likely want to generate some lifeforms.</p><p>For the fauna (animals), you should use the original STARFORGED creature oracles, but I thought it would be nice to have a quick flora (plant) oracle as well.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Vital/Quick_Flora_First_Look",
+      "category": "Starsmith/Oracles/Planet/Vital",
+      "dsid": "oracle_rollable:starforged/planet/vital/quick_flora_first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676402111,
     "modifiedTime": 1693072008426,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "7JNNleZeFXvXs9Yv",
   "sort": -100000,

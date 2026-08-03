@@ -1,0 +1,610 @@
+{
+  "name": "Sanctum Peril (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "UVcy8C0NEszNutwK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Camouflaged or transforming foe reveals itself",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.UVcy8C0NEszNutwK"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "0ZWbbs9HvezJPf7l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Confounding distortions of the timestream",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.0ZWbbs9HvezJPf7l"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "fdhHORmxQ825FL3u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destructive environmental disturbance",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.fdhHORmxQ825FL3u"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "7cvqOMCcrgneGAvA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Horrifying fate for a previous intruder",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.7cvqOMCcrgneGAvA"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "ZAGTziCCoBSwTSBM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Important equipment rendered useless",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.ZAGTziCCoBSwTSBM"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "lsMXwMexzjpNJoVm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Led astray or lured into danger by a manifestation or illusion",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.lsMXwMexzjpNJoVm"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "IhFiYSOuNfxourGZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost the way or separated from others",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.IhFiYSOuNfxourGZ"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "k3QUY7nGAi4TmvyW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manifestations prey upon your weaknesses or worries",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.k3QUY7nGAi4TmvyW"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "deLVYFuQazVz64py",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Other intruders have been corrupted or mutated by this place",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.deLVYFuQazVz64py"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "ICtCk0O9bSqRpJUd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paranoia or suspicion takes hold",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.ICtCk0O9bSqRpJUd"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "qrhhnHmMhR4TSncM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Path behind you is sealed",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.qrhhnHmMhR4TSncM"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "DcF5XeJwQ0Khv1BM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful foe strikes without warning",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.DcF5XeJwQ0Khv1BM"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "zXx0hl8NSVIgXLeH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restless dead awaken",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.zXx0hl8NSVIgXLeH"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "kW0GZMTRhe79sxsC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scene of hideous violence or death",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.kW0GZMTRhe79sxsC"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "KyhqzxdZTqSaC4VR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Snared in an unnatural trap",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.KyhqzxdZTqSaC4VR"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "iKWeQ2hmoChlEXb7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spawning or swarming foes surround you",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.iKWeQ2hmoChlEXb7"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "oiMIMBNIHx77Fa20",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden structural collapse or failure",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.oiMIMBNIHx77Fa20"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "hMTvSXGoCoVlDvVk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temptations to linger or remain in this site",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.hMTvSXGoCoVlDvVk"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "eyHnwFEBZuoCIsMl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are marked by physical corruption or mutation",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.eyHnwFEBZuoCIsMl"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "9gslif8Vjomy9fmQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.9gslif8Vjomy9fmQ"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "vY0JpuQmgAowimRG",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Sanctum Peril (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.U3zbLYTj8aYT7jZ5",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.vY0JpuQmgAowimRG"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "Q0RfhbJmuYsu5EVy",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Sanctum Peril (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.U3zbLYTj8aYT7jZ5",
+      "_key": "!tables.results!U3zbLYTj8aYT7jZ5.Q0RfhbJmuYsu5EVy"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Peril",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/peril_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692367,
+    "modifiedTime": 1699042020512,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "U3zbLYTj8aYT7jZ5",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!U3zbLYTj8aYT7jZ5"
+}

@@ -3,198 +3,341 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Dull red star burning an element other than hydrogen",
       "range": [
         1,
         15
       ],
       "_id": "AnQ8SQWDRxcXOTbi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dull red star burning an element other than hydrogen",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.AnQ8SQWDRxcXOTbi"
     },
     {
-      "text": "Flaring orange star with a larger than normal heliosphere",
       "range": [
         16,
         30
       ],
       "_id": "yetpWm9Oh7xqe1qI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flaring orange star with a larger than normal heliosphere",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.yetpWm9Oh7xqe1qI"
     },
     {
-      "text": "Pale blue star surrounded by a ring of plasma",
       "range": [
         31,
         45
       ],
       "_id": "a6nXqyCKwJ1NHy6D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pale blue star surrounded by a ring of plasma",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.a6nXqyCKwJ1NHy6D"
     },
     {
-      "text": "Ghostly gray star emitting light more particle than wave",
       "range": [
         46,
         50
       ],
       "_id": "gAAjEWiKmAeO2guQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ghostly gray star emitting light more particle than wave",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.gAAjEWiKmAeO2guQ"
     },
     {
-      "text": "Infant star nursery with multiple stars",
       "range": [
         51,
         60
       ],
       "_id": "OITYTHqUEUzcfCgA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infant star nursery with multiple stars",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.OITYTHqUEUzcfCgA"
     },
     {
-      "text": "Brown dwarf with unstable hydrogen fusion",
       "range": [
         61,
         70
       ],
       "_id": "drUIXs2CxuXG6X9N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brown dwarf with unstable hydrogen fusion",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.drUIXs2CxuXG6X9N"
     },
     {
-      "text": "Star burning an impossible element as fuel",
       "range": [
         71,
         75
       ],
       "_id": "thAhI5GokLss2oNE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Star burning an impossible element as fuel",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.thAhI5GokLss2oNE"
     },
     {
-      "text": "Pulsar with tight beam radiation from its poles",
       "range": [
         76,
         80
       ],
       "_id": "uufVeSb2tg3SmYGW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulsar with tight beam radiation from its poles",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.uufVeSb2tg3SmYGW"
     },
     {
-      "text": "Two stars in distant orbit forming gravitational pulses",
       "range": [
         81,
         85
       ],
       "_id": "bSUHRt9cPGnMjvO2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two stars in distant orbit forming gravitational pulses",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.bSUHRt9cPGnMjvO2"
     },
     {
-      "text": "White hole emitting strange energy",
       "range": [
         86,
         90
       ],
       "_id": "JPm3cgOsCKEcldmt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "White hole emitting strange energy",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.JPm3cgOsCKEcldmt"
     },
     {
-      "text": "Quark star with extreme temperatures",
       "range": [
         91,
         98
       ],
       "_id": "US3MIZf1cXCJFcDi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quark star with extreme temperatures",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.US3MIZf1cXCJFcDi"
     },
     {
-      "text": "Ringworld megastructure leaking atmosphere",
       "range": [
         99,
         99
       ],
       "_id": "tj0uIp6HdNMT9ffD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ringworld megastructure leaking atmosphere",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.tj0uIp6HdNMT9ffD"
     },
     {
-      "text": "Unstable wormhole drawing in everything nearby",
       "range": [
         100,
         100
       ],
       "_id": "u2KmHGpQUQqSZJlq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable wormhole drawing in everything nearby",
+      "name": "",
       "_key": "!tables.results!KCXgXQVMkPiEkqbe.u2KmHGpQUQqSZJlq"
     }
   ],
@@ -203,14 +346,23 @@
   "description": "<p>Use the Stellar Object oracle to learn more about the primary star at a location. This is mostly to help you visualize your surroundings, but the strange or hazardous nature of some rare stars can incite new adventures.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Space/Stellar_Object",
+      "category": "Starsmith/Oracles/Space",
+      "dsid": "oracle_rollable:starforged/space/stellar_object_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676313216,
     "modifiedTime": 1693073063470,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "KCXgXQVMkPiEkqbe",
   "sort": 2187500,

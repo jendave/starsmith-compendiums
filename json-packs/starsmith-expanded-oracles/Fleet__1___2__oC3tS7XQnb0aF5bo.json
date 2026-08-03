@@ -3,115 +3,211 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Battle fleet",
       "range": [
         1,
         10
       ],
       "_id": "MJeNDUQe5TVhOLP5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Battle fleet",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.MJeNDUQe5TVhOLP5"
     },
     {
-      "text": "Pirate wing",
       "range": [
         11,
         25
       ],
       "_id": "LWVGzp4LubLSNH1n",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirate wing",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.LWVGzp4LubLSNH1n"
     },
     {
-      "text": "Raider horde",
       "range": [
         26,
         35
       ],
       "_id": "HzWKUawV8Z7YVDSb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raider horde",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.HzWKUawV8Z7YVDSb"
     },
     {
-      "text": "Salvager hive",
       "range": [
         36,
         50
       ],
       "_id": "w8OsVFJDE8sBtw4v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salvager hive",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.w8OsVFJDE8sBtw4v"
     },
     {
-      "text": "Settler caravan",
       "range": [
         51,
         60
       ],
       "_id": "qoQUfvo1enr3XHPG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settler caravan",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.qoQUfvo1enr3XHPG"
     },
     {
-      "text": "Trade caravan",
       "range": [
         61,
         70
       ],
       "_id": "hrFjSHGwEOaHPKnk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trade caravan",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.hrFjSHGwEOaHPKnk"
     },
     {
-      "text": "Transport and escorts",
       "range": [
         71,
         90
       ],
       "_id": "Ixxqe3Lho7Ttkx4G",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport and escorts",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.Ixxqe3Lho7Ttkx4G"
     },
     {
-      "text": "Starship Mission",
       "range": [
         91,
         100
       ],
       "_id": "qV0lzFOvgCgRFSS2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/starship/mission\">\n    <i class=\"fa fa-caret-right\"></i> Starship Mission\n</a>",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!oC3tS7XQnb0aF5bo.qV0lzFOvgCgRFSS2"
     }
   ],
@@ -120,14 +216,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/Fleet",
+      "category": "Starsmith/Oracles/Starship",
+      "dsid": "oracle_rollable:starforged/starship/fleet_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676461180,
     "modifiedTime": 1693073570683,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "oC3tS7XQnb0aF5bo",
   "sort": 44532,

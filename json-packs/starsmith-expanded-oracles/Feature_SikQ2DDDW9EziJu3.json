@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Bright street lights",
       "range": [
         1,
         8
       ],
       "_id": "UOgJ4acHYf1dGeR4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bright street lights",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.UOgJ4acHYf1dGeR4"
     },
     {
-      "text": "Congested traffic",
       "range": [
         9,
         16
       ],
       "_id": "JHN3qhJbe0xdTiuU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Congested traffic",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.JHN3qhJbe0xdTiuU"
     },
     {
-      "text": "Crowded spaces",
       "range": [
         17,
         24
       ],
       "_id": "KrdUByODogEcjJer",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crowded spaces",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.KrdUByODogEcjJer"
     },
     {
-      "text": "Flashing advertisements",
       "range": [
         25,
         32
       ],
       "_id": "0bOoAlteaBSJQJDF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashing advertisements",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.0bOoAlteaBSJQJDF"
     },
     {
-      "text": "Neon signs",
       "range": [
         33,
         40
       ],
       "_id": "yASusozRaSSp5iBV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neon signs",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.yASusozRaSSp5iBV"
     },
     {
-      "text": "Patrolling bots",
       "range": [
         41,
         48
       ],
       "_id": "8p4NLtOvfnhoTYSn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patrolling bots",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.8p4NLtOvfnhoTYSn"
     },
     {
-      "text": "Street vendors",
       "range": [
         49,
         56
       ],
       "_id": "MI6Qa7Uhov7jeJqj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Street vendors",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.MI6Qa7Uhov7jeJqj"
     },
     {
-      "text": "Trampled belongings",
       "range": [
         57,
         64
       ],
       "_id": "7VZg0X8SFAHQVIhx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trampled belongings",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.7VZg0X8SFAHQVIhx"
     },
     {
-      "text": "Transit map",
       "range": [
         65,
         72
       ],
       "_id": "y8tm5tzvhoCEIlyj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transit map",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.y8tm5tzvhoCEIlyj"
     },
     {
-      "text": "Twists and turns",
       "range": [
         73,
         80
       ],
       "_id": "rYy8qJG3Y0BEUJEJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Twists and turns",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.rYy8qJG3Y0BEUJEJ"
     },
     {
-      "text": "Windows or viewports",
       "range": [
         81,
         88
       ],
       "_id": "xML67gea8MBxRK8Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windows or viewports",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.xML67gea8MBxRK8Q"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         100
       ],
       "_id": "1Udew8vjlL2jwR6R",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!SikQ2DDDW9EziJu3.1Udew8vjlL2jwR6R"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Access/Feature",
+      "category": "Starsmith/Oracles/District/Access",
+      "dsid": "oracle_rollable:starforged/district/access/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658067,
     "modifiedTime": 1699035480557,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "SikQ2DDDW9EziJu3",
   "sort": 200000,

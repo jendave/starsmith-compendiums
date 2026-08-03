@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Community event",
       "range": [
         1,
         8
       ],
       "_id": "1H3Zbrfs5g8ks1VH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Community event",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.1H3Zbrfs5g8ks1VH"
     },
     {
-      "text": "Flashing wanted signs",
       "range": [
         9,
         16
       ],
       "_id": "IXmwWn8hUZGjSRqR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashing wanted signs",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.IXmwWn8hUZGjSRqR"
     },
     {
-      "text": "Graffiti of secret symbols",
       "range": [
         17,
         24
       ],
       "_id": "g7Muq5PTkQOlB4Zl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Graffiti of secret symbols",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.g7Muq5PTkQOlB4Zl"
     },
     {
-      "text": "High security presence",
       "range": [
         25,
         32
       ],
       "_id": "UpFpXtZncmYlWvgf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High security presence",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.UpFpXtZncmYlWvgf"
     },
     {
-      "text": "Interactive environment",
       "range": [
         33,
         40
       ],
       "_id": "aLNZAsqR0EiuAHlN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interactive environment",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.aLNZAsqR0EiuAHlN"
     },
     {
-      "text": "Local celebrity",
       "range": [
         41,
         48
       ],
       "_id": "neKZlX7WBPqTn8j5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Local celebrity",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.neKZlX7WBPqTn8j5"
     },
     {
-      "text": "Maintenance crew at work",
       "range": [
         49,
         56
       ],
       "_id": "CSNQ0MvFSJOSB2sC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maintenance crew at work",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.CSNQ0MvFSJOSB2sC"
     },
     {
-      "text": "Novel tech advertisement",
       "range": [
         57,
         64
       ],
       "_id": "pedXKkjVPV5ZzXGs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Novel tech advertisement",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.pedXKkjVPV5ZzXGs"
     },
     {
-      "text": "Ongoing construction",
       "range": [
         65,
         72
       ],
       "_id": "nEIQBVKy0K0YhGFm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ongoing construction",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.nEIQBVKy0K0YhGFm"
     },
     {
-      "text": "Political rally or protest",
       "range": [
         73,
         80
       ],
       "_id": "Z0v90Xlf0Iuhdsci",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political rally or protest",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.Z0v90Xlf0Iuhdsci"
     },
     {
-      "text": "Significant ceremony",
       "range": [
         81,
         88
       ],
       "_id": "lPw5lUDnE0p6AUzp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant ceremony",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.lPw5lUDnE0p6AUzp"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         100
       ],
       "_id": "hWOMaWkOzYkLoRIA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!Xw44xq8doKvVmMuU.hWOMaWkOzYkLoRIA"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Community/Feature",
+      "category": "Starsmith/Oracles/District/Community",
+      "dsid": "oracle_rollable:starforged/district/community/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658078,
     "modifiedTime": 1699035579377,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "Xw44xq8doKvVmMuU",
   "sort": 200000,

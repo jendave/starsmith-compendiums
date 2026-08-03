@@ -1,0 +1,792 @@
+{
+  "name": "Faction Relationships (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        4
+      ],
+      "_id": "JObSm8bp7qqTuf7t",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acts sycophantic towards",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.JObSm8bp7qqTuf7t"
+    },
+    {
+      "range": [
+        5,
+        8
+      ],
+      "_id": "u1JIaxiZkYfh03Qp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Annoyed by",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.u1JIaxiZkYfh03Qp"
+    },
+    {
+      "range": [
+        9,
+        11
+      ],
+      "_id": "ztEIZmbiAkxwQhGm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceded territory to",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.ztEIZmbiAkxwQhGm"
+    },
+    {
+      "range": [
+        12,
+        14
+      ],
+      "_id": "FnLMJdjoDYiKUvb6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Claims the same source of power as",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.FnLMJdjoDYiKUvb6"
+    },
+    {
+      "range": [
+        15,
+        18
+      ],
+      "_id": "EI913lshX0BD2QXL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Constantly one-upping",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.EI913lshX0BD2QXL"
+    },
+    {
+      "range": [
+        19,
+        22
+      ],
+      "_id": "3qX5pA1fjayKzcNZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Denies respect to",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.3qX5pA1fjayKzcNZ"
+    },
+    {
+      "range": [
+        23,
+        25
+      ],
+      "_id": "9Rfr4MEmui4wwuEf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Employs the same third party as",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.9Rfr4MEmui4wwuEf"
+    },
+    {
+      "range": [
+        26,
+        29
+      ],
+      "_id": "L50RRp2BHHUMpfbm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extorts",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.L50RRp2BHHUMpfbm"
+    },
+    {
+      "range": [
+        30,
+        33
+      ],
+      "_id": "BvNwW0O9Ho1ZOgq1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortifying territory against",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.BvNwW0O9Ho1ZOgq1"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "k6pLsSaVRw7E6zDt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gained territory from",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.k6pLsSaVRw7E6zDt"
+    },
+    {
+      "range": [
+        37,
+        40
+      ],
+      "_id": "wFdLsPcqWnVAM6De",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Had secrets stolen by",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.wFdLsPcqWnVAM6De"
+    },
+    {
+      "range": [
+        41,
+        44
+      ],
+      "_id": "IKmi4qrIGOvtwJ7u",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Has contracted for special assignment",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.IKmi4qrIGOvtwJ7u"
+    },
+    {
+      "range": [
+        45,
+        47
+      ],
+      "_id": "lRlziWhHYYD127IR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Held in contempt by",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.lRlziWhHYYD127IR"
+    },
+    {
+      "range": [
+        48,
+        51
+      ],
+      "_id": "1c1CKbA3XvoLhz0k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holds incriminating evidence about",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.1c1CKbA3XvoLhz0k"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "CvMTEo7qPiHQmnKl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "In legal battle with",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.CvMTEo7qPiHQmnKl"
+    },
+    {
+      "range": [
+        55,
+        58
+      ],
+      "_id": "ve4I3OuSsGXMpUWb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Kept in check by",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.ve4I3OuSsGXMpUWb"
+    },
+    {
+      "range": [
+        59,
+        61
+      ],
+      "_id": "AuWPMrgM32olCGmU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Made aware of impending disaster by",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.AuWPMrgM32olCGmU"
+    },
+    {
+      "range": [
+        62,
+        64
+      ],
+      "_id": "62bgqZ8G7bpYXPYG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Needs an asset from",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.62bgqZ8G7bpYXPYG"
+    },
+    {
+      "range": [
+        65,
+        67
+      ],
+      "_id": "M96lgYhn1YRSD4xi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Occasionally collaborates with",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.M96lgYhn1YRSD4xi"
+    },
+    {
+      "range": [
+        68,
+        70
+      ],
+      "_id": "foUIi5Yb4V06XYVy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Owed a favor from",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.foUIi5Yb4V06XYVy"
+    },
+    {
+      "range": [
+        71,
+        74
+      ],
+      "_id": "TjT0R313lTpGnaND",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Publicly denigrating",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.TjT0R313lTpGnaND"
+    },
+    {
+      "range": [
+        75,
+        78
+      ],
+      "_id": "XEt0R55XATJj3O2y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Receiving negative publicity from",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.XEt0R55XATJj3O2y"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "yJVUm7tDnGl5BeKx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Serves the same power as",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.yJVUm7tDnGl5BeKx"
+    },
+    {
+      "range": [
+        82,
+        85
+      ],
+      "_id": "ACNcaeE5tIO9Rpob",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stole secrets from",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.ACNcaeE5tIO9Rpob"
+    },
+    {
+      "range": [
+        86,
+        89
+      ],
+      "_id": "9e6Qn0efK09zwoiQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trained the leadership of",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.9e6Qn0efK09zwoiQ"
+    },
+    {
+      "range": [
+        90,
+        92
+      ],
+      "_id": "zcPjLqvhN566NjwF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Under the control of",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.zcPjLqvhN566NjwF"
+    },
+    {
+      "range": [
+        93,
+        96
+      ],
+      "_id": "JdMlc7aK1tuMe4n9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waging a cold war with",
+      "name": "",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.JdMlc7aK1tuMe4n9"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "F42ZVAysQIVlB4yz",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Faction Relationships (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tRYvWAQqU7xkpJYu",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.F42ZVAysQIVlB4yz"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "VSkL4NdIshJBAfQr",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Faction Relationships (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tRYvWAQqU7xkpJYu",
+      "_key": "!tables.results!tRYvWAQqU7xkpJYu.VSkL4NdIshJBAfQr"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Factions add scale and narrative opportunities to your setting. But keep it manageable. Don’t overload your campaign with factions. Instead, focus on your interactions and entanglements with members of a few interesting factions. Then, when you have a question about the relationship of one faction to another, use this table. The result is the commonly understood connection between those factions. Further investigations or events may reveal a deeper or alternate truth.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Relationships",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/relationships_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676597285,
+    "modifiedTime": 1693070328305,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tRYvWAQqU7xkpJYu",
+  "sort": 1150000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!tRYvWAQqU7xkpJYu"
+}

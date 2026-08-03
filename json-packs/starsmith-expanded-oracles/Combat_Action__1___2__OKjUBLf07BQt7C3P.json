@@ -3,499 +3,890 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Block a path or cut off an objective",
       "range": [
         1,
         3
       ],
       "_id": "3lxnVSc8PJS1ByCU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Block a path or cut off an objective",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.3lxnVSc8PJS1ByCU"
     },
     {
-      "text": "Cause reckless damage",
       "range": [
         4,
         6
       ],
       "_id": "lMSWSo6A8PIMfVlZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cause reckless damage",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.lMSWSo6A8PIMfVlZ"
     },
     {
-      "text": "Change weapons or tactics",
       "range": [
         7,
         9
       ],
       "_id": "UXWLXtEjcpVCH9j3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Change weapons or tactics",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.UXWLXtEjcpVCH9j3"
     },
     {
-      "text": "Compel a surrender or concession",
       "range": [
         10,
         12
       ],
       "_id": "kxsbn4rRvivrnoCP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Compel a surrender or concession",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.kxsbn4rRvivrnoCP"
     },
     {
-      "text": "Coordinate with allies",
       "range": [
         13,
         15
       ],
       "_id": "kzYR79ahDfKoaZ1o",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coordinate with allies",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.kzYR79ahDfKoaZ1o"
     },
     {
-      "text": "Corner, trap, or entangle",
       "range": [
         16,
         18
       ],
       "_id": "Uu4e1wed20yPpFUl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corner, trap, or entangle",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.Uu4e1wed20yPpFUl"
     },
     {
-      "text": "Counter or reflect an attack",
       "range": [
         19,
         21
       ],
       "_id": "oIBEoY0iHjORnq5T",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Counter or reflect an attack",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.oIBEoY0iHjORnq5T"
     },
     {
-      "text": "Create a distraction",
       "range": [
         22,
         24
       ],
       "_id": "MFgN8VLTszQnHi0h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Create a distraction",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.MFgN8VLTszQnHi0h"
     },
     {
-      "text": "Destroy something or render it useless",
       "range": [
         25,
         27
       ],
       "_id": "NjCApKgyb8L0bwC0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroy something or render it useless",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.NjCApKgyb8L0bwC0"
     },
     {
-      "text": "Fall back or stand off",
       "range": [
         28,
         30
       ],
       "_id": "qmVoHbSz0pIOiOwb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fall back or stand off",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.qmVoHbSz0pIOiOwb"
     },
     {
-      "text": "Hide or sneak",
       "range": [
         31,
         33
       ],
       "_id": "ch6LZAKAG9i5zEey",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hide or sneak",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.ch6LZAKAG9i5zEey"
     },
     {
-      "text": "Intimidate, taunt, or frighten",
       "range": [
         34,
         36
       ],
       "_id": "iVbcN31LQJB7BBas",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intimidate, taunt, or frighten",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.iVbcN31LQJB7BBas"
     },
     {
-      "text": "Leverage the advantage of a weapon or   ability",
       "range": [
         37,
         39
       ],
       "_id": "90ibGjjzees03Ju7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leverage the advantage of a weapon or   ability",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.90ibGjjzees03Ju7"
     },
     {
-      "text": "Leverage the terrain or surroundings",
       "range": [
         40,
         42
       ],
       "_id": "KVNuvHm2UQnL8G9z",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leverage the terrain or surroundings",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.KVNuvHm2UQnL8G9z"
     },
     {
-      "text": "Lure into a vulnerable position",
       "range": [
         43,
         45
       ],
       "_id": "4jHG2M2MgF6hsPz6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lure into a vulnerable position",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.4jHG2M2MgF6hsPz6"
     },
     {
-      "text": "Make a cautious or probing attack",
       "range": [
         46,
         48
       ],
       "_id": "6FBTKeekS56kvR1a",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a cautious or probing attack",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.6FBTKeekS56kvR1a"
     },
     {
-      "text": "Make a ferocious or powerful attack",
       "range": [
         49,
         51
       ],
       "_id": "8wVHlAjw6nptJpNe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a ferocious or powerful attack",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.8wVHlAjw6nptJpNe"
     },
     {
-      "text": "Make a precise or careful attack",
       "range": [
         52,
         54
       ],
       "_id": "u8KbxYi2ARGv4Rkf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a precise or careful attack",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.u8KbxYi2ARGv4Rkf"
     },
     {
-      "text": "Make a sacrificial attack",
       "range": [
         55,
         57
       ],
       "_id": "myweEmXyu5xlAtmh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a sacrificial attack",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.myweEmXyu5xlAtmh"
     },
     {
-      "text": "Make an indirect attack",
       "range": [
         58,
         60
       ],
       "_id": "upxIzrn555TUxPOf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make an indirect attack",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.upxIzrn555TUxPOf"
     },
     {
-      "text": "Move in close or grapple",
       "range": [
         61,
         63
       ],
       "_id": "xYKaoYvLTqfnrk92",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Move in close or grapple",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.xYKaoYvLTqfnrk92"
     },
     {
-      "text": "Nullify a system, device, or weapon",
       "range": [
         64,
         66
       ],
       "_id": "bAXYjrNbAa8Xrg0k",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nullify a system, device, or weapon",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.bAXYjrNbAa8Xrg0k"
     },
     {
-      "text": "Overrun a position",
       "range": [
         67,
         69
       ],
       "_id": "mplPWjAi38pnburI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overrun a position",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.mplPWjAi38pnburI"
     },
     {
-      "text": "Perform a feint or trick",
       "range": [
         70,
         72
       ],
       "_id": "wIAmVo27WglArdtA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perform a feint or trick",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.wIAmVo27WglArdtA"
     },
     {
-      "text": "Press an advantage",
       "range": [
         73,
         75
       ],
       "_id": "eEJHhCoDC5AYBNYT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Press an advantage",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.eEJHhCoDC5AYBNYT"
     },
     {
-      "text": "Provoke a careless response",
       "range": [
         76,
         78
       ],
       "_id": "rlkAtc9xUR2dzGbn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Provoke a careless response",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.rlkAtc9xUR2dzGbn"
     },
     {
-      "text": "Ready a decisive action",
       "range": [
         79,
         81
       ],
       "_id": "uHYCfnVpluqTn5Cc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ready a decisive action",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.uHYCfnVpluqTn5Cc"
     },
     {
-      "text": "Shift the fight to a new area",
       "range": [
         82,
         84
       ],
       "_id": "u4fTaJhMR74JKdAl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shift the fight to a new area",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.u4fTaJhMR74JKdAl"
     },
     {
-      "text": "Summon aid or reinforcements",
       "range": [
         85,
         87
       ],
       "_id": "zjf8nsDQX1XDW9pJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Summon aid or reinforcements",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.zjf8nsDQX1XDW9pJ"
     },
     {
-      "text": "Take cover or bolster defenses",
       "range": [
         88,
         90
       ],
       "_id": "XDYQ31ltD7sSTx9q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take cover or bolster defenses",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.XDYQ31ltD7sSTx9q"
     },
     {
-      "text": "Use an unexpected weapon or ability",
       "range": [
         91,
         93
       ],
       "_id": "bKA2Rw2nYfpGI4HI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Use an unexpected weapon or ability",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.bKA2Rw2nYfpGI4HI"
     },
     {
-      "text": "Weaken defenses",
       "range": [
         94,
         96
       ],
       "_id": "utNpKC4pKUEQKpIj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weaken defenses",
+      "name": "",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.utNpKC4pKUEQKpIj"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "ktZ0aUxitrzIPrJI",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Combat Action (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OKjUBLf07BQt7C3P",
       "_key": "!tables.results!OKjUBLf07BQt7C3P.ktZ0aUxitrzIPrJI"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "b3r7daGbLFNJxwqW",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Combat Action (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OKjUBLf07BQt7C3P",
+      "_key": "!tables.results!OKjUBLf07BQt7C3P.b3r7daGbLFNJxwqW"
     }
   ],
   "folder": "EZdpqOZMdqwGsU7q",
@@ -503,14 +894,23 @@
   "description": "<p>Use this oracle to help inspire an action for a foe in a fight. When you’re not sure what an enemy does next, particularly when they have you in a bad spot, roll on this table and interpret the result as appropriate to the nature of the enemy and your objective.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Combat_Action",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/combat_action_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676736013,
     "modifiedTime": 1693071650401,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "OKjUBLf07BQt7C3P",
   "sort": 1525000,

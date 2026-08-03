@@ -1,0 +1,296 @@
+{
+  "name": "Dominion: Leadership (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "u9MjGSmOxpQbajMH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Anarchist",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.u9MjGSmOxpQbajMH"
+    },
+    {
+      "range": [
+        6,
+        15
+      ],
+      "_id": "pXgLxz9uD6cyt3kW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disputed leadership",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.pXgLxz9uD6cyt3kW"
+    },
+    {
+      "range": [
+        16,
+        30
+      ],
+      "_id": "WBjo8cgzRjcx6k2M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Authoritarian dictatorship",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.WBjo8cgzRjcx6k2M"
+    },
+    {
+      "range": [
+        31,
+        45
+      ],
+      "_id": "A66c4J9znqKqGCa9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oligarchical elite",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.A66c4J9znqKqGCa9"
+    },
+    {
+      "range": [
+        46,
+        60
+      ],
+      "_id": "HtD7AH8zrEWUaez2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dynastic lineage",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.HtD7AH8zrEWUaez2"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "KAmQGSU8D2G4rigl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fated / prophesied leader",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.KAmQGSU8D2G4rigl"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "7zspyWi04XHLykn5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clan chiefs or elders",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.7zspyWi04XHLykn5"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "uJ7pQOR6vCEXIcJJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elected representatives",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.uJ7pQOR6vCEXIcJJ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "83TbwZjxKZzxtlpu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Machine intelligence",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.83TbwZjxKZzxtlpu"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "nqr6jdUWXGDIbNzA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Varied / decentralized",
+      "name": "",
+      "_key": "!tables.results!eAqohSRwBWwx7uy5.nqr6jdUWXGDIbNzA"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Note that for the Dominion type, you roll on both the Dominion and Leadership oracles, although I use the Leadership oracle for all factions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Dominion_Leadership",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/dominion_leadership_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676597080,
+    "modifiedTime": 1693866749687,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "eAqohSRwBWwx7uy5",
+  "sort": 115625,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!eAqohSRwBWwx7uy5"
+}

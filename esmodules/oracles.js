@@ -60,7 +60,6 @@ const oracleData = {
     derelict: {
         outer_first_look_starsmith: ['mLDIiGSS9a6Stemt', 'BHZagLL8FdIy9YcF', 'uW58pJGwNVqUKWh0'],
         inner_first_look_starsmith: ['PRqTRLRonCe8QJPt', 'SDJ8MbwiUzwrgqgS', 'kRKzDv4anjxlaqzy'],
-        zones_starsmith: ['nUFEtdo8YAyJs0Qp'],
     },
     district: {
         access: {
@@ -110,7 +109,8 @@ const oracleData = {
             feature_starsmith: ['Sd4YeQHAaF4HdMKy'],
             peril_starsmith: ['3wgJC3d2grqpsm5I'],
             opportunity_starsmith: ['Tdq9XQsqjUo2iE3G']
-        }
+        },
+        district_zones_starsmith: ['nUFEtdo8YAyJs0Qp'],
     },
     faction: {
         name: {
@@ -127,8 +127,12 @@ const oracleData = {
         relationships_starsmith: ['Lh2QRYQ2jkRnEI4m', 'tlrca4lQsFIZ8IwZ', 'tRYvWAQqU7xkpJYu'],
         quirks_starsmith: ['000XYhjOoHW6hKAP', 'P1Z2tq2DiGNUalkD', 'bQjrwSHHyHC4BLNc'],
         rumors_starsmith: ['DOLQckJPOzfE8JzY', 'yqA6hSUhfIGURMR2', '6hXWxSEdrjiY7K7f'],
-        corporation_field_starsmith: ['FDvT6fPqV2zshZRQ', 'HvKV3pycO2gyqB92', 'KAFl5CXZdfKUmt9J'],
-        research_field_of_study_starsmith: ['AVjqygbVDncdAY0P', 'u1MRVAikLO9ZUn05', 'IQxQ2I356Vz0TSGB']
+        corporation_field_starsmith: ['FDvT6fPqV2zshZRQ'],
+        military_specialty_starsmith: ['HvKV3pycO2gyqB92'],
+        religious_role_starsmith: ['KAFl5CXZdfKUmt9J'],
+        research_field_of_study_starsmith: ['AVjqygbVDncdAY0P'],
+        ai_hive_prime_directive_starsmith: ['u1MRVAikLO9ZUn05'],
+        data_harvesters_role_starsmith: ['IQxQ2I356Vz0TSGB']
     },
     location_theme: {
         arid: {
@@ -372,6 +376,12 @@ const oracleData = {
     }
 }
 
+function starsmithOracleDsid(path, key, isRollable) {
+    const relativePath = (path + key).replace(/^STARSMITH\./, "").replace(/\./g, "/");
+    const type = isRollable ? "oracle_rollable" : "oracle_collection";
+    return `${type}:starforged/${relativePath}`;
+}
+
 function mergeOracleTrees(target, source, path) {
     Object.entries(source).forEach(([key, value], i) => {
         const index = target.findIndex(e => e.dsIdentifier === key);
@@ -385,7 +395,11 @@ function mergeOracleTrees(target, source, path) {
         if (Array.isArray(value)) {
             const compendiumName = path.includes("culture") ? "starsmithculturesoracles" : "starsmithexpandedoracles";
             element.tables.push(...value.map(i => `Compendium.starsmith-expanded-oracles.${compendiumName}.RollTable.` + i));
+            element.dataswornNode = { _id: starsmithOracleDsid(path, key, true) };
         } else {
+            if (!element.dataswornNode?._id) {
+                element.dataswornNode = { _id: starsmithOracleDsid(path, key, false) };
+            }
             mergeOracleTrees(element.children, value, path + key + ".");
         }
 

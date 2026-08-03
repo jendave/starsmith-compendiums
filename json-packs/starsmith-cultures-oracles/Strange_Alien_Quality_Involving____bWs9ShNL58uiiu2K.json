@@ -3,143 +3,263 @@
   "formula": "1d10",
   "results": [
     {
-      "text": "Communication method",
       "range": [
         1,
         1
       ],
       "_id": "UI2Y8oRXVrpm04dJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communication method",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.UI2Y8oRXVrpm04dJ"
     },
     {
-      "text": "Clothing, armor or adornment",
       "range": [
         2,
         2
       ],
       "_id": "ZNNi3XJqovJRaOia",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clothing, armor or adornment",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.ZNNi3XJqovJRaOia"
     },
     {
-      "text": "Environmental living conditions",
       "range": [
         3,
         3
       ],
       "_id": "uqyx1DJV5CEstO74",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental living conditions",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.uqyx1DJV5CEstO74"
     },
     {
-      "text": "Leadership / hierarchy structure",
       "range": [
         4,
         4
       ],
       "_id": "GGQ8iFDgXoqP1t7H",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leadership / hierarchy structure",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.GGQ8iFDgXoqP1t7H"
     },
     {
-      "text": "Locomotion method",
       "range": [
         5,
         5
       ],
       "_id": "da8hwZNzpJu7U2l9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Locomotion method",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.da8hwZNzpJu7U2l9"
     },
     {
-      "text": "Nonsensical behavioral quirk",
       "range": [
         6,
         6
       ],
       "_id": "YKAcqaB372BHB6Ae",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nonsensical behavioral quirk",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.YKAcqaB372BHB6Ae"
     },
     {
-      "text": "Physical feature of biology",
       "range": [
         7,
         7
       ],
       "_id": "hYUZEkLVGglUcZwH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Physical feature of biology",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.hYUZEkLVGglUcZwH"
     },
     {
-      "text": "Reproduction or family structure",
       "range": [
         8,
         8
       ],
       "_id": "kg1uZsVBc220tE1Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reproduction or family structure",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.kg1uZsVBc220tE1Y"
     },
     {
-      "text": "Social interactions",
       "range": [
         9,
         9
       ],
       "_id": "4hFRv3sfnYAx4MLY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Social interactions",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.4hFRv3sfnYAx4MLY"
     },
     {
-      "text": "Technology",
       "range": [
         10,
         10
       ],
       "_id": "q41lfiPrCK6nkQW9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!bWs9ShNL58uiiu2K.q41lfiPrCK6nkQW9"
     }
   ],
@@ -158,10 +278,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144820792,
     "modifiedTime": 1708145194398,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!bWs9ShNL58uiiu2K"
 }

@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "UJn97AYM1auiiCMq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding ash storms",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.UJn97AYM1auiiCMq"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "E7714XkapWKrcm52",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catastrophic earthquakes",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.E7714XkapWKrcm52"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "DqJO0wSRvzG3j17I",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colorful geothermal springs",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.DqJO0wSRvzG3j17I"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "Bc1PeGBl8azcm6mI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate volcanic rock formations",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.Bc1PeGBl8azcm6mI"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "NnDRKU3lbvj7H4Ss",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lava tube tunnel networks",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.NnDRKU3lbvj7H4Ss"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "G4SioViEHXheCmSF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Masses of scorched bones",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.G4SioViEHXheCmSF"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "rRFGnJNg4fQRSaPU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plains of volcanic glass",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.rRFGnJNg4fQRSaPU"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "UKYYI3u1sPX92s5i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pools of liquid metal",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.UKYYI3u1sPX92s5i"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "W3OsOhl5WNKDDXCE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rocky islands adrift on magma",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.W3OsOhl5WNKDDXCE"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "33aCoLcoXc0oQrk0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roiling clouds of superheated gas",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.33aCoLcoXc0oQrk0"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "h3tJhKM6Uszx09Mj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scalding geysers",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.h3tJhKM6Uszx09Mj"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "oG4c3nKIYJRKCIE9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Silica or metal storms",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.oG4c3nKIYJRKCIE9"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "okDA4bacdkBxGEwO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steaming mudflats",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.okDA4bacdkBxGEwO"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "JQ0aSy7EOYSfpKum",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.JQ0aSy7EOYSfpKum"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "ff0SsmsM8WGK5rLE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!WIAW8H36hzbjshr0.ff0SsmsM8WGK5rLE"
+    }
+  ],
+  "folder": "Xx3Lo4c3NF2M0ymk",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Furnace/Feature",
+      "category": "Starsmith/Oracles/Planet/Furnace",
+      "dsid": "oracle_rollable:starforged/planet/furnace/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401764,
+    "modifiedTime": 1699042322830,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "WIAW8H36hzbjshr0",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!WIAW8H36hzbjshr0"
+}

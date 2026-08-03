@@ -3,87 +3,159 @@
   "formula": "1d6",
   "results": [
     {
-      "text": "Cyborg",
       "range": [
         1,
         1
       ],
       "_id": "ggp1snC3wEwUfJit",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cyborg",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!n6araBwnPQ7PqVOO.ggp1snC3wEwUfJit"
     },
     {
-      "text": "Hologram manifestation",
       "range": [
         2,
         2
       ],
       "_id": "TNEQ6OUkxPLsc1qD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hologram manifestation",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!n6araBwnPQ7PqVOO.TNEQ6OUkxPLsc1qD"
     },
     {
-      "text": "Human not from Earth",
       "range": [
         3,
         3
       ],
       "_id": "cDjjoGshgVjcBsnF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Human not from Earth",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!n6araBwnPQ7PqVOO.cDjjoGshgVjcBsnF"
     },
     {
-      "text": "Nanite collection",
       "range": [
         4,
         4
       ],
       "_id": "DTFNyoSQcpiESZcd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nanite collection",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!n6araBwnPQ7PqVOO.DTFNyoSQcpiESZcd"
     },
     {
-      "text": "Rogue AI",
       "range": [
         5,
         5
       ],
       "_id": "xLgKpPFKgjwbARxZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rogue AI",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!n6araBwnPQ7PqVOO.xLgKpPFKgjwbARxZ"
     },
     {
-      "text": "Sentient machines",
       "range": [
         6,
         6
       ],
       "_id": "wkaY3bnOCZYGFimJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sentient machines",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!n6araBwnPQ7PqVOO.wkaY3bnOCZYGFimJ"
     }
   ],
@@ -102,10 +174,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144773811,
     "modifiedTime": 1708145194398,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!n6araBwnPQ7PqVOO"
 }

@@ -3,333 +3,575 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Strange energy spikes",
       "range": [
         1,
         4
       ],
       "_id": "lhMu8gWGepOnLBBr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange energy spikes",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.lhMu8gWGepOnLBBr"
     },
     {
-      "text": "Highly reflective",
       "range": [
         5,
         8
       ],
       "_id": "XZRWrQBt9hB42lLY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Highly reflective",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.XZRWrQBt9hB42lLY"
     },
     {
-      "text": "Large, central weapon",
       "range": [
         9,
         13
       ],
       "_id": "AcI7uSpuiaLn609M",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large, central weapon",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.AcI7uSpuiaLn609M"
     },
     {
-      "text": "Atmosphere thrusters",
       "range": [
         14,
         18
       ],
       "_id": "zEb0nsAmbasq4r8m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmosphere thrusters",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.zEb0nsAmbasq4r8m"
     },
     {
-      "text": "Ablative armor",
       "range": [
         19,
         23
       ],
       "_id": "6Bon427ltq11wqse",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ablative armor",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.6Bon427ltq11wqse"
     },
     {
-      "text": "Swift vector changes",
       "range": [
         24,
         28
       ],
       "_id": "VER68HhjwGQLG14o",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swift vector changes",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.VER68HhjwGQLG14o"
     },
     {
-      "text": "Ceremonial profile",
       "range": [
         29,
         33
       ],
       "_id": "KcabeNVHZYBeGZLK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceremonial profile",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.KcabeNVHZYBeGZLK"
     },
     {
-      "text": "Specialized sensors",
       "range": [
         34,
         37
       ],
       "_id": "AS8NkI7yDoBDu2Aw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Specialized sensors",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.AS8NkI7yDoBDu2Aw"
     },
     {
-      "text": "Bussard ramscoop",
       "range": [
         38,
         41
       ],
       "_id": "k7PMIMiqqSh4TRcm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bussard ramscoop",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.k7PMIMiqqSh4TRcm"
     },
     {
-      "text": "ID markings defaced",
       "range": [
         42,
         45
       ],
       "_id": "ZxlrqFGFcgF5ZfX8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "ID markings defaced",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.ZxlrqFGFcgF5ZfX8"
     },
     {
-      "text": "Fluid design",
       "range": [
         46,
         49
       ],
       "_id": "POlOuF0WfqHRWMa6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluid design",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.POlOuF0WfqHRWMa6"
     },
     {
-      "text": "Retro-fitted",
       "range": [
         50,
         54
       ],
       "_id": "698M0ltkFwihWOMy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Retro-fitted",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.698M0ltkFwihWOMy"
     },
     {
-      "text": "Fresh damage",
       "range": [
         55,
         59
       ],
       "_id": "XuyalcDDOd4WOzEf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fresh damage",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.XuyalcDDOd4WOzEf"
     },
     {
-      "text": "AI pilot",
       "range": [
         60,
         63
       ],
       "_id": "MOcrqqjadzpr4MhW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "AI pilot",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.MOcrqqjadzpr4MhW"
     },
     {
-      "text": "Cultural markings",
       "range": [
         64,
         67
       ],
       "_id": "KMlU350Gf2LX0MzF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultural markings",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.KMlU350Gf2LX0MzF"
     },
     {
-      "text": "Streamlined engines",
       "range": [
         68,
         71
       ],
       "_id": "AtZWr7qiBuHqeRIL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Streamlined engines",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.AtZWr7qiBuHqeRIL"
     },
     {
-      "text": "Prominent political emblem",
       "range": [
         72,
         75
       ],
       "_id": "Zc3TCdDsGhlb094c",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prominent political emblem",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.Zc3TCdDsGhlb094c"
     },
     {
-      "text": "Cobbled together hull",
       "range": [
         76,
         80
       ],
       "_id": "7wmqMKSDhwc5pUSZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cobbled together hull",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.7wmqMKSDhwc5pUSZ"
     },
     {
-      "text": "New exterior",
       "range": [
         81,
         85
       ],
       "_id": "pCsmXCUg1TLrFXN5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New exterior",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.pCsmXCUg1TLrFXN5"
     },
     {
-      "text": "Hull of unknown alloy",
       "range": [
         86,
         90
       ],
       "_id": "ROuAfYwHnOUw5z4Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hull of unknown alloy",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.ROuAfYwHnOUw5z4Q"
     },
     {
-      "text": "Ejected life pods",
       "range": [
         91,
         94
       ],
       "_id": "1VOdeiCwDbZEjSZo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ejected life pods",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.1VOdeiCwDbZEjSZo"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         95,
         100
       ],
       "_id": "hC2haEGSn508V4Vm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!9T2TFppaaAgFrT61.hC2haEGSn508V4Vm"
     }
   ],
@@ -338,14 +580,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/First_Look",
+      "category": "Starsmith/Oracles/Starship",
+      "dsid": "oracle_rollable:starforged/starship/first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676461221,
     "modifiedTime": 1699041692228,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "9T2TFppaaAgFrT61",
   "sort": 84375,

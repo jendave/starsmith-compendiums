@@ -43,8 +43,7 @@
     },
     "derelict": {
       "outer_first_look_label": "Outer First Look (Starsmith)",
-      "inner_first_look_label": "Inner First Look (Starsmith)",
-      "zones_label": "Zones"
+      "inner_first_look_label": "Inner First Look (Starsmith)"
     },
     "district_label": "District Oracles",
     "district": {
@@ -103,7 +102,8 @@
         "feature_label": "Feature",
         "peril_label": "Peril",
         "opportunity_label": "Opportunity"
-      }
+      },
+      "district_zones_label": "District Zones"
     },
     "faction": {
       "name": {
@@ -121,7 +121,11 @@
       "quirks_label": "Faction Quirk (Starsmith)",
       "rumors_label": "Faction Rumor (Starsmith)",
       "corporation_field_label": "Corporation: Field",
-      "research_field_of_study_label": "Research: Field Of Study"
+      "military_specialty_label": "Military: Specialty",
+      "religious_role_label": "Religious: Role",
+      "research_field_of_study_label": "Research: Field Of Study",
+      "ai_hive_prime_directive_label": "AI Hive: Prime Directive",
+      "data_harvesters_role_label": "Data Harvesters: Role"
     },
     "location_theme": {
       "arid_label": "Arid",

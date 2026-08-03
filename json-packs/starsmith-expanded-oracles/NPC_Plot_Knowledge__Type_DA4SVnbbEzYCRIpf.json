@@ -3,513 +3,887 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "The location of",
       "range": [
         1,
         3
       ],
       "_id": "S94ZnRH63iTZ1mUn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The location of",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.S94ZnRH63iTZ1mUn"
     },
     {
-      "text": "The identity of",
       "range": [
         4,
         6
       ],
       "_id": "y78hKei2n1UXga3w",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The identity of",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.y78hKei2n1UXga3w"
     },
     {
-      "text": "Positive news about",
       "range": [
         7,
         9
       ],
       "_id": "IcoRMuDWR4n0VIYb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Positive news about",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.IcoRMuDWR4n0VIYb"
     },
     {
-      "text": "Negative news about",
       "range": [
         10,
         12
       ],
       "_id": "VkUIvYh1qmFd5jtT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Negative news about",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.VkUIvYh1qmFd5jtT"
     },
     {
-      "text": "A positive change in",
       "range": [
         13,
         15
       ],
       "_id": "u5SfM5JgTT94uir7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A positive change in",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.u5SfM5JgTT94uir7"
     },
     {
-      "text": "A negative change in",
       "range": [
         16,
         18
       ],
       "_id": "dCYuJ3RP8a9viCxl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A negative change in",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.dCYuJ3RP8a9viCxl"
     },
     {
-      "text": "A connection between an NPC and",
       "range": [
         19,
         21
       ],
       "_id": "pclZf32LrD1AJgGv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A connection between an NPC and",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.pclZf32LrD1AJgGv"
     },
     {
-      "text": "A connection between a PC and",
       "range": [
         22,
         24
       ],
       "_id": "aHDcBMlyhFW1NuZz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A connection between a PC and",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.aHDcBMlyhFW1NuZz"
     },
     {
-      "text": "A connection between an antagonist and",
       "range": [
         25,
         27
       ],
       "_id": "2pxeRJ4YKPPpoyFT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A connection between an antagonist and",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.2pxeRJ4YKPPpoyFT"
     },
     {
-      "text": "A significant insight related to",
       "range": [
         28,
         30
       ],
       "_id": "gyskxNWjlw0055eh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A significant insight related to",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.gyskxNWjlw0055eh"
     },
     {
-      "text": "Historical/background knowledge about",
       "range": [
         31,
         33
       ],
       "_id": "Bcp45BH8G3ciVnGH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Historical/background knowledge about",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.Bcp45BH8G3ciVnGH"
     },
     {
-      "text": "An ambush concerning",
       "range": [
         34,
         36
       ],
       "_id": "5XfQIaGerO6a7pkn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An ambush concerning",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.5XfQIaGerO6a7pkn"
     },
     {
-      "text": "An alteration of",
       "range": [
         37,
         39
       ],
       "_id": "orqDpqEDPUZPPMap",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An alteration of",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.orqDpqEDPUZPPMap"
     },
     {
-      "text": "A physical loss involving",
       "range": [
         40,
         42
       ],
       "_id": "9b4GyINA7TFSbpxZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A physical loss involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.9b4GyINA7TFSbpxZ"
     },
     {
-      "text": "A mental loss involving",
       "range": [
         43,
         45
       ],
       "_id": "YVMkcSSkgTM1alD1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A mental loss involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.YVMkcSSkgTM1alD1"
     },
     {
-      "text": "An emotional loss involving",
       "range": [
         46,
         48
       ],
       "_id": "NV7eE5RuR3pi8TfH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An emotional loss involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.NV7eE5RuR3pi8TfH"
     },
     {
-      "text": "A spiritual loss involving",
       "range": [
         49,
         51
       ],
       "_id": "29hr6rR5ffoon2VY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A spiritual loss involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.29hr6rR5ffoon2VY"
     },
     {
-      "text": "A financial loss involving",
       "range": [
         52,
         54
       ],
       "_id": "a5BqTC9nhOXGNlgt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A financial loss involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.a5BqTC9nhOXGNlgt"
     },
     {
-      "text": "The loss of an ability involving",
       "range": [
         55,
         57
       ],
       "_id": "n40Cm2TOVrOG8Vyp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The loss of an ability involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.n40Cm2TOVrOG8Vyp"
     },
     {
-      "text": "The loss of authority involving",
       "range": [
         58,
         60
       ],
       "_id": "wdPv9pnymx64cVPW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The loss of authority involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.wdPv9pnymx64cVPW"
     },
     {
-      "text": "A material loss involving",
       "range": [
         61,
         63
       ],
       "_id": "VNH7SYTork3aM7YD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A material loss involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.VNH7SYTork3aM7YD"
     },
     {
-      "text": "A loss of influence involving",
       "range": [
         64,
         66
       ],
       "_id": "1JKZipbLRhZLj9h6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A loss of influence involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.1JKZipbLRhZLj9h6"
     },
     {
-      "text": "A loss of opportunity involving",
       "range": [
         67,
         69
       ],
       "_id": "Zrr94EtnMAFpAokl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A loss of opportunity involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.Zrr94EtnMAFpAokl"
     },
     {
-      "text": "A physical boon involving",
       "range": [
         70,
         72
       ],
       "_id": "X077JLKeJEMbt900",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A physical boon involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.X077JLKeJEMbt900"
     },
     {
-      "text": "A mental boon involving",
       "range": [
         73,
         75
       ],
       "_id": "jGaLtirlJbZY7w0h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A mental boon involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.jGaLtirlJbZY7w0h"
     },
     {
-      "text": "An emotional boon involving",
       "range": [
         76,
         78
       ],
       "_id": "WVil8RkYmRzoNFjp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An emotional boon involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.WVil8RkYmRzoNFjp"
     },
     {
-      "text": "A spiritual boon involving",
       "range": [
         79,
         81
       ],
       "_id": "AbsjLyeO4sR4EqMa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A spiritual boon involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.AbsjLyeO4sR4EqMa"
     },
     {
-      "text": "A financial boon involving",
       "range": [
         82,
         84
       ],
       "_id": "Wn56fZdhzuWq71kz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A financial boon involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.Wn56fZdhzuWq71kz"
     },
     {
-      "text": "The acquisition of an ability involving",
       "range": [
         85,
         87
       ],
       "_id": "m0fDHlzQiOBqlhXO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The acquisition of an ability involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.m0fDHlzQiOBqlhXO"
     },
     {
-      "text": "The acquisition of authority involving",
       "range": [
         88,
         90
       ],
       "_id": "hGn0pRKmcFeG7pSe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The acquisition of authority involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.hGn0pRKmcFeG7pSe"
     },
     {
-      "text": "A material boon involving",
       "range": [
         91,
         93
       ],
       "_id": "1oDyv5btSAi6CCQ2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A material boon involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.1oDyv5btSAi6CCQ2"
     },
     {
-      "text": "A gain in influence involving",
       "range": [
         94,
         96
       ],
       "_id": "wgR4CbUyZ9ASLsOQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "A gain in influence involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.wgR4CbUyZ9ASLsOQ"
     },
     {
-      "text": "An additional opportunity involving",
       "range": [
         97,
         99
       ],
       "_id": "KfadVpc9s37CW2J4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "An additional opportunity involving",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.KfadVpc9s37CW2J4"
     },
     {
-      "text": "The truth is the exact opposite of what the PCs thought  about",
       "range": [
         100,
         100
       ],
       "_id": "QYGDiGoyViCmD7yj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The truth is the exact opposite of what the PCs thought  about",
+      "name": "",
       "_key": "!tables.results!DA4SVnbbEzYCRIpf.QYGDiGoyViCmD7yj"
     }
   ],
@@ -518,14 +892,23 @@
   "description": "<div class=\"page\" title=\"Page 156\"><p>Roll on the TYPE table and the TOPIC table, and then put the two results together to see what the NPC can tell you. If you need help interpreting this information, you may make an ACTION/THEME roll or a DESCRIPTOR/FOCUS roll.</p></div>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Character/Npc_Plot_Knowledge_Type",
+      "category": "Starsmith/Oracles/Character",
+      "dsid": "oracle_rollable:starforged/character/npc_plot_knowledge_type_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676518590,
     "modifiedTime": 1693042357749,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "DA4SVnbbEzYCRIpf",
   "sort": 2950000,

@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Access to area untouched for ages",
       "range": [
         1,
         20
       ],
       "_id": "gHlS1Ma14ZFqWQ1r",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to area untouched for ages",
+      "name": "",
       "_key": "!tables.results!LJTBPHnLEvjBF4ku.gHlS1Ma14ZFqWQ1r"
     },
     {
-      "text": "Access to rare biological specimen",
       "range": [
         21,
         40
       ],
       "_id": "9QF94DvIn57OG1Od",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to rare biological specimen",
+      "name": "",
       "_key": "!tables.results!LJTBPHnLEvjBF4ku.9QF94DvIn57OG1Od"
     },
     {
-      "text": "Lost artifact found",
       "range": [
         41,
         60
       ],
       "_id": "kHOZ5SCP5VHUFCu4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost artifact found",
+      "name": "",
       "_key": "!tables.results!LJTBPHnLEvjBF4ku.kHOZ5SCP5VHUFCu4"
     },
     {
-      "text": "Opening to avoid a conflict with lifeforms",
       "range": [
         61,
         80
       ],
       "_id": "u8sHIXDRr6hrAmOQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to avoid a conflict with lifeforms",
+      "name": "",
       "_key": "!tables.results!LJTBPHnLEvjBF4ku.u8sHIXDRr6hrAmOQ"
     },
     {
-      "text": "Opening to connect with a helpful lifeform",
       "range": [
         81,
         100
       ],
       "_id": "9M4I3dy4AvwVavGY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to connect with a helpful lifeform",
+      "name": "",
       "_key": "!tables.results!LJTBPHnLEvjBF4ku.9M4I3dy4AvwVavGY"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "<p>Thriving ecosystems abound in this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Overgrown/Opportunity",
+      "category": "Starsmith/Oracles/Location_Theme/Overgrown",
+      "dsid": "oracle_rollable:starforged/location_theme/overgrown/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676712206,
     "modifiedTime": 1693777019370,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "LJTBPHnLEvjBF4ku",
   "sort": 300000,

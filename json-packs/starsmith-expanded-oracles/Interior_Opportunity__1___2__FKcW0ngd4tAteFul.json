@@ -1,0 +1,296 @@
+{
+  "name": "Interior Opportunity (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "Bavu5BbUxndIfsWs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue points the way to your destination or target",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.Bavu5BbUxndIfsWs"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "PQyVLAsBceADy2OJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to a lifeform's nature or vulnerabilities",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.PQyVLAsBceADy2OJ"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "PhynQnYUCCTO5QqO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful gear left by another explorer",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.PhynQnYUCCTO5QqO"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "vbOhDQDIap1RCP9l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insight into the nature or history of this site",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.vbOhDQDIap1RCP9l"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "hH7SE3JLHC5WQgOi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intriguing device or artifact",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.hH7SE3JLHC5WQgOi"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "RamEXphSDY659t3Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to get the drop on a foe",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.RamEXphSDY659t3Z"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "8RPzGNl8GgQ0jmeb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to outmaneuver or escape a threat or foe",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.8RPzGNl8GgQ0jmeb"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "Jh4UUsgh2fixTXAG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salvageable resource",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.Jh4UUsgh2fixTXAG"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "i2QnSOUkIDfB4u0a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure area offers a moment of peace",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.i2QnSOUkIDfB4u0a"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "9PbTwNdacj8iACxe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shortcut or less perilous path speeds your way",
+      "name": "",
+      "_key": "!tables.results!FKcW0ngd4tAteFul.9PbTwNdacj8iACxe"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a favorable circumstance within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Interior/Opportunity",
+      "category": "Starsmith/Oracles/Precursor_Vault/Interior",
+      "dsid": "oracle_rollable:starforged/precursor_vault/interior/opportunity_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692320,
+    "modifiedTime": 1693867549776,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "FKcW0ngd4tAteFul",
+  "sort": 700000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!FKcW0ngd4tAteFul"
+}

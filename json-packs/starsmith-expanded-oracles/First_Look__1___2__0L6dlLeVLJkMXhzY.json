@@ -3,333 +3,575 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Abnormal sensor readings",
       "range": [
         1,
         4
       ],
       "_id": "rtNBQJdDFOpKdM8M",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abnormal sensor readings",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.rtNBQJdDFOpKdM8M"
     },
     {
-      "text": "Brightly painted",
       "range": [
         5,
         8
       ],
       "_id": "wSrtnZDThqBvpEhm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brightly painted",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.wSrtnZDThqBvpEhm"
     },
     {
-      "text": "Bristling with weapons",
       "range": [
         9,
         13
       ],
       "_id": "MB6Jz8beWOxHhZjN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bristling with weapons",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.MB6Jz8beWOxHhZjN"
     },
     {
-      "text": "Dark or stealthy",
       "range": [
         14,
         18
       ],
       "_id": "f3tk3xasGs6T1SfL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dark or stealthy",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.f3tk3xasGs6T1SfL"
     },
     {
-      "text": "Heavy armor",
       "range": [
         19,
         23
       ],
       "_id": "UIjQvcUaAwc76QOg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavy armor",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.UIjQvcUaAwc76QOg"
     },
     {
-      "text": "Immobile",
       "range": [
         24,
         28
       ],
       "_id": "aIW3MJRvTd6K2jKF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immobile",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.aIW3MJRvTd6K2jKF"
     },
     {
-      "text": "Intimidating profile",
       "range": [
         29,
         33
       ],
       "_id": "cGTY2R6v2Zy8PScF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intimidating profile",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.cGTY2R6v2Zy8PScF"
     },
     {
-      "text": "Large sensor array",
       "range": [
         34,
         37
       ],
       "_id": "NlngyM3ZeNPwpCkM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large sensor array",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.NlngyM3ZeNPwpCkM"
     },
     {
-      "text": "Leaking radiation",
       "range": [
         38,
         41
       ],
       "_id": "f0spnPtXvnSB7Z2n",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking radiation",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.f0spnPtXvnSB7Z2n"
     },
     {
-      "text": "Low-profile or disguised",
       "range": [
         42,
         45
       ],
       "_id": "Q66BYwx2xdbQFdoW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Low-profile or disguised",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.Q66BYwx2xdbQFdoW"
     },
     {
-      "text": "Modern or advanced design",
       "range": [
         46,
         49
       ],
       "_id": "JOlZ2pA49mlWg6En",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Modern or advanced design",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.JOlZ2pA49mlWg6En"
     },
     {
-      "text": "Obsolete design",
       "range": [
         50,
         54
       ],
       "_id": "CpSicPibXOGoa9RQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obsolete design",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.CpSicPibXOGoa9RQ"
     },
     {
-      "text": "Obvious damage",
       "range": [
         55,
         59
       ],
       "_id": "x8WBYRCz3x4GYcnp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obvious damage",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.x8WBYRCz3x4GYcnp"
     },
     {
-      "text": "Biological components",
       "range": [
         60,
         63
       ],
       "_id": "XOxymXk9h8hEZPLw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biological components",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.XOxymXk9h8hEZPLw"
     },
     {
-      "text": "Ornate markings",
       "range": [
         64,
         67
       ],
       "_id": "Y1IaAfdvwDdX6r4I",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ornate markings",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.Y1IaAfdvwDdX6r4I"
     },
     {
-      "text": "Oversized engines",
       "range": [
         68,
         71
       ],
       "_id": "DK13Nit2SZly91Kf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oversized engines",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.DK13Nit2SZly91Kf"
     },
     {
-      "text": "Prominent guild emblem",
       "range": [
         72,
         75
       ],
       "_id": "rkgldNUkNKCDXbCv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prominent guild emblem",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.rkgldNUkNKCDXbCv"
     },
     {
-      "text": "Refitted or repurposed hull",
       "range": [
         76,
         80
       ],
       "_id": "a76EebplVRZtNFQ9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Refitted or repurposed hull",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.a76EebplVRZtNFQ9"
     },
     {
-      "text": "Scarred hull",
       "range": [
         81,
         85
       ],
       "_id": "SU4vwMz33vwZvLn7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred hull",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.SU4vwMz33vwZvLn7"
     },
     {
-      "text": "Built from scrap",
       "range": [
         86,
         90
       ],
       "_id": "VuAChhTlwigfxjKY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built from scrap",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.VuAChhTlwigfxjKY"
     },
     {
-      "text": "Towing or linked",
       "range": [
         91,
         94
       ],
       "_id": "CN0p6jujy074PJ5l",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towing or linked",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.CN0p6jujy074PJ5l"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         95,
         100
       ],
       "_id": "l10Nd865ygfi0CHD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!0L6dlLeVLJkMXhzY.l10Nd865ygfi0CHD"
     }
   ],
@@ -338,14 +580,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/First_Look",
+      "category": "Starsmith/Oracles/Starship",
+      "dsid": "oracle_rollable:starforged/starship/first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676461216,
     "modifiedTime": 1699041698245,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "0L6dlLeVLJkMXhzY",
   "sort": 81250,

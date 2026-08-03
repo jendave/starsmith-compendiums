@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Area of unusual calm in the planet's atmosphere",
       "range": [
         1,
         11
       ],
       "_id": "0LfuHVucbjX3SVYS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Area of unusual calm in the planet's atmosphere",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.0LfuHVucbjX3SVYS"
     },
     {
-      "text": "Asteroid belt near the planet's orbit",
       "range": [
         12,
         22
       ],
       "_id": "S7oY7TNmdu9hQtI1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid belt near the planet's orbit",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.S7oY7TNmdu9hQtI1"
     },
     {
-      "text": "Atmosphere constantly changing colors",
       "range": [
         23,
         33
       ],
       "_id": "Dt3Z8c3Imh1vcrRK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Atmosphere constantly changing colors",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.Dt3Z8c3Imh1vcrRK"
     },
     {
-      "text": "Cloud nebula surrounding the planet",
       "range": [
         34,
         44
       ],
       "_id": "zNmsyurIixjzLhqI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloud nebula surrounding the planet",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.zNmsyurIixjzLhqI"
     },
     {
-      "text": "Hyper-dense atmosphere",
       "range": [
         45,
         55
       ],
       "_id": "QbLaMxAaJB9xlaWb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hyper-dense atmosphere",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.QbLaMxAaJB9xlaWb"
     },
     {
-      "text": "Pulsing magnetic field",
       "range": [
         56,
         66
       ],
       "_id": "u27k9g6f6jjYYEQW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulsing magnetic field",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.u27k9g6f6jjYYEQW"
     },
     {
-      "text": "Supercooled atmosphere",
       "range": [
         67,
         77
       ],
       "_id": "E36EYZdqjG7cz9F8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supercooled atmosphere",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.E36EYZdqjG7cz9F8"
     },
     {
-      "text": "Superstorm that produces an aurora",
       "range": [
         78,
         88
       ],
       "_id": "v6H2MozwcSPmRsaO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Superstorm that produces an aurora",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.v6H2MozwcSPmRsaO"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "UY5A5OMiTiSLJzt1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.UY5A5OMiTiSLJzt1"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "1nLZ5HgxDMLo72Mc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!Vh4sPOoSMhQK1Mvs.1nLZ5HgxDMLo72Mc"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Jovian/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Jovian",
+      "dsid": "oracle_rollable:starforged/planet/jovian/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676401895,
     "modifiedTime": 1699052811386,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "Vh4sPOoSMhQK1Mvs",
   "sort": 0,

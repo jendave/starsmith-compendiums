@@ -3,169 +3,318 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Alarm or failsafe triggered",
       "range": [
         1,
         10
       ],
       "_id": "o2TFAlEYRT4KA5LU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alarm or failsafe triggered",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.o2TFAlEYRT4KA5LU"
     },
     {
-      "text": "Automated system failure",
       "range": [
         11,
         20
       ],
       "_id": "gp2cVOrrCdcEUUZF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated system failure",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.gp2cVOrrCdcEUUZF"
     },
     {
-      "text": "Being followed",
       "range": [
         21,
         30
       ],
       "_id": "S32sJinN4npphX85",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Being followed",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.S32sJinN4npphX85"
     },
     {
-      "text": "Blocked or sealed path",
       "range": [
         31,
         40
       ],
       "_id": "fgR87Ib10SmyIUWd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blocked or sealed path",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.fgR87Ib10SmyIUWd"
     },
     {
-      "text": "Broken infrastructure",
       "range": [
         41,
         50
       ],
       "_id": "3zx6Ezqek0KsZKhV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken infrastructure",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.3zx6Ezqek0KsZKhV"
     },
     {
-      "text": "Construction delays",
       "range": [
         51,
         60
       ],
       "_id": "Zh0fc4CfSvFOa55L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction delays",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.Zh0fc4CfSvFOa55L"
     },
     {
-      "text": "Lost or pickpocketed item",
       "range": [
         61,
         70
       ],
       "_id": "tt7FxfJqP3tK4Vn7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost or pickpocketed item",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.tt7FxfJqP3tK4Vn7"
     },
     {
-      "text": "Took the wrong turn",
       "range": [
         71,
         80
       ],
       "_id": "GAwzwTmmBwZolTy9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Took the wrong turn",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.GAwzwTmmBwZolTy9"
     },
     {
-      "text": "Unsettling sound or disturbance",
       "range": [
         81,
         90
       ],
       "_id": "I1gfRZuOnN0RXFqv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unsettling sound or disturbance",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.I1gfRZuOnN0RXFqv"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "wvtWA10h2KLuz0gw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.wvtWA10h2KLuz0gw"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "j4QScwRQURaEDY7i",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wn19PGDzUPZ0WYZ",
       "_key": "!tables.results!9wn19PGDzUPZ0WYZ.j4QScwRQURaEDY7i"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "aixBYKCliU6xGTNh",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.9wn19PGDzUPZ0WYZ",
+      "_key": "!tables.results!9wn19PGDzUPZ0WYZ.aixBYKCliU6xGTNh"
     }
   ],
   "folder": "jGf292ABmjuYsQn2",
@@ -173,14 +322,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Access/Peril",
+      "category": "Starsmith/Oracles/District/Access",
+      "dsid": "oracle_rollable:starforged/district/access/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658070,
     "modifiedTime": 1699035502666,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "9wn19PGDzUPZ0WYZ",
   "sort": 400000,

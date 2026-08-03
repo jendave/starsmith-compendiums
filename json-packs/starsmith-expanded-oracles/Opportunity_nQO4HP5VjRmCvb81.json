@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Access to rare biological resource",
       "range": [
         1,
         20
       ],
       "_id": "i5g8JgQaEJERhv7P",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to rare biological resource",
+      "name": "",
       "_key": "!tables.results!nQO4HP5VjRmCvb81.i5g8JgQaEJERhv7P"
     },
     {
-      "text": "Genetic clue or evidence",
       "range": [
         21,
         40
       ],
       "_id": "CgZFZZdiQvkDWF9k",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Genetic clue or evidence",
+      "name": "",
       "_key": "!tables.results!nQO4HP5VjRmCvb81.CgZFZZdiQvkDWF9k"
     },
     {
-      "text": "Opening to heal or benefit the lifeform",
       "range": [
         41,
         60
       ],
       "_id": "MASFIX77raWFOH5n",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to heal or benefit the lifeform",
+      "name": "",
       "_key": "!tables.results!nQO4HP5VjRmCvb81.MASFIX77raWFOH5n"
     },
     {
-      "text": "Opening to influence the lifeform to your  benefit",
       "range": [
         61,
         80
       ],
       "_id": "jNR51waKeUwS05j8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to influence the lifeform to your  benefit",
+      "name": "",
       "_key": "!tables.results!nQO4HP5VjRmCvb81.jNR51waKeUwS05j8"
     },
     {
-      "text": "Rare scientific observation",
       "range": [
         81,
         100
       ],
       "_id": "76S0Szsh7MIxpgyx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare scientific observation",
+      "name": "",
       "_key": "!tables.results!nQO4HP5VjRmCvb81.76S0Szsh7MIxpgyx"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "<p>Inside a living creature, microscopic or colossal.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Lifeform/Opportunity",
+      "category": "Starsmith/Oracles/Location_Theme/Lifeform",
+      "dsid": "oracle_rollable:starforged/location_theme/lifeform/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676712182,
     "modifiedTime": 1693777062875,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "nQO4HP5VjRmCvb81",
   "sort": 300000,

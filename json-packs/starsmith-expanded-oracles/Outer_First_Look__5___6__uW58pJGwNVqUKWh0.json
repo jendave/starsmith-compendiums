@@ -3,143 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Sprung traps",
       "range": [
         1,
         15
       ],
       "_id": "bytwCCdSepvF4y1V",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sprung traps",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.bytwCCdSepvF4y1V"
     },
     {
-      "text": "Abandoned weapons",
       "range": [
         16,
         30
       ],
       "_id": "KjveKFL2KqYslZIJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned weapons",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.KjveKFL2KqYslZIJ"
     },
     {
-      "text": "Leaking unknown gases or vapor",
       "range": [
         31,
         45
       ],
       "_id": "lu5EMu9O2gtQ8H4D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking unknown gases or vapor",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.lu5EMu9O2gtQ8H4D"
     },
     {
-      "text": "Multiple attached structures",
       "range": [
         46,
         50
       ],
       "_id": "84ohsYYhD3oOyOiV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple attached structures",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.84ohsYYhD3oOyOiV"
     },
     {
-      "text": "Clearly lacking a key system",
       "range": [
         51,
         60
       ],
       "_id": "V3zCG6zvtGOf0NsL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clearly lacking a key system",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.V3zCG6zvtGOf0NsL"
     },
     {
-      "text": "Partially buried or subsumed",
       "range": [
         61,
         65
       ],
       "_id": "mLlpLUgb9jfukb27",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partially buried or subsumed",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.mLlpLUgb9jfukb27"
     },
     {
-      "text": "Message scrawled on exterior",
       "range": [
         66,
         80
       ],
       "_id": "z9NzNwh3sVHC2VoZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Message scrawled on exterior",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.z9NzNwh3sVHC2VoZ"
     },
     {
-      "text": "Signs of lifeforms",
       "range": [
         81,
         85
       ],
       "_id": "w3azEcgezeDBuwiA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of lifeforms",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.w3azEcgezeDBuwiA"
     },
     {
-      "text": "Deteriorating exterior",
       "range": [
         86,
         95
       ],
       "_id": "wAwTTE3PqcwTZd52",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deteriorating exterior",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.wAwTTE3PqcwTZd52"
     },
     {
-      "text": "Affected by local stellar phenomenon",
       "range": [
         96,
         100
       ],
       "_id": "08oUNV2jAXlYyhDC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Affected by local stellar phenomenon",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!uW58pJGwNVqUKWh0.08oUNV2jAXlYyhDC"
     }
   ],
@@ -148,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Derelict/Outer_First_Look",
+      "category": "Starsmith/Oracles/Derelict",
+      "dsid": "oracle_rollable:starforged/derelict/outer_first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676611924,
     "modifiedTime": 1693042481037,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "uW58pJGwNVqUKWh0",
   "sort": 250000,

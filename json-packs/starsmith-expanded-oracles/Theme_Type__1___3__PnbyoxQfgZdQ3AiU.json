@@ -3,123 +3,211 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Chaotic    Reality is corrupted or warped in this place.",
       "range": [
         1,
         15
       ],
       "_id": "9hx6SNlNI1EV3WuW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/chaotic\">\n    <i class=\"fa fa-caret-right\"></i> Chaotic\n</a></p></p><p>Reality is corrupted or warped in this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.9hx6SNlNI1EV3WuW"
     },
     {
-      "text": "Fortified  Enemies defend this place against intruders.",
       "range": [
         16,
         25
       ],
       "_id": "7mgrz1aoNZfbeN1x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/fortified\">\n    <i class=\"fa fa-caret-right\"></i> Fortified\n</a></p></p><p>Enemies defend this place against intruders.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.7mgrz1aoNZfbeN1x"
     },
     {
-      "text": "Haunted    Restless spirits are bound in this place.",
       "range": [
         26,
         35
       ],
       "_id": "A6uRJJIt9kHde8Y8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/haunted\">\n    <i class=\"fa fa-caret-right\"></i> Haunted\n</a></p></p><p>Restless spirits are bound in this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.A6uRJJIt9kHde8Y8"
     },
     {
-      "text": "Infested   Foul creatures have overrun this place.",
       "range": [
         36,
         50
       ],
       "_id": "dp9mUrFNGDzfa2xN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/infested\">\n    <i class=\"fa fa-caret-right\"></i> Infested\n</a></p></p><p>Foul creatures have overrun this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.dp9mUrFNGDzfa2xN"
     },
     {
-      "text": "Inhabited  People have built a community in this place.",
       "range": [
         51,
         60
       ],
       "_id": "nFmsbmNaFkehQ3Tm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/inhabited\">\n    <i class=\"fa fa-caret-right\"></i> Inhabited\n</a></p></p><p>People have built a community in this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.nFmsbmNaFkehQ3Tm"
     },
     {
-      "text": "Mechanical Machines and technology hold sway in this place.",
       "range": [
         61,
         75
       ],
       "_id": "gnGH1hwqJa1a71Te",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/mechanical\">\n    <i class=\"fa fa-caret-right\"></i> Mechanical\n</a></p></p><p>Machines and technology hold sway in this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.gnGH1hwqJa1a71Te"
     },
     {
-      "text": "Ruined     Time, disaster, or war have ravaged this place.",
       "range": [
         76,
         90
       ],
       "_id": "EKe5TB3VqWZDQ10T",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/ruined\">\n    <i class=\"fa fa-caret-right\"></i> Ruined\n</a></p></p><p>Time, disaster, or war have ravaged this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.EKe5TB3VqWZDQ10T"
     },
     {
-      "text": "Sacred     Worshipers glorify strange powers in this place.",
       "range": [
         91,
         100
       ],
       "_id": "ntMQAb1reROVGQL1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/location_theme/sacred\">\n    <i class=\"fa fa-caret-right\"></i> Sacred\n</a></p></p><p>Worshipers glorify strange powers in this place.</p>",
+      "name": "",
       "_key": "!tables.results!PnbyoxQfgZdQ3AiU.ntMQAb1reROVGQL1"
     }
   ],
@@ -128,14 +216,23 @@
   "description": "<p>Choose a theme that supports what you know of that location’s nature. For a random theme, roll on the table above.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Type",
+      "category": "Starsmith/Oracles/Location_Theme",
+      "dsid": "oracle_rollable:starforged/location_theme/type_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676712088,
     "modifiedTime": 1693776921642,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "PnbyoxQfgZdQ3AiU",
   "sort": -200000,

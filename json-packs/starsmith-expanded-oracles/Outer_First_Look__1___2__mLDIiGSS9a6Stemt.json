@@ -3,143 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Blocked access",
       "range": [
         1,
         15
       ],
       "_id": "toEtq0cTDyZT9uLw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blocked access",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.toEtq0cTDyZT9uLw"
     },
     {
-      "text": "Corpses",
       "range": [
         16,
         30
       ],
       "_id": "Z3QHf1xAsEsKAfnE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corpses",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.Z3QHf1xAsEsKAfnE"
     },
     {
-      "text": "Hazardous readings",
       "range": [
         31,
         45
       ],
       "_id": "jdQa0gyf98ML6ifI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous readings",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.jdQa0gyf98ML6ifI"
     },
     {
-      "text": "Mutated structure",
       "range": [
         46,
         50
       ],
       "_id": "uLveIf7U6ryKIi0N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated structure",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.uLveIf7U6ryKIi0N"
     },
     {
-      "text": "Odd orientation",
       "range": [
         51,
         60
       ],
       "_id": "1FM9HPa0Ap0hhhC1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Odd orientation",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.1FM9HPa0Ap0hhhC1"
     },
     {
-      "text": "Overgrown or entangled",
       "range": [
         61,
         65
       ],
       "_id": "Y3z6eWTFB3JdhqzH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overgrown or entangled",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.Y3z6eWTFB3JdhqzH"
     },
     {
-      "text": "Sending a signal or message",
       "range": [
         66,
         80
       ],
       "_id": "iNqRIJmoQOIVbGhW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sending a signal or message",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.iNqRIJmoQOIVbGhW"
     },
     {
-      "text": "Signs that others are here",
       "range": [
         81,
         85
       ],
       "_id": "w43O23QQB0ydyqkF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs that others are here",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.w43O23QQB0ydyqkF"
     },
     {
-      "text": "Stripped exterior",
       "range": [
         86,
         95
       ],
       "_id": "sBtdYRcz4wNuQyWT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stripped exterior",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.sBtdYRcz4wNuQyWT"
     },
     {
-      "text": "Time or reality distortion",
       "range": [
         96,
         100
       ],
       "_id": "d9R8IvXxFcKhuJzD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time or reality distortion",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mLDIiGSS9a6Stemt.d9R8IvXxFcKhuJzD"
     }
   ],
@@ -148,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Derelict/Outer_First_Look",
+      "category": "Starsmith/Oracles/Derelict",
+      "dsid": "oracle_rollable:starforged/derelict/outer_first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676611917,
     "modifiedTime": 1693042477856,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "mLDIiGSS9a6Stemt",
   "sort": 100000,

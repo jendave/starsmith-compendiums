@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Grass",
       "range": [
         1,
         10
       ],
       "_id": "ZKngqGHUo7RohRXs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grass",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.ZKngqGHUo7RohRXs"
     },
     {
-      "text": "Moss",
       "range": [
         11,
         20
       ],
       "_id": "WTlIDMEvctUOs7qp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moss",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.WTlIDMEvctUOs7qp"
     },
     {
-      "text": "Root vegetable",
       "range": [
         21,
         30
       ],
       "_id": "OmL7XpT4J12O32W7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Root vegetable",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.OmL7XpT4J12O32W7"
     },
     {
-      "text": "Shrub",
       "range": [
         31,
         40
       ],
       "_id": "mATKUwU0cF1O2QaC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shrub",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.mATKUwU0cF1O2QaC"
     },
     {
-      "text": "Tree, medium",
       "range": [
         41,
         50
       ],
       "_id": "blLXBuDJlc0IilY9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tree, medium",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.blLXBuDJlc0IilY9"
     },
     {
-      "text": "Tree, small",
       "range": [
         51,
         60
       ],
       "_id": "oo2dNLiwD2CYgKkt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tree, small",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.oo2dNLiwD2CYgKkt"
     },
     {
-      "text": "Tree, tall",
       "range": [
         61,
         70
       ],
       "_id": "Qf6S0F1xKLr299Im",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tree, tall",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.Qf6S0F1xKLr299Im"
     },
     {
-      "text": "Vine, climbing",
       "range": [
         71,
         80
       ],
       "_id": "ax2Hr8fmDCGNXgtV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vine, climbing",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.ax2Hr8fmDCGNXgtV"
     },
     {
-      "text": "Vine, creeping",
       "range": [
         81,
         90
       ],
       "_id": "nrF16J5KnEVwfmz9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vine, creeping",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.nrF16J5KnEVwfmz9"
     },
     {
-      "text": "Weed",
       "range": [
         91,
         100
       ],
       "_id": "PI1hX9V1er7yvcJ4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weed",
+      "name": "",
       "_key": "!tables.results!uWrqooiiEMOBJ4Jw.PI1hX9V1er7yvcJ4"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "<p>Since this is a vital world, you’ll likely want to generate some lifeforms.</p><p>For the fauna (animals), you should use the original STARFORGED creature oracles, but I thought it would be nice to have a quick flora (plant) oracle as well.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Vital/Quick_Flora_Plant_Type",
+      "category": "Starsmith/Oracles/Planet/Vital",
+      "dsid": "oracle_rollable:starforged/planet/vital/quick_flora_plant_type_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676402103,
     "modifiedTime": 1693072034870,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "uWrqooiiEMOBJ4Jw",
   "sort": -150000,

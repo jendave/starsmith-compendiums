@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "mU0lkugrqfZTDMB3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cavernous sinkholes",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.mU0lkugrqfZTDMB3"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "5regXOERi5mxrWgC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engulfing sandstorms",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.5regXOERi5mxrWgC"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "nUwxwZuUkzM7FukY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fleeting rainstorms and flash floods",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.nUwxwZuUkzM7FukY"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "lT5kNVOZg3reehhF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flooded grottos",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.lT5kNVOZg3reehhF"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "0SgzB9DdRTR0YvVM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Petrified forest",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.0SgzB9DdRTR0YvVM"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "e0JuwNzhk47YHbAx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rampaging whirlwinds",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.e0JuwNzhk47YHbAx"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "RRXvEMZ830V7MrsZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scorched glass plains",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.RRXvEMZ830V7MrsZ"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "3I3x0ayNjVeKHlpX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Severe temperature fluctuations",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.3I3x0ayNjVeKHlpX"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "gql0SMVN0tRPv4pg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sunbaked bones of titanic creatures",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.gql0SMVN0tRPv4pg"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "IaEXcNPLqTR9GfcK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Timeworn cliffside caves",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.IaEXcNPLqTR9GfcK"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "fPxHNaOy4aO1wgLc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering rock formations",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.fPxHNaOy4aO1wgLc"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "lIv4zo0dh7c9hvVY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent electrical storms",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.lIv4zo0dh7c9hvVY"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "Y3A49RDrAaHcGvHe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windborne metallic sand",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.Y3A49RDrAaHcGvHe"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "RgQbAuUALl27sEHs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.RgQbAuUALl27sEHs"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "wks9wc4SQI5223vE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!EjrmKEYy4ESfBo7C.wks9wc4SQI5223vE"
+    }
+  ],
+  "folder": "Pl9XxW6fIhAGfABi",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Desert/Feature",
+      "category": "Starsmith/Oracles/Planet/Desert",
+      "dsid": "oracle_rollable:starforged/planet/desert/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401724,
+    "modifiedTime": 1699035167269,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "EjrmKEYy4ESfBo7C",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!EjrmKEYy4ESfBo7C"
+}

@@ -3,319 +3,633 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Space/Stellar_Object\"><i class=\"fa fa-caret-right\"></i> Stellar Object</a>",
       "range": [
         1,
         15
       ],
       "_id": "ibLR51kdCoo9RqNh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/space/stellar_object_starsmith\"><i class=\"fa fa-caret-right\"></i> Stellar Object</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.ibLR51kdCoo9RqNh"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Planets\"><i class=\"fa fa-caret-right\"></i> Planet</a>",
       "range": [
         16,
         35
       ],
       "_id": "MDdWDDybjUIwP0gQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/planet\"><i class=\"fa fa-caret-right\"></i> Planet</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.MDdWDDybjUIwP0gQ"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Settlements\"><i class=\"fa fa-caret-right\"></i> Settlement</a>",
       "range": [
         36,
         37
       ],
       "_id": "VV8h56qImpV7h0kT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/settlement\"><i class=\"fa fa-caret-right\"></i> Settlement</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.VV8h56qImpV7h0kT"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Starships\"><i class=\"fa fa-caret-right\"></i> Starship</a>",
       "range": [
         38,
         39
       ],
       "_id": "2Ns4sy5n8w0AY2qi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/starship\"><i class=\"fa fa-caret-right\"></i> Starship</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.2Ns4sy5n8w0AY2qi"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Derelicts\"><i class=\"fa fa-caret-right\"></i> Derelict</a>",
       "range": [
         40,
         41
       ],
       "_id": "g8DEAhkRPGcCaZxl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/derelict\"><i class=\"fa fa-caret-right\"></i> Derelict</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.g8DEAhkRPGcCaZxl"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
       "range": [
         42,
         45
       ],
       "_id": "r8RJU1wjZo08zTEo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.r8RJU1wjZo08zTEo"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Creatures\"><i class=\"fa fa-caret-right\"></i> Creature</a>",
       "range": [
         46,
         49
       ],
       "_id": "lcLDgvVEqBZPrTqh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/creature\"><i class=\"fa fa-caret-right\"></i> Creature</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.lcLDgvVEqBZPrTqh"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         50,
         56
       ],
       "_id": "KM5Jk3iZtoKX3zPn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith \"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.KM5Jk3iZtoKX3zPn"
     },
     {
-      "text": "Debris field: Colliding asteroid fields",
       "range": [
         57,
         61
       ],
       "_id": "lnVRPVk0Ff0QzQ5Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Colliding asteroid fields",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.lnVRPVk0Ff0QzQ5Q"
     },
     {
-      "text": "Debris field: Meteoroids",
       "range": [
         62,
         64
       ],
       "_id": "lHNjnUfH6WdGk6nS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Meteoroids",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.lHNjnUfH6WdGk6nS"
     },
     {
-      "text": "Debris field: Scattered disc",
       "range": [
         65,
         66
       ],
       "_id": "HL6VhQqafusWvAZu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Scattered disc",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.HL6VhQqafusWvAZu"
     },
     {
-      "text": "Debris field: Blinding bolides (A large meteor which explodes in the atmosphere)",
       "range": [
         67,
         68
       ],
       "_id": "SaQ2506ba319BvWW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Blinding bolides (A large meteor which explodes in the atmosphere)",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.SaQ2506ba319BvWW"
     },
     {
-      "text": "Debris field: Mine field",
       "range": [
         69,
         70
       ],
       "_id": "VQnMDYKduMsRv6DF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debris field: Mine field",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.VQnMDYKduMsRv6DF"
     },
     {
-      "text": "Rogue dwarf planet",
       "range": [
         71,
         72
       ],
       "_id": "oEolH4qoKTs2vbX4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rogue dwarf planet",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.oEolH4qoKTs2vbX4"
     },
     {
-      "text": "Planet killing comet",
       "range": [
         73,
         74
       ],
       "_id": "BbW4HsphMl6CAdNd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planet killing comet",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.BbW4HsphMl6CAdNd"
     },
     {
-      "text": "Pulsing radiation storm",
       "range": [
         75,
         79
       ],
       "_id": "l5kTFbhdp26KHdTY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulsing radiation storm",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.l5kTFbhdp26KHdTY"
     },
     {
-      "text": "Roiling plasma storm",
       "range": [
         80,
         81
       ],
       "_id": "DfeDQJwMErPINiDL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roiling plasma storm",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.DfeDQJwMErPINiDL"
     },
     {
-      "text": "Burst of gamma rays",
       "range": [
         82,
         85
       ],
       "_id": "Knj41xvyfGdliDY1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Burst of gamma rays",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.Knj41xvyfGdliDY1"
     },
     {
-      "text": "Supernova remnant",
       "range": [
         86,
         93
       ],
       "_id": "AYNlzQJcO02EvBFS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supernova remnant",
+      "name": "",
       "_key": "!tables.results!uVLY1hKVNPninkIq.AYNlzQJcO02EvBFS"
     },
     {
-      "text": "Roll twice",
       "range": [
         94,
         98
       ],
       "_id": "jM4mePyKWZcFEYnP",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Expanse (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq",
       "_key": "!tables.results!uVLY1hKVNPninkIq.jM4mePyKWZcFEYnP"
     },
     {
-      "text": "Roll three times",
+      "range": [
+        94,
+        98
+      ],
+      "_id": "YEv9vbfTIPMX8WDZ",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Expanse (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq",
+      "_key": "!tables.results!uVLY1hKVNPninkIq.YEv9vbfTIPMX8WDZ"
+    },
+    {
       "range": [
         99,
         100
       ],
       "_id": "vGG04GttQM1rgeEJ",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Expanse (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq",
       "_key": "!tables.results!uVLY1hKVNPninkIq.vGG04GttQM1rgeEJ"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "TL4dHn5yYbokc5vb",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Expanse (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq",
+      "_key": "!tables.results!uVLY1hKVNPninkIq.TL4dHn5yYbokc5vb"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "S0jUEVEgNWPcZxf0",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll three times</p>",
+      "name": "Expanse (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.uVLY1hKVNPninkIq",
+      "_key": "!tables.results!uVLY1hKVNPninkIq.S0jUEVEgNWPcZxf0"
     }
   ],
   "folder": "wWgVqKGopxpyBO0b",
@@ -323,14 +637,23 @@
   "description": "<p>Use the Space Sightings oracle to introduce a location or encounter on a spaceborne expedition. For example, roll on this table when you Ask the Oracle to envision the primary feature of a waypoint as you Undertake an Expedition. Check your result by referencing the column for your current location: Terminus, Outlands, or Expanse.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Space/Sighting/Expanse",
+      "category": "Starsmith/Oracles/Space/Sighting",
+      "dsid": "oracle_rollable:starforged/space/sighting/expanse_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676313150,
     "modifiedTime": 1699001489099,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "uVLY1hKVNPninkIq",
   "sort": 900000,

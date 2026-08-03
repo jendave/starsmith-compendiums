@@ -3,349 +3,630 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Advanced technology waiting to be harnessed or salvaged",
       "range": [
         1,
         4
       ],
       "_id": "i3kHHWD8AXdoQKyI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advanced technology waiting to be harnessed or salvaged",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.i3kHHWD8AXdoQKyI"
     },
     {
-      "text": "Ancient archive or message",
       "range": [
         5,
         8
       ],
       "_id": "PXo4H9O35HEZkEUn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient archive or message",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.PXo4H9O35HEZkEUn"
     },
     {
-      "text": "Artificial consciousness evolved to a higher state",
       "range": [
         9,
         10
       ],
       "_id": "lKoOnGktylug67yQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artificial consciousness evolved to a higher state",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.lKoOnGktylug67yQ"
     },
     {
-      "text": "Clues to a crucial resource or uncharted domain",
       "range": [
         11,
         12
       ],
       "_id": "Jb8jtNHZehysDX0E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clues to a crucial resource or uncharted domain",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.Jb8jtNHZehysDX0E"
     },
     {
-      "text": "Envoy from another time or reality",
       "range": [
         13,
         14
       ],
       "_id": "ygrO8JU1c1JH7gnF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Envoy from another time or reality",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.ygrO8JU1c1JH7gnF"
     },
     {
-      "text": "Extraordinary natural phenomenon",
       "range": [
         15,
         22
       ],
       "_id": "CVi8elC867afAQ1K",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extraordinary natural phenomenon",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.CVi8elC867afAQ1K"
     },
     {
-      "text": "First contact with intelligent life",
       "range": [
         23,
         24
       ],
       "_id": "yG20Tjvp2AJtfkeS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "First contact with intelligent life",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.yG20Tjvp2AJtfkeS"
     },
     {
-      "text": "Gateway to another time or alternate reality",
       "range": [
         25,
         26
       ],
       "_id": "q8GjCg1YHTpLP2uy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gateway to another time or alternate reality",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.q8GjCg1YHTpLP2uy"
     },
     {
-      "text": "Key to unlocking a language or method of communication",
       "range": [
         27,
         28
       ],
       "_id": "968W3cvjFuOz8CEu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key to unlocking a language or method of communication",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.968W3cvjFuOz8CEu"
     },
     {
-      "text": "Lost or hidden people",
       "range": [
         29,
         34
       ],
       "_id": "b1CkXbhjegN0YtBl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lost or hidden people",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.b1CkXbhjegN0YtBl"
     },
     {
-      "text": "Majestic or unusual lifeforms",
       "range": [
         35,
         42
       ],
       "_id": "gB0hYRklXR7TPEAF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Majestic or unusual lifeforms",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.gB0hYRklXR7TPEAF"
     },
     {
-      "text": "Marvel of ancient engineering",
       "range": [
         43,
         46
       ],
       "_id": "ydgVHHKZCAQHS0n4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marvel of ancient engineering",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.ydgVHHKZCAQHS0n4"
     },
     {
-      "text": "Miraculously preserved artifact or specimen",
       "range": [
         47,
         50
       ],
       "_id": "MtKeQwdiUbsim5uf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Miraculously preserved artifact or specimen",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.MtKeQwdiUbsim5uf"
     },
     {
-      "text": "Monumental architecture or artistry of an ancient civilization",
       "range": [
         51,
         56
       ],
       "_id": "7CBimRALpCnI42de",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monumental architecture or artistry of an ancient civilization",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.7CBimRALpCnI42de"
     },
     {
-      "text": "Mysterious device or artifact of potential value",
       "range": [
         57,
         62
       ],
       "_id": "buPedCTzTHSX1ECx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mysterious device or artifact of potential value",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.buPedCTzTHSX1ECx"
     },
     {
-      "text": "New understanding of an enduring mystery",
       "range": [
         63,
         66
       ],
       "_id": "WpAeY9hKwRVwoctk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New understanding of an enduring mystery",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.WpAeY9hKwRVwoctk"
     },
     {
-      "text": "Pathway or means of travel to a distant location",
       "range": [
         67,
         68
       ],
       "_id": "KcJGkp9L6xMZDWbg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pathway or means of travel to a distant location",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.KcJGkp9L6xMZDWbg"
     },
     {
-      "text": "Person or lifeform with phenomenal abilities",
       "range": [
         69,
         70
       ],
       "_id": "k9LgDUi2v1aSatDA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Person or lifeform with phenomenal abilities",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.k9LgDUi2v1aSatDA"
     },
     {
-      "text": "Place of awe-inspiring beauty",
       "range": [
         71,
         78
       ],
       "_id": "8ELlzfV5VscVrN5w",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Place of awe-inspiring beauty",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.8ELlzfV5VscVrN5w"
     },
     {
-      "text": "Rare and valuable resource",
       "range": [
         79,
         86
       ],
       "_id": "YmwdzZkLzhr9jelz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare and valuable resource",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.YmwdzZkLzhr9jelz"
     },
     {
-      "text": "Safeguarded or idyllic location",
       "range": [
         87,
         88
       ],
       "_id": "558lr7PvNqiCFA9x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Safeguarded or idyllic location",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.558lr7PvNqiCFA9x"
     },
     {
-      "text": "Visions or prophesies of the future",
       "range": [
         89,
         90
       ],
       "_id": "yfGUuV1j7YoMnDC4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visions or prophesies of the future",
+      "name": "",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.yfGUuV1j7YoMnDC4"
     },
     {
-      "text": "Roll Twice",
       "range": [
         91,
         100
       ],
       "_id": "9hwdOmV66i3yYuMY",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Make A Discovery (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.N40PkK7FvfOOgWd1",
       "_key": "!tables.results!N40PkK7FvfOOgWd1.9hwdOmV66i3yYuMY"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "z8xnOuhQus4BXGRm",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Make A Discovery (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.N40PkK7FvfOOgWd1",
+      "_key": "!tables.results!N40PkK7FvfOOgWd1.z8xnOuhQus4BXGRm"
     }
   ],
   "folder": "6cVVQY9tOQiVInzx",
@@ -353,14 +634,23 @@
   "description": "<p>When exploring a waypoint and scoring a strong hit with a match, something wondrous is discovered.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Move/Make_A_Discovery",
+      "category": "Starsmith/Oracles/Move",
+      "dsid": "oracle_rollable:starforged/move/make_a_discovery_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676749880,
     "modifiedTime": 1693071814215,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "N40PkK7FvfOOgWd1",
   "sort": 250000,

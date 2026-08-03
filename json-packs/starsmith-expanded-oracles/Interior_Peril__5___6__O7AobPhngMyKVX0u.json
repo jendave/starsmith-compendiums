@@ -1,0 +1,610 @@
+{
+  "name": "Interior Peril (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "NsZmcjwDdUAE3kdd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Adhesive or difficult terrain",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.NsZmcjwDdUAE3kdd"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "Su2IcrLx2LWUa9a9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated defense system activated",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.Su2IcrLx2LWUa9a9"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "2nSA9YMsBxHbmb79",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crippling waves of emotion",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.2nSA9YMsBxHbmb79"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "wx4lGd4FOpkIxALK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Critical overload imminent",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.wx4lGd4FOpkIxALK"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "Wmhp1O5se89XW1BP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crucial gear must be jury rigged",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.Wmhp1O5se89XW1BP"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "TBCH9lQPpHg9kYWa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Floor gives way",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.TBCH9lQPpHg9kYWa"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "PaUfPGIRz3TxyNKS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foes join forces",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.PaUfPGIRz3TxyNKS"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "of8aCSDLnn68yeMK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ghost in the machine",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.of8aCSDLnn68yeMK"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "46mPvZKIUFpaugat",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grim scenes weigh you down",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.46mPvZKIUFpaugat"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "NZRUjNc8OAfAkbYD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hallucinations test your perception of reality",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.NZRUjNc8OAfAkbYD"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "k03W0TTeeUPh82SH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "It was a red herring",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.k03W0TTeeUPh82SH"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "U28Xkgi5ncIxcpGZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lockdown initiated",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.U28Xkgi5ncIxcpGZ"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "IG1zxKGNQnOBLKhi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic environment",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.IG1zxKGNQnOBLKhi"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "e79DoVLl6U8dYWzQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opportunity is lost",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.e79DoVLl6U8dYWzQ"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "FLVEFk76Cw8jxeLE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precarious path",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.FLVEFk76Cw8jxeLE"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "IyEXp8VRnNHjI5KL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivals damaged what lay within",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.IyEXp8VRnNHjI5KL"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "odEAdpYSwN8Pav7o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Runaway AI opposes you",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.odEAdpYSwN8Pav7o"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "faxZIuHj0pfKgcWT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar activity interferes with equipment",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.faxZIuHj0pfKgcWT"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "EV9SmDef8tc31KmV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sterilizing agents released",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.EV9SmDef8tc31KmV"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "KWRi4WDEluY3l6hL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.KWRi4WDEluY3l6hL"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "GUgcLdfK4y9ZE6sW",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Interior Peril (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O7AobPhngMyKVX0u",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.GUgcLdfK4y9ZE6sW"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "BYKUYcOEOc7shCKh",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Interior Peril (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.O7AobPhngMyKVX0u",
+      "_key": "!tables.results!O7AobPhngMyKVX0u.BYKUYcOEOc7shCKh"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a complication within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision a peril.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Interior/Peril",
+      "category": "Starsmith/Oracles/Precursor_Vault/Interior",
+      "dsid": "oracle_rollable:starforged/precursor_vault/interior/peril_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692336,
+    "modifiedTime": 1699042125549,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "O7AobPhngMyKVX0u",
+  "sort": 1200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!O7AobPhngMyKVX0u"
+}

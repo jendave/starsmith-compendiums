@@ -1,0 +1,894 @@
+{
+  "name": "Faction Quirks (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "bNWXzymt1LPlrgCr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ancient or coded language",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.bNWXzymt1LPlrgCr"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "1onAgNCQ9HJPyJEG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Animal or creature motif used as a faction symbol",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.1onAgNCQ9HJPyJEG"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "jRJJix1CJf5EToIt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Banishes the disloyal",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.jRJJix1CJf5EToIt"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "1SEYbzkH5gMTyZeZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Body augmentations are respected and valued",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.1SEYbzkH5gMTyZeZ"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "ZAPtBi0WOaauN2y7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Body ornamentations signify castes or roles",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.ZAPtBi0WOaauN2y7"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "hRnLWTWcZ6bOtm72",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conceals individual identity",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.hRnLWTWcZ6bOtm72"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "kcB1mGcuXuTTQBHF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dependent on an addictive substance",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.kcB1mGcuXuTTQBHF"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "61Gbl8AHCrK05qiM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distinctive or elaborate clothing",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.61Gbl8AHCrK05qiM"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "0giuqpIjOVeFnUP6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elite soldiers provide defense or serve as bodyguards",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.0giuqpIjOVeFnUP6"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "eX7UtM3oNWh0Ss3o",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Favors a signature weapon",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.eX7UtM3oNWh0Ss3o"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "8xQC10bBFnSAHbIa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guided by superstition or prophecy",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.8xQC10bBFnSAHbIa"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "WpzDOfIoD9JI9C3Y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavily stratified social structure",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.WpzDOfIoD9JI9C3Y"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "muV8VWcfP8MIhP76",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hoards precursor artifacts",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.muV8VWcfP8MIhP76"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "QMuRUsUaimVzcY0D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Honors the fallen through unusual death rites",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.QMuRUsUaimVzcY0D"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "oC0PBUA33pGzWQuf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Idolizes a long-dead founder or martyr",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.oC0PBUA33pGzWQuf"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "CzYx2D1ti0bh6e7y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keeps exhaustive records or archives",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.CzYx2D1ti0bh6e7y"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "RBCGvEaoMxazmMl5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lives off-planet in spaceborne fleets",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.RBCGvEaoMxazmMl5"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "FN8UyswrlUX386z6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Members take a new name when joining the faction",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.FN8UyswrlUX386z6"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "mouEM1wQjjtI1yJm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nomadic people and mobile operations",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.mouEM1wQjjtI1yJm"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "hZ6VOQTgiGGHLwCL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operates under strict codes or laws",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.hZ6VOQTgiGGHLwCL"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "zlmpWwmnhoZehQ5n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recognizes others through a distinctive greeting or gesture",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.zlmpWwmnhoZehQ5n"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "wC5eoYhXPxizdutd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reliant on machine intelligence",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.wC5eoYhXPxizdutd"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "FMnwd8cTj6UfvJpn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resolves disputes through formal duels",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.FMnwd8cTj6UfvJpn"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "HSbXMQ0o9WsQiih9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rites of adulthood or ascension",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.HSbXMQ0o9WsQiih9"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "refuyQ1C8yMSRLxc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuns or distrusts machine intelligence",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.refuyQ1C8yMSRLxc"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "SuWzsVBnn0RlvG3M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starships share a distinctive and recognizable profile",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.SuWzsVBnn0RlvG3M"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "wo3KAkDKa5OIfdfd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suspicious of outsiders",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.wo3KAkDKa5OIfdfd"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "FkLAbbihVxpgN2rO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symbiotic relationship with a specific type of creature",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.FkLAbbihVxpgN2rO"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "wQwlV1o4nvM7HI7y",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trades in a unique currency or commodity",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.wQwlV1o4nvM7HI7y"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "aQ7wZYMUsBASQ8vw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trains in a demanding physical discipline or martial art",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.aQ7wZYMUsBASQ8vw"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "Av9SGZerTB3EEA9G",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wields unnatural abilities or strange technologies",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.Av9SGZerTB3EEA9G"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "FcoeL1Kxqvj5pOAi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Work or environment causes mutations",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.FcoeL1Kxqvj5pOAi"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "HHXqSw3zhgc4CKF6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!000XYhjOoHW6hKAP.HHXqSw3zhgc4CKF6"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Roll or pick known characteristics of the faction and its members using this table. But keep in mind that even within a small or specialized faction, there are no absolutes. These quirks represent common attitudes, practices, or approaches, but are not universal to every member of that faction. Leave room in your portrayal for diversity and contradictions.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Quirks",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/quirks_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676597414,
+    "modifiedTime": 1699035887460,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "000XYhjOoHW6hKAP",
+  "sort": 3950000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!000XYhjOoHW6hKAP"
+}

@@ -3,198 +3,341 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Bundles of nerve fibers",
       "range": [
         1,
         8
       ],
       "_id": "OdfyZbkb7Vahowrg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bundles of nerve fibers",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.OdfyZbkb7Vahowrg"
     },
     {
-      "text": "Decaying or dying cells",
       "range": [
         9,
         16
       ],
       "_id": "9GRTGsWZNDl4nlg1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decaying or dying cells",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.9GRTGsWZNDl4nlg1"
     },
     {
-      "text": "Dilating openings",
       "range": [
         17,
         24
       ],
       "_id": "nOU68iHMpaS4ms1g",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dilating openings",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.nOU68iHMpaS4ms1g"
     },
     {
-      "text": "Large bending joints",
       "range": [
         25,
         32
       ],
       "_id": "FBVLVfnericKbwK5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large bending joints",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.FBVLVfnericKbwK5"
     },
     {
-      "text": "Protruding bones",
       "range": [
         33,
         40
       ],
       "_id": "4eGnpfphoypciygE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protruding bones",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.4eGnpfphoypciygE"
     },
     {
-      "text": "Rivers of blood",
       "range": [
         41,
         48
       ],
       "_id": "XjdvNHgPUkLPjc2e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivers of blood",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.XjdvNHgPUkLPjc2e"
     },
     {
-      "text": "Sacs of fluid",
       "range": [
         49,
         56
       ],
       "_id": "d5N6thob0i2gvDiF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sacs of fluid",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.d5N6thob0i2gvDiF"
     },
     {
-      "text": "Strange growths or nodules",
       "range": [
         57,
         64
       ],
       "_id": "dALUYuCQYruxgE2S",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strange growths or nodules",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.dALUYuCQYruxgE2S"
     },
     {
-      "text": "Symbiotic lifeforms at work",
       "range": [
         65,
         72
       ],
       "_id": "sZa6lKyAj9vUNqqC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symbiotic lifeforms at work",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.sZa6lKyAj9vUNqqC"
     },
     {
-      "text": "Tendons or connective tissues",
       "range": [
         73,
         80
       ],
       "_id": "mGhS60Igmc1XKIWb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tendons or connective tissues",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.mGhS60Igmc1XKIWb"
     },
     {
-      "text": "Undulating halls",
       "range": [
         81,
         88
       ],
       "_id": "pOcDtzgk4ehS8IND",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undulating halls",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.pOcDtzgk4ehS8IND"
     },
     {
-      "text": "Winding nutrient passageways",
       "range": [
         89,
         96
       ],
       "_id": "kny1jqrOcC05HOVd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Winding nutrient passageways",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.kny1jqrOcC05HOVd"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         97,
         100
       ],
       "_id": "1JNvC96c36Ko6jIP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!oDv2cXFa85vpTDVr.1JNvC96c36Ko6jIP"
     }
   ],
@@ -203,14 +346,23 @@
   "description": "<p>Inside a living creature, microscopic or colossal.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Lifeform/Feature",
+      "category": "Starsmith/Oracles/Location_Theme/Lifeform",
+      "dsid": "oracle_rollable:starforged/location_theme/lifeform/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676712174,
     "modifiedTime": 1699036080520,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "oDv2cXFa85vpTDVr",
   "sort": 100000,

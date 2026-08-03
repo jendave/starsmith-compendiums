@@ -3,453 +3,783 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Aura of cognition suppression or memory wiping",
       "range": [
         1,
         3
       ],
       "_id": "0wjVLkR69NxsiYXi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aura of cognition suppression or memory wiping",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.0wjVLkR69NxsiYXi"
     },
     {
-      "text": "Automated message",
       "range": [
         4,
         7
       ],
       "_id": "w1wvFyc9ZsHcELuU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated message",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.w1wvFyc9ZsHcELuU"
     },
     {
-      "text": "Claustrophobic entrance",
       "range": [
         8,
         10
       ],
       "_id": "BmYl7Cr0rMRhJxUz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Claustrophobic entrance",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.BmYl7Cr0rMRhJxUz"
     },
     {
-      "text": "Collapsed structure",
       "range": [
         11,
         14
       ],
       "_id": "ucefNBb5noEwkpNI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collapsed structure",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.ucefNBb5noEwkpNI"
     },
     {
-      "text": "Damaged exterior",
       "range": [
         15,
         17
       ],
       "_id": "t1ycMErQ5zjXbT1L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Damaged exterior",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.t1ycMErQ5zjXbT1L"
     },
     {
-      "text": "Designed for non-humanoids",
       "range": [
         18,
         20
       ],
       "_id": "SHZMcRRgVva3cpum",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Designed for non-humanoids",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.SHZMcRRgVva3cpum"
     },
     {
-      "text": "Electrostatic field",
       "range": [
         21,
         23
       ],
       "_id": "8ZNTgqCKUppKgGgH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrostatic field",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.8ZNTgqCKUppKgGgH"
     },
     {
-      "text": "Encased in swirling force",
       "range": [
         24,
         26
       ],
       "_id": "YUNz4d3LCAex8P6x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Encased in swirling force",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.YUNz4d3LCAex8P6x"
     },
     {
-      "text": "Energy surges",
       "range": [
         27,
         30
       ],
       "_id": "m1jWdhVNAMwuj0tQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy surges",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.m1jWdhVNAMwuj0tQ"
     },
     {
-      "text": "Environment threatens the vault",
       "range": [
         31,
         33
       ],
       "_id": "E2T4q79tspSADC2d",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environment threatens the vault",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.E2T4q79tspSADC2d"
     },
     {
-      "text": "Evidence of invasive lifeforms",
       "range": [
         34,
         36
       ],
       "_id": "lJowPe4Htv4hNxk5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of invasive lifeforms",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.lJowPe4Htv4hNxk5"
     },
     {
-      "text": "Flashes from the past",
       "range": [
         37,
         40
       ],
       "_id": "fwDPotVUKFdF7y3L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashes from the past",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.fwDPotVUKFdF7y3L"
     },
     {
-      "text": "Hauntingly shadowed",
       "range": [
         41,
         43
       ],
       "_id": "wNPN0YQ6UL55VmWI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hauntingly shadowed",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.wNPN0YQ6UL55VmWI"
     },
     {
-      "text": "Impossible readings",
       "range": [
         44,
         47
       ],
       "_id": "zVzMLxdRkRorjvhK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impossible readings",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.zVzMLxdRkRorjvhK"
     },
     {
-      "text": "Intermingled with terrain",
       "range": [
         48,
         51
       ],
       "_id": "406b3ZqjnqiIqtpk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intermingled with terrain",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.406b3ZqjnqiIqtpk"
     },
     {
-      "text": "Leaking viscous fluids",
       "range": [
         52,
         54
       ],
       "_id": "BJgSoXvQssQoBm8y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaking viscous fluids",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.BJgSoXvQssQoBm8y"
     },
     {
-      "text": "Malfunctioning cloaking device",
       "range": [
         55,
         58
       ],
       "_id": "7LnumiKVLiqtrfVm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malfunctioning cloaking device",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.7LnumiKVLiqtrfVm"
     },
     {
-      "text": "Multiple connections",
       "range": [
         59,
         61
       ],
       "_id": "ND9TGhjgxnD6HorX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multiple connections",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.ND9TGhjgxnD6HorX"
     },
     {
-      "text": "Nano-transforming exterior",
       "range": [
         62,
         64
       ],
       "_id": "rdHGRp39LsRcV04x",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nano-transforming exterior",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.rdHGRp39LsRcV04x"
     },
     {
-      "text": "Orbiting structures",
       "range": [
         65,
         67
       ],
       "_id": "vJcRhYoRxHBsVwxc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Orbiting structures",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.vJcRhYoRxHBsVwxc"
     },
     {
-      "text": "Patterns of flashing lights",
       "range": [
         68,
         70
       ],
       "_id": "mlxKB9u0trZg77w0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patterns of flashing lights",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.mlxKB9u0trZg77w0"
     },
     {
-      "text": "Penrose stairs or tridents",
       "range": [
         71,
         73
       ],
       "_id": "ycJe03ukpAWUo4rU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Penrose stairs or tridents",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.ycJe03ukpAWUo4rU"
     },
     {
-      "text": "Phasing through time",
       "range": [
         74,
         76
       ],
       "_id": "BdL3tNd29Kt62XWT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phasing through time",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.BdL3tNd29Kt62XWT"
     },
     {
-      "text": "Precarious point of entry",
       "range": [
         77,
         79
       ],
       "_id": "jIFa1C5GokbuUeXu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precarious point of entry",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.jIFa1C5GokbuUeXu"
     },
     {
-      "text": "Quantum entangled parts",
       "range": [
         80,
         82
       ],
       "_id": "KhQS5MSPL7Ek4F7W",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quantum entangled parts",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.KhQS5MSPL7Ek4F7W"
     },
     {
-      "text": "Reflective surfaces",
       "range": [
         83,
         85
       ],
       "_id": "degQBgQr93FtqO5U",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reflective surfaces",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.degQBgQr93FtqO5U"
     },
     {
-      "text": "Shifting gravitational fields",
       "range": [
         86,
         89
       ],
       "_id": "qx6T51sdkPRb4nnq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifting gravitational fields",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.qx6T51sdkPRb4nnq"
     },
     {
-      "text": "Surrounded by dangerous environment",
       "range": [
         90,
         92
       ],
       "_id": "ZBmBqnDt1ui8ytn8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surrounded by dangerous environment",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.ZBmBqnDt1ui8ytn8"
     },
     {
-      "text": "Warning signs left by previous explorers",
       "range": [
         93,
         95
       ],
       "_id": "1W3J7LUi7QMwpmxH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warning signs left by previous explorers",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.1W3J7LUi7QMwpmxH"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         96,
         100
       ],
       "_id": "ErGnjoWQ1pga29Ik",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!v3VP3uJAEm5ILL8l.ErGnjoWQ1pga29Ik"
     }
   ],
@@ -458,14 +788,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Outer_First_Look",
+      "category": "Starsmith/Oracles/Precursor_Vault",
+      "dsid": "oracle_rollable:starforged/precursor_vault/outer_first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676692257,
     "modifiedTime": 1699041905642,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "v3VP3uJAEm5ILL8l",
   "sort": 181250,

@@ -1,0 +1,636 @@
+{
+  "name": "Starship Type (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "9rlI9NA90sHPf5Iu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Troop carrier</p>",
+      "name": "Frigate",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.9rlI9NA90sHPf5Iu"
+    },
+    {
+      "range": [
+        3,
+        6
+      ],
+      "_id": "zXCa38rRfWDDATEY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Light defender</p>",
+      "name": "Spartan",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.zXCa38rRfWDDATEY"
+    },
+    {
+      "range": [
+        7,
+        11
+      ],
+      "_id": "8B7AmmGm7ZkZzclr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>System patrol ship</p>",
+      "name": "Garrison",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.8B7AmmGm7ZkZzclr"
+    },
+    {
+      "range": [
+        12,
+        14
+      ],
+      "_id": "ucwgSWXxvPwwFMOq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Medium defender</p>",
+      "name": "Corinthian",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.ucwgSWXxvPwwFMOq"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "MORL01OAmDV5RLL0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Heavy defender</p>",
+      "name": "Centurion",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.MORL01OAmDV5RLL0"
+    },
+    {
+      "range": [
+        17,
+        19
+      ],
+      "_id": "aA3B3ux1SJ508OC7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Solo racing ship</p>",
+      "name": "Flier",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.aA3B3ux1SJ508OC7"
+    },
+    {
+      "range": [
+        20,
+        22
+      ],
+      "_id": "entI8qj7xk3MaRbs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mobile fortress</p>",
+      "name": "Castle",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.entI8qj7xk3MaRbs"
+    },
+    {
+      "range": [
+        23,
+        27
+      ],
+      "_id": "kzNpIbxqdG8mNQwa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Gas collector</p>",
+      "name": "Respirator",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.kzNpIbxqdG8mNQwa"
+    },
+    {
+      "range": [
+        28,
+        33
+      ],
+      "_id": "ag61TxZmiDyDFYcl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Massive troop transport</p>",
+      "name": "Invader",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.ag61TxZmiDyDFYcl"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "3ZVck1DWt5OW66Jf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mine layer</p>",
+      "name": "Crawler",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.3ZVck1DWt5OW66Jf"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "NdJchktZ6KHrtzS5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Planet killer</p>",
+      "name": "Destroyer",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.NdJchktZ6KHrtzS5"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "3VXyeKCIrsSZEaPZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Deep space science vessel</p>",
+      "name": "Oracle",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.3VXyeKCIrsSZEaPZ"
+    },
+    {
+      "range": [
+        43,
+        47
+      ],
+      "_id": "6YpB9a1JFK2uzv7k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Science vessel</p>",
+      "name": "Discovery",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.6YpB9a1JFK2uzv7k"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "GpBPT5lgxWfzcGS9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": " (Mobile drydock)",
+      "name": "Shipwright`",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.GpBPT5lgxWfzcGS9"
+    },
+    {
+      "range": [
+        51,
+        56
+      ],
+      "_id": "gNHUL8QTWK1vd4Rd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mobile mineral processor</p>",
+      "name": "Distiller",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.gNHUL8QTWK1vd4Rd"
+    },
+    {
+      "range": [
+        57,
+        61
+      ],
+      "_id": "zTl8nwbaCGDegr1R",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Planetary lander</p>",
+      "name": "Amphibian",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.zTl8nwbaCGDegr1R"
+    },
+    {
+      "range": [
+        62,
+        64
+      ],
+      "_id": "mhTHODksyRybXve6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unmanned transport</p>",
+      "name": "Train",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.mhTHODksyRybXve6"
+    },
+    {
+      "range": [
+        65,
+        67
+      ],
+      "_id": "UMxMupcf1BfHAzdP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Short burst Eidolon drive ship</p>",
+      "name": "Jumper",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.UMxMupcf1BfHAzdP"
+    },
+    {
+      "range": [
+        68,
+        82
+      ],
+      "_id": "076xjCLIHxwHI4h3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/starship/mission\">\n    <i class=\"fa fa-caret-right\"></i> Starship Mission\n</a></p>",
+      "name": "Multipurpose",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.076xjCLIHxwHI4h3"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "l1DZi5l4sX1ta0vQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusual or unknown</p>",
+      "name": "",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.l1DZi5l4sX1ta0vQ"
+    },
+    {
+      "range": [
+        85,
+        94
+      ],
+      "_id": "IvVLyBb3K9TlrbjI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/starship/fleet_starsmith\"><i class=\"fa fa-caret-right\"></i> Fleet</a></p>",
+      "name": "",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.IvVLyBb3K9TlrbjI"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "UcPJi4rXc4NwaAn3",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ships in conflict (roll twice)</p>",
+      "name": "Starship Type (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pBfCCKylt1qhAoPI",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.UcPJi4rXc4NwaAn3"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "jT6hL2cM8wYn4qKb",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ships in conflict (roll twice)</p>",
+      "name": "Starship Type (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.pBfCCKylt1qhAoPI",
+      "_key": "!tables.results!pBfCCKylt1qhAoPI.jT6hL2cM8wYn4qKb"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/Type",
+      "category": "Starsmith/Oracles/Starship",
+      "dsid": "oracle_rollable:starforged/starship/type_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676461192,
+    "modifiedTime": 1693731314211,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "pBfCCKylt1qhAoPI",
+  "sort": 44141,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!pBfCCKylt1qhAoPI"
+}

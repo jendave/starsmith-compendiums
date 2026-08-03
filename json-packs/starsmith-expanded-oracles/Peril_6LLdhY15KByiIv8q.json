@@ -3,169 +3,318 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Dangerous machinery",
       "range": [
         1,
         10
       ],
       "_id": "Pkb2Y3sXfc6SVkuD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous machinery",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.Pkb2Y3sXfc6SVkuD"
     },
     {
-      "text": "Disruption to the supply chain",
       "range": [
         11,
         20
       ],
       "_id": "3QI9jT4QdxGiL1hT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disruption to the supply chain",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.3QI9jT4QdxGiL1hT"
     },
     {
-      "text": "Disturbing evidence of exploited  labor",
       "range": [
         21,
         30
       ],
       "_id": "q6KqxM8Z7g25GjPO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disturbing evidence of exploited  labor",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.q6KqxM8Z7g25GjPO"
     },
     {
-      "text": "Hazardous materials",
       "range": [
         31,
         40
       ],
       "_id": "kPZWcqa9DeDKIrZW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous materials",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.kPZWcqa9DeDKIrZW"
     },
     {
-      "text": "Impending industrial disaster",
       "range": [
         41,
         50
       ],
       "_id": "4pq0ziy5cGWrkP3e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impending industrial disaster",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.4pq0ziy5cGWrkP3e"
     },
     {
-      "text": "Industrial espionage",
       "range": [
         51,
         60
       ],
       "_id": "xwox6NefJjiYwzIp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial espionage",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.xwox6NefJjiYwzIp"
     },
     {
-      "text": "Livestock on the loose",
       "range": [
         61,
         70
       ],
       "_id": "Urj9z7h2VysaMznw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Livestock on the loose",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.Urj9z7h2VysaMznw"
     },
     {
-      "text": "Malfunctioning automation",
       "range": [
         71,
         80
       ],
       "_id": "QccuRvEsGMVk3Mbd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malfunctioning automation",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.QccuRvEsGMVk3Mbd"
     },
     {
-      "text": "Smuggling outfit at work",
       "range": [
         81,
         90
       ],
       "_id": "SRoxHzJWFRQAI4DC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smuggling outfit at work",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.SRoxHzJWFRQAI4DC"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "TvGZ059HJOIXq529",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!6LLdhY15KByiIv8q.TvGZ059HJOIXq529"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "cZHTnCt3XcaTSNv4",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6LLdhY15KByiIv8q",
       "_key": "!tables.results!6LLdhY15KByiIv8q.cZHTnCt3XcaTSNv4"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "EKHMrdg2cDz7xIXQ",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.6LLdhY15KByiIv8q",
+      "_key": "!tables.results!6LLdhY15KByiIv8q.EKHMrdg2cDz7xIXQ"
     }
   ],
   "folder": "Px5AroYzQ1mF5jOi",
@@ -173,14 +322,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Production/Peril",
+      "category": "Starsmith/Oracles/District/Production",
+      "dsid": "oracle_rollable:starforged/district/production/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658141,
     "modifiedTime": 1699035683170,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "6LLdhY15KByiIv8q",
   "sort": 400000,

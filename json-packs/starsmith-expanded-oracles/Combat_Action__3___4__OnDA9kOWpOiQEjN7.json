@@ -3,466 +3,890 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Aid another",
       "range": [
         1,
         3
       ],
       "_id": "5WBOUUsPpvlqwGlA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aid another",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.5WBOUUsPpvlqwGlA"
     },
     {
-      "text": "Arrogantly play with the opponent",
       "range": [
         4,
         6
       ],
       "_id": "1VMnKHNGQK6YK4cs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arrogantly play with the opponent",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.1VMnKHNGQK6YK4cs"
     },
     {
-      "text": "Attempt a one-in-a-million strike",
       "range": [
         7,
         9
       ],
       "_id": "m4Q2X86uugs6VCMe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Attempt a one-in-a-million strike",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.m4Q2X86uugs6VCMe"
     },
     {
-      "text": "Attempt to immobilize",
       "range": [
         10,
         12
       ],
       "_id": "PoKhSk4fwR9ygols",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Attempt to immobilize",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.PoKhSk4fwR9ygols"
     },
     {
-      "text": "Bargain for an end to conflict",
       "range": [
         13,
         15
       ],
       "_id": "ZlOrj8yeVCf2SyY9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bargain for an end to conflict",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.ZlOrj8yeVCf2SyY9"
     },
     {
-      "text": "Buy time for a surprise attack",
       "range": [
         16,
         18
       ],
       "_id": "fz8c3gKPY5yAagZN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Buy time for a surprise attack",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.fz8c3gKPY5yAagZN"
     },
     {
-      "text": "Charge boldly",
       "range": [
         19,
         21
       ],
       "_id": "LHpInM6OwqOQ3ZSs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charge boldly",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.LHpInM6OwqOQ3ZSs"
     },
     {
-      "text": "Counter with a riposte maneuver",
       "range": [
         22,
         24
       ],
       "_id": "bqStaX82KzJMiP80",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Counter with a riposte maneuver",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.bqStaX82KzJMiP80"
     },
     {
-      "text": "Deploy automated defenses",
       "range": [
         25,
         27
       ],
       "_id": "hjRRCq7cAWp8XvOb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deploy automated defenses",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.hjRRCq7cAWp8XvOb"
     },
     {
-      "text": "Disengage momentarily to prepare an action",
       "range": [
         28,
         30
       ],
       "_id": "4XS7TJA4iF3jF1SX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disengage momentarily to prepare an action",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.4XS7TJA4iF3jF1SX"
     },
     {
-      "text": "Establish a new objective",
       "range": [
         31,
         33
       ],
       "_id": "30OMzyfeLtIh2fAi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Establish a new objective",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.30OMzyfeLtIh2fAi"
     },
     {
-      "text": "Fight a battle of attrition",
       "range": [
         34,
         36
       ],
       "_id": "1uAM204dTP4D3q2m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fight a battle of attrition",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.1uAM204dTP4D3q2m"
     },
     {
-      "text": "Force involvement of innocent bystanders",
       "range": [
         37,
         39
       ],
       "_id": "DEZEb7WW9emOfPtT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Force involvement of innocent bystanders",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.DEZEb7WW9emOfPtT"
     },
     {
-      "text": "Give a choice of who or what to save",
       "range": [
         40,
         42
       ],
       "_id": "iu7yfQQLXaldhwGg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Give a choice of who or what to save",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.iu7yfQQLXaldhwGg"
     },
     {
-      "text": "Herd opponent towards a trap",
       "range": [
         43,
         45
       ],
       "_id": "u9bPWvg2cjCrvpAx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Herd opponent towards a trap",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.u9bPWvg2cjCrvpAx"
     },
     {
-      "text": "Leverage greater strength",
       "range": [
         46,
         48
       ],
       "_id": "zWXhlzso4g6vq165",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leverage greater strength",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.zWXhlzso4g6vq165"
     },
     {
-      "text": "Make a coordinated strike",
       "range": [
         49,
         51
       ],
       "_id": "3AITzJazwc3dDEwz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a coordinated strike",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.3AITzJazwc3dDEwz"
     },
     {
-      "text": "Make a swift and showy attack",
       "range": [
         52,
         54
       ],
       "_id": "5bg0LLTwU807Ku1d",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Make a swift and showy attack",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.5bg0LLTwU807Ku1d"
     },
     {
-      "text": "Offer a quick and clean kill",
       "range": [
         55,
         57
       ],
       "_id": "h6WWAfkjerbG4gJu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offer a quick and clean kill",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.h6WWAfkjerbG4gJu"
     },
     {
-      "text": "Overwhelm a weapon, system, or piece of equipment",
       "range": [
         58,
         60
       ],
       "_id": "HOWf26o9uYXlLIdI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Overwhelm a weapon, system, or piece of equipment",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.HOWf26o9uYXlLIdI"
     },
     {
-      "text": "Probe defenses",
       "range": [
         61,
         63
       ],
       "_id": "d0BNLmT5aJ7Zv55F",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Probe defenses",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.d0BNLmT5aJ7Zv55F"
     },
     {
-      "text": "Release chemical agent",
       "range": [
         64,
         66
       ],
       "_id": "Zl9077zgzJHJRBsU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Release chemical agent",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.Zl9077zgzJHJRBsU"
     },
     {
-      "text": "Release someone or something as a distraction",
       "range": [
         67,
         69
       ],
       "_id": "WJiY4wqIVcRpEWIl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Release someone or something as a distraction",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.WJiY4wqIVcRpEWIl"
     },
     {
-      "text": "Retreat towards cover",
       "range": [
         70,
         72
       ],
       "_id": "tLYRMkODobdALFGR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Retreat towards cover",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.tLYRMkODobdALFGR"
     },
     {
-      "text": "Reveal a truth that twists the knife",
       "range": [
         73,
         75
       ],
       "_id": "NRt8CFJ5lbIVSzQB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveal a truth that twists the knife",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.NRt8CFJ5lbIVSzQB"
     },
     {
-      "text": "Sacrifice another for the cause",
       "range": [
         76,
         78
       ],
       "_id": "IPlEdXhG8zRP6SlP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sacrifice another for the cause",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.IPlEdXhG8zRP6SlP"
     },
     {
-      "text": "Secure an advantageous position",
       "range": [
         79,
         81
       ],
       "_id": "04NBREREdBGDkGBa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secure an advantageous position",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.04NBREREdBGDkGBa"
     },
     {
-      "text": "Strike secondary systems or allies",
       "range": [
         82,
         84
       ],
       "_id": "h6DXHlq6bddoB6x9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strike secondary systems or allies",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.h6DXHlq6bddoB6x9"
     },
     {
-      "text": "Switch tactics as a ruse",
       "range": [
         85,
         87
       ],
       "_id": "tPxGUM9MjwCsvdwF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Switch tactics as a ruse",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.tPxGUM9MjwCsvdwF"
     },
     {
-      "text": "Take a calculated risk",
       "range": [
         88,
         90
       ],
       "_id": "jzviFvBZhk9DXfzS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Take a calculated risk",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.jzviFvBZhk9DXfzS"
     },
     {
-      "text": "Upgrade defenses",
       "range": [
         91,
         93
       ],
       "_id": "VkEBxcVaX9LFqdio",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Upgrade defenses",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.VkEBxcVaX9LFqdio"
     },
     {
-      "text": "Use opponent's momentum against them",
       "range": [
         94,
         96
       ],
       "_id": "CPrdM6bXLX61C1Mv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Use opponent's momentum against them",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.CPrdM6bXLX61C1Mv"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "39eGq1zkOe5muKUE",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Combat Action (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OnDA9kOWpOiQEjN7",
       "_key": "!tables.results!OnDA9kOWpOiQEjN7.39eGq1zkOe5muKUE"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "Y8zudb8FwF7mhwH1",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Combat Action (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.OnDA9kOWpOiQEjN7",
+      "_key": "!tables.results!OnDA9kOWpOiQEjN7.Y8zudb8FwF7mhwH1"
     }
   ],
   "folder": "EZdpqOZMdqwGsU7q",
@@ -470,14 +894,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Combat_Action",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/combat_action_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676736020,
     "modifiedTime": 1693071647919,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "OnDA9kOWpOiQEjN7",
   "sort": 1550000,

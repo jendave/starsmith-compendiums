@@ -1,0 +1,920 @@
+{
+  "name": "Settlement Trouble (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "G1aMl6E9fe14546n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rival settlement",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.G1aMl6E9fe14546n"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "gFzqCcVEBK2DzCs6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "There's a score to settle",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.gFzqCcVEBK2DzCs6"
+    },
+    {
+      "range": [
+        7,
+        8
+      ],
+      "_id": "NSGdFqrKlI6Q14ES",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mine collapse",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.NSGdFqrKlI6Q14ES"
+    },
+    {
+      "range": [
+        9,
+        11
+      ],
+      "_id": "eHjWHPyp4KuaVATX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Incompetent leadership",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.eHjWHPyp4KuaVATX"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "xUVWnoKkRlEvw2eX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous tradition",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.xUVWnoKkRlEvw2eX"
+    },
+    {
+      "range": [
+        14,
+        17
+      ],
+      "_id": "tIGOl7D8FnBCanRE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reckless warmongering",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.tIGOl7D8FnBCanRE"
+    },
+    {
+      "range": [
+        18,
+        21
+      ],
+      "_id": "DqVKipdVpcNy5izv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirates plague travelers",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.DqVKipdVpcNy5izv"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "FcrFKq6MD6zol9R5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Resources stolen",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.FcrFKq6MD6zol9R5"
+    },
+    {
+      "range": [
+        25,
+        28
+      ],
+      "_id": "4EcFcKhRwbvakIEG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blighted crops",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.4EcFcKhRwbvakIEG"
+    },
+    {
+      "range": [
+        29,
+        32
+      ],
+      "_id": "M59IG4ARwBzwVATX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political protests",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.M59IG4ARwBzwVATX"
+    },
+    {
+      "range": [
+        33,
+        34
+      ],
+      "_id": "DdEVf5B0iZja4a0v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Detrimental isolationism",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.DdEVf5B0iZja4a0v"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "GfCdPoaXSYAzvziI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defying of physics",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.GfCdPoaXSYAzvziI"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "XRbrYhsdv5PCa1gO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prolific lifeforms",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.XRbrYhsdv5PCa1gO"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "OpBcHRVSFouZV1vW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Loss of vehicles",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.OpBcHRVSFouZV1vW"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "khT6ltACj8cQU7YC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Treaty abandoned",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.khT6ltACj8cQU7YC"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "KWDpOysUQU5yah87",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Communications lost",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.KWDpOysUQU5yah87"
+    },
+    {
+      "range": [
+        52,
+        53
+      ],
+      "_id": "ocXwXvB4S8OEtJVk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symbiotic lifeforms lost",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.ocXwXvB4S8OEtJVk"
+    },
+    {
+      "range": [
+        54,
+        55
+      ],
+      "_id": "vB7vKfgil1pS5cjT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "People refusing taxes",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.vB7vKfgil1pS5cjT"
+    },
+    {
+      "range": [
+        56,
+        57
+      ],
+      "_id": "UQl30ejvi1f9ilHn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Open defiance of laws",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.UQl30ejvi1f9ilHn"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "K5l0JPOWU6FSsyp6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous celestial event",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.K5l0JPOWU6FSsyp6"
+    },
+    {
+      "range": [
+        61,
+        62
+      ],
+      "_id": "zpXxPAWyH2Xy7bJj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nutrient deficiencies",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.zpXxPAWyH2Xy7bJj"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "CTTuZ2UyFX2mN0X9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "War erupts",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.CTTuZ2UyFX2mN0X9"
+    },
+    {
+      "range": [
+        66,
+        67
+      ],
+      "_id": "gkqGljUmrrFCahiy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oligarchs tighten grip",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.gkqGljUmrrFCahiy"
+    },
+    {
+      "range": [
+        68,
+        69
+      ],
+      "_id": "BTT8BN52VYG6F20O",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Habitat compromised",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.BTT8BN52VYG6F20O"
+    },
+    {
+      "range": [
+        70,
+        71
+      ],
+      "_id": "2nVhuKMGeRFBUxQ7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stranger sows discord",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.2nVhuKMGeRFBUxQ7"
+    },
+    {
+      "range": [
+        72,
+        74
+      ],
+      "_id": "lTjXGv6HIcVFjN2n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fleecing the population",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.lTjXGv6HIcVFjN2n"
+    },
+    {
+      "range": [
+        75,
+        76
+      ],
+      "_id": "dGzypijf3H2ydZAW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone is threatened",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.dGzypijf3H2ydZAW"
+    },
+    {
+      "range": [
+        77,
+        78
+      ],
+      "_id": "khUQKxtr1xRktziV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assassination attempt",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.khUQKxtr1xRktziV"
+    },
+    {
+      "range": [
+        79,
+        80
+      ],
+      "_id": "QJuGTo8FCa1pmMVY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defenses compromised",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.QJuGTo8FCa1pmMVY"
+    },
+    {
+      "range": [
+        81,
+        83
+      ],
+      "_id": "BcN2v0L1OLVnHT5v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fearful witch hunts",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.BcN2v0L1OLVnHT5v"
+    },
+    {
+      "range": [
+        84,
+        86
+      ],
+      "_id": "hAHKVtWueVqAhXAm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shift in gravity",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.hAHKVtWueVqAhXAm"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "a2Agh8p3vRg0oozg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inconsistent energy supply",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.a2Agh8p3vRg0oozg"
+    },
+    {
+      "range": [
+        89,
+        90
+      ],
+      "_id": "adEBMgHDgMimXPYh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vulnerable people group",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.adEBMgHDgMimXPYh"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "WDVMYsSl3SMAdz0a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!W6VGcvzStPUK4Yyc.WDVMYsSl3SMAdz0a"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Check the Settlement Trouble table when it’s appropriate for your character to know or uncover these details. The Settlement Trouble table provides a broad description of the site’s most dramatic current issue.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Trouble",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/trouble_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676424438,
+    "modifiedTime": 1699036649914,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "W6VGcvzStPUK4Yyc",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!W6VGcvzStPUK4Yyc"
+}

@@ -1,0 +1,894 @@
+{
+  "name": "Faction Rumors (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "3WfPbEaiCMCdjx8t",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caught in the crossfire of feuding factions",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.3WfPbEaiCMCdjx8t"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "QFYquoiylg0kNJcJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colluding with a criminal enterprise",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.QFYquoiylg0kNJcJ"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "TecF4O7eQ6JJjjTS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupted by a dangerous power",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.TecF4O7eQ6JJjjTS"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "KfodD35aRCaqVbmr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Critical resource is in short supply",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.KfodD35aRCaqVbmr"
+    },
+    {
+      "range": [
+        13,
+        15
+      ],
+      "_id": "xuF3uTA8QNaDA5Mc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defenses are overextended",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.xuF3uTA8QNaDA5Mc"
+    },
+    {
+      "range": [
+        16,
+        18
+      ],
+      "_id": "NSHrHpEFMLGuWH4T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Developing revolutionary technology",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.NSHrHpEFMLGuWH4T"
+    },
+    {
+      "range": [
+        19,
+        21
+      ],
+      "_id": "Yqt2FrDaTxjZmudj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Digital systems are corrupted or infiltrated",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.Yqt2FrDaTxjZmudj"
+    },
+    {
+      "range": [
+        22,
+        24
+      ],
+      "_id": "lwKFwsuRlnSmlek7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heavily in debt",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.lwKFwsuRlnSmlek7"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "feoZDR2U5vAUPqID",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hit hard by a recent attack or calamity",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.feoZDR2U5vAUPqID"
+    },
+    {
+      "range": [
+        28,
+        30
+      ],
+      "_id": "ShDW7IQ5usdqD78v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holds a powerful artifact",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.ShDW7IQ5usdqD78v"
+    },
+    {
+      "range": [
+        31,
+        33
+      ],
+      "_id": "CQDFA1UJCe7il691",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holds incriminating information against a leader or faction",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.CQDFA1UJCe7il691"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "Lv4acTCpAyB9tlz6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hoarding a valuable commodity",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.Lv4acTCpAyB9tlz6"
+    },
+    {
+      "range": [
+        37,
+        39
+      ],
+      "_id": "UlJ5gaO5lUWpXoI5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Infiltrated by a rival faction",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.UlJ5gaO5lUWpXoI5"
+    },
+    {
+      "range": [
+        40,
+        42
+      ],
+      "_id": "dviKtH8g3PPvvELe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Knows the location of a fabled treasure or lost technology",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.dviKtH8g3PPvvELe"
+    },
+    {
+      "range": [
+        43,
+        45
+      ],
+      "_id": "ExbiwaOOYNQ34pxw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaders are haunted by a dark prophecy",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.ExbiwaOOYNQ34pxw"
+    },
+    {
+      "range": [
+        46,
+        48
+      ],
+      "_id": "5heW7MQNGEycCoE5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaders are incompetent",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.5heW7MQNGEycCoE5"
+    },
+    {
+      "range": [
+        49,
+        51
+      ],
+      "_id": "PRnO18qf7AciXjcp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leaders are puppets of another power or faction",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.PRnO18qf7AciXjcp"
+    },
+    {
+      "range": [
+        52,
+        54
+      ],
+      "_id": "PrkkjZjPcVj5bDWX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lesser members of the leadership are plotting a coup",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.PrkkjZjPcVj5bDWX"
+    },
+    {
+      "range": [
+        55,
+        57
+      ],
+      "_id": "rrZNIN7GyTVvLqC4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New belief or religion is creating a schism among members",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.rrZNIN7GyTVvLqC4"
+    },
+    {
+      "range": [
+        58,
+        60
+      ],
+      "_id": "OBhnQYRs8qg7e6Yp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Operations are a false front for their true purpose",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.OBhnQYRs8qg7e6Yp"
+    },
+    {
+      "range": [
+        61,
+        63
+      ],
+      "_id": "T6FhnU2Xr7cagBLv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Over-dependence on a failing or vulnerable technology",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.T6FhnU2Xr7cagBLv"
+    },
+    {
+      "range": [
+        64,
+        66
+      ],
+      "_id": "u0pi9DiumLxZeriZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plagued by infighting and low morale",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.u0pi9DiumLxZeriZ"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "DXzHkis9pq8gL9f6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plotting to betray an allied faction",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.DXzHkis9pq8gL9f6"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "XnPlLT9EK9KAhvhS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preparing a major offensive or operation",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.XnPlLT9EK9KAhvhS"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "kqJQlx2I0axf0Tcf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pulling the strings of a leader or faction",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.kqJQlx2I0axf0Tcf"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "pVEllFn4dtko3Jd9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recently acquired an unexpected fortune",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.pVEllFn4dtko3Jd9"
+    },
+    {
+      "range": [
+        79,
+        81
+      ],
+      "_id": "veaFGUYlboUQTs8e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secretly supporting a reviled faction",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.veaFGUYlboUQTs8e"
+    },
+    {
+      "range": [
+        82,
+        84
+      ],
+      "_id": "k5oRKTXlespLP0BI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sheltering an infamous or dangerous fugitive",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.k5oRKTXlespLP0BI"
+    },
+    {
+      "range": [
+        85,
+        87
+      ],
+      "_id": "bAJUNKVEmaSkTMbn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suffered destructive sabotage from within",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.bAJUNKVEmaSkTMbn"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "r0vxWRqEiJ3tbtJp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suffering a shortage of key workers or personnel",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.r0vxWRqEiJ3tbtJp"
+    },
+    {
+      "range": [
+        91,
+        93
+      ],
+      "_id": "GKs6kMOQRcCzXCIJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uprising or revolt is brewing from within",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.GKs6kMOQRcCzXCIJ"
+    },
+    {
+      "range": [
+        94,
+        96
+      ],
+      "_id": "yTzeH82qkvzUov8B",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vulnerable to attack or aggression",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.yTzeH82qkvzUov8B"
+    },
+    {
+      "range": [
+        97,
+        100
+      ],
+      "_id": "DBrU4ZZ7CAlodhIq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!DOLQckJPOzfE8JzY.DBrU4ZZ7CAlodhIq"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table when you are in a position to investigate a faction by uncovering secrets or fishing for gossip.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Rumors",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/rumors_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676597446,
+    "modifiedTime": 1699035933209,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "DOLQckJPOzfE8JzY",
+  "sort": 4100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!DOLQckJPOzfE8JzY"
+}

@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Corridor or walkway",
       "range": [
         1,
         20
       ],
       "_id": "pB8o8rPOUQGYglUX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corridor or walkway",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.pB8o8rPOUQGYglUX"
     },
     {
-      "text": "Roadway or back alley",
       "range": [
         21,
         40
       ],
       "_id": "Yin5QcSyW7zplXW0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roadway or back alley",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.Yin5QcSyW7zplXW0"
     },
     {
-      "text": "Hub or intersection",
       "range": [
         41,
         50
       ],
       "_id": "2cA1Vo9ARwodFnIk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hub or intersection",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.2cA1Vo9ARwodFnIk"
     },
     {
-      "text": "Transport tube or tunnel",
       "range": [
         51,
         60
       ],
       "_id": "uU7MF6ei5n5ft4Bd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transport tube or tunnel",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.uU7MF6ei5n5ft4Bd"
     },
     {
-      "text": "Airlock or external",
       "range": [
         61,
         65
       ],
       "_id": "8HaEB5PhYvoCnJiY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Airlock or external",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.8HaEB5PhYvoCnJiY"
     },
     {
-      "text": "Catwalk or bridge",
       "range": [
         66,
         70
       ],
       "_id": "SGXDCuK84toCUiXH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catwalk or bridge",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.SGXDCuK84toCUiXH"
     },
     {
-      "text": "Gated or locked entryway",
       "range": [
         71,
         75
       ],
       "_id": "1OS87KkcSPREhg8W",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gated or locked entryway",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.1OS87KkcSPREhg8W"
     },
     {
-      "text": "Lift or elevator",
       "range": [
         76,
         80
       ],
       "_id": "lOih82GXiUU8DDgP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lift or elevator",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.lOih82GXiUU8DDgP"
     },
     {
-      "text": "Personal transport",
       "range": [
         81,
         85
       ],
       "_id": "qWprU9pYHlKkd5ND",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Personal transport",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.qWprU9pYHlKkd5ND"
     },
     {
-      "text": "Security checkpoint",
       "range": [
         86,
         90
       ],
       "_id": "KDehl39ENHWY6qYE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security checkpoint",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.KDehl39ENHWY6qYE"
     },
     {
-      "text": "Shuttle pod",
       "range": [
         91,
         95
       ],
       "_id": "l8fIPgjO7uXKq85j",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shuttle pod",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.l8fIPgjO7uXKq85j"
     },
     {
-      "text": "Stairs or escalator",
       "range": [
         96,
         100
       ],
       "_id": "P0tkKrC2Ag4uS6q7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stairs or escalator",
+      "name": "",
       "_key": "!tables.results!aSjZRfT6EHRM31QA.P0tkKrC2Ag4uS6q7"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Access/Area",
+      "category": "Starsmith/Oracles/District/Access",
+      "dsid": "oracle_rollable:starforged/district/access/area_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658064,
     "modifiedTime": 1693870658691,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "aSjZRfT6EHRM31QA",
   "sort": 100000,

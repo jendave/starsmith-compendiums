@@ -3,214 +3,422 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Assassins",
       "range": [
         1,
         5
       ],
       "_id": "VOCOSb6KiRYWmWyP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assassins",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.VOCOSb6KiRYWmWyP"
     },
     {
-      "text": "Bounty hunters",
       "range": [
         6,
         10
       ],
       "_id": "oe5JpjgMQjhJ43d3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bounty hunters",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.oe5JpjgMQjhJ43d3"
     },
     {
-      "text": "Couriers",
       "range": [
         11,
         15
       ],
       "_id": "nRXTMmi3f6M42uzh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Couriers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.nRXTMmi3f6M42uzh"
     },
     {
-      "text": "Courtesans",
       "range": [
         16,
         20
       ],
       "_id": "AVVEk8EgfpVc4O5R",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Courtesans",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.AVVEk8EgfpVc4O5R"
     },
     {
-      "text": "Engineers",
       "range": [
         21,
         25
       ],
       "_id": "fxecV4BoGa6Q0SG4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.fxecV4BoGa6Q0SG4"
     },
     {
-      "text": "Healers",
       "range": [
         26,
         30
       ],
       "_id": "QOvviAGikOo0uv4F",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Healers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.QOvviAGikOo0uv4F"
     },
     {
-      "text": "Industrialists",
       "range": [
         31,
         40
       ],
       "_id": "ik50Brhqu7NXF5JL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrialists",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.ik50Brhqu7NXF5JL"
     },
     {
-      "text": "Mercenaries",
       "range": [
         41,
         50
       ],
       "_id": "uR0eFyJhj73rxwQd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mercenaries",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.uR0eFyJhj73rxwQd"
     },
     {
-      "text": "Merchants",
       "range": [
         51,
         60
       ],
       "_id": "4h40PhuSs8Gmx5Uj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Merchants",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.4h40PhuSs8Gmx5Uj"
     },
     {
-      "text": "Mystics",
       "range": [
         61,
         65
       ],
       "_id": "vx9IVLpx2JDsgrba",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mystics",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.vx9IVLpx2JDsgrba"
     },
     {
-      "text": "Navigators",
       "range": [
         66,
         75
       ],
       "_id": "f3B9SFdcTxKqPdpT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Navigators",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.f3B9SFdcTxKqPdpT"
     },
     {
-      "text": "Peacekeepers",
       "range": [
         76,
         80
       ],
       "_id": "cNUiR79iqofvgiLA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Peacekeepers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.cNUiR79iqofvgiLA"
     },
     {
-      "text": "Researchers",
       "range": [
         81,
         85
       ],
       "_id": "J5i7dAnDYgCaKQ6l",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Researchers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.J5i7dAnDYgCaKQ6l"
     },
     {
-      "text": "Spies",
       "range": [
         86,
         90
       ],
       "_id": "c2n8Ic7xlHsaGQqT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spies",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!k3ylcTmv45qOhxMM.c2n8Ic7xlHsaGQqT"
     },
     {
-      "text": "Roll twice",
       "range": [
         91,
         100
       ],
       "_id": "iWakgL9DmI01UHhh",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Guild (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.k3ylcTmv45qOhxMM",
       "_key": "!tables.results!k3ylcTmv45qOhxMM.iWakgL9DmI01UHhh"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "RQjYglHN7zix70j6",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Guild (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.k3ylcTmv45qOhxMM",
+      "_key": "!tables.results!k3ylcTmv45qOhxMM.RQjYglHN7zix70j6"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -218,14 +426,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Guild",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/guild_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597107,
     "modifiedTime": 1693070113380,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "k3ylcTmv45qOhxMM",
   "sort": 153125,

@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Draining water reveals a secret or clue",
       "range": [
         1,
         20
       ],
       "_id": "m4JKZdkS1KD8Zlld",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Draining water reveals a secret or clue",
+      "name": "",
       "_key": "!tables.results!O39GKpnyMuyam9pl.m4JKZdkS1KD8Zlld"
     },
     {
-      "text": "Erosion opens a shortcut or safer passage",
       "range": [
         21,
         40
       ],
       "_id": "HeLEfi49OJmqdK5F",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Erosion opens a shortcut or safer passage",
+      "name": "",
       "_key": "!tables.results!O39GKpnyMuyam9pl.HeLEfi49OJmqdK5F"
     },
     {
-      "text": "Opening for foes to be washed away",
       "range": [
         41,
         60
       ],
       "_id": "DbehyO0eJrw6b59J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening for foes to be washed away",
+      "name": "",
       "_key": "!tables.results!O39GKpnyMuyam9pl.DbehyO0eJrw6b59J"
     },
     {
-      "text": "Salvageable equipment",
       "range": [
         61,
         80
       ],
       "_id": "r6ujcvZ7OHs2O9pY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salvageable equipment",
+      "name": "",
       "_key": "!tables.results!O39GKpnyMuyam9pl.r6ujcvZ7OHs2O9pY"
     },
     {
-      "text": "Submerged vehicle intact",
       "range": [
         81,
         100
       ],
       "_id": "52oXPBZxmqDTvOtI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Submerged vehicle intact",
+      "name": "",
       "_key": "!tables.results!O39GKpnyMuyam9pl.52oXPBZxmqDTvOtI"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "<p>Murky waters or thick vapors have overtaken this place.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Location_Theme/Flooded/Opportunity",
+      "category": "Starsmith/Oracles/Location_Theme/Flooded",
+      "dsid": "oracle_rollable:starforged/location_theme/flooded/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676712159,
     "modifiedTime": 1693777321556,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "O39GKpnyMuyam9pl",
   "sort": 300000,

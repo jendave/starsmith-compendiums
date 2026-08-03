@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Directions, shortcut, or alternate path",
       "range": [
         1,
         20
       ],
       "_id": "oMv2Glpv2hEplpEY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Directions, shortcut, or alternate path",
+      "name": "",
       "_key": "!tables.results!4Dp4wHxjlsAt4lt7.oMv2Glpv2hEplpEY"
     },
     {
-      "text": "Guide for hire",
       "range": [
         21,
         40
       ],
       "_id": "PQENS86xg5BbARXA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guide for hire",
+      "name": "",
       "_key": "!tables.results!4Dp4wHxjlsAt4lt7.PQENS86xg5BbARXA"
     },
     {
-      "text": "Opening to outmaneuver or escape a threat or foe",
       "range": [
         41,
         60
       ],
       "_id": "duZm3v00RX1yrddA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to outmaneuver or escape a threat or foe",
+      "name": "",
       "_key": "!tables.results!4Dp4wHxjlsAt4lt7.duZm3v00RX1yrddA"
     },
     {
-      "text": "Public data access",
       "range": [
         61,
         80
       ],
       "_id": "wkpKwT4oxYgatVag",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Public data access",
+      "name": "",
       "_key": "!tables.results!4Dp4wHxjlsAt4lt7.wkpKwT4oxYgatVag"
     },
     {
-      "text": "Transportation secured",
       "range": [
         81,
         100
       ],
       "_id": "UjSlw3XF6jkaGSac",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transportation secured",
+      "name": "",
       "_key": "!tables.results!4Dp4wHxjlsAt4lt7.UjSlw3XF6jkaGSac"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Access/Opportunity",
+      "category": "Starsmith/Oracles/District/Access",
+      "dsid": "oracle_rollable:starforged/district/access/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658073,
     "modifiedTime": 1693870672963,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "4Dp4wHxjlsAt4lt7",
   "sort": 300000,

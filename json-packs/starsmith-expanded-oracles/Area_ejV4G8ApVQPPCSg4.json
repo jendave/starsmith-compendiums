@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Agricultural enhancement",
       "range": [
         1,
         8
       ],
       "_id": "l6ehXLu5FyJGmsiK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agricultural enhancement",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.l6ehXLu5FyJGmsiK"
     },
     {
-      "text": "Armament or defense",
       "range": [
         9,
         16
       ],
       "_id": "2qur6unX85JElccN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armament or defense",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.2qur6unX85JElccN"
     },
     {
-      "text": "Astronomy or starships",
       "range": [
         17,
         24
       ],
       "_id": "zF6zoHNS00f9rHr0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Astronomy or starships",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.zF6zoHNS00f9rHr0"
     },
     {
-      "text": "Chemistry or physics",
       "range": [
         25,
         32
       ],
       "_id": "OiutGOr8NB1GWnOM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chemistry or physics",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.OiutGOr8NB1GWnOM"
     },
     {
-      "text": "Computer or AI",
       "range": [
         33,
         40
       ],
       "_id": "3jmJ0GldS4so4wwa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Computer or AI",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.3jmJ0GldS4so4wwa"
     },
     {
-      "text": "Cybernetics or augments",
       "range": [
         41,
         48
       ],
       "_id": "qBT2QmsJkOy59cfO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cybernetics or augments",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.qBT2QmsJkOy59cfO"
     },
     {
-      "text": "Genetics or biology",
       "range": [
         49,
         56
       ],
       "_id": "Xt8bdOzv4irg8tNb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Genetics or biology",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.Xt8bdOzv4irg8tNb"
     },
     {
-      "text": "Historical records",
       "range": [
         57,
         64
       ],
       "_id": "eXzcvhQrCyTncO1f",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Historical records",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.eXzcvhQrCyTncO1f"
     },
     {
-      "text": "Material or mechanical",
       "range": [
         65,
         72
       ],
       "_id": "LBzbxwv2qJ779cts",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Material or mechanical",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.LBzbxwv2qJ779cts"
     },
     {
-      "text": "University system",
       "range": [
         73,
         80
       ],
       "_id": "0hQ1CS16ksO5a2xu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "University system",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.0hQ1CS16ksO5a2xu"
     },
     {
-      "text": "Zoology or xenobiology",
       "range": [
         81,
         88
       ],
       "_id": "FwEdtqMwsEeBP5to",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Zoology or xenobiology",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.FwEdtqMwsEeBP5to"
     },
     {
-      "text": "New zone via Access",
       "range": [
         89,
         100
       ],
       "_id": "TUzJFUIinOb7ovgE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>New zone via \n<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/access\">\n    <i class=\"fa fa-caret-right\"></i> Access\n</a></p>",
+      "name": "",
       "_key": "!tables.results!ejV4G8ApVQPPCSg4.TUzJFUIinOb7ovgE"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Research/Area",
+      "category": "Starsmith/Oracles/District/Research",
+      "dsid": "oracle_rollable:starforged/district/research/area_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658155,
     "modifiedTime": 1693870869308,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "ejV4G8ApVQPPCSg4",
   "sort": 100000,

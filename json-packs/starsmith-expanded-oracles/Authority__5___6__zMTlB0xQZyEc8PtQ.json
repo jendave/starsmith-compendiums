@@ -3,101 +3,185 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cult-like",
       "range": [
         1,
         15
       ],
       "_id": "eQpUqIXIuEABo9Qg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cult-like",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.eQpUqIXIuEABo9Qg"
     },
     {
-      "text": "Legalistic",
       "range": [
         16,
         30
       ],
       "_id": "qbkU6fhiL5DW0ZBp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Legalistic",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.qbkU6fhiL5DW0ZBp"
     },
     {
-      "text": "Collective good first",
       "range": [
         31,
         45
       ],
       "_id": "xW16ZS7yMmsT3fmv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collective good first",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.xW16ZS7yMmsT3fmv"
     },
     {
-      "text": "Charitable",
       "range": [
         46,
         55
       ],
       "_id": "z8g8IZ1TTSCc2dEj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Charitable",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.z8g8IZ1TTSCc2dEj"
     },
     {
-      "text": "Single-minded",
       "range": [
         56,
         70
       ],
       "_id": "uIMiKszlc3tyscRK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Single-minded",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.uIMiKszlc3tyscRK"
     },
     {
-      "text": "Prejudiced",
       "range": [
         71,
         85
       ],
       "_id": "zKaIgp9dgdOkELV6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prejudiced",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.zKaIgp9dgdOkELV6"
     },
     {
-      "text": "Takes advantage",
       "range": [
         86,
         100
       ],
       "_id": "3h8v9i5B3GIQU4FJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Takes advantage",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!zMTlB0xQZyEc8PtQ.3h8v9i5B3GIQU4FJ"
     }
   ],
@@ -106,14 +190,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Authority",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/authority_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676424384,
     "modifiedTime": 1693072407185,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "zMTlB0xQZyEc8PtQ",
   "sort": 393750,

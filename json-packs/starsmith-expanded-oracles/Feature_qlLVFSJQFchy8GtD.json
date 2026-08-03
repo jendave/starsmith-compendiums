@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Decontamination checkpoint",
       "range": [
         1,
         8
       ],
       "_id": "EqsPYG583AB48Wkf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Decontamination checkpoint",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.EqsPYG583AB48Wkf"
     },
     {
-      "text": "Emergency landing site",
       "range": [
         9,
         16
       ],
       "_id": "o10lKUfEpsJAjWMq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emergency landing site",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.o10lKUfEpsJAjWMq"
     },
     {
-      "text": "Family visiting patients",
       "range": [
         17,
         24
       ],
       "_id": "6DHgKMpWTtkfq8d2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Family visiting patients",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.6DHgKMpWTtkfq8d2"
     },
     {
-      "text": "Hermetically sealed zone",
       "range": [
         25,
         32
       ],
       "_id": "3YXmy6oetnHw5Zu5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hermetically sealed zone",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.3YXmy6oetnHw5Zu5"
     },
     {
-      "text": "Holographic assistants",
       "range": [
         33,
         40
       ],
       "_id": "OuB0SjWNOzSqzrgt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Holographic assistants",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.OuB0SjWNOzSqzrgt"
     },
     {
-      "text": "Medical equipment",
       "range": [
         41,
         48
       ],
       "_id": "Ln0XyllAcd9L6vUw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical equipment",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.Ln0XyllAcd9L6vUw"
     },
     {
-      "text": "Medical records or scans",
       "range": [
         49,
         56
       ],
       "_id": "50up5qVCJbcXLrIF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical records or scans",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.50up5qVCJbcXLrIF"
     },
     {
-      "text": "Medical trainees learning",
       "range": [
         57,
         64
       ],
       "_id": "aEqetfg0rKvhrqtr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical trainees learning",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.aEqetfg0rKvhrqtr"
     },
     {
-      "text": "Medical vehicle",
       "range": [
         65,
         72
       ],
       "_id": "CxNpluIjyjOMuMkU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical vehicle",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.CxNpluIjyjOMuMkU"
     },
     {
-      "text": "Patients in line",
       "range": [
         73,
         80
       ],
       "_id": "lFIZbKyAzkvUz86P",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patients in line",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.lFIZbKyAzkvUz86P"
     },
     {
-      "text": "Sirens and flashing lights",
       "range": [
         81,
         88
       ],
       "_id": "9O8iERE8Brd92muI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sirens and flashing lights",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.9O8iERE8Brd92muI"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         100
       ],
       "_id": "apWALHMyy2RGW3It",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!qlLVFSJQFchy8GtD.apWALHMyy2RGW3It"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Medical/Feature",
+      "category": "Starsmith/Oracles/District/Medical",
+      "dsid": "oracle_rollable:starforged/district/medical/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658113,
     "modifiedTime": 1699035593480,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "qlLVFSJQFchy8GtD",
   "sort": 200000,

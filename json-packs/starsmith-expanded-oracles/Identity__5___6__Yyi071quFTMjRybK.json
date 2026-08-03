@@ -3,722 +3,1331 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Analysts",
       "range": [
         1,
         2
       ],
       "_id": "gAiBTfmmmlisRCh8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Analysts",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.gAiBTfmmmlisRCh8"
     },
     {
-      "text": "Apprentices",
       "range": [
         3,
         4
       ],
       "_id": "I18jV68hbJr0fmcO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Apprentices",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.I18jV68hbJr0fmcO"
     },
     {
-      "text": "Archivists",
       "range": [
         5,
         6
       ],
       "_id": "QumCP9OrEQsASZA3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archivists",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.QumCP9OrEQsASZA3"
     },
     {
-      "text": "Artifacts",
       "range": [
         7,
         8
       ],
       "_id": "4Uf6nY8t4FgSZDRi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Artifacts",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.4Uf6nY8t4FgSZDRi"
     },
     {
-      "text": "Aspirants",
       "range": [
         9,
         10
       ],
       "_id": "Op7XJxCOUVrRVCwi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aspirants",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.Op7XJxCOUVrRVCwi"
     },
     {
-      "text": "Bears",
       "range": [
         11,
         12
       ],
       "_id": "0GgXPdJsZSuoWgMP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bears",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.0GgXPdJsZSuoWgMP"
     },
     {
-      "text": "Bones",
       "range": [
         13,
         14
       ],
       "_id": "kB2QBRftEdV9Nt9Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bones",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.kB2QBRftEdV9Nt9Q"
     },
     {
-      "text": "Caretakers",
       "range": [
         15,
         16
       ],
       "_id": "DcGlj1aeL3gCO94F",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caretakers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.DcGlj1aeL3gCO94F"
     },
     {
-      "text": "Champions",
       "range": [
         17,
         18
       ],
       "_id": "ZvXTo56As2Y7qDyF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Champions",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.ZvXTo56As2Y7qDyF"
     },
     {
-      "text": "Cohort",
       "range": [
         19,
         20
       ],
       "_id": "WzXMerEfQjIvQhRX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cohort",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.WzXMerEfQjIvQhRX"
     },
     {
-      "text": "Cougars",
       "range": [
         21,
         22
       ],
       "_id": "XUCzzg01hH559xGv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cougars",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.XUCzzg01hH559xGv"
     },
     {
-      "text": "Creators",
       "range": [
         23,
         24
       ],
       "_id": "JhukKrj60aD2g2jS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Creators",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.JhukKrj60aD2g2jS"
     },
     {
-      "text": "Cryptics",
       "range": [
         25,
         26
       ],
       "_id": "ZkuCcmWDQMuVAeaP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cryptics",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.ZkuCcmWDQMuVAeaP"
     },
     {
-      "text": "Custodians",
       "range": [
         27,
         28
       ],
       "_id": "rt6jd5cQcSEuzonZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Custodians",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.rt6jd5cQcSEuzonZ"
     },
     {
-      "text": "Diviners",
       "range": [
         29,
         30
       ],
       "_id": "HXgReqy9stEumUuz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diviners",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.HXgReqy9stEumUuz"
     },
     {
-      "text": "Eagles",
       "range": [
         31,
         32
       ],
       "_id": "Ho8M0QH7BT9kXW1U",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eagles",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.Ho8M0QH7BT9kXW1U"
     },
     {
-      "text": "Essence",
       "range": [
         33,
         34
       ],
       "_id": "oQ2zd6rj0kTkyVLT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Essence",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.oQ2zd6rj0kTkyVLT"
     },
     {
-      "text": "Evokers",
       "range": [
         35,
         36
       ],
       "_id": "IdQnrHJ2H76qkPHH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evokers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.IdQnrHJ2H76qkPHH"
     },
     {
-      "text": "Falcons",
       "range": [
         37,
         38
       ],
       "_id": "I2KnYYq5Qf4FqVbp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Falcons",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.I2KnYYq5Qf4FqVbp"
     },
     {
-      "text": "Forerunners",
       "range": [
         39,
         40
       ],
       "_id": "fTbYi7Eod6yZSwfZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Forerunners",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.fTbYi7Eod6yZSwfZ"
     },
     {
-      "text": "Founders",
       "range": [
         41,
         42
       ],
       "_id": "vqBlY7vYuYN67uZ0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Founders",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.vqBlY7vYuYN67uZ0"
     },
     {
-      "text": "Framers",
       "range": [
         43,
         44
       ],
       "_id": "i71rlJABF5j1nJbX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Framers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.i71rlJABF5j1nJbX"
     },
     {
-      "text": "Guides",
       "range": [
         45,
         46
       ],
       "_id": "HabL5GDwupgXhGRB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guides",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.HabL5GDwupgXhGRB"
     },
     {
-      "text": "Heirlooms",
       "range": [
         47,
         48
       ],
       "_id": "hNLSsrhMHUu1OT8e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Heirlooms",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.hNLSsrhMHUu1OT8e"
     },
     {
-      "text": "Horde",
       "range": [
         49,
         50
       ],
       "_id": "20rOnOp57QYNi4a5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Horde",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.20rOnOp57QYNi4a5"
     },
     {
-      "text": "Invokers",
       "range": [
         51,
         52
       ],
       "_id": "33ECajxFpgsus4m3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Invokers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.33ECajxFpgsus4m3"
     },
     {
-      "text": "Keepers",
       "range": [
         53,
         54
       ],
       "_id": "69ZrteX6HibsaC6E",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Keepers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.69ZrteX6HibsaC6E"
     },
     {
-      "text": "Marauders",
       "range": [
         55,
         56
       ],
       "_id": "a2GHx3guDY4V5Y6U",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Marauders",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.a2GHx3guDY4V5Y6U"
     },
     {
-      "text": "Masters",
       "range": [
         57,
         58
       ],
       "_id": "4YwTRvlPrv802wWn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Masters",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.4YwTRvlPrv802wWn"
     },
     {
-      "text": "Moons",
       "range": [
         59,
         60
       ],
       "_id": "ucVQ64UiKXMe1Z68",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moons",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.ucVQ64UiKXMe1Z68"
     },
     {
-      "text": "Officers",
       "range": [
         61,
         62
       ],
       "_id": "RXTpfPrnMWUf3NzV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Officers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.RXTpfPrnMWUf3NzV"
     },
     {
-      "text": "Outriders",
       "range": [
         63,
         64
       ],
       "_id": "GYuyZlUCexXwLORZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Outriders",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.GYuyZlUCexXwLORZ"
     },
     {
-      "text": "Owls",
       "range": [
         65,
         66
       ],
       "_id": "ApdtJ7E1pDkT7Kyd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Owls",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.ApdtJ7E1pDkT7Kyd"
     },
     {
-      "text": "Paladins",
       "range": [
         67,
         68
       ],
       "_id": "Ksze2ByUshlGTagU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paladins",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.Ksze2ByUshlGTagU"
     },
     {
-      "text": "Paracletes",
       "range": [
         69,
         70
       ],
       "_id": "8wdFyapJ6YyVbYjM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paracletes",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.8wdFyapJ6YyVbYjM"
     },
     {
-      "text": "Privateers",
       "range": [
         71,
         72
       ],
       "_id": "wTItAlGUbjdO9wL6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Privateers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.wTItAlGUbjdO9wL6"
     },
     {
-      "text": "Proselytes",
       "range": [
         73,
         74
       ],
       "_id": "aODdrFWA6CThoU1L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proselytes",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.aODdrFWA6CThoU1L"
     },
     {
-      "text": "Pupils",
       "range": [
         75,
         76
       ],
       "_id": "dobKPua4XW6e2fmx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pupils",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.dobKPua4XW6e2fmx"
     },
     {
-      "text": "Raptors",
       "range": [
         77,
         78
       ],
       "_id": "r5WIBXxXB1CiGAt6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raptors",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.r5WIBXxXB1CiGAt6"
     },
     {
-      "text": "Remnant",
       "range": [
         79,
         80
       ],
       "_id": "B0s7kB9TQ6XvrrPk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remnant",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.B0s7kB9TQ6XvrrPk"
     },
     {
-      "text": "Savants",
       "range": [
         81,
         82
       ],
       "_id": "nuNCvsCXwyARa6Rh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Savants",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.nuNCvsCXwyARa6Rh"
     },
     {
-      "text": "Scorpions",
       "range": [
         83,
         84
       ],
       "_id": "ZBQ9l8CIPdftE33g",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scorpions",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.ZBQ9l8CIPdftE33g"
     },
     {
-      "text": "Sentries",
       "range": [
         85,
         86
       ],
       "_id": "S0oGwE5xwobOzOho",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sentries",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.S0oGwE5xwobOzOho"
     },
     {
-      "text": "Shields",
       "range": [
         87,
         88
       ],
       "_id": "BOEETh8iSkkiENu3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shields",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.BOEETh8iSkkiENu3"
     },
     {
-      "text": "Spears",
       "range": [
         89,
         90
       ],
       "_id": "Kff3NyFfHTZ619l7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spears",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.Kff3NyFfHTZ619l7"
     },
     {
-      "text": "Stewards",
       "range": [
         91,
         92
       ],
       "_id": "7anf4u2KQM6sF8wQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stewards",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.7anf4u2KQM6sF8wQ"
     },
     {
-      "text": "Sustainers",
       "range": [
         93,
         94
       ],
       "_id": "9kmaGrKlc0tf0wSV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sustainers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.9kmaGrKlc0tf0wSV"
     },
     {
-      "text": "Tigers",
       "range": [
         95,
         96
       ],
       "_id": "LCVkYpHNfYNDX0Hp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tigers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.LCVkYpHNfYNDX0Hp"
     },
     {
-      "text": "Truths",
       "range": [
         97,
         98
       ],
       "_id": "gNlJM0kfzkS0eDVw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Truths",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.gNlJM0kfzkS0eDVw"
     },
     {
-      "text": "Vipers",
       "range": [
         99,
         100
       ],
       "_id": "Hr14toW3zzk3Nuoy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vipers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!Yyi071quFTMjRybK.Hr14toW3zzk3Nuoy"
     }
   ],
-  "folder": "h07LKcgdKeSsWGQ2",
+  "folder": "Zuc9sCSBs081FPfI",
   "img": "icons/dice/d10black.svg",
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Name/Identity",
+      "category": "Starsmith/Oracles/Faction/Name",
+      "dsid": "oracle_rollable:starforged/faction/name/identity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597399,
-    "modifiedTime": 1693070494727,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "modifiedTime": 1785569328824,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "Yyi071quFTMjRybK",
-  "sort": 2275000,
+  "sort": 25000,
   "ownership": {
     "default": 0,
     "pvGXRm1tqcLrB73Z": 3

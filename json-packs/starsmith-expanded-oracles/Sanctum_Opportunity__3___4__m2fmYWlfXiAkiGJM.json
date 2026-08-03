@@ -1,0 +1,296 @@
+{
+  "name": "Sanctum Opportunity (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "CVkHwmqi1wdnVRia",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to specialized equipment",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.CVkHwmqi1wdnVRia"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "4QYiZLAOvOBr1WKm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue points to the solution of a vexing problem",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.4QYiZLAOvOBr1WKm"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "0VJZNTTPLlTiqpHH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command codes found",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.0VJZNTTPLlTiqpHH"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "i3eIxoyjJAfrk0Ir",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deeper insight into the creators of this site",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.i3eIxoyjJAfrk0Ir"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "ua2Lw8rrDQS4rHFh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defensive systems target you for protection",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.ua2Lw8rrDQS4rHFh"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "uaDSeF9ZPt9p95ux",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destination or target is closer than thought",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.uaDSeF9ZPt9p95ux"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "u0H9Gq7FhQ0pP9hs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Garbled message becomes clear",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.u0H9Gq7FhQ0pP9hs"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "SAflNddyOWs7Vm3O",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gear or equipment can be repaired or replaced",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.SAflNddyOWs7Vm3O"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "Va0x1GuzILxybd6p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected ally appears",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.Va0x1GuzILxybd6p"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "IHfpmhQNamAYkWCG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vision of a possible future points to a path forward",
+      "name": "",
+      "_key": "!tables.results!m2fmYWlfXiAkiGJM.IHfpmhQNamAYkWCG"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Opportunity",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/opportunity_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692382,
+    "modifiedTime": 1693867892474,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "m2fmYWlfXiAkiGJM",
+  "sort": 500000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!m2fmYWlfXiAkiGJM"
+}

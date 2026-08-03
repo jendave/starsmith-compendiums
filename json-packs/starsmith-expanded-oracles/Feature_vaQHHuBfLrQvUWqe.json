@@ -3,183 +3,315 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Automated warning",
       "range": [
         1,
         8
       ],
       "_id": "oTdsm47kRgahapke",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automated warning",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.oTdsm47kRgahapke"
     },
     {
-      "text": "Control terminal",
       "range": [
         9,
         16
       ],
       "_id": "6EfrciGddVg5c2xr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control terminal",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.6EfrciGddVg5c2xr"
     },
     {
-      "text": "EV suit storage",
       "range": [
         17,
         24
       ],
       "_id": "GZrqEJLqitElRSlW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "EV suit storage",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.GZrqEJLqitElRSlW"
     },
     {
-      "text": "Intricate control panels",
       "range": [
         25,
         32
       ],
       "_id": "39dPI3LzB0aAdw45",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intricate control panels",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.39dPI3LzB0aAdw45"
     },
     {
-      "text": "Map of the site",
       "range": [
         33,
         40
       ],
       "_id": "C0zlYxLElkMPCIqg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Map of the site",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.C0zlYxLElkMPCIqg"
     },
     {
-      "text": "News media frenzy",
       "range": [
         41,
         48
       ],
       "_id": "bkfmXLsdK1qJJ4FO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "News media frenzy",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.bkfmXLsdK1qJJ4FO"
     },
     {
-      "text": "Political propaganda",
       "range": [
         49,
         56
       ],
       "_id": "gShqXpgBsh8XU58f",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political propaganda",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.gShqXpgBsh8XU58f"
     },
     {
-      "text": "Security checkpoint",
       "range": [
         57,
         64
       ],
       "_id": "g6nw9j7619xAKhGG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security checkpoint",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.g6nw9j7619xAKhGG"
     },
     {
-      "text": "Sophisticated sensors",
       "range": [
         65,
         72
       ],
       "_id": "sNAmXjKMYef8PVZl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sophisticated sensors",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.sNAmXjKMYef8PVZl"
     },
     {
-      "text": "Symbolic statue or art",
       "range": [
         73,
         80
       ],
       "_id": "xuFhly62mDJIahvT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Symbolic statue or art",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.xuFhly62mDJIahvT"
     },
     {
-      "text": "Video surveillance monitors",
       "range": [
         81,
         88
       ],
       "_id": "49ZyBA9X5AfAAq0Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Video surveillance monitors",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.49ZyBA9X5AfAAq0Q"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         100
       ],
       "_id": "WS902DnL9bk8yVqM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!vaQHHuBfLrQvUWqe.WS902DnL9bk8yVqM"
     }
   ],
@@ -188,14 +320,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Operations/Feature",
+      "category": "Starsmith/Oracles/District/Operations",
+      "dsid": "oracle_rollable:starforged/district/operations/feature_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658123,
     "modifiedTime": 1699035601653,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "vaQHHuBfLrQvUWqe",
   "sort": 200000,

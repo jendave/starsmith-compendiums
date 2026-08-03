@@ -1,0 +1,556 @@
+{
+  "name": "Envision the Starship (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "wnMytO6RHPewY8qh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ablative armor means constant patching",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.wnMytO6RHPewY8qh"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "xTbsBfvxTaEPHr0P",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bulkhead doors often either slowly close or jam while closing",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.xTbsBfvxTaEPHr0P"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "kYp7YLzIYJ8POgny",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Day and night cycles are constantly miscalibrated when in planetary orbit",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.kYp7YLzIYJ8POgny"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "hFkkxYiHLIxFWxb8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engine room reacts poorly to tools made of a certain alloy",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.hFkkxYiHLIxFWxb8"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "0wVXiqtx2hXlVLr4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Equipment only works after being hit with a certain pattern",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.0wVXiqtx2hXlVLr4"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "HwKzobazuHUVSgWq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exterior is garishly painted leaving no room for subtlety",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.HwKzobazuHUVSgWq"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "IwMOPkXsMim5cnDA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hull and nacelles reconfigure for Eidolon jumps",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.IwMOPkXsMim5cnDA"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "2gyTECUEs3PUbTM8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hull is marked with a limerick, haiku, or joke",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.2gyTECUEs3PUbTM8"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "GLkXd72FZmSClRGq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Internal comms sometimes activate on their own, usually at inappropriate times",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.GLkXd72FZmSClRGq"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "1eG0E1psml2meMyV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Internal wiring runs off organic neural gel packs",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.1eG0E1psml2meMyV"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "hzNnnGHvjn80Wd5j",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Landing gear can slide like skis on inclines without warning",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.hzNnnGHvjn80Wd5j"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "3dxoLrHuRRglkECy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lighting randomly shuts down a section at a time in long hallways before resetting",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.3dxoLrHuRRglkECy"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "RZ41WFXtPod3lfQL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Main crew quarters has an aquarium built into the wall that is impossible to clean",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.RZ41WFXtPod3lfQL"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "G76TEUnwYWXn9Qfa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Placards and control labels only use icons instead of language",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.G76TEUnwYWXn9Qfa"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "53AOPsvAk78QqwG8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Previous captain or crew logs randomly plays despite being purged from the system",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.53AOPsvAk78QqwG8"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "HuLzrzgMc4PELFJS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Removable wall plates provide access to maintenance crawl spaces",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.HuLzrzgMc4PELFJS"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "NuGLPQMvagw4CLZQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rerouting power must be done manually with a large circuit board of wires and plugs",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.NuGLPQMvagw4CLZQ"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "HDhj9U78dAajNLFi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rooms are just a little too small as the builder tried to cut costs",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.HDhj9U78dAajNLFi"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "jTTdIgXQqStIadVE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rooms have their own gravity generators but all in different orientations",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.jTTdIgXQqStIadVE"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "Kp9Eaj2To4xFcmQq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship painted and decorated to look like a lifeform",
+      "name": "",
+      "_key": "!tables.results!ngWfv15bDdfLoNp9.Kp9Eaj2To4xFcmQq"
+    }
+  ],
+  "folder": "JF59Th1KfiLpvQYr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Your ship is an important aspect of your character—and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Launching_Your_Campaign/Character/Starship/Quirks",
+      "category": "Starsmith/Oracles/Launching_Your_Campaign/Character/Starship",
+      "dsid": "oracle_rollable:starforged/launching_your_campaign/character/starship/quirks_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676224822,
+    "modifiedTime": 1785569625949,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "ngWfv15bDdfLoNp9",
+  "sort": 200000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!ngWfv15bDdfLoNp9"
+}

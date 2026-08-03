@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "AsThAbNqKhShbWWG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent flora",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.AsThAbNqKhShbWWG"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "8twcaIo39006o2yr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deep river gorges",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.8twcaIo39006o2yr"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "7oZjA0WK9KiuNbEV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Extensive exposed root systems",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.7oZjA0WK9KiuNbEV"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "9J6NB5xyoezv2ZBx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Immense tiered waterfalls",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.9J6NB5xyoezv2ZBx"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "b3KfJRqFbl9OtEr9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Languid rivers",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.b3KfJRqFbl9OtEr9"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "nZT8uPnUaiZKboAN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Low-lying fog",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.nZT8uPnUaiZKboAN"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "vEpj2hyTil2C72gH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plunging sinkholes",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.vEpj2hyTil2C72gH"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "YarlleuSQ00GQeLl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred clearings",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.YarlleuSQ00GQeLl"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "1ZZ585LNWuQdf2je",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sinking quagmires",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.1ZZ585LNWuQdf2je"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "tTxUcXQCxMNFVr2S",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surging rivers",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.tTxUcXQCxMNFVr2S"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "XBocVwr2HT9w0JcT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Torrential rainstorms",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.XBocVwr2HT9w0JcT"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "LVxRsTeBS2AuRJGV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent electrical storms",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.LVxRsTeBS2AuRJGV"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "yptw91kHoXgQQMqC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Waterlogged caves",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.yptw91kHoXgQQMqC"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "cj83rMW2HeKM92du",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.cj83rMW2HeKM92du"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "PoKgLUpoa3LnUC3M",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!vdR5AogzuYvRKWHo.PoKgLUpoa3LnUC3M"
+    }
+  ],
+  "folder": "khXSFYiPdcUTBfbE",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Jungle/Feature",
+      "category": "Starsmith/Oracles/Planet/Jungle",
+      "dsid": "oracle_rollable:starforged/planet/jungle/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401919,
+    "modifiedTime": 1699053651248,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "vdR5AogzuYvRKWHo",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!vdR5AogzuYvRKWHo"
+}

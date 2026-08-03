@@ -3,214 +3,422 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Agriculturists",
       "range": [
         1,
         5
       ],
       "_id": "UODwmdIH1vQmohUW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agriculturists",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.UODwmdIH1vQmohUW"
     },
     {
-      "text": "Astronomers",
       "range": [
         6,
         10
       ],
       "_id": "H7w0TQD6Cja4yLOW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Astronomers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.H7w0TQD6Cja4yLOW"
     },
     {
-      "text": "Chefs",
       "range": [
         11,
         15
       ],
       "_id": "4ByAocwYG2gXk4GS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chefs",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.4ByAocwYG2gXk4GS"
     },
     {
-      "text": "Data managers",
       "range": [
         16,
         20
       ],
       "_id": "PsJ0xdtXYRmzEuFE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Data managers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.PsJ0xdtXYRmzEuFE"
     },
     {
-      "text": "Entertainers",
       "range": [
         21,
         25
       ],
       "_id": "R21trJwtjoMCsmpI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.R21trJwtjoMCsmpI"
     },
     {
-      "text": "Habitat planners",
       "range": [
         26,
         30
       ],
       "_id": "8RLeNrCEtC9R3LEw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Habitat planners",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.8RLeNrCEtC9R3LEw"
     },
     {
-      "text": "Journalists",
       "range": [
         31,
         40
       ],
       "_id": "nTap7kTwdNJ6KPP1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Journalists",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.nTap7kTwdNJ6KPP1"
     },
     {
-      "text": "Manufacturers",
       "range": [
         41,
         50
       ],
       "_id": "NAmWzk2SlEnEZmz2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.NAmWzk2SlEnEZmz2"
     },
     {
-      "text": "Pharmaceutics",
       "range": [
         51,
         60
       ],
       "_id": "rw5SsuBWifKZQ9YZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pharmaceutics",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.rw5SsuBWifKZQ9YZ"
     },
     {
-      "text": "Planetary colonizers",
       "range": [
         61,
         65
       ],
       "_id": "rGmUIXEMLSyq9qvH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Planetary colonizers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.rGmUIXEMLSyq9qvH"
     },
     {
-      "text": "Security",
       "range": [
         66,
         75
       ],
       "_id": "N7R5JJTCkfZ5AsBa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.N7R5JJTCkfZ5AsBa"
     },
     {
-      "text": "Technology",
       "range": [
         76,
         80
       ],
       "_id": "kvxqMxSHyRUwuNHX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.kvxqMxSHyRUwuNHX"
     },
     {
-      "text": "Traders",
       "range": [
         81,
         85
       ],
       "_id": "S4sSgnJOhl24l1ov",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Traders",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.S4sSgnJOhl24l1ov"
     },
     {
-      "text": "Writers",
       "range": [
         86,
         90
       ],
       "_id": "0ArCUUC4ymTkPqc5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Writers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!39brIk5GOHXK0Gqw.0ArCUUC4ymTkPqc5"
     },
     {
-      "text": "Roll twice",
       "range": [
         91,
         100
       ],
       "_id": "TasLMbzpC34LQEWr",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Guild (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.39brIk5GOHXK0Gqw",
       "_key": "!tables.results!39brIk5GOHXK0Gqw.TasLMbzpC34LQEWr"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "tCOTEJGp24RvFYDB",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Guild (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.39brIk5GOHXK0Gqw",
+      "_key": "!tables.results!39brIk5GOHXK0Gqw.tCOTEJGp24RvFYDB"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -218,14 +426,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Guild",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/guild_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597119,
     "modifiedTime": 1693069909561,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "39brIk5GOHXK0Gqw",
   "sort": 162500,

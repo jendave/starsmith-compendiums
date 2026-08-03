@@ -1,0 +1,114 @@
+{
+  "name": "Faction Type (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        40
+      ],
+      "_id": "Mft7VroZareAmL9l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>@Compendium[starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.AVjqygbVDncdAY0P]{Research Group}</p><p>Wealthy scientists developing influence</p>",
+      "name": "",
+      "_key": "!tables.results!jAQFBWOxlwoqbkvz.Mft7VroZareAmL9l"
+    },
+    {
+      "range": [
+        41,
+        70
+      ],
+      "_id": "T4jdXCljwyet38RK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>@Compendium[starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IQxQ2I356Vz0TSGB]{Data Harvesters}</p><p>Keepers of knowledge</p>",
+      "name": "",
+      "_key": "!tables.results!jAQFBWOxlwoqbkvz.T4jdXCljwyet38RK"
+    },
+    {
+      "range": [
+        71,
+        100
+      ],
+      "_id": "VsvAmWZTgx463AgZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>@Compendium[starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.u1MRVAikLO9ZUn05]{AI Hive}</p><p>Independent, self-governing AI</p>",
+      "name": "",
+      "_key": "!tables.results!jAQFBWOxlwoqbkvz.VsvAmWZTgx463AgZ"
+    }
+  ],
+  "folder": "h07LKcgdKeSsWGQ2",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>The Type tells you the general type of organization it is while the Influence tells you how strong or wide their influence is.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Type",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/type_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676597045,
+    "modifiedTime": 1693866847857,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jAQFBWOxlwoqbkvz",
+  "sort": 50000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!jAQFBWOxlwoqbkvz"
+}

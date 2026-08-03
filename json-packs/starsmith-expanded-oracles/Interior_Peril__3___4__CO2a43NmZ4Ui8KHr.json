@@ -1,0 +1,610 @@
+{
+  "name": "Interior Peril (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "NtNVgWA5elOniQQX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Betrayed by false sensor readings",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.NtNVgWA5elOniQQX"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "t90Vzh9QqTCplgpz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding or overwhelming lights",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.t90Vzh9QqTCplgpz"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "lRo7RCQ9JD1fJohp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blocked path",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.lRo7RCQ9JD1fJohp"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "su9xZbAfrujc0raz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dangerous lifeform nesting",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.su9xZbAfrujc0raz"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "sWqtIsag5kQZwgdw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Electrified environment",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.sWqtIsag5kQZwgdw"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "LhA5Y13mrcwxm8f1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emergency protocols activated",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.LhA5Y13mrcwxm8f1"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "Iuu5bZODWzph426f",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmental hazard containment systems   failure",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.Iuu5bZODWzph426f"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "96LCAdkuOjscoizI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explosive decompression or venting",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.96LCAdkuOjscoizI"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "Kaffx4NfaIUxqVe3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lack of atmosphere",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.Kaffx4NfaIUxqVe3"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "Pp9AZifPpsA8Tvxv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malfunctioning maintenance bots",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.Pp9AZifPpsA8Tvxv"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "nuKT8axCdPOuvLTb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Movement in the shadows",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.nuKT8axCdPOuvLTb"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "Eyzp8dHp7vh11Y5Z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New foe appears",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.Eyzp8dHp7vh11Y5Z"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "qnMaw3Rxejk4TSdn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Past comes back to haunt you",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.qnMaw3Rxejk4TSdn"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "rL9HcGuTQ1KDv7Y6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protective suit or environment breach",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.rL9HcGuTQ1KDv7Y6"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "L4awQjjOHZozovuB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivals hold a secret from within",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.L4awQjjOHZozovuB"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "7DyshIfZ2EjPbqr8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Security system blocks the way",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.7DyshIfZ2EjPbqr8"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "PpnWjDeGn79SPbQS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifts in gravity",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.PpnWjDeGn79SPbQS"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "ZzQEbiD0dosHq9I9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structural collapse pins important object",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.ZzQEbiD0dosHq9I9"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "rt9T78LaQaQMEroO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Valuable data being erased or degraded",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.rt9T78LaQaQMEroO"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "OpOAjgKNeRLbelt4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.OpOAjgKNeRLbelt4"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "gBpAULVR4Lyct0bs",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Interior Peril (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CO2a43NmZ4Ui8KHr",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.gBpAULVR4Lyct0bs"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "m8ae7ZK69NR2zXyo",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Interior Peril (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.CO2a43NmZ4Ui8KHr",
+      "_key": "!tables.results!CO2a43NmZ4Ui8KHr.m8ae7ZK69NR2zXyo"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a complication within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision a peril.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Interior/Peril",
+      "category": "Starsmith/Oracles/Precursor_Vault/Interior",
+      "dsid": "oracle_rollable:starforged/precursor_vault/interior/peril_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692324,
+    "modifiedTime": 1699042135989,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "CO2a43NmZ4Ui8KHr",
+  "sort": 1100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!CO2a43NmZ4Ui8KHr"
+}

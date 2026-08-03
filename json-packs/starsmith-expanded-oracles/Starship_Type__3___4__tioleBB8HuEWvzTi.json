@@ -1,0 +1,636 @@
+{
+  "name": "Starship Type (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        2
+      ],
+      "_id": "rZetfeomrKVaICtO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Launches atmospheric fighters</p>",
+      "name": "Scorpion",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.rZetfeomrKVaICtO"
+    },
+    {
+      "range": [
+        3,
+        6
+      ],
+      "_id": "vVCnDqQXfKwNqbc4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Light bomber</p>",
+      "name": "Lightning",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.vVCnDqQXfKwNqbc4"
+    },
+    {
+      "range": [
+        7,
+        11
+      ],
+      "_id": "AnOd7UPQofUuHUw1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Escort fighter</p>",
+      "name": "Knight",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.AnOd7UPQofUuHUw1"
+    },
+    {
+      "range": [
+        12,
+        14
+      ],
+      "_id": "bJkznogglmbfzISq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Medium bomber</p>",
+      "name": "Thunder",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.bJkznogglmbfzISq"
+    },
+    {
+      "range": [
+        15,
+        16
+      ],
+      "_id": "92DtTkNGELdbdlww",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Heavy bomber</p>",
+      "name": "Storm",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.92DtTkNGELdbdlww"
+    },
+    {
+      "range": [
+        17,
+        19
+      ],
+      "_id": "WazXjAWTjFI6RcCs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Maintenance craft</p>",
+      "name": "Montgomery",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.WazXjAWTjFI6RcCs"
+    },
+    {
+      "range": [
+        20,
+        22
+      ],
+      "_id": "xwhpV7G8Ix4i9Zbe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mobile production plant</p>",
+      "name": "Fabricator",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.xwhpV7G8Ix4i9Zbe"
+    },
+    {
+      "range": [
+        23,
+        27
+      ],
+      "_id": "d30J1dsdw8pZgKYp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mobile power supplier</p>",
+      "name": "Generator",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.d30J1dsdw8pZgKYp"
+    },
+    {
+      "range": [
+        28,
+        33
+      ],
+      "_id": "XwY6odFYG3wgQZlA",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Medium transport</p>",
+      "name": "Conveyor",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.XwY6odFYG3wgQZlA"
+    },
+    {
+      "range": [
+        34,
+        36
+      ],
+      "_id": "GBqhskIGKCIo1hTt",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Stealthy surveillance craft</p>",
+      "name": "Infiltrator",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.GBqhskIGKCIo1hTt"
+    },
+    {
+      "range": [
+        37,
+        38
+      ],
+      "_id": "3rp7UXT19InnWdeJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Vessel of mass destruction</p>",
+      "name": "Devastator",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.3rp7UXT19InnWdeJ"
+    },
+    {
+      "range": [
+        39,
+        42
+      ],
+      "_id": "16RL0OwGDeV3ThpT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Deep space cruiser</p>",
+      "name": "Explorer",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.16RL0OwGDeV3ThpT"
+    },
+    {
+      "range": [
+        43,
+        47
+      ],
+      "_id": "CbtZ0rU0SyKFOcXX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Medical ship</p>",
+      "name": "Caduceus",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.CbtZ0rU0SyKFOcXX"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "rUshe3FRBnHV4WSU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Mobile communications array</p>",
+      "name": "Horizon",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.rUshe3FRBnHV4WSU"
+    },
+    {
+      "range": [
+        51,
+        56
+      ],
+      "_id": "4LDm7U9RMEUbcKrq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Surveyor ship</p>",
+      "name": "Compass",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.4LDm7U9RMEUbcKrq"
+    },
+    {
+      "range": [
+        57,
+        61
+      ],
+      "_id": "bjA5L69675vNC9Gv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Wreckage transport</p>",
+      "name": "Tug",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.bjA5L69675vNC9Gv"
+    },
+    {
+      "range": [
+        62,
+        64
+      ],
+      "_id": "cQ7NHM4up7kJQZhr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Interplanetary transport</p>",
+      "name": "Coach",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.cQ7NHM4up7kJQZhr"
+    },
+    {
+      "range": [
+        65,
+        67
+      ],
+      "_id": "br2Sgp8QlmyIDb4n",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Solar sail vessel</p>",
+      "name": "Schooner",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.br2Sgp8QlmyIDb4n"
+    },
+    {
+      "range": [
+        68,
+        82
+      ],
+      "_id": "jB4wqW1bHVHD83JD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/starship/mission\">\n    <i class=\"fa fa-caret-right\"></i> Starship Mission\n</a></p>",
+      "name": "Multipurpose",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.jB4wqW1bHVHD83JD"
+    },
+    {
+      "range": [
+        83,
+        84
+      ],
+      "_id": "c1Mmf6bdi25AGYdk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Unusual or unknown</p>",
+      "name": "",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.c1Mmf6bdi25AGYdk"
+    },
+    {
+      "range": [
+        85,
+        94
+      ],
+      "_id": "J7RgD9cueQ6Zi2Hw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/starship/fleet_starsmith\"><i class=\"fa fa-caret-right\"></i> Fleet</a></p>",
+      "name": "",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.J7RgD9cueQ6Zi2Hw"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "HXlS7ZwJRNC5rob6",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ships in conflict (roll twice)</p>",
+      "name": "Starship Type (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tioleBB8HuEWvzTi",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.HXlS7ZwJRNC5rob6"
+    },
+    {
+      "range": [
+        95,
+        100
+      ],
+      "_id": "pW7mK3nQ9xRv2sFd",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Ships in conflict (roll twice)</p>",
+      "name": "Starship Type (3 - 4)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.tioleBB8HuEWvzTi",
+      "_key": "!tables.results!tioleBB8HuEWvzTi.pW7mK3nQ9xRv2sFd"
+    }
+  ],
+  "folder": "aO8e4enqhqWw25H6",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/Type",
+      "category": "Starsmith/Oracles/Starship",
+      "dsid": "oracle_rollable:starforged/starship/type_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676461184,
+    "modifiedTime": 1693731306645,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "tioleBB8HuEWvzTi",
+  "sort": 43750,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!tioleBB8HuEWvzTi"
+}

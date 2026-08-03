@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Airborne, toxic pollen",
       "range": [
         1,
         10
       ],
       "_id": "lOe8kALNSGa97btN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Airborne, toxic pollen",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.lOe8kALNSGa97btN"
     },
     {
-      "text": "Blade-like leaves",
       "range": [
         11,
         20
       ],
       "_id": "dThGqdVQp87Wu9SR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blade-like leaves",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.dThGqdVQp87Wu9SR"
     },
     {
-      "text": "Flexible, fibrous stalks",
       "range": [
         21,
         30
       ],
       "_id": "RZbtwVfU99W4iVUd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flexible, fibrous stalks",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.RZbtwVfU99W4iVUd"
     },
     {
-      "text": "Fruit bearing",
       "range": [
         31,
         40
       ],
       "_id": "XEpp1WVIFYcPiAjY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fruit bearing",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.XEpp1WVIFYcPiAjY"
     },
     {
-      "text": "Poisonous, oily coating",
       "range": [
         41,
         50
       ],
       "_id": "DCVZJMGf7xJXSjPp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poisonous, oily coating",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.DCVZJMGf7xJXSjPp"
     },
     {
-      "text": "Protected seed  pods",
       "range": [
         51,
         60
       ],
       "_id": "kf4RX0YpXD8XrY8q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Protected seed  pods",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.kf4RX0YpXD8XrY8q"
     },
     {
-      "text": "Rigid stalks",
       "range": [
         61,
         70
       ],
       "_id": "8froMlA1snzBmBP4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rigid stalks",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.8froMlA1snzBmBP4"
     },
     {
-      "text": "Sharp thorns",
       "range": [
         71,
         80
       ],
       "_id": "qDktf9lkdpVcrw3V",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sharp thorns",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.qDktf9lkdpVcrw3V"
     },
     {
-      "text": "Sticky sap",
       "range": [
         81,
         90
       ],
       "_id": "tkVT1GucGjMeejvS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sticky sap",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.tkVT1GucGjMeejvS"
     },
     {
-      "text": "Thick bark",
       "range": [
         91,
         100
       ],
       "_id": "DlRc7MOnTR2rYcGb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thick bark",
+      "name": "",
       "_key": "!tables.results!NtsgKYiw3MDWIRCY.DlRc7MOnTR2rYcGb"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "<div class=\"page\" title=\"Page 96\"><div class=\"section\"><p>Since this is a vital world, you’ll likely want to generate some lifeforms.</p><p>For the fauna (animals), you should use the original STARFORGED creature oracles, but I thought it would be nice to have a quick flora (plant) oracle as well.</p></div></div>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Vital/Quick_Flora_Characteristics",
+      "category": "Starsmith/Oracles/Planet/Vital",
+      "dsid": "oracle_rollable:starforged/planet/vital/quick_flora_characteristics_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676402108,
     "modifiedTime": 1693072009960,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "NtsgKYiw3MDWIRCY",
   "sort": -200000,

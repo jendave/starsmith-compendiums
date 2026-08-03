@@ -3,93 +3,159 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Primitive",
       "range": [
         1,
         5
       ],
       "_id": "mMsZDKffA2VhZwgk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primitive",
+      "name": "",
       "_key": "!tables.results!7UblRUXJaOtwR7Jg.mMsZDKffA2VhZwgk"
     },
     {
-      "text": "Pre-space flight",
       "range": [
         6,
         15
       ],
       "_id": "sBRhtkQh1TgwQVZl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pre-space flight",
+      "name": "",
       "_key": "!tables.results!7UblRUXJaOtwR7Jg.sBRhtkQh1TgwQVZl"
     },
     {
-      "text": "Pre-FTL",
       "range": [
         16,
         30
       ],
       "_id": "U55gbnB3g6WhN3jx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pre-FTL",
+      "name": "",
       "_key": "!tables.results!7UblRUXJaOtwR7Jg.U55gbnB3g6WhN3jx"
     },
     {
-      "text": "Comparable to humanity",
       "range": [
         31,
         70
       ],
       "_id": "p0tIem8ijkFFwvEq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Comparable to humanity",
+      "name": "",
       "_key": "!tables.results!7UblRUXJaOtwR7Jg.p0tIem8ijkFFwvEq"
     },
     {
-      "text": "Advanced beyond humanity",
       "range": [
         71,
         95
       ],
       "_id": "m6r7ei6vIb8Qyelt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advanced beyond humanity",
+      "name": "",
       "_key": "!tables.results!7UblRUXJaOtwR7Jg.m6r7ei6vIb8Qyelt"
     },
     {
-      "text": "Approaching Precursor level",
       "range": [
         96,
         100
       ],
       "_id": "YYUi0ZvZfFB53a8t",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Approaching Precursor level",
+      "name": "",
       "_key": "!tables.results!7UblRUXJaOtwR7Jg.YYUi0ZvZfFB53a8t"
     }
   ],
@@ -108,10 +174,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144820817,
     "modifiedTime": 1708148250766,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!7UblRUXJaOtwR7Jg"
 }

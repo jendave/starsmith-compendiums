@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "EVehwKDzfF6BlhlU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bioluminescent fauna",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.EVehwKDzfF6BlhlU"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "TaBD5bAv51TelOYN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Caverns with their own weather system",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.TaBD5bAv51TelOYN"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "07SUv0vafsNJFPRc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clearings choked by vines",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.07SUv0vafsNJFPRc"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "sbpRc5mQAzLc32Kd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cliffs with holes burrowed in the side",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.sbpRc5mQAzLc32Kd"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "BE8kbqO4hPzWw8Hx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flooded rivers carrying debris",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.BE8kbqO4hPzWw8Hx"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "aMsW2JRrHXvczn4p",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fog hovering in the canopy",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.aMsW2JRrHXvczn4p"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "ME1RcsjCwoC8qc0e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lakes with their own tidal system",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.ME1RcsjCwoC8qc0e"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "KOz4HGmrVzwe6gwJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lightning strikes dancing within the canopy",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.KOz4HGmrVzwe6gwJ"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "G90nSRIWjfQyHECn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monstrous monsoons",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.G90nSRIWjfQyHECn"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "iZzWKH2Sn1Ya0Fph",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Newly flooded lowlands",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.iZzWKH2Sn1Ya0Fph"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "6nxw057KLzK7cTtI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious tar pits",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.6nxw057KLzK7cTtI"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "arHSTxhD4j63Y55X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivers joining whose multi-colored waters don't mix",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.arHSTxhD4j63Y55X"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "nv3mKWH96SlzYt25",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trees intertwined in symbiosis",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.nv3mKWH96SlzYt25"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "76pcMmMYiWaJqrhg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.76pcMmMYiWaJqrhg"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "Pmz0AyPfK9wGS260",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!2uFx0KwWCty8dBMm.Pmz0AyPfK9wGS260"
+    }
+  ],
+  "folder": "khXSFYiPdcUTBfbE",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Jungle/Feature",
+      "category": "Starsmith/Oracles/Planet/Jungle",
+      "dsid": "oracle_rollable:starforged/planet/jungle/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401930,
+    "modifiedTime": 1699053644023,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "2uFx0KwWCty8dBMm",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!2uFx0KwWCty8dBMm"
+}

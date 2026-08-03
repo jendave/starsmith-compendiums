@@ -1,0 +1,218 @@
+{
+  "name": "District Zones",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        20
+      ],
+      "_id": "Wv6X8cUr87zAgpKj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/community\">\n    <i class=\"fa fa-caret-right\"></i> Community\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.Wv6X8cUr87zAgpKj"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "FITi1U1Y81VVGZim",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/engineering\">\n    <i class=\"fa fa-caret-right\"></i> Engineering\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.FITi1U1Y81VVGZim"
+    },
+    {
+      "range": [
+        31,
+        55
+      ],
+      "_id": "Bvcmf6oMnATriZxM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/living\">\n    <i class=\"fa fa-caret-right\"></i> Living\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.Bvcmf6oMnATriZxM"
+    },
+    {
+      "range": [
+        56,
+        65
+      ],
+      "_id": "k9egHwLbq9NjJVeU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/medical\">\n    <i class=\"fa fa-caret-right\"></i> Medical\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.k9egHwLbq9NjJVeU"
+    },
+    {
+      "range": [
+        66,
+        75
+      ],
+      "_id": "Yo6BzFcS0cBn2vje",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/operations\">\n    <i class=\"fa fa-caret-right\"></i> Operations\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.Yo6BzFcS0cBn2vje"
+    },
+    {
+      "range": [
+        76,
+        90
+      ],
+      "_id": "nQf59MjAT8dLstck",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/production\">\n    <i class=\"fa fa-caret-right\"></i> Production\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.nQf59MjAT8dLstck"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "7XSrXKjWaVNnYsTf",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p><a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/district/research\">\n    <i class=\"fa fa-caret-right\"></i> Research\n</a></p>",
+      "name": "",
+      "_key": "!tables.results!nUFEtdo8YAyJs0Qp.7XSrXKjWaVNnYsTf"
+    }
+  ],
+  "folder": "zBzW0zEkqjmtSZrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "<div class=\"page\" title=\"Page 213\"><p>When you need to see what type of district you are in, you may roll on the table below to get the general theme of the Zone. If that is enough to spark your imagination, stop there. If you need more details, you can roll on the corresponding zone oracle.</p></div>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Derelict/District_Zones",
+      "category": "Starsmith/Oracles/Derelict",
+      "dsid": "oracle_rollable:starforged/derelict/district_zones_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676658058,
+    "modifiedTime": 1693870646675,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "nUFEtdo8YAyJs0Qp",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!nUFEtdo8YAyJs0Qp"
+}

@@ -3,303 +3,523 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Common knowledge about an enemy",
       "range": [
         1,
         5
       ],
       "_id": "5WjFFQZIkbfO1sGd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Common knowledge about an enemy",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.5WjFFQZIkbfO1sGd"
     },
     {
-      "text": "Difficulties in settling the Expanse",
       "range": [
         6,
         10
       ],
       "_id": "YWVdk6M4pEZeiSHv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Difficulties in settling the Expanse",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.YWVdk6M4pEZeiSHv"
     },
     {
-      "text": "Enemy secret that has been made known",
       "range": [
         11,
         15
       ],
       "_id": "YffudaKvx6HurKCH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy secret that has been made known",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.YffudaKvx6HurKCH"
     },
     {
-      "text": "Events leading to the cataclysm as told to them in childhood",
       "range": [
         16,
         20
       ],
       "_id": "6s4jkXSy2rBH28JS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Events leading to the cataclysm as told to them in childhood",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.6s4jkXSy2rBH28JS"
     },
     {
-      "text": "Gossip about shamed individuals who have forsaken vows",
       "range": [
         21,
         25
       ],
       "_id": "TDSo63Zegbo89U2A",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gossip about shamed individuals who have forsaken vows",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.TDSo63Zegbo89U2A"
     },
     {
-      "text": "History/speculation from before humanity arrived in The Forge",
       "range": [
         26,
         30
       ],
       "_id": "cQY3EDaso7C5iHf4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "History/speculation from before humanity arrived in The Forge",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.cQY3EDaso7C5iHf4"
     },
     {
-      "text": "Information that has recently been discovered",
       "range": [
         31,
         35
       ],
       "_id": "pt6NWb7vaCT4ayj0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information that has recently been discovered",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.pt6NWb7vaCT4ayj0"
     },
     {
-      "text": "Information that has recently been lost",
       "range": [
         36,
         40
       ],
       "_id": "hrTGhJpTuFslpVa3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information that has recently been lost",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.hrTGhJpTuFslpVa3"
     },
     {
-      "text": "Information that was lost during the cataclysm",
       "range": [
         41,
         45
       ],
       "_id": "oXg6otKStpxC1fZE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Information that was lost during the cataclysm",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.oXg6otKStpxC1fZE"
     },
     {
-      "text": "Major plot point involving an iron vow",
       "range": [
         46,
         50
       ],
       "_id": "IuPQeNqKLwiMI6vm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Major plot point involving an iron vow",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.IuPQeNqKLwiMI6vm"
     },
     {
-      "text": "Minor plot point involving an iron vow",
       "range": [
         51,
         55
       ],
       "_id": "JL34NEbLySFdfsdl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Minor plot point involving an iron vow",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.JL34NEbLySFdfsdl"
     },
     {
-      "text": "Particular equipment of a trade or craft",
       "range": [
         56,
         60
       ],
       "_id": "4Ac2RrCpSsMngTaz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Particular equipment of a trade or craft",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.4Ac2RrCpSsMngTaz"
     },
     {
-      "text": "Particular skills of a trade or craft",
       "range": [
         61,
         65
       ],
       "_id": "riomSNx7lcUkfIew",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Particular skills of a trade or craft",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.riomSNx7lcUkfIew"
     },
     {
-      "text": "PC secret that has been made known",
       "range": [
         66,
         70
       ],
       "_id": "xhCduzJcsSvZvYxX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "PC secret that has been made known",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.xhCduzJcsSvZvYxX"
     },
     {
-      "text": "Recent change in the family of an NPC",
       "range": [
         71,
         75
       ],
       "_id": "yRMDbBH8lj2oykpy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recent change in the family of an NPC",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.yRMDbBH8lj2oykpy"
     },
     {
-      "text": "Recent change in their own family",
       "range": [
         76,
         80
       ],
       "_id": "QdElGm9MKlAvwhaO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recent change in their own family",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.QdElGm9MKlAvwhaO"
     },
     {
-      "text": "Recent inaction and the consequences",
       "range": [
         81,
         85
       ],
       "_id": "czuDXe4EiHL8b3nc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Recent inaction and the consequences",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.czuDXe4EiHL8b3nc"
     },
     {
-      "text": "Reported sightings of the firstborn",
       "range": [
         86,
         90
       ],
       "_id": "ErzVXX8kpUhJwJq9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reported sightings of the firstborn",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.ErzVXX8kpUhJwJq9"
     },
     {
-      "text": "Small jobs or quests that need to be done",
       "range": [
         91,
         95
       ],
       "_id": "s3f1NuojcksxFdI5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small jobs or quests that need to be done",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.s3f1NuojcksxFdI5"
     },
     {
-      "text": "Why the leadership needs to change",
       "range": [
         96,
         100
       ],
       "_id": "AEKau76lkbPmWTf5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Why the leadership needs to change",
+      "name": "",
       "_key": "!tables.results!1y69WUZsUjvYL5om.AEKau76lkbPmWTf5"
     }
   ],
@@ -308,14 +528,23 @@
   "description": "<p>Use the RANDOM NPC CONVERSATION oracle when you just want a topic starter for a more mundane conversation. Think of this as a conversation starter that will allow some of your characters personality to come through without having to also force through plot information.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Character/Random_Npc_Conversation",
+      "category": "Starsmith/Oracles/Character",
+      "dsid": "oracle_rollable:starforged/character/random_npc_conversation_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676518587,
     "modifiedTime": 1693042280798,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "1y69WUZsUjvYL5om",
   "sort": 1862500,

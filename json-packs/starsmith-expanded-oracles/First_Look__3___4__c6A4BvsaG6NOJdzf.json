@@ -3,318 +3,549 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Mix of cultural architecture",
       "range": [
         1,
         4
       ],
       "_id": "FepmSHOjEAgHA5Ak",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mix of cultural architecture",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.FepmSHOjEAgHA5Ak"
     },
     {
-      "text": "Built within a dome",
       "range": [
         5,
         8
       ],
       "_id": "O1KWgiBLNWouzAN7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built within a dome",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.O1KWgiBLNWouzAN7"
     },
     {
-      "text": "Built upon previous settlement",
       "range": [
         9,
         14
       ],
       "_id": "KHjdL2AsJW2BGjz2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built upon previous settlement",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.KHjdL2AsJW2BGjz2"
     },
     {
-      "text": "Built with freshly fabricated materials",
       "range": [
         15,
         20
       ],
       "_id": "SEhbcvGdcZ3MteY7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built with freshly fabricated materials",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.SEhbcvGdcZ3MteY7"
     },
     {
-      "text": "Takes advantage of natural terrain defenses",
       "range": [
         21,
         25
       ],
       "_id": "w61SjCkpld2exqq5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Takes advantage of natural terrain defenses",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.w61SjCkpld2exqq5"
     },
     {
-      "text": "Large greenhouse or arboretum",
       "range": [
         26,
         29
       ],
       "_id": "n4NtY5LaSzfVQfVq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large greenhouse or arboretum",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.n4NtY5LaSzfVQfVq"
     },
     {
-      "text": "Shielding or camouflage system",
       "range": [
         30,
         34
       ],
       "_id": "8bCvko61xd2Swh4z",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shielding or camouflage system",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.8bCvko61xd2Swh4z"
     },
     {
-      "text": "Construction cobbled together",
       "range": [
         35,
         37
       ],
       "_id": "1GfnXe5sJkE7Up0M",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction cobbled together",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.1GfnXe5sJkE7Up0M"
     },
     {
-      "text": "Utilitarian architecture",
       "range": [
         38,
         43
       ],
       "_id": "lxpbHNT5WJFah8DC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Utilitarian architecture",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.lxpbHNT5WJFah8DC"
     },
     {
-      "text": "Ineffective defenses",
       "range": [
         44,
         48
       ],
       "_id": "gAbCQAui741FH0aE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ineffective defenses",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.gAbCQAui741FH0aE"
     },
     {
-      "text": "Independent modules",
       "range": [
         49,
         51
       ],
       "_id": "SVWfz83wMNAoVyE7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Independent modules",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.SVWfz83wMNAoVyE7"
     },
     {
-      "text": "Strong presence of authority",
       "range": [
         52,
         56
       ],
       "_id": "Tk28woG8nSDMqMjX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Strong presence of authority",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.Tk28woG8nSDMqMjX"
     },
     {
-      "text": "Location of natural beauty",
       "range": [
         57,
         61
       ],
       "_id": "fiueFnaRkuvirWKe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Location of natural beauty",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.fiueFnaRkuvirWKe"
     },
     {
-      "text": "Lack of emblems or signage",
       "range": [
         62,
         65
       ],
       "_id": "EqU7XDExbUovJwXM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lack of emblems or signage",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.EqU7XDExbUovJwXM"
     },
     {
-      "text": "Geometric architecture",
       "range": [
         66,
         71
       ],
       "_id": "3F8TwJO8LWIkKVf6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric architecture",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.3F8TwJO8LWIkKVf6"
     },
     {
-      "text": "Significant repairs underway",
       "range": [
         72,
         76
       ],
       "_id": "BTwEORRTwMYroD31",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant repairs underway",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.BTwEORRTwMYroD31"
     },
     {
-      "text": "Structures tightly packed",
       "range": [
         77,
         80
       ],
       "_id": "RJWDOUlyHt9P8jCo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Structures tightly packed",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.RJWDOUlyHt9P8jCo"
     },
     {
-      "text": "Permanent structures in progress",
       "range": [
         81,
         83
       ],
       "_id": "Su9fSzIzY43ApSku",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Permanent structures in progress",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.Su9fSzIzY43ApSku"
     },
     {
-      "text": "Vibrant or verdant habitat",
       "range": [
         84,
         87
       ],
       "_id": "oMMjs9Uppuf4kpIF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vibrant or verdant habitat",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.oMMjs9Uppuf4kpIF"
     },
     {
-      "text": "Within or near Precursor Vault",
       "range": [
         88,
         90
       ],
       "_id": "60Fx3MKZmCbBajWF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Within or near <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.60Fx3MKZmCbBajWF"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         91,
         100
       ],
       "_id": "ZDjuLd38G0NV6Fy0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!c6A4BvsaG6NOJdzf.ZDjuLd38G0NV6Fy0"
     }
   ],
@@ -323,14 +554,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/First_Look",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676424352,
     "modifiedTime": 1699036555933,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "c6A4BvsaG6NOJdzf",
   "sort": 275000,

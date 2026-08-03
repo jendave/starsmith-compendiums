@@ -1,0 +1,296 @@
+{
+  "name": "Interior Opportunity (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "iXS0S0aeNBiJN6p0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue connecting two threads",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.iXS0S0aeNBiJN6p0"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "s801uCLhlFte77H6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to a master plan",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.s801uCLhlFte77H6"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "FkCl5AsSTHeYmhKi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Encouraging message or log",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.FkCl5AsSTHeYmhKi"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "5imOeudQkBN5y5zy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly or helpful AI",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.5imOeudQkBN5y5zy"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "ffYU7bNSKe62s9x7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Helpful message left by another explorer",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.ffYU7bNSKe62s9x7"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "ItwBOcVYDgui86nz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insight into the creators of this site",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.ItwBOcVYDgui86nz"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "BysogY4ueQVtT8gp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intriguing data or notes",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.BysogY4ueQVtT8gp"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "SgJPUVLlWIhFnLYE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to parlay with a foe or rival",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.SgJPUVLlWIhFnLYE"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "0FzKB0c4dxtfj3AJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to trap a foe",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.0FzKB0c4dxtfj3AJ"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "JYNdT6oy6U4xSNcu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Portable power supply",
+      "name": "",
+      "_key": "!tables.results!Q0CvTCMrIsZJPjW4.JYNdT6oy6U4xSNcu"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a favorable circumstance within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Interior/Opportunity",
+      "category": "Starsmith/Oracles/Precursor_Vault/Interior",
+      "dsid": "oracle_rollable:starforged/precursor_vault/interior/opportunity_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692329,
+    "modifiedTime": 1693867559926,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Q0CvTCMrIsZJPjW4",
+  "sort": 800000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Q0CvTCMrIsZJPjW4"
+}

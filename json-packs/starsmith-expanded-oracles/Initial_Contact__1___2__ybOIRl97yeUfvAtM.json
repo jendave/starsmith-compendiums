@@ -3,157 +3,289 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Welcoming",
       "range": [
         1,
         20
       ],
       "_id": "dw6N0Hvrti6qGEkY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Welcoming",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.dw6N0Hvrti6qGEkY"
     },
     {
-      "text": "Neutral / automated",
       "range": [
         21,
         30
       ],
       "_id": "uvCO6fKC0fFwr90l",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Neutral / automated",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.uvCO6fKC0fFwr90l"
     },
     {
-      "text": "Wary",
       "range": [
         31,
         50
       ],
       "_id": "4Toi9NYIJsqfDdJb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wary",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.4Toi9NYIJsqfDdJb"
     },
     {
-      "text": "Uncooperative",
       "range": [
         51,
         60
       ],
       "_id": "O6kizxf0Q8eNrybJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncooperative",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.O6kizxf0Q8eNrybJ"
     },
     {
-      "text": "Hostile",
       "range": [
         61,
         70
       ],
       "_id": "TTTFhD9CwKpzLsC5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostile",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.TTTFhD9CwKpzLsC5"
     },
     {
-      "text": "Asking for help",
       "range": [
         71,
         83
       ],
       "_id": "Sj4vUzJkUrKYblog",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asking for help",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.Sj4vUzJkUrKYblog"
     },
     {
-      "text": "In battle",
       "range": [
         84,
         86
       ],
       "_id": "uppZ8HAaNPalXCWd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "In battle",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.uppZ8HAaNPalXCWd"
     },
     {
-      "text": "Captured",
       "range": [
         87,
         89
       ],
       "_id": "7cqJum2y9a7bG1vH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Captured",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.7cqJum2y9a7bG1vH"
     },
     {
-      "text": "Unresponsive",
       "range": [
         90,
         92
       ],
       "_id": "HPJjoy67IKtsYqZK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unresponsive",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.HPJjoy67IKtsYqZK"
     },
     {
-      "text": "Destroyed",
       "range": [
         93,
         95
       ],
       "_id": "CjDom0T6BlNqwwAD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.CjDom0T6BlNqwwAD"
     },
     {
-      "text": "Derelict",
       "range": [
         96,
         100
       ],
       "_id": "1Sj0eDqejbKOnYuJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/derelict\">\n    <i class=\"fa fa-caret-right\"></i> Derelict\n</a>",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!ybOIRl97yeUfvAtM.1Sj0eDqejbKOnYuJ"
     }
   ],
@@ -162,14 +294,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Initial_Contact",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/initial_contact_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676424342,
     "modifiedTime": 1693072405548,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "ybOIRl97yeUfvAtM",
   "sort": 293750,

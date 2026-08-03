@@ -3,378 +3,653 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Benign creatures willing to serve or aid",
       "range": [
         1,
         4
       ],
       "_id": "xSvA8TBknas7HlZJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Benign creatures willing to serve or aid",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.xSvA8TBknas7HlZJ"
     },
     {
-      "text": "Clue to a lifeform's needs, motivations or patterns",
       "range": [
         5,
         8
       ],
       "_id": "Hvs2m2KDTBrEtHmi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to a lifeform's needs, motivations or patterns",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.Hvs2m2KDTBrEtHmi"
     },
     {
-      "text": "Interesting or helpful aspect of ecosystem",
       "range": [
         9,
         12
       ],
       "_id": "DPP9uYd2eH9jPP4L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interesting or helpful aspect of ecosystem",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.DPP9uYd2eH9jPP4L"
     },
     {
-      "text": "Interesting or helpful aspect of microbial life",
       "range": [
         13,
         16
       ],
       "_id": "GYRouijPl2apqXr4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interesting or helpful aspect of microbial life",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.GYRouijPl2apqXr4"
     },
     {
-      "text": "Observation of a rare lifeform",
       "range": [
         17,
         20
       ],
       "_id": "aICOuTMXuNdFG2Yz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Observation of a rare lifeform",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.aICOuTMXuNdFG2Yz"
     },
     {
-      "text": "Potential for life is revealed",
       "range": [
         21,
         24
       ],
       "_id": "8qNhkwLbQ0zGlK1D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Potential for life is revealed",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.8qNhkwLbQ0zGlK1D"
     },
     {
-      "text": "Abandoned compound or station",
       "range": [
         25,
         28
       ],
       "_id": "yHeGmLrZO5NwISoO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned compound or station",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.yHeGmLrZO5NwISoO"
     },
     {
-      "text": "Advance warning of a coming conflict",
       "range": [
         29,
         32
       ],
       "_id": "4UZsXrt4UOij7BI3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Advance warning of a coming conflict",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.4UZsXrt4UOij7BI3"
     },
     {
-      "text": "Clue to a foe's motivation",
       "range": [
         33,
         36
       ],
       "_id": "1S8SOUX3qPUaIeK8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to a foe's motivation",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.1S8SOUX3qPUaIeK8"
     },
     {
-      "text": "Fortuitous change in terrain or conditions",
       "range": [
         37,
         40
       ],
       "_id": "1lXricpVJ2xbNSUO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortuitous change in terrain or conditions",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.1lXricpVJ2xbNSUO"
     },
     {
-      "text": "Friendly traveler offers aid or information",
       "range": [
         41,
         44
       ],
       "_id": "MmS3jNHqtDZFGNea",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friendly traveler offers aid or information",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.MmS3jNHqtDZFGNea"
     },
     {
-      "text": "Interesting site offer opportunities for discoveries",
       "range": [
         45,
         48
       ],
       "_id": "sK36agbsb0TXfjBc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Interesting site offer opportunities for discoveries",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.sK36agbsb0TXfjBc"
     },
     {
-      "text": "Location of strategic value is discovered",
       "range": [
         49,
         52
       ],
       "_id": "YgnCwUi26fUkpSXo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Location of strategic value is discovered",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.YgnCwUi26fUkpSXo"
     },
     {
-      "text": "Moment of insight or clarity",
       "range": [
         53,
         56
       ],
       "_id": "k7R3I838MGWgY9tr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moment of insight or clarity",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.k7R3I838MGWgY9tr"
     },
     {
-      "text": "Mutually beneficial offer is made",
       "range": [
         57,
         60
       ],
       "_id": "m2XWKUbAHBcVYZ7f",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutually beneficial offer is made",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.m2XWKUbAHBcVYZ7f"
     },
     {
-      "text": "New acquaintance is made",
       "range": [
         61,
         64
       ],
       "_id": "3wFvWCmjOECGYzVw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "New acquaintance is made",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.3wFvWCmjOECGYzVw"
     },
     {
-      "text": "Opening to confront a foe with advantage",
       "range": [
         65,
         68
       ],
       "_id": "dg9rKtO6TEfKDBpu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to confront a foe with advantage",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.dg9rKtO6TEfKDBpu"
     },
     {
-      "text": "Opportunity to make foe's goals more difficult",
       "range": [
         69,
         72
       ],
       "_id": "EFTG4zUz7EyeyxMj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opportunity to make foe's goals more difficult",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.EFTG4zUz7EyeyxMj"
     },
     {
-      "text": "Path offers a shortcut to an objective",
       "range": [
         73,
         76
       ],
       "_id": "J2S1lLmtnEgZOKnF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Path offers a shortcut to an objective",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.J2S1lLmtnEgZOKnF"
     },
     {
-      "text": "Positive conviction is reinforced",
       "range": [
         77,
         80
       ],
       "_id": "7LoJrWQcvqhLQlk9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Positive conviction is reinforced",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.7LoJrWQcvqhLQlk9"
     },
     {
-      "text": "Progress on a quest was nearer than you thought",
       "range": [
         81,
         84
       ],
       "_id": "j9tEtxNxrHs3Ql4P",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Progress on a quest was nearer than you thought",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.j9tEtxNxrHs3Ql4P"
     },
     {
-      "text": "Rare resource is discovered",
       "range": [
         85,
         88
       ],
       "_id": "WNo3P9uzEKj7T27J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rare resource is discovered",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.WNo3P9uzEKj7T27J"
     },
     {
-      "text": "Rich source of data",
       "range": [
         89,
         92
       ],
       "_id": "zvgavgnTnObMvfJo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rich source of data",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.zvgavgnTnObMvfJo"
     },
     {
-      "text": "Significance of this place is revealed",
       "range": [
         93,
         96
       ],
       "_id": "Weyz1FivZhOjoLtk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significance of this place is revealed",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.Weyz1FivZhOjoLtk"
     },
     {
-      "text": "Vantage point reveals the location of a foe",
       "range": [
         97,
         100
       ],
       "_id": "5hebZ157Jrr4pamq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vantage point reveals the location of a foe",
+      "name": "",
       "_key": "!tables.results!frnLEGzyEM9CgA9B.5hebZ157Jrr4pamq"
     }
   ],
@@ -383,14 +658,23 @@
   "description": "<p>Choose or roll on this table when you want inspiration for a beneficial encounter or event on a planetside journey, such as when you roll a strong hit with a match as you Undertake an Expedition, or if you Explore a Waypoint and find an opportunity.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Opportunity/Lifebearing",
+      "category": "Starsmith/Oracles/Planet/Opportunity",
+      "dsid": "oracle_rollable:starforged/planet/opportunity/lifebearing_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676402181,
     "modifiedTime": 1693511893151,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "frnLEGzyEM9CgA9B",
   "sort": 0,

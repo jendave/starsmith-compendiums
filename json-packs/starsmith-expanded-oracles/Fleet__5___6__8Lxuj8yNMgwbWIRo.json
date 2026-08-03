@@ -3,115 +3,211 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Battle training group",
       "range": [
         1,
         10
       ],
       "_id": "oUlex5u5x5k269C9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Battle training group",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.oUlex5u5x5k269C9"
     },
     {
-      "text": "Crippled battle group",
       "range": [
         11,
         25
       ],
       "_id": "GxquS5PVYPy2VQu8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crippled battle group",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.GxquS5PVYPy2VQu8"
     },
     {
-      "text": "Construction team",
       "range": [
         26,
         35
       ],
       "_id": "vsJxOgh2inZjHWXm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Construction team",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.vsJxOgh2inZjHWXm"
     },
     {
-      "text": "Corporate survey team",
       "range": [
         36,
         50
       ],
       "_id": "GEwZVK7r864appQg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corporate survey team",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.GEwZVK7r864appQg"
     },
     {
-      "text": "Sight-seeing tour",
       "range": [
         51,
         60
       ],
       "_id": "Xr9dZIk2Ya27NLGb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sight-seeing tour",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.Xr9dZIk2Ya27NLGb"
     },
     {
-      "text": "Entertainment caravan",
       "range": [
         61,
         70
       ],
       "_id": "Un8TodLuwUm7jGcW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment caravan",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.Un8TodLuwUm7jGcW"
     },
     {
-      "text": "Exploratory caravan",
       "range": [
         71,
         90
       ],
       "_id": "st0A8BPwiLtkL4nl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploratory caravan",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.st0A8BPwiLtkL4nl"
     },
     {
-      "text": "Starship Mission",
       "range": [
         91,
         100
       ],
       "_id": "pTfg86z36lpTNU3H",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/starship/mission\">\n    <i class=\"fa fa-caret-right\"></i> Starship Mission\n</a>",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!8Lxuj8yNMgwbWIRo.pTfg86z36lpTNU3H"
     }
   ],
@@ -120,14 +216,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Starship/Fleet",
+      "category": "Starsmith/Oracles/Starship",
+      "dsid": "oracle_rollable:starforged/starship/fleet_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676461198,
     "modifiedTime": 1693073561032,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "8Lxuj8yNMgwbWIRo",
   "sort": 46875,

@@ -3,45 +3,81 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Asteroid belt",
       "range": [
         1,
         40
       ],
       "_id": "bKQZLznn7Bdx0P7K",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Asteroid belt",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!wJNYFJsFMbCW8F0L.bKQZLznn7Bdx0P7K"
     },
     {
-      "text": "Nebula cloud",
       "range": [
         41,
         75
       ],
       "_id": "GSooe2hZ2nlT17KA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Nebula cloud",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!wJNYFJsFMbCW8F0L.GSooe2hZ2nlT17KA"
     },
     {
-      "text": "Wormhole",
       "range": [
         76,
         100
       ],
       "_id": "KalHJpRKvHAOqZeM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wormhole",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!wJNYFJsFMbCW8F0L.KalHJpRKvHAOqZeM"
     }
   ],
@@ -50,14 +86,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Location",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/location_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676424330,
     "modifiedTime": 1693072330361,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "wJNYFJsFMbCW8F0L",
   "sort": 150000,

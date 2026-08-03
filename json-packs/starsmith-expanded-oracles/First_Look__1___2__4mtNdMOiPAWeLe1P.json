@@ -3,318 +3,549 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Beautiful architecture",
       "range": [
         1,
         4
       ],
       "_id": "dY5dF6IbJLk0nnnj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Beautiful architecture",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.dY5dF6IbJLk0nnnj"
     },
     {
-      "text": "Built from natural materials",
       "range": [
         5,
         8
       ],
       "_id": "AxzJVxd8LOgSqkgE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built from natural materials",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.AxzJVxd8LOgSqkgE"
     },
     {
-      "text": "Built from scrap metal",
       "range": [
         9,
         14
       ],
       "_id": "NfIQ8884GTPOwdzl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built from scrap metal",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.NfIQ8884GTPOwdzl"
     },
     {
-      "text": "Built within repurposed ship",
       "range": [
         15,
         20
       ],
       "_id": "LjYJua1I9DCbBgJM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built within repurposed ship",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.LjYJua1I9DCbBgJM"
     },
     {
-      "text": "Built within terrain or asteroid",
       "range": [
         21,
         25
       ],
       "_id": "iC3JPb91oR6h8Y7J",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Built within terrain or asteroid",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.iC3JPb91oR6h8Y7J"
     },
     {
-      "text": "Elevated or multi-level construction",
       "range": [
         26,
         29
       ],
       "_id": "yhFUPUWJ8kHQ8MVu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Elevated or multi-level construction",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.yhFUPUWJ8kHQ8MVu"
     },
     {
-      "text": "Hidden or subsurface location",
       "range": [
         30,
         34
       ],
       "_id": "2eiq1GG0xKPlziHX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hidden or subsurface location",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.2eiq1GG0xKPlziHX"
     },
     {
-      "text": "High-tech construction",
       "range": [
         35,
         37
       ],
       "_id": "CtH1W8NIIUzRRcBu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "High-tech construction",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.CtH1W8NIIUzRRcBu"
     },
     {
-      "text": "Industrial architecture",
       "range": [
         38,
         43
       ],
       "_id": "6wZrbg3VnAwXyuVq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Industrial architecture",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.6wZrbg3VnAwXyuVq"
     },
     {
-      "text": "Intimidating defenses",
       "range": [
         44,
         48
       ],
       "_id": "3h9z7BkK6ImKe5hN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intimidating defenses",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.3h9z7BkK6ImKe5hN"
     },
     {
-      "text": "Moving or transforming",
       "range": [
         49,
         51
       ],
       "_id": "Xw4G1EJR14szcGT5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moving or transforming",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.Xw4G1EJR14szcGT5"
     },
     {
-      "text": "Obvious social stratification",
       "range": [
         52,
         56
       ],
       "_id": "KovV64R79kqX7uDQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obvious social stratification",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.KovV64R79kqX7uDQ"
     },
     {
-      "text": "Precarious location",
       "range": [
         57,
         61
       ],
       "_id": "GJcGechndjo39Iuz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precarious location",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.GJcGechndjo39Iuz"
     },
     {
-      "text": "Prominent emblems or signage",
       "range": [
         62,
         65
       ],
       "_id": "ror2QGDgMgWNoRS8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prominent emblems or signage",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.ror2QGDgMgWNoRS8"
     },
     {
-      "text": "Rustic architecture",
       "range": [
         66,
         71
       ],
       "_id": "UCjgkAMY98gCHsjx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rustic architecture",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.UCjgkAMY98gCHsjx"
     },
     {
-      "text": "Significant structural damage",
       "range": [
         72,
         76
       ],
       "_id": "umRHAmDW9uO5xSpR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Significant structural damage",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.umRHAmDW9uO5xSpR"
     },
     {
-      "text": "Sprawling or dispersed structures",
       "range": [
         77,
         80
       ],
       "_id": "agl72drkPanJzUzM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sprawling or dispersed structures",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.agl72drkPanJzUzM"
     },
     {
-      "text": "Temporary or seasonal location",
       "range": [
         81,
         83
       ],
       "_id": "bqCsUmIjzwhgd9d0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Temporary or seasonal location",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.bqCsUmIjzwhgd9d0"
     },
     {
-      "text": "Toxic or polluted habitat",
       "range": [
         84,
         87
       ],
       "_id": "i96N8gW6Gsr9wm5c",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic or polluted habitat",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.i96N8gW6Gsr9wm5c"
     },
     {
-      "text": "Within or near Precursor Vault",
       "range": [
         88,
         90
       ],
       "_id": "oSZj9XzVbZdGuRMS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Within or near <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault</a>",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.oSZj9XzVbZdGuRMS"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         91,
         100
       ],
       "_id": "D7naCeZl8uPQTRCQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!4mtNdMOiPAWeLe1P.D7naCeZl8uPQTRCQ"
     }
   ],
@@ -323,14 +554,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/First_Look",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676424336,
     "modifiedTime": 1699036561700,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "4mtNdMOiPAWeLe1P",
   "sort": 250000,

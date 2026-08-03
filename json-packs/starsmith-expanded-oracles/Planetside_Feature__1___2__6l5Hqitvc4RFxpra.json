@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "QMssC2dYrBW5Sg9k",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Acid pools",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.QMssC2dYrBW5Sg9k"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "tlZrmYSRMj1C1qwD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ash dunes",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.tlZrmYSRMj1C1qwD"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "9ABpcZqFM6stXh0D",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive rains",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.9ABpcZqFM6stXh0D"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "bN61jz0Y6792KQij",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dead forests",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.bN61jz0Y6792KQij"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "8O3Vs908Z6Rf7pUY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fetid mudflats",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.8O3Vs908Z6Rf7pUY"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "DhnlNMF4mrkGOVDG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mass graves",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.DhnlNMF4mrkGOVDG"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "TtkD7AmDG4BGSv2L",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Moldering bones",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.TtkD7AmDG4BGSv2L"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "xuo4nJU3uighrmBi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Noxious fog",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.xuo4nJU3uighrmBi"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "HhHgZDSKQCguAWYF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive hotspots",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.HhHgZDSKQCguAWYF"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "04qCIw1dEymn66w2",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ravaged cities",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.04qCIw1dEymn66w2"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "ckrc1eWsw4DDklpz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred battlefields",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.ckrc1eWsw4DDklpz"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "WndMmEz25grMLCpV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship graveyards",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.WndMmEz25grMLCpV"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "WIvsde5qPqcwP9gq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Whispers of the dead",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.WIvsde5qPqcwP9gq"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "MdJe9eqEfQhVz3Ae",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.MdJe9eqEfQhVz3Ae"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "yexxVvcEo9bI1hxp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!6l5Hqitvc4RFxpra.yexxVvcEo9bI1hxp"
+    }
+  ],
+  "folder": "EJoSoFU1mGwf60NT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Grave/Feature",
+      "category": "Starsmith/Oracles/Planet/Grave",
+      "dsid": "oracle_rollable:starforged/planet/grave/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401801,
+    "modifiedTime": 1699042502352,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "6l5Hqitvc4RFxpra",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!6l5Hqitvc4RFxpra"
+}

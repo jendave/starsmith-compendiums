@@ -1,0 +1,818 @@
+{
+  "name": "Vault Purpose (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        3
+      ],
+      "_id": "ccAF9kVeCpFEmiKI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breeding dangerous creatures",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.ccAF9kVeCpFEmiKI"
+    },
+    {
+      "range": [
+        4,
+        6
+      ],
+      "_id": "iNnz6Sexv7pX9avB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Containment of a spacetime rift",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.iNnz6Sexv7pX9avB"
+    },
+    {
+      "range": [
+        7,
+        9
+      ],
+      "_id": "kaOsgwJpFdXhyLJW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Coordination of vast network",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.kaOsgwJpFdXhyLJW"
+    },
+    {
+      "range": [
+        10,
+        12
+      ],
+      "_id": "kaWfgJjSr1YEP7g6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distributing resources",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.kaWfgJjSr1YEP7g6"
+    },
+    {
+      "range": [
+        13,
+        16
+      ],
+      "_id": "S1vSwjvTzIrsI6My",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Empowering an already powerful being",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.S1vSwjvTzIrsI6My"
+    },
+    {
+      "range": [
+        17,
+        20
+      ],
+      "_id": "IzgxHF4Ym7ZybwHP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enacting a divine purpose",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.IzgxHF4Ym7ZybwHP"
+    },
+    {
+      "range": [
+        21,
+        24
+      ],
+      "_id": "iEpDAXvVIDVDioIc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enhance creation of stellar bodies",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.iEpDAXvVIDVDioIc"
+    },
+    {
+      "range": [
+        25,
+        27
+      ],
+      "_id": "6zRzdaiHKax3FCUv",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Establishing settlements",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.6zRzdaiHKax3FCUv"
+    },
+    {
+      "range": [
+        28,
+        31
+      ],
+      "_id": "xqRfORe96bl6d3Ag",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansion of powerful artificial intelligence",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.xqRfORe96bl6d3Ag"
+    },
+    {
+      "range": [
+        32,
+        34
+      ],
+      "_id": "H4jAAndmJdTASs1X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploitation of living specimens",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.H4jAAndmJdTASs1X"
+    },
+    {
+      "range": [
+        35,
+        38
+      ],
+      "_id": "WNYxXoMmTj5KPC4z",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expunge or suppress mystical powers",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.WNYxXoMmTj5KPC4z"
+    },
+    {
+      "range": [
+        39,
+        41
+      ],
+      "_id": "BJrCtTqkkKkcGV9C",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Generation of automated troops",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.BJrCtTqkkKkcGV9C"
+    },
+    {
+      "range": [
+        42,
+        44
+      ],
+      "_id": "TTCxbhlANU2pjlfx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hybridizing lifeforms",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.TTCxbhlANU2pjlfx"
+    },
+    {
+      "range": [
+        45,
+        47
+      ],
+      "_id": "62IoxWMosQbwqUjS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Long distance energy transfer",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.62IoxWMosQbwqUjS"
+    },
+    {
+      "range": [
+        48,
+        50
+      ],
+      "_id": "GDdpoTxKfvjSQbMP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maintenance of automated troops",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.GDdpoTxKfvjSQbMP"
+    },
+    {
+      "range": [
+        51,
+        53
+      ],
+      "_id": "zqrFBmxVKPoAlqbn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manipulation of a past event",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.zqrFBmxVKPoAlqbn"
+    },
+    {
+      "range": [
+        54,
+        56
+      ],
+      "_id": "O0KRmF3v6ibMlKMJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Military command center",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.O0KRmF3v6ibMlKMJ"
+    },
+    {
+      "range": [
+        57,
+        59
+      ],
+      "_id": "dXEB92AhwOaExQfY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pass judgment on other beings",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.dXEB92AhwOaExQfY"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "G8t6skZrQiVnrkOd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Preservation of the minds of long dead sages",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.G8t6skZrQiVnrkOd"
+    },
+    {
+      "range": [
+        63,
+        66
+      ],
+      "_id": "rdqFPlCDSlslm9HM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebuilding a destroyed location",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.rdqFPlCDSlslm9HM"
+    },
+    {
+      "range": [
+        67,
+        69
+      ],
+      "_id": "LMBnIHLboNf1Sv5E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Researching health and medicine",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.LMBnIHLboNf1Sv5E"
+    },
+    {
+      "range": [
+        70,
+        73
+      ],
+      "_id": "BFHuRuSmNHatThim",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sanctification of location",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.BFHuRuSmNHatThim"
+    },
+    {
+      "range": [
+        74,
+        77
+      ],
+      "_id": "p8uqf5ofZDzdTsY3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spreading knowledge of previous cultures",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.p8uqf5ofZDzdTsY3"
+    },
+    {
+      "range": [
+        78,
+        80
+      ],
+      "_id": "du6JzImRvLWyiBGO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Starship deployment center",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.du6JzImRvLWyiBGO"
+    },
+    {
+      "range": [
+        81,
+        83
+      ],
+      "_id": "JxeFAsv8LNX1peYE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storage of dangerous waste",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.JxeFAsv8LNX1peYE"
+    },
+    {
+      "range": [
+        84,
+        87
+      ],
+      "_id": "LkE0vj4InZpDWAWs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subdual or re-education of inhabitants",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.LkE0vj4InZpDWAWs"
+    },
+    {
+      "range": [
+        88,
+        90
+      ],
+      "_id": "qjp3XjuhB3PDtSpJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Territorial expansion or conquest",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.qjp3XjuhB3PDtSpJ"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "DIZGQTIbgbeeU0Tn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Action + Theme",
+      "name": "",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.DIZGQTIbgbeeU0Tn"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "mrnNhIgOxawF8gh8",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Vault Purpose (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jB7Jc9SEkxuhlH2g",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.mrnNhIgOxawF8gh8"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "C5a2PdwOA8umoyOu",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Vault Purpose (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.jB7Jc9SEkxuhlH2g",
+      "_key": "!tables.results!jB7Jc9SEkxuhlH2g.C5a2PdwOA8umoyOu"
+    }
+  ],
+  "folder": "fOVVYUiCcQXTLVrH",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Because precursor vaults are alien and enigmatic, understanding their ultimate purpose requires investigation and exploration. Use this table to reveal the vault’s original function or role at an appropriate point in your survey. This can come as an outcome of completing an expedition, or when your story naturally leads you to a revelation of the site’s nature.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Sanctum/Purpose",
+      "category": "Starsmith/Oracles/Precursor_Vault/Sanctum",
+      "dsid": "oracle_rollable:starforged/precursor_vault/sanctum/purpose_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692294,
+    "modifiedTime": 1693867929259,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "jB7Jc9SEkxuhlH2g",
+  "sort": 1300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!jB7Jc9SEkxuhlH2g"
+}

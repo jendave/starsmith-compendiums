@@ -3,1503 +3,2603 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Accord",
       "range": [
         1,
         1
       ],
       "_id": "SVX1pA0gARkXzwcN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accord",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.SVX1pA0gARkXzwcN"
     },
     {
-      "text": "Achievement",
       "range": [
         2,
         2
       ],
       "_id": "kHaklyZ9zb7lNXx4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Achievement",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.kHaklyZ9zb7lNXx4"
     },
     {
-      "text": "Affliction",
       "range": [
         3,
         3
       ],
       "_id": "gPifAeWVGo6P80PS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Affliction",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.gPifAeWVGo6P80PS"
     },
     {
-      "text": "Agony",
       "range": [
         4,
         4
       ],
       "_id": "YJI7TlsFPC6sfycA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agony",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.YJI7TlsFPC6sfycA"
     },
     {
-      "text": "Ally",
       "range": [
         5,
         5
       ],
       "_id": "vJEqo1gU462cWkZn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ally",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.vJEqo1gU462cWkZn"
     },
     {
-      "text": "Ambition",
       "range": [
         6,
         6
       ],
       "_id": "oggpuHRbA2BBXNJa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ambition",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.oggpuHRbA2BBXNJa"
     },
     {
-      "text": "Amnesty",
       "range": [
         7,
         7
       ],
       "_id": "9bfC0JhPvoNYGQWP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Amnesty",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.9bfC0JhPvoNYGQWP"
     },
     {
-      "text": "Assistance",
       "range": [
         8,
         8
       ],
       "_id": "nkR2Ck67ZiiwzTRx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assistance",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.nkR2Ck67ZiiwzTRx"
     },
     {
-      "text": "Axiom",
       "range": [
         9,
         9
       ],
       "_id": "iv8QrZxPCADEW52v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Axiom",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.iv8QrZxPCADEW52v"
     },
     {
-      "text": "Belonging",
       "range": [
         10,
         10
       ],
       "_id": "27baYjM3JyEhOxBc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Belonging",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.27baYjM3JyEhOxBc"
     },
     {
-      "text": "Betrayal",
       "range": [
         11,
         11
       ],
       "_id": "AOScZ5h1oXwgP5tq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Betrayal",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.AOScZ5h1oXwgP5tq"
     },
     {
-      "text": "Bitterness",
       "range": [
         12,
         12
       ],
       "_id": "93zLxgxqILUY7WQ8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bitterness",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.93zLxgxqILUY7WQ8"
     },
     {
-      "text": "Bondage",
       "range": [
         13,
         13
       ],
       "_id": "z3rW3FQaONfPswJa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bondage",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.z3rW3FQaONfPswJa"
     },
     {
-      "text": "Camaraderie",
       "range": [
         14,
         14
       ],
       "_id": "cYkmWBT61mqXbpat",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Camaraderie",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.cYkmWBT61mqXbpat"
     },
     {
-      "text": "Candor",
       "range": [
         15,
         15
       ],
       "_id": "6EdQCBvPRpQMWtRK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Candor",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.6EdQCBvPRpQMWtRK"
     },
     {
-      "text": "Capability",
       "range": [
         16,
         16
       ],
       "_id": "mGrzDAb4sjLU6t25",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Capability",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.mGrzDAb4sjLU6t25"
     },
     {
-      "text": "Capacity",
       "range": [
         17,
         17
       ],
       "_id": "bS8VmbcW91X2NB1L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Capacity",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.bS8VmbcW91X2NB1L"
     },
     {
-      "text": "Catastrophe",
       "range": [
         18,
         18
       ],
       "_id": "fu8vpsOeljjDfozm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Catastrophe",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.fu8vpsOeljjDfozm"
     },
     {
-      "text": "Competition",
       "range": [
         19,
         19
       ],
       "_id": "WBEPPzYigV1t2OZU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Competition",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.WBEPPzYigV1t2OZU"
     },
     {
-      "text": "Conflict",
       "range": [
         20,
         20
       ],
       "_id": "MH96v2zNiAjrVHzk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conflict",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.MH96v2zNiAjrVHzk"
     },
     {
-      "text": "Connection",
       "range": [
         21,
         21
       ],
       "_id": "W2vO3mJ9mxziUgrE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connection",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.W2vO3mJ9mxziUgrE"
     },
     {
-      "text": "Control",
       "range": [
         22,
         22
       ],
       "_id": "2FuKwq67dNDqEhXh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Control",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.2FuKwq67dNDqEhXh"
     },
     {
-      "text": "Controversy",
       "range": [
         23,
         23
       ],
       "_id": "onnOYBPnmq3XuIb7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Controversy",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.onnOYBPnmq3XuIb7"
     },
     {
-      "text": "Conviction",
       "range": [
         24,
         24
       ],
       "_id": "oyuxqC80GT39hMgK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Conviction",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.oyuxqC80GT39hMgK"
     },
     {
-      "text": "Cooperation",
       "range": [
         25,
         25
       ],
       "_id": "b7EJ59Es0iJ3DwPo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cooperation",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.b7EJ59Es0iJ3DwPo"
     },
     {
-      "text": "Cowardice",
       "range": [
         26,
         26
       ],
       "_id": "hnqfTqvf2AskWR8v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cowardice",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.hnqfTqvf2AskWR8v"
     },
     {
-      "text": "Credit",
       "range": [
         27,
         27
       ],
       "_id": "KgvWqtP6dkg9q7x0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Credit",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.KgvWqtP6dkg9q7x0"
     },
     {
-      "text": "Cruelty",
       "range": [
         28,
         28
       ],
       "_id": "H6wrJOQEm4Wr6LRr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cruelty",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.H6wrJOQEm4Wr6LRr"
     },
     {
-      "text": "Custom",
       "range": [
         29,
         29
       ],
       "_id": "HFI5MfDNFgga0ehd",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Custom",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.HFI5MfDNFgga0ehd"
     },
     {
-      "text": "Defiance",
       "range": [
         30,
         30
       ],
       "_id": "PrZHBmlw0nMPVAvQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defiance",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.PrZHBmlw0nMPVAvQ"
     },
     {
-      "text": "Deficit",
       "range": [
         31,
         31
       ],
       "_id": "VOktTdeTSnJYU7tq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Deficit",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.VOktTdeTSnJYU7tq"
     },
     {
-      "text": "Delusion",
       "range": [
         32,
         32
       ],
       "_id": "KwKDBK3FrL2SHqfa",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Delusion",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.KwKDBK3FrL2SHqfa"
     },
     {
-      "text": "Denial",
       "range": [
         33,
         33
       ],
       "_id": "mJVK2fcgXMBh6Rwi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Denial",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.mJVK2fcgXMBh6Rwi"
     },
     {
-      "text": "Dependence",
       "range": [
         34,
         34
       ],
       "_id": "Ati0TJfotCh843CP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dependence",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Ati0TJfotCh843CP"
     },
     {
-      "text": "Devotion",
       "range": [
         35,
         35
       ],
       "_id": "YoaFyceZ8QXopnEK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devotion",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.YoaFyceZ8QXopnEK"
     },
     {
-      "text": "Difference",
       "range": [
         36,
         36
       ],
       "_id": "4hEafXHNEvH9hxX2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Difference",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.4hEafXHNEvH9hxX2"
     },
     {
-      "text": "Dignity",
       "range": [
         37,
         37
       ],
       "_id": "VXRwtuHmlAeqYyGY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dignity",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.VXRwtuHmlAeqYyGY"
     },
     {
-      "text": "Disappointment",
       "range": [
         38,
         38
       ],
       "_id": "Feyrgmi5UPMuLtxB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disappointment",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Feyrgmi5UPMuLtxB"
     },
     {
-      "text": "Disarray",
       "range": [
         39,
         39
       ],
       "_id": "gUgVAizfUdyxgzUB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disarray",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.gUgVAizfUdyxgzUB"
     },
     {
-      "text": "Dishonor",
       "range": [
         40,
         40
       ],
       "_id": "pUH0uVdPxZ1WcSmJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dishonor",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.pUH0uVdPxZ1WcSmJ"
     },
     {
-      "text": "Disorder",
       "range": [
         41,
         41
       ],
       "_id": "gUq2442LfAyi2qfm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disorder",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.gUq2442LfAyi2qfm"
     },
     {
-      "text": "Disregard",
       "range": [
         42,
         42
       ],
       "_id": "pQ9Synj3TtVgXgrN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disregard",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.pQ9Synj3TtVgXgrN"
     },
     {
-      "text": "Disturbance",
       "range": [
         43,
         43
       ],
       "_id": "4fXrU0ga4Ztz0DPB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Disturbance",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.4fXrU0ga4Ztz0DPB"
     },
     {
-      "text": "Dogma",
       "range": [
         44,
         44
       ],
       "_id": "Qv7WMGuoLp86CnWW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dogma",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Qv7WMGuoLp86CnWW"
     },
     {
-      "text": "Domination",
       "range": [
         45,
         45
       ],
       "_id": "86HjKUC5Y0MBqavY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Domination",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.86HjKUC5Y0MBqavY"
     },
     {
-      "text": "Drawback",
       "range": [
         46,
         46
       ],
       "_id": "xML0V5Zy5zFfnrIe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Drawback",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.xML0V5Zy5zFfnrIe"
     },
     {
-      "text": "Emotion",
       "range": [
         47,
         47
       ],
       "_id": "kv0wNsVnhEJhqDF6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Emotion",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.kv0wNsVnhEJhqDF6"
     },
     {
-      "text": "Endurance",
       "range": [
         48,
         48
       ],
       "_id": "3is3Thocuiw1C1jq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Endurance",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.3is3Thocuiw1C1jq"
     },
     {
-      "text": "Fact",
       "range": [
         49,
         49
       ],
       "_id": "5sDlRyIdeX79UiyU",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fact",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.5sDlRyIdeX79UiyU"
     },
     {
-      "text": "Fate",
       "range": [
         50,
         50
       ],
       "_id": "NYytwg2YhKJS10pq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fate",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.NYytwg2YhKJS10pq"
     },
     {
-      "text": "Folly",
       "range": [
         51,
         51
       ],
       "_id": "R14ZuA5sYSZDCxAC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Folly",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.R14ZuA5sYSZDCxAC"
     },
     {
-      "text": "Fortune",
       "range": [
         52,
         52
       ],
       "_id": "z4qUrRA0X2Pqo3JR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortune",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.z4qUrRA0X2Pqo3JR"
     },
     {
-      "text": "Friend",
       "range": [
         53,
         53
       ],
       "_id": "VcanHh4p3e6ADTK6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Friend",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.VcanHh4p3e6ADTK6"
     },
     {
-      "text": "Gloom",
       "range": [
         54,
         54
       ],
       "_id": "KTR6RU7TtmhhUan1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gloom",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.KTR6RU7TtmhhUan1"
     },
     {
-      "text": "Goal",
       "range": [
         55,
         55
       ],
       "_id": "3587qWIQEsDcMYb2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Goal",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.3587qWIQEsDcMYb2"
     },
     {
-      "text": "Guilt",
       "range": [
         56,
         56
       ],
       "_id": "6N7PzhPucXiZMvlq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Guilt",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.6N7PzhPucXiZMvlq"
     },
     {
-      "text": "Habit",
       "range": [
         57,
         57
       ],
       "_id": "WP2f45dGZFj9YdZr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Habit",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.WP2f45dGZFj9YdZr"
     },
     {
-      "text": "Hazard",
       "range": [
         58,
         58
       ],
       "_id": "nGUr9P7PdFagCzCf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazard",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.nGUr9P7PdFagCzCf"
     },
     {
-      "text": "Hospitality",
       "range": [
         59,
         59
       ],
       "_id": "mb6aU50fTvxdGULj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hospitality",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.mb6aU50fTvxdGULj"
     },
     {
-      "text": "Hostility",
       "range": [
         60,
         60
       ],
       "_id": "gz5bkIVIQLxUQkhu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hostility",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.gz5bkIVIQLxUQkhu"
     },
     {
-      "text": "Ignorance",
       "range": [
         61,
         61
       ],
       "_id": "EgCwopx83Gv2YPPv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ignorance",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.EgCwopx83Gv2YPPv"
     },
     {
-      "text": "Illusion",
       "range": [
         62,
         62
       ],
       "_id": "mCxknkUnH67o2LTW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Illusion",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.mCxknkUnH67o2LTW"
     },
     {
-      "text": "Impression",
       "range": [
         63,
         63
       ],
       "_id": "wC8TiYIVCvM91s9Z",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impression",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.wC8TiYIVCvM91s9Z"
     },
     {
-      "text": "Inability",
       "range": [
         64,
         64
       ],
       "_id": "QfObHKZmB9CcMc6m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Inability",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.QfObHKZmB9CcMc6m"
     },
     {
-      "text": "Independence",
       "range": [
         65,
         65
       ],
       "_id": "yB0hQCMUdkUQ5fLl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Independence",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.yB0hQCMUdkUQ5fLl"
     },
     {
-      "text": "Injustice",
       "range": [
         66,
         66
       ],
       "_id": "qV1sl0r3aEeuOQkA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Injustice",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.qV1sl0r3aEeuOQkA"
     },
     {
-      "text": "Insight",
       "range": [
         67,
         67
       ],
       "_id": "TMVECw2YzaOPpHYI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insight",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.TMVECw2YzaOPpHYI"
     },
     {
-      "text": "Insult",
       "range": [
         68,
         68
       ],
       "_id": "76q6t5qe7onsthMe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insult",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.76q6t5qe7onsthMe"
     },
     {
-      "text": "Intelligence",
       "range": [
         69,
         69
       ],
       "_id": "KulxXVqxRvgpi0mx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intelligence",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.KulxXVqxRvgpi0mx"
     },
     {
-      "text": "Malady",
       "range": [
         70,
         70
       ],
       "_id": "jCRNfYlisvvs5nKn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malady",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.jCRNfYlisvvs5nKn"
     },
     {
-      "text": "Mastery",
       "range": [
         71,
         71
       ],
       "_id": "8xk6oQNq62fSGAzy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mastery",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.8xk6oQNq62fSGAzy"
     },
     {
-      "text": "Maturity",
       "range": [
         72,
         72
       ],
       "_id": "y9buawxanaiVdSV1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maturity",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.y9buawxanaiVdSV1"
     },
     {
-      "text": "Membership",
       "range": [
         73,
         73
       ],
       "_id": "4YaQtIhTfq9syFzp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Membership",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.4YaQtIhTfq9syFzp"
     },
     {
-      "text": "Merit",
       "range": [
         74,
         74
       ],
       "_id": "EB6JkuuDZA4b5Sn6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Merit",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.EB6JkuuDZA4b5Sn6"
     },
     {
-      "text": "Necessity",
       "range": [
         75,
         75
       ],
       "_id": "Le9tijZjqqtELTE6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Necessity",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Le9tijZjqqtELTE6"
     },
     {
-      "text": "Obligation",
       "range": [
         76,
         76
       ],
       "_id": "32OcZONfjjKTEK3Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Obligation",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.32OcZONfjjKTEK3Y"
     },
     {
-      "text": "Offense",
       "range": [
         77,
         77
       ],
       "_id": "kX7pf6SekCnWpJ6a",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Offense",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.kX7pf6SekCnWpJ6a"
     },
     {
-      "text": "Opinion",
       "range": [
         78,
         78
       ],
       "_id": "l5XT0cCcBlxMOadJ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opinion",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.l5XT0cCcBlxMOadJ"
     },
     {
-      "text": "Ownership",
       "range": [
         79,
         79
       ],
       "_id": "RfWb0GUrIG8lRLSX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ownership",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.RfWb0GUrIG8lRLSX"
     },
     {
-      "text": "Paradox",
       "range": [
         80,
         80
       ],
       "_id": "7523WePVr6GD9bjQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Paradox",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.7523WePVr6GD9bjQ"
     },
     {
-      "text": "Partnership",
       "range": [
         81,
         81
       ],
       "_id": "XzhdtWS0NgGNzuHB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Partnership",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.XzhdtWS0NgGNzuHB"
     },
     {
-      "text": "Passion",
       "range": [
         82,
         82
       ],
       "_id": "wakmjqEXsQTIn1bm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Passion",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.wakmjqEXsQTIn1bm"
     },
     {
-      "text": "Patience",
       "range": [
         83,
         83
       ],
       "_id": "sh2EsDsm02HAvGOt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Patience",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.sh2EsDsm02HAvGOt"
     },
     {
-      "text": "Perception",
       "range": [
         84,
         84
       ],
       "_id": "HEwu4cX8F6SEWpdh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perception",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.HEwu4cX8F6SEWpdh"
     },
     {
-      "text": "Perseverance",
       "range": [
         85,
         85
       ],
       "_id": "W62AEF2YaqSLZZYM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Perseverance",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.W62AEF2YaqSLZZYM"
     },
     {
-      "text": "Proficiency",
       "range": [
         86,
         86
       ],
       "_id": "Pnch7qU5x3WJDWBX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Proficiency",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Pnch7qU5x3WJDWBX"
     },
     {
-      "text": "Progress",
       "range": [
         87,
         87
       ],
       "_id": "TooRrtVy4NPHl3Hu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Progress",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.TooRrtVy4NPHl3Hu"
     },
     {
-      "text": "Promise",
       "range": [
         88,
         88
       ],
       "_id": "rAIPPjEdDmMvFxjK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Promise",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.rAIPPjEdDmMvFxjK"
     },
     {
-      "text": "Redemption",
       "range": [
         89,
         89
       ],
       "_id": "uQnToMw4PwpG7dIS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Redemption",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.uQnToMw4PwpG7dIS"
     },
     {
-      "text": "Regret",
       "range": [
         90,
         90
       ],
       "_id": "k6VsQUmMTZzVN5gS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Regret",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.k6VsQUmMTZzVN5gS"
     },
     {
-      "text": "Restoration",
       "range": [
         91,
         91
       ],
       "_id": "9S1VHpgFfkeFZyls",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restoration",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.9S1VHpgFfkeFZyls"
     },
     {
-      "text": "Routine",
       "range": [
         92,
         92
       ],
       "_id": "Njk38J04WWPvqnwA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Routine",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Njk38J04WWPvqnwA"
     },
     {
-      "text": "Success",
       "range": [
         93,
         93
       ],
       "_id": "Ncqwo4ZSgi68KsfO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Success",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Ncqwo4ZSgi68KsfO"
     },
     {
-      "text": "Sympathy",
       "range": [
         94,
         94
       ],
       "_id": "B6CA8aB96iFSPwtO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sympathy",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.B6CA8aB96iFSPwtO"
     },
     {
-      "text": "System",
       "range": [
         95,
         95
       ],
       "_id": "maEsZZd1VOD1C0Li",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "System",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.maEsZZd1VOD1C0Li"
     },
     {
-      "text": "Thought",
       "range": [
         96,
         96
       ],
       "_id": "Qa9l4wVXlwHcg1WT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Thought",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.Qa9l4wVXlwHcg1WT"
     },
     {
-      "text": "Tragedy",
       "range": [
         97,
         97
       ],
       "_id": "1RIyI859ktwXoZsy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tragedy",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.1RIyI859ktwXoZsy"
     },
     {
-      "text": "Vision",
       "range": [
         98,
         98
       ],
       "_id": "UUPtxS8D3nQ7mgKN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Vision",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.UUPtxS8D3nQ7mgKN"
     },
     {
-      "text": "Windfall",
       "range": [
         99,
         99
       ],
       "_id": "OASabvM5AZwDCKFV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windfall",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.OASabvM5AZwDCKFV"
     },
     {
-      "text": "Wrath",
       "range": [
         100,
         100
       ],
       "_id": "owxujqx3wVI65cPN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wrath",
+      "name": "",
       "_key": "!tables.results!2KgRpUejv7U6Pjzf.owxujqx3wVI65cPN"
     }
   ],
@@ -1508,14 +2608,23 @@
   "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.bd6278f18bbd6739]{Ask the Oracle} about a goal, situation, or event, roll for an Action and Theme. Together, these provide an interpretative verb/noun prompt.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Core/Theme",
+      "category": "Starsmith/Oracles/Core",
+      "dsid": "oracle_rollable:starforged/core/theme_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676265474,
     "modifiedTime": 1693042385522,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "2KgRpUejv7U6Pjzf",
   "sort": 900000,

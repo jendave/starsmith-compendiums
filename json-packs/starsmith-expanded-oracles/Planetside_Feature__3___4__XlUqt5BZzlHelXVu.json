@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "atcaRVmXfWYEbHY8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blinding storm of rock and dust",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.atcaRVmXfWYEbHY8"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "xe5oAR4JcNQ1b2bZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brilliant aurora on the starward edge",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.xe5oAR4JcNQ1b2bZ"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "2BA4J3PQ6Z72jGd3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Delayed shock waves",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.2BA4J3PQ6Z72jGd3"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "ckqkbJ0Q0Bg7d2Ly",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed space ports",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.ckqkbJ0Q0Bg7d2Ly"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "L06RqNC18KsaMZnF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dramatic change in fragment spin",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.L06RqNC18KsaMZnF"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "I9pE4elqMsxUhcf3",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fiery hail of debris",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.I9pE4elqMsxUhcf3"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "XaDXaUDWoNaKgdrK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pressurized gas vents propelling fragments",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.XaDXaUDWoNaKgdrK"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "h9PORQkIA6UukDcG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shattered underground bunkers",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.h9PORQkIA6UukDcG"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "bQfZE9dRM88dav5a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Small fragments fusing back together via magma",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.bQfZE9dRM88dav5a"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "2pBjmsm5tk8iMWI1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sounds that should be impossible to hear",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.2pBjmsm5tk8iMWI1"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "a3DU6ArxVjVx1JVI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sudden depressurization of atmosphere",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.a3DU6ArxVjVx1JVI"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "45ANdGlFgECZILJG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swirling metallic shards",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.45ANdGlFgECZILJG"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "inTDtqcDJdO70t8K",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terrain on a collision course",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.inTDtqcDJdO70t8K"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "AAUsFdPoaAXla6FS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.AAUsFdPoaAXla6FS"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "BO3c22i7TRKN9vKP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!XlUqt5BZzlHelXVu.BO3c22i7TRKN9vKP"
+    }
+  ],
+  "folder": "v5cvqSu1q6CUcfPg",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Shattered/Feature",
+      "category": "Starsmith/Oracles/Planet/Shattered",
+      "dsid": "oracle_rollable:starforged/planet/shattered/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676402029,
+    "modifiedTime": 1699054162117,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "XlUqt5BZzlHelXVu",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!XlUqt5BZzlHelXVu"
+}

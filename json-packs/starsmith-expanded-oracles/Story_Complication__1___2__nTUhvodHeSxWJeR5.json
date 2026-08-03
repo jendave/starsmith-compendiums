@@ -3,439 +3,786 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Crucial equipment or device fails",
       "range": [
         1,
         4
       ],
       "_id": "LGVjwiYc2tIng51c",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crucial equipment or device fails",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.LGVjwiYc2tIng51c"
     },
     {
-      "text": "Crucial equipment or device is sabotaged",
       "range": [
         5,
         7
       ],
       "_id": "zNqb38yyzIng8fAM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crucial equipment or device is sabotaged",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.zNqb38yyzIng8fAM"
     },
     {
-      "text": "Debt or promise comes due",
       "range": [
         8,
         10
       ],
       "_id": "Gx0gRlsJcaLYsZCM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Debt or promise comes due",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.Gx0gRlsJcaLYsZCM"
     },
     {
-      "text": "Enemy reveals unexpected powers, abilities, or influence",
       "range": [
         11,
         14
       ],
       "_id": "NST76RIWeruggsNY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy reveals unexpected powers, abilities, or influence",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.NST76RIWeruggsNY"
     },
     {
-      "text": "Enemy reveals their true agenda or nature",
       "range": [
         15,
         17
       ],
       "_id": "wjQh2U4GhMUS7Kak",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy reveals their true agenda or nature",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.wjQh2U4GhMUS7Kak"
     },
     {
-      "text": "Enemy unexpectedly benefits from your actions",
       "range": [
         18,
         20
       ],
       "_id": "ADbYfWqO9Tb6SuzF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Enemy unexpectedly benefits from your actions",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.ADbYfWqO9Tb6SuzF"
     },
     {
-      "text": "Key location is made inaccessible",
       "range": [
         21,
         23
       ],
       "_id": "CuoAhlVyui1TcgI4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key location is made inaccessible",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.CuoAhlVyui1TcgI4"
     },
     {
-      "text": "Key location is threatened or made unsafe",
       "range": [
         24,
         26
       ],
       "_id": "2ZKFrB0qg2RKJAfe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Key location is threatened or made unsafe",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.2ZKFrB0qg2RKJAfe"
     },
     {
-      "text": "Natural disaster is imminent",
       "range": [
         27,
         29
       ],
       "_id": "esPde8jw6bF4bhBS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Natural disaster is imminent",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.esPde8jw6bF4bhBS"
     },
     {
-      "text": "Needed item or resource is unavailable",
       "range": [
         30,
         33
       ],
       "_id": "MYHw2qLNdeU9Gsrv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Needed item or resource is unavailable",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.MYHw2qLNdeU9Gsrv"
     },
     {
-      "text": "Object of a quest is not what you assumed",
       "range": [
         34,
         36
       ],
       "_id": "LMpvydedLQKboPXL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Object of a quest is not what you assumed",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.LMpvydedLQKboPXL"
     },
     {
-      "text": "Old enemy resurfaces",
       "range": [
         37,
         39
       ],
       "_id": "YqhEOLXdoW1jkNAn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Old enemy resurfaces",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.YqhEOLXdoW1jkNAn"
     },
     {
-      "text": "Simultaneous problems force a hard choice",
       "range": [
         40,
         42
       ],
       "_id": "NZaUWkjaEmcwYprB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Simultaneous problems force a hard choice",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.NZaUWkjaEmcwYprB"
     },
     {
-      "text": "Someone important betrays your trust",
       "range": [
         43,
         45
       ],
       "_id": "JIRZf0GnnbeTaWxC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone important betrays your trust",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.JIRZf0GnnbeTaWxC"
     },
     {
-      "text": "Someone important is threatened or endangered",
       "range": [
         46,
         48
       ],
       "_id": "byb1xqRnggsdgwF6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone important is threatened or endangered",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.byb1xqRnggsdgwF6"
     },
     {
-      "text": "Someone important reveals their problematic secret or history",
       "range": [
         49,
         51
       ],
       "_id": "Pwi0tfg2ge6RXHjc",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Someone important reveals their problematic secret or history",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.Pwi0tfg2ge6RXHjc"
     },
     {
-      "text": "Something important goes missing",
       "range": [
         52,
         54
       ],
       "_id": "cifZU1Gizatr96wb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Something important goes missing",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.cifZU1Gizatr96wb"
     },
     {
-      "text": "Technology or device is shown to have unexpected effects",
       "range": [
         55,
         57
       ],
       "_id": "QHP0TcQ7Z8dqHpmq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Technology or device is shown to have unexpected effects",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.QHP0TcQ7Z8dqHpmq"
     },
     {
-      "text": "Time pressure suddenly increases",
       "range": [
         58,
         61
       ],
       "_id": "MAHVdONneJBqSOJW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Time pressure suddenly increases",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.MAHVdONneJBqSOJW"
     },
     {
-      "text": "Trap is sprung",
       "range": [
         62,
         65
       ],
       "_id": "frg9doaHsZtJI2j7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trap is sprung",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.frg9doaHsZtJI2j7"
     },
     {
-      "text": "True agenda of a connection or patron is revealed",
       "range": [
         66,
         68
       ],
       "_id": "vKEBQaiBMbY4lWj2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "True agenda of a connection or patron is revealed",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.vKEBQaiBMbY4lWj2"
     },
     {
-      "text": "Trusted information is shown to be false",
       "range": [
         69,
         72
       ],
       "_id": "Rr8Uii4xcbdBG1s6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trusted information is shown to be false",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.Rr8Uii4xcbdBG1s6"
     },
     {
-      "text": "Two seemingly unrelated problems are shown to be connected",
       "range": [
         73,
         76
       ],
       "_id": "DP9N6zYz9zpNOTvn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Two seemingly unrelated problems are shown to be connected",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.DP9N6zYz9zpNOTvn"
     },
     {
-      "text": "Undermined by self-doubt or vulnerabilities",
       "range": [
         77,
         80
       ],
       "_id": "Z1NkpjCWGXs234F1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undermined by self-doubt or vulnerabilities",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.Z1NkpjCWGXs234F1"
     },
     {
-      "text": "Unexpected enemies appear",
       "range": [
         81,
         84
       ],
       "_id": "NOQMgOaOUuF1gp1h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected enemies appear",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.NOQMgOaOUuF1gp1h"
     },
     {
-      "text": "Urgent message distracts you from your quest",
       "range": [
         85,
         88
       ],
       "_id": "cKInJOBBdePEJrMy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Urgent message distracts you from your quest",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.cKInJOBBdePEJrMy"
     },
     {
-      "text": "You are tracked or followed",
       "range": [
         89,
         92
       ],
       "_id": "oWjWUqIR2260muaL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You are tracked or followed",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.oWjWUqIR2260muaL"
     },
     {
-      "text": "You were diverted from the true crisis",
       "range": [
         93,
         95
       ],
       "_id": "psm4ouCqlyDoPH7e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "You were diverted from the true crisis",
+      "name": "",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.psm4ouCqlyDoPH7e"
     },
     {
-      "text": "Roll twice",
       "range": [
         96,
         100
       ],
       "_id": "VDGODnDMfzFngRHQ",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Story Complication (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5",
       "_key": "!tables.results!nTUhvodHeSxWJeR5.VDGODnDMfzFngRHQ"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "aU7iOrv5ktHSJdVY",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Story Complication (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.nTUhvodHeSxWJeR5",
+      "_key": "!tables.results!nTUhvodHeSxWJeR5.aU7iOrv5ktHSJdVY"
     }
   ],
   "folder": "EZdpqOZMdqwGsU7q",
@@ -443,14 +790,23 @@
   "description": "<p>This oracle will introduce narrative turns, troubles, and revelations. It can be used as an alternative to the @Compendium[foundry-ironsworn.starforgedmoves.78baa51694fe37c5]{Pay the Price} table when you encounter a negative outcome at a crucial moment. In particular, you might use this table after rolling matched 10s on the challenge dice.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Story_Complication",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/story_complication_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676735873,
     "modifiedTime": 1693071774131,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "nTUhvodHeSxWJeR5",
   "sort": 200000,

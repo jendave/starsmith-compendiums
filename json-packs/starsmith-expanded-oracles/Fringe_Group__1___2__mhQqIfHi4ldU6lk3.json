@@ -3,172 +3,344 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cultists",
       "range": [
         1,
         5
       ],
       "_id": "eLnNKimGkd42hXgl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cultists",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.eLnNKimGkd42hXgl"
     },
     {
-      "text": "Exiles",
       "range": [
         6,
         15
       ],
       "_id": "BBgJBnF7KHpYlWpG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exiles",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.BBgJBnF7KHpYlWpG"
     },
     {
-      "text": "Gangsters",
       "range": [
         16,
         25
       ],
       "_id": "iRl5Rco2r0FZajip",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Gangsters",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.iRl5Rco2r0FZajip"
     },
     {
-      "text": "Hackers",
       "range": [
         26,
         35
       ],
       "_id": "tYKspTFaI97NmvYg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hackers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.tYKspTFaI97NmvYg"
     },
     {
-      "text": "Monster hunters",
       "range": [
         36,
         40
       ],
       "_id": "IKNBZvYb4ZzOxxSo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Monster hunters",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.IKNBZvYb4ZzOxxSo"
     },
     {
-      "text": "Pirates",
       "range": [
         41,
         50
       ],
       "_id": "G7OsJfGCALWIQI5C",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pirates",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.G7OsJfGCALWIQI5C"
     },
     {
-      "text": "Raiders",
       "range": [
         51,
         60
       ],
       "_id": "GUWeOE8ONb9uD6pX",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raiders",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.GUWeOE8ONb9uD6pX"
     },
     {
-      "text": "Rebels",
       "range": [
         61,
         70
       ],
       "_id": "d0ZCVXJrsxikx0eM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rebels",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.d0ZCVXJrsxikx0eM"
     },
     {
-      "text": "Rogue AI",
       "range": [
         71,
         75
       ],
       "_id": "kyDpEsw8YtO4OTZm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rogue AI",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.kyDpEsw8YtO4OTZm"
     },
     {
-      "text": "Scavengers",
       "range": [
         76,
         85
       ],
       "_id": "Z8Q55I72SLRGP8sP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scavengers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.Z8Q55I72SLRGP8sP"
     },
     {
-      "text": "Smugglers",
       "range": [
         86,
         95
       ],
       "_id": "X9bw3HlL9CPBhKtM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Smugglers",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.X9bw3HlL9CPBhKtM"
     },
     {
-      "text": "Roll twice",
       "range": [
         96,
         100
       ],
       "_id": "TVuZQuEd6zQLRNOB",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Fringe Group (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhQqIfHi4ldU6lk3",
       "_key": "!tables.results!mhQqIfHi4ldU6lk3.TVuZQuEd6zQLRNOB"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "zyJXzrEtaQfOESwZ",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Fringe Group (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.mhQqIfHi4ldU6lk3",
+      "_key": "!tables.results!mhQqIfHi4ldU6lk3.zyJXzrEtaQfOESwZ"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -176,14 +348,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Fringe_Group",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/fringe_group_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597146,
     "modifiedTime": 1693070197881,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "mhQqIfHi4ldU6lk3",
   "sort": 190625,

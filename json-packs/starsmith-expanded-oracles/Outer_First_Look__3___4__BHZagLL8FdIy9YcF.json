@@ -3,143 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Explosive hole in the exterior",
       "range": [
         1,
         15
       ],
       "_id": "g9Y0I8v1O6BguaDR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Explosive hole in the exterior",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.g9Y0I8v1O6BguaDR"
     },
     {
-      "text": "Haphazard goods or cargo flotsam",
       "range": [
         16,
         30
       ],
       "_id": "NEANU8tn5YSYB6Av",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haphazard goods or cargo flotsam",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.NEANU8tn5YSYB6Av"
     },
     {
-      "text": "Arcing electricity and sparks",
       "range": [
         31,
         45
       ],
       "_id": "3XAvyHlzEc6fxHWb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Arcing electricity and sparks",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.3XAvyHlzEc6fxHWb"
     },
     {
-      "text": "Crushed structure",
       "range": [
         46,
         50
       ],
       "_id": "HS5rKmhLNlCjtDrf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crushed structure",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.HS5rKmhLNlCjtDrf"
     },
     {
-      "text": "Hodgepodge construction",
       "range": [
         51,
         60
       ],
       "_id": "uLwVBTdjRm0Nf8wY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hodgepodge construction",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.uLwVBTdjRm0Nf8wY"
     },
     {
-      "text": "Unstable location or orbit",
       "range": [
         61,
         65
       ],
       "_id": "CAL2LuJaWSHyWnBE",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable location or orbit",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.CAL2LuJaWSHyWnBE"
     },
     {
-      "text": "Specialized scientific equipment",
       "range": [
         66,
         80
       ],
       "_id": "Dmcncm6Ihr81hhrI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Specialized scientific equipment",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.Dmcncm6Ihr81hhrI"
     },
     {
-      "text": "Signs of a battle",
       "range": [
         81,
         85
       ],
       "_id": "5g0igT9SrqUEH1E3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a battle",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.5g0igT9SrqUEH1E3"
     },
     {
-      "text": "Pristine exterior",
       "range": [
         86,
         95
       ],
       "_id": "cJesBkoWbsgglHl5",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pristine exterior",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.cJesBkoWbsgglHl5"
     },
     {
-      "text": "Signs of the supernatural",
       "range": [
         96,
         100
       ],
       "_id": "I3nUg1GKL0kUvGkL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of the supernatural",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!BHZagLL8FdIy9YcF.I3nUg1GKL0kUvGkL"
     }
   ],
@@ -148,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Derelict/Outer_First_Look",
+      "category": "Starsmith/Oracles/Derelict",
+      "dsid": "oracle_rollable:starforged/derelict/outer_first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676611921,
     "modifiedTime": 1693042477856,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "BHZagLL8FdIy9YcF",
   "sort": 200000,

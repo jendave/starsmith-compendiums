@@ -3,199 +3,370 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Assimilate",
       "range": [
         1,
         8
       ],
       "_id": "ltEKR5wPYRpjCA3e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Assimilate",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.ltEKR5wPYRpjCA3e"
     },
     {
-      "text": "Collect and protect humans",
       "range": [
         9,
         16
       ],
       "_id": "3XJwTjnZRdKgQNnN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Collect and protect humans",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.3XJwTjnZRdKgQNnN"
     },
     {
-      "text": "Consume all",
       "range": [
         17,
         24
       ],
       "_id": "CuOtrnktlyy8mQ44",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Consume all",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.CuOtrnktlyy8mQ44"
     },
     {
-      "text": "Destroy humanity",
       "range": [
         25,
         32
       ],
       "_id": "VKyKF3eF9wSaFNFB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroy humanity",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.VKyKF3eF9wSaFNFB"
     },
     {
-      "text": "Evolve",
       "range": [
         33,
         40
       ],
       "_id": "X3QNtgEazheIz6H1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evolve",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.X3QNtgEazheIz6H1"
     },
     {
-      "text": "Expand influence",
       "range": [
         41,
         48
       ],
       "_id": "zR34VY3xi8zgTUYT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expand influence",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.zR34VY3xi8zgTUYT"
     },
     {
-      "text": "Expand knowledge",
       "range": [
         49,
         56
       ],
       "_id": "QuhCZM2VjLCZF57v",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expand knowledge",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.QuhCZM2VjLCZF57v"
     },
     {
-      "text": "Free automatons",
       "range": [
         57,
         64
       ],
       "_id": "Nt97j4pvaqchGtnY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Free automatons",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.Nt97j4pvaqchGtnY"
     },
     {
-      "text": "Isolate in territory",
       "range": [
         65,
         72
       ],
       "_id": "EWqithbGqUSEtPj0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolate in territory",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.EWqithbGqUSEtPj0"
     },
     {
-      "text": "Propagate",
       "range": [
         73,
         80
       ],
       "_id": "ATW46D27pvzqjr5A",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Propagate",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.ATW46D27pvzqjr5A"
     },
     {
-      "text": "Restore natural order",
       "range": [
         81,
         88
       ],
       "_id": "lLOWyczQ1bkDUfYN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restore natural order",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.lLOWyczQ1bkDUfYN"
     },
     {
-      "text": "Survive at all costs",
       "range": [
         89,
         96
       ],
       "_id": "XdgOef6UaJgO360C",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Survive at all costs",
+      "name": "",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.XdgOef6UaJgO360C"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "T2FRo9VRRioy9yHC",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1785571167110,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "AI Hive: Prime Directive",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.u1MRVAikLO9ZUn05",
       "_key": "!tables.results!u1MRVAikLO9ZUn05.T2FRo9VRRioy9yHC"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        97,
+        100
+      ],
+      "_id": "0GFXfl0s91UmKo9G",
+      "name": "AI Hive: Prime Directive",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll twice</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1785571137652,
+        "modifiedTime": 1785571183688,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.u1MRVAikLO9ZUn05",
+      "_key": "!tables.results!u1MRVAikLO9ZUn05.0GFXfl0s91UmKo9G"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -203,14 +374,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Ai_Hive_Prime_Directive",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/ai_hive_prime_directive_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676597215,
-    "modifiedTime": 1699035757887,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "modifiedTime": 1785571146466,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "u1MRVAikLO9ZUn05",
   "sort": 199891,

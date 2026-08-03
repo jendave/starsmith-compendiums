@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "u2jRrjAz3Hq87NSe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken cities",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.u2jRrjAz3Hq87NSe"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "m0c6P9JFYZWcaM2L",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Colliding fragments",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.m0c6P9JFYZWcaM2L"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "7adc4IOk0nX7DZxW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy storms",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.7adc4IOk0nX7DZxW"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "fE2nCOvDh8pPHovP",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed caverns",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.fE2nCOvDh8pPHovP"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "MDTDUX401euLhDzV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fluctuating gravity",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.MDTDUX401euLhDzV"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "bJcyeHZW9FfC4Rxz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic disturbances",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.bJcyeHZW9FfC4Rxz"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "zBlK2NwpTafgVWnV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Molten fissures",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.zBlK2NwpTafgVWnV"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "OSsFlz1uoFA1nRuj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Phantom visions of the past",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.OSsFlz1uoFA1nRuj"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "2F9sZA74ipf9x3Ok",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pocket atmosphere",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.2F9sZA74ipf9x3Ok"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "SEe9ItfZhzcalJp6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Residual energy storms",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.SEe9ItfZhzcalJp6"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "ttHa7jWe6UbYqftm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swirling corrosive gases",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.ttHa7jWe6UbYqftm"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "q4xKpve8JwpuquuU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unstable and fracturing terrain",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.q4xKpve8JwpuquuU"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "uA10ZmwwAmgYieXa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Venting magma",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.uA10ZmwwAmgYieXa"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "DlR3WsObjnccwCJS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.DlR3WsObjnccwCJS"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "2Yhz3yzUsYI8xDWz",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!K74TKszI8T8HTUId.2Yhz3yzUsYI8xDWz"
+    }
+  ],
+  "folder": "v5cvqSu1q6CUcfPg",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Shattered/Feature",
+      "category": "Starsmith/Oracles/Planet/Shattered",
+      "dsid": "oracle_rollable:starforged/planet/shattered/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676402018,
+    "modifiedTime": 1699054160383,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "K74TKszI8T8HTUId",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!K74TKszI8T8HTUId"
+}

@@ -3,144 +3,292 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Metallic (jagged)",
       "range": [
         1,
         30
       ],
       "_id": "KjjpGGEi6yGukeLx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metallic (jagged)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.KjjpGGEi6yGukeLx"
     },
     {
-      "text": "Metallic (layered)",
       "range": [
         31,
         60
       ],
       "_id": "qhI1lL3C1dwquFhL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Metallic (layered)",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.qhI1lL3C1dwquFhL"
     },
     {
-      "text": "Concrete-like",
       "range": [
         61,
         70
       ],
       "_id": "QsZOfvooZ60ee3wv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concrete-like",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.QsZOfvooZ60ee3wv"
     },
     {
-      "text": "Ceramic",
       "range": [
         71,
         74
       ],
       "_id": "5PC03p3NSMfMkBgC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ceramic",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.5PC03p3NSMfMkBgC"
     },
     {
-      "text": "Fur- or feather-like",
       "range": [
         75,
         78
       ],
       "_id": "aOLzwW11lydRGW22",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fur- or feather-like",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.aOLzwW11lydRGW22"
     },
     {
-      "text": "Shell-like",
       "range": [
         79,
         82
       ],
       "_id": "KOpEWV7y5t657skq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shell-like",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.KOpEWV7y5t657skq"
     },
     {
-      "text": "Stringed or corded",
       "range": [
         83,
         86
       ],
       "_id": "MTASWdCnFsXPi4nv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stringed or corded",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.MTASWdCnFsXPi4nv"
     },
     {
-      "text": "Force fields",
       "range": [
         87,
         88
       ],
       "_id": "H7h76T230gp5dCLl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Force fields",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.H7h76T230gp5dCLl"
     },
     {
-      "text": "Packed ice",
       "range": [
         89,
         90
       ],
       "_id": "ikPLKJbwwuk66Nqz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Packed ice",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.ikPLKJbwwuk66Nqz"
     },
     {
-      "text": "Roll twice",
       "range": [
         91,
         100
       ],
       "_id": "3C9KlAx3bXGrEQFD",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Material (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c5wad4ZSEmOKIbV0",
       "_key": "!tables.results!c5wad4ZSEmOKIbV0.3C9KlAx3bXGrEQFD"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "crOcSvhAAXL1IsGs",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Material (5 - 6)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.c5wad4ZSEmOKIbV0",
+      "_key": "!tables.results!c5wad4ZSEmOKIbV0.crOcSvhAAXL1IsGs"
     }
   ],
   "folder": "N2sObuKzWFZ5LEU2",
@@ -148,14 +296,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Material",
+      "category": "Starsmith/Oracles/Precursor_Vault",
+      "dsid": "oracle_rollable:starforged/precursor_vault/material_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676692241,
     "modifiedTime": 1693074073301,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "c5wad4ZSEmOKIbV0",
   "sort": 159375,

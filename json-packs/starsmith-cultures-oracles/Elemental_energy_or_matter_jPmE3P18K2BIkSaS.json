@@ -3,87 +3,159 @@
   "formula": "1d6",
   "results": [
     {
-      "text": "Dark matter being",
       "range": [
         1,
         1
       ],
       "_id": "tvN60NCMaMsW8mJQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dark matter being",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!jPmE3P18K2BIkSaS.tvN60NCMaMsW8mJQ"
     },
     {
-      "text": "Living energy, electricity",
       "range": [
         2,
         2
       ],
       "_id": "NAgBxKEqALk7NoRk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living energy, electricity",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!jPmE3P18K2BIkSaS.NAgBxKEqALk7NoRk"
     },
     {
-      "text": "Living fire, magma",
       "range": [
         3,
         3
       ],
       "_id": "OHUUV9pUF3gONWR3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living fire, magma",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!jPmE3P18K2BIkSaS.OHUUV9pUF3gONWR3"
     },
     {
-      "text": "Living rock, earth",
       "range": [
         4,
         4
       ],
       "_id": "98aRp6eI5li6PsdT",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living rock, earth",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!jPmE3P18K2BIkSaS.98aRp6eI5li6PsdT"
     },
     {
-      "text": "Multi-dimensional",
       "range": [
         5,
         5
       ],
       "_id": "KKgYMcM9jqZwGkfF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Multi-dimensional",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!jPmE3P18K2BIkSaS.KKgYMcM9jqZwGkfF"
     },
     {
-      "text": "Primordial",
       "range": [
         6,
         6
       ],
       "_id": "kzkBrC8AzIS8pO3M",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Primordial",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!jPmE3P18K2BIkSaS.kzkBrC8AzIS8pO3M"
     }
   ],
@@ -102,10 +174,13 @@
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.11",
-    "coreVersion": "11.315",
+    "coreVersion": "13.351",
     "createdTime": 1708144773799,
     "modifiedTime": 1708145194398,
-    "lastModifiedBy": "S0d41AhaDywX0Vut"
+    "lastModifiedBy": "S0d41AhaDywX0Vut",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_key": "!tables!jPmE3P18K2BIkSaS"
 }

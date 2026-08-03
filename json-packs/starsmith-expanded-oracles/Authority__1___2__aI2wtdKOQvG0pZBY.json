@@ -3,101 +3,185 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "None / lawless",
       "range": [
         1,
         15
       ],
       "_id": "LdyomcZYWFQJx3Yp",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "None / lawless",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.LdyomcZYWFQJx3Yp"
     },
     {
-      "text": "Ineffectual",
       "range": [
         16,
         30
       ],
       "_id": "Q0atSi1PRowG8STV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ineffectual",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.Q0atSi1PRowG8STV"
     },
     {
-      "text": "Tolerant",
       "range": [
         31,
         45
       ],
       "_id": "eWRidG6SRDZsjb3h",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tolerant",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.eWRidG6SRDZsjb3h"
     },
     {
-      "text": "Fair",
       "range": [
         46,
         55
       ],
       "_id": "nHVLUuGEshBuGUEo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fair",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.nHVLUuGEshBuGUEo"
     },
     {
-      "text": "Unyielding",
       "range": [
         56,
         70
       ],
       "_id": "kVZQkRsbfMby06lI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unyielding",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.kVZQkRsbfMby06lI"
     },
     {
-      "text": "Corrupt",
       "range": [
         71,
         85
       ],
       "_id": "3bcqGC3bHRjwB39N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrupt",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.3bcqGC3bHRjwB39N"
     },
     {
-      "text": "Oppressive",
       "range": [
         86,
         100
       ],
       "_id": "HwjEjDDOyQA7ZXuK",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Oppressive",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!aI2wtdKOQvG0pZBY.HwjEjDDOyQA7ZXuK"
     }
   ],
@@ -106,14 +190,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Authority",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/authority_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676424347,
     "modifiedTime": 1693072392336,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "aI2wtdKOQvG0pZBY",
   "sort": 375000,

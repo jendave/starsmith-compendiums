@@ -3,153 +3,263 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Cloud cover broken only by most direct sunlight",
       "range": [
         1,
         11
       ],
       "_id": "7mpIDZGf4saz5b2c",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Cloud cover broken only by most direct sunlight",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.7mpIDZGf4saz5b2c"
     },
     {
-      "text": "Fungal bogs",
       "range": [
         12,
         22
       ],
       "_id": "FZfjCXYhYCFvHVhY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fungal bogs",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.FZfjCXYhYCFvHVhY"
     },
     {
-      "text": "Impact craters being swiftly overtaken by fungus",
       "range": [
         23,
         33
       ],
       "_id": "Zv57hpi3enJIuwb2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Impact craters being swiftly overtaken by fungus",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.Zv57hpi3enJIuwb2"
     },
     {
-      "text": "Mountains of fungus",
       "range": [
         34,
         44
       ],
       "_id": "mSYgzZFeRu0VIHnH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains of fungus",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.mSYgzZFeRu0VIHnH"
     },
     {
-      "text": "Surfaced eroded to a near perfect sphere",
       "range": [
         45,
         55
       ],
       "_id": "rLB9GCpJEagrYkGr",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surfaced eroded to a near perfect sphere",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.rLB9GCpJEagrYkGr"
     },
     {
-      "text": "Swirling atmosphere of glowing particles",
       "range": [
         56,
         66
       ],
       "_id": "oGwgjOOeKewgooeb",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swirling atmosphere of glowing particles",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.oGwgjOOeKewgooeb"
     },
     {
-      "text": "Tidal zones of sludge",
       "range": [
         67,
         77
       ],
       "_id": "veGWSkx6Z8YScDLy",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tidal zones of sludge",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.veGWSkx6Z8YScDLy"
     },
     {
-      "text": "Toxic planet covering leaking into space",
       "range": [
         78,
         88
       ],
       "_id": "kEIqfqgUFkqiDYFz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic planet covering leaking into space",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.kEIqfqgUFkqiDYFz"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         89,
         98
       ],
       "_id": "7CBAMOPvyMhmt0LN",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.7CBAMOPvyMhmt0LN"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Vaults\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
       "range": [
         99,
         100
       ],
       "_id": "OFcyidcRRW1KOGHQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (orbital)</a>",
+      "name": "",
       "_key": "!tables.results!0LirTYoCP3R8Dgzt.OFcyidcRRW1KOGHQ"
     }
   ],
@@ -158,14 +268,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Tainted/Observed_From_Space",
+      "category": "Starsmith/Oracles/Planet/Tainted",
+      "dsid": "oracle_rollable:starforged/planet/tainted/observed_from_space_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.314",
+    "coreVersion": "13.351",
     "createdTime": 1692676402095,
     "modifiedTime": 1699054276221,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "0LirTYoCP3R8Dgzt",
   "sort": 0,

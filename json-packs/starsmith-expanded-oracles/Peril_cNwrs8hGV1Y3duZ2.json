@@ -3,169 +3,318 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Biohazardous material",
       "range": [
         1,
         10
       ],
       "_id": "I6jN0S8Zee7AtesS",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Biohazardous material",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.I6jN0S8Zee7AtesS"
     },
     {
-      "text": "Evidence of malpractice",
       "range": [
         11,
         20
       ],
       "_id": "9SrVaWydnTWVRg8Z",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evidence of malpractice",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.9SrVaWydnTWVRg8Z"
     },
     {
-      "text": "Falsely marked as a patient",
       "range": [
         21,
         30
       ],
       "_id": "nPNWtbG9TNZjRcX9",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Falsely marked as a patient",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.nPNWtbG9TNZjRcX9"
     },
     {
-      "text": "Lack of critical medical supplies",
       "range": [
         31,
         40
       ],
       "_id": "ebFhfuIQzqygVUP7",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Lack of critical medical supplies",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.ebFhfuIQzqygVUP7"
     },
     {
-      "text": "Malfunctioning medical bots",
       "range": [
         41,
         50
       ],
       "_id": "qYcMlM2BQLiSWk6k",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Malfunctioning medical bots",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.qYcMlM2BQLiSWk6k"
     },
     {
-      "text": "Signs of broken quarantine or virulent  disease",
       "range": [
         51,
         60
       ],
       "_id": "NIiq8kBtjahOCRus",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of broken quarantine or virulent  disease",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.NIiq8kBtjahOCRus"
     },
     {
-      "text": "Threat targets the most vulnerable",
       "range": [
         61,
         70
       ],
       "_id": "JBCqhnmbqkIECsSo",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threat targets the most vulnerable",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.JBCqhnmbqkIECsSo"
     },
     {
-      "text": "Traumatizing flashback",
       "range": [
         71,
         80
       ],
       "_id": "RQsUjW5GKqQaSFI1",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Traumatizing flashback",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.RQsUjW5GKqQaSFI1"
     },
     {
-      "text": "Victims of a tragic accident",
       "range": [
         81,
         90
       ],
       "_id": "Tl0vVpfkiNEzJgLv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Victims of a tragic accident",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.Tl0vVpfkiNEzJgLv"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Action\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Theme\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
       "range": [
         91,
         98
       ],
       "_id": "zrqD2FQ2Tebs4Ti6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.zrqD2FQ2Tebs4Ti6"
     },
     {
-      "text": "Roll twice",
       "range": [
         99,
         100
       ],
       "_id": "rofQGpJ7QufAAlbT",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.cNwrs8hGV1Y3duZ2",
       "_key": "!tables.results!cNwrs8hGV1Y3duZ2.rofQGpJ7QufAAlbT"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "wU9wpa4YC68tJOjd",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Peril",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.cNwrs8hGV1Y3duZ2",
+      "_key": "!tables.results!cNwrs8hGV1Y3duZ2.wU9wpa4YC68tJOjd"
     }
   ],
   "folder": "pRX4NVjQHMScCo6G",
@@ -173,14 +322,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Medical/Peril",
+      "category": "Starsmith/Oracles/District/Medical",
+      "dsid": "oracle_rollable:starforged/district/medical/peril_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676658117,
     "modifiedTime": 1699035702009,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "cNwrs8hGV1Y3duZ2",
   "sort": 400000,

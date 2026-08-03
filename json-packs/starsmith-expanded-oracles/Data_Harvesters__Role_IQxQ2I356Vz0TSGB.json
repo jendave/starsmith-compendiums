@@ -3,186 +3,370 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Archivists",
       "range": [
         1,
         8
       ],
       "_id": "FxKanTBd6nGPc9b4",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archivists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.FxKanTBd6nGPc9b4"
     },
     {
-      "text": "Brokers",
       "range": [
         9,
         16
       ],
       "_id": "21lkLEvdsQlLNouC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brokers",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.21lkLEvdsQlLNouC"
     },
     {
-      "text": "DNA mappers",
       "range": [
         17,
         24
       ],
       "_id": "hIrUQvLWtiJyet5e",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "DNA mappers",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.hIrUQvLWtiJyet5e"
     },
     {
-      "text": "Encryption specialists",
       "range": [
         25,
         32
       ],
       "_id": "XOvvhQRuu81jzEOA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Encryption specialists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.XOvvhQRuu81jzEOA"
     },
     {
-      "text": "Free informationists",
       "range": [
         33,
         40
       ],
       "_id": "w0J60RONEMA7Iv04",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Free informationists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.w0J60RONEMA7Iv04"
     },
     {
-      "text": "Political/military strategists",
       "range": [
         41,
         48
       ],
       "_id": "kMaaR0ODdBQAHV9n",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Political/military strategists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.kMaaR0ODdBQAHV9n"
     },
     {
-      "text": "Precursor fanatics",
       "range": [
         49,
         56
       ],
       "_id": "KYHaSJNGfqQ1RNGz",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor fanatics",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.KYHaSJNGfqQ1RNGz"
     },
     {
-      "text": "Seed bankers",
       "range": [
         57,
         64
       ],
       "_id": "gRMGoDHawNga8t9u",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Seed bankers",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.gRMGoDHawNga8t9u"
     },
     {
-      "text": "Stellar activity documentors",
       "range": [
         65,
         72
       ],
       "_id": "lXyBTYnFH5KAicL8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Stellar activity documentors",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.lXyBTYnFH5KAicL8"
     },
     {
-      "text": "Storage specialists",
       "range": [
         73,
         80
       ],
       "_id": "ZNLO1wIVjis10gcM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storage specialists",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.ZNLO1wIVjis10gcM"
     },
     {
-      "text": "Surveillance  experts",
       "range": [
         81,
         88
       ],
       "_id": "tZ4dG39BB08SLmLi",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surveillance  experts",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.tZ4dG39BB08SLmLi"
     },
     {
-      "text": "Transmission experts",
       "range": [
         89,
         96
       ],
       "_id": "TUCTEhmYEk8xn88c",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Transmission experts",
+      "name": "",
+      "img": "icons/dice/d10black.svg",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.TUCTEhmYEk8xn88c"
     },
     {
-      "text": "Roll twice",
       "range": [
         97,
         100
       ],
       "_id": "u6k4vHUlSNV0TLpd",
-      "type": 0,
-      "documentId": null,
+      "type": "document",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": 1785624035533,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Data Harvesters: Role",
+      "img": "icons/dice/d10black.svg",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IQxQ2I356Vz0TSGB",
       "_key": "!tables.results!IQxQ2I356Vz0TSGB.u6k4vHUlSNV0TLpd"
+    },
+    {
+      "type": "document",
+      "weight": 1,
+      "range": [
+        97,
+        100
+      ],
+      "_id": "Jz58VcDRG2p6TBEI",
+      "name": "Data Harvesters: Role",
+      "img": "icons/dice/d10black.svg",
+      "description": "<p>Roll twice</p>",
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.351",
+        "systemId": "foundry-ironsworn",
+        "systemVersion": "1.28.0",
+        "createdTime": 1785623998496,
+        "modifiedTime": 1785624024033,
+        "lastModifiedBy": "OX4yvkc0FcRTWOpP"
+      },
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.IQxQ2I356Vz0TSGB",
+      "_key": "!tables.results!IQxQ2I356Vz0TSGB.Jz58VcDRG2p6TBEI"
     }
   ],
   "folder": "h07LKcgdKeSsWGQ2",
@@ -190,14 +374,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Faction/Data_Harvesters_Role",
+      "category": "Starsmith/Oracles/Faction",
+      "dsid": "oracle_rollable:starforged/faction/data_harvesters_role_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676597222,
-    "modifiedTime": 1693070265966,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "modifiedTime": 1785624007585,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "IQxQ2I356Vz0TSGB",
   "sort": 199927,

@@ -3,549 +3,1017 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Accented",
       "range": [
         1,
         3
       ],
       "_id": "xFKq9yCpcOLgMUal",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accented",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.xFKq9yCpcOLgMUal"
     },
     {
-      "text": "Accompanied",
       "range": [
         4,
         6
       ],
       "_id": "ofmkIg0VBCEHeL8L",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Accompanied",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.ofmkIg0VBCEHeL8L"
     },
     {
-      "text": "Adorned",
       "range": [
         7,
         8
       ],
       "_id": "dSEgywTXY0aSp69s",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Adorned",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.dSEgywTXY0aSp69s"
     },
     {
-      "text": "Aged",
       "range": [
         9,
         11
       ],
       "_id": "U1QbeJPejjfVRmGQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Aged",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.U1QbeJPejjfVRmGQ"
     },
     {
-      "text": "Alluring",
       "range": [
         12,
         13
       ],
       "_id": "gBTN3fktTSSdR8nC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Alluring",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.gBTN3fktTSSdR8nC"
     },
     {
-      "text": "Armed",
       "range": [
         14,
         15
       ],
       "_id": "j4ONfCpMufRgbvgH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armed",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.j4ONfCpMufRgbvgH"
     },
     {
-      "text": "Armored",
       "range": [
         16,
         17
       ],
       "_id": "ag24BYIlPSAezHDn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Armored",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.ag24BYIlPSAezHDn"
     },
     {
-      "text": "Athletic",
       "range": [
         18,
         20
       ],
       "_id": "KJCHG3zJuwxdE0St",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Athletic",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.KJCHG3zJuwxdE0St"
     },
     {
-      "text": "Attractive",
       "range": [
         21,
         23
       ],
       "_id": "ojXTNoSKg9dJhrbV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Attractive",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.ojXTNoSKg9dJhrbV"
     },
     {
-      "text": "Augmented",
       "range": [
         24,
         25
       ],
       "_id": "6r7OWANQv1YCX9sk",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Augmented",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.6r7OWANQv1YCX9sk"
     },
     {
-      "text": "Concealed",
       "range": [
         26,
         27
       ],
       "_id": "fHp8Q45Pxfr7xrSR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Concealed",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.fHp8Q45Pxfr7xrSR"
     },
     {
-      "text": "Distracted",
       "range": [
         28,
         30
       ],
       "_id": "3bguFIgNQ1sqC0PR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Distracted",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.3bguFIgNQ1sqC0PR"
     },
     {
-      "text": "Eccentric",
       "range": [
         31,
         33
       ],
       "_id": "mTUmvTL1pbNXywmH",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Eccentric",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.mTUmvTL1pbNXywmH"
     },
     {
-      "text": "Energetic",
       "range": [
         34,
         35
       ],
       "_id": "4MvUst3VUu03M0do",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energetic",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.4MvUst3VUu03M0do"
     },
     {
-      "text": "Flashy",
       "range": [
         36,
         37
       ],
       "_id": "oj2JQZf2jmyf0DrD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Flashy",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.oj2JQZf2jmyf0DrD"
     },
     {
-      "text": "Graceful",
       "range": [
         38,
         40
       ],
       "_id": "xkgJRUHq2GCCYYST",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Graceful",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.xkgJRUHq2GCCYYST"
     },
     {
-      "text": "Grim",
       "range": [
         41,
         43
       ],
       "_id": "XrFyVZs9UcsMpGRM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Grim",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.XrFyVZs9UcsMpGRM"
     },
     {
-      "text": "Haggard",
       "range": [
         44,
         46
       ],
       "_id": "RcjOKZ7QCwSqDZGf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Haggard",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.RcjOKZ7QCwSqDZGf"
     },
     {
-      "text": "Ill-equipped",
       "range": [
         47,
         49
       ],
       "_id": "KeQVEb8TNoZOKpwW",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ill-equipped",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.KeQVEb8TNoZOKpwW"
     },
     {
-      "text": "Imposing",
       "range": [
         50,
         52
       ],
       "_id": "39DR0k2roaFxASrD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Imposing",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.39DR0k2roaFxASrD"
     },
     {
-      "text": "Large",
       "range": [
         53,
         55
       ],
       "_id": "2A1Krfbe75cE0zMf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Large",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.2A1Krfbe75cE0zMf"
     },
     {
-      "text": "Mutated",
       "range": [
         56,
         57
       ],
       "_id": "6sdnycfX6njmRBu0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mutated",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.6sdnycfX6njmRBu0"
     },
     {
-      "text": "Plain",
       "range": [
         58,
         60
       ],
       "_id": "atGGEglMpC1rR00c",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Plain",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.atGGEglMpC1rR00c"
     },
     {
-      "text": "Poised",
       "range": [
         61,
         62
       ],
       "_id": "vSVdahugzJoVbhZq",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Poised",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.vSVdahugzJoVbhZq"
     },
     {
-      "text": "Scarred",
       "range": [
         63,
         65
       ],
       "_id": "6cfZwR4hGlJRHTGZ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scarred",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.6cfZwR4hGlJRHTGZ"
     },
     {
-      "text": "Scruffy",
       "range": [
         66,
         68
       ],
       "_id": "qcUBAvYNxzQTEVuI",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Scruffy",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.qcUBAvYNxzQTEVuI"
     },
     {
-      "text": "Shifty",
       "range": [
         69,
         71
       ],
       "_id": "sCIqvbQISWBHpiWg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shifty",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.sCIqvbQISWBHpiWg"
     },
     {
-      "text": "Sickly",
       "range": [
         72,
         73
       ],
       "_id": "klAKnf4ElKPKNYuQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sickly",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.klAKnf4ElKPKNYuQ"
     },
     {
-      "text": "Slight",
       "range": [
         74,
         76
       ],
       "_id": "HN7tk5hxf7klq3I2",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Slight",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.HN7tk5hxf7klq3I2"
     },
     {
-      "text": "Swaggering",
       "range": [
         77,
         78
       ],
       "_id": "iryyYAuBdymICtYR",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swaggering",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.iryyYAuBdymICtYR"
     },
     {
-      "text": "Tattooed",
       "range": [
         79,
         81
       ],
       "_id": "lkFTOHgkYjtO6X3D",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tattooed",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.lkFTOHgkYjtO6X3D"
     },
     {
-      "text": "Threatened",
       "range": [
         82,
         83
       ],
       "_id": "jNxOn3NPITgRyKOC",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Threatened",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.jNxOn3NPITgRyKOC"
     },
     {
-      "text": "Uncanny",
       "range": [
         84,
         85
       ],
       "_id": "TjYvDimReZxPBo3Q",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncanny",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.TjYvDimReZxPBo3Q"
     },
     {
-      "text": "Visibly disabled",
       "range": [
         86,
         87
       ],
       "_id": "TKoYXxmmLbYcSNHP",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Visibly disabled",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.TKoYXxmmLbYcSNHP"
     },
     {
-      "text": "Weathered",
       "range": [
         88,
         90
       ],
       "_id": "stcytO6B57bjxwBg",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Weathered",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.stcytO6B57bjxwBg"
     },
     {
-      "text": "Well-equipped",
       "range": [
         91,
         92
       ],
       "_id": "lyQJuB8mbQs552Cw",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Well-equipped",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.lyQJuB8mbQs552Cw"
     },
     {
-      "text": "Wiry",
       "range": [
         93,
         95
       ],
       "_id": "ObRdDI7ePwcHkSVt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wiry",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.ObRdDI7ePwcHkSVt"
     },
     {
-      "text": "Wounded",
       "range": [
         96,
         97
       ],
       "_id": "3xaWeIlFa7MVwm3m",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Wounded",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.3xaWeIlFa7MVwm3m"
     },
     {
-      "text": "Youthful",
       "range": [
         98,
         100
       ],
       "_id": "XHyvbn17ZuuvX89p",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Youthful",
+      "name": "",
+      "img": null,
       "_key": "!tables.results!guv5iEDeLijYuABa.XHyvbn17ZuuvX89p"
     }
   ],
@@ -554,14 +1022,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Character/First_Look",
+      "category": "Starsmith/Oracles/Character",
+      "dsid": "oracle_rollable:starforged/character/first_look_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676518239,
     "modifiedTime": 1693035561993,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "guv5iEDeLijYuABa",
   "sort": 0,

@@ -3,468 +3,809 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Brings to light a prior altercation involving a primary suspect",
       "range": [
         1,
         3
       ],
       "_id": "a68hzHg5Q2eUVBr0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brings to light a prior altercation involving a primary suspect",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.a68hzHg5Q2eUVBr0"
     },
     {
-      "text": "Brings to light a prior altercation involving a secondary threat",
       "range": [
         4,
         6
       ],
       "_id": "GNzazlZt6QbpwSgG",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brings to light a prior altercation involving a secondary threat",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.GNzazlZt6QbpwSgG"
     },
     {
-      "text": "Brings to light a prior altercation involving a tool used nefariously",
       "range": [
         7,
         9
       ],
       "_id": "of9H1GfPm5qcYyrn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Brings to light a prior altercation involving a tool used nefariously",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.of9H1GfPm5qcYyrn"
     },
     {
-      "text": "Connects to a specific skill set",
       "range": [
         10,
         12
       ],
       "_id": "oDk66ThvrE5ecIdV",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connects to a specific skill set",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.oDk66ThvrE5ecIdV"
     },
     {
-      "text": "Connects you to a location of interest",
       "range": [
         13,
         15
       ],
       "_id": "PPtJUqLoejgPVdhF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connects you to a location of interest",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.PPtJUqLoejgPVdhF"
     },
     {
-      "text": "Connects you to a primary victim or their friend/family",
       "range": [
         16,
         18
       ],
       "_id": "AdvhWQBDyUtni3t0",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connects you to a primary victim or their friend/family",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.AdvhWQBDyUtni3t0"
     },
     {
-      "text": "Connects you to a secondary threat",
       "range": [
         19,
         21
       ],
       "_id": "O0TqoyxZWU1zLad6",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connects you to a secondary threat",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.O0TqoyxZWU1zLad6"
     },
     {
-      "text": "Connects you to a tool used nefariously",
       "range": [
         22,
         24
       ],
       "_id": "ws1GCoI1nXcdxIqs",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Connects you to a tool used nefariously",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.ws1GCoI1nXcdxIqs"
     },
     {
-      "text": "Demonstrates a suspicious change in a location's state",
       "range": [
         25,
         27
       ],
       "_id": "eMVMd9dmg6mIvBJM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demonstrates a suspicious change in a location's state",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.eMVMd9dmg6mIvBJM"
     },
     {
-      "text": "Demonstrates a suspicious change in a primary victim or their friend/family",
       "range": [
         28,
         30
       ],
       "_id": "BkN8rDnsvfBU5YUt",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demonstrates a suspicious change in a primary victim or their friend/family",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.BkN8rDnsvfBU5YUt"
     },
     {
-      "text": "Demonstrates a suspicious change in a secondary threat",
       "range": [
         31,
         33
       ],
       "_id": "tIf8Q7TxMoS0rzE3",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demonstrates a suspicious change in a secondary threat",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.tIf8Q7TxMoS0rzE3"
     },
     {
-      "text": "Demonstrates a suspicious change in a tool used nefariously",
       "range": [
         34,
         36
       ],
       "_id": "atlblQ05GUvx0bnO",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Demonstrates a suspicious change in a tool used nefariously",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.atlblQ05GUvx0bnO"
     },
     {
-      "text": "Involves a previously uninvolved person",
       "range": [
         37,
         39
       ],
       "_id": "VeVgyXVgqEy7uz6N",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Involves a previously uninvolved person",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.VeVgyXVgqEy7uz6N"
     },
     {
-      "text": "Leads to the location of a primary suspect",
       "range": [
         40,
         42
       ],
       "_id": "Xlao8P6Onv096IxM",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leads to the location of a primary suspect",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.Xlao8P6Onv096IxM"
     },
     {
-      "text": "Leads to the location of a recently missing item",
       "range": [
         43,
         45
       ],
       "_id": "MQZxgNsgzMKbSgCx",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leads to the location of a recently missing item",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.MQZxgNsgzMKbSgCx"
     },
     {
-      "text": "Leads to the location of a site or artifact of power",
       "range": [
         46,
         48
       ],
       "_id": "PsstQ0i8e7nRJQPe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leads to the location of a site or artifact of power",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.PsstQ0i8e7nRJQPe"
     },
     {
-      "text": "Leads to the safehouse of a leader",
       "range": [
         49,
         51
       ],
       "_id": "o34g4zdDedWcJRQv",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Leads to the safehouse of a leader",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.o34g4zdDedWcJRQv"
     },
     {
-      "text": "Reveals an emotional or material loss involving a primary suspect",
       "range": [
         52,
         54
       ],
       "_id": "GQntaVVyET2ZzADh",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals an emotional or material loss involving a primary suspect",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.GQntaVVyET2ZzADh"
     },
     {
-      "text": "Reveals an emotional or material loss involving a secondary threat",
       "range": [
         55,
         57
       ],
       "_id": "rt6KVNMlQFt3wjgl",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals an emotional or material loss involving a secondary threat",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.rt6KVNMlQFt3wjgl"
     },
     {
-      "text": "Reveals an emotional or material loss involving a tool used nefariously",
       "range": [
         58,
         60
       ],
       "_id": "N22FTaT1ZsAtoTHF",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals an emotional or material loss involving a tool used nefariously",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.N22FTaT1ZsAtoTHF"
     },
     {
-      "text": "Reveals an emotional or material loss that occurred at a connected location",
       "range": [
         61,
         63
       ],
       "_id": "7lJB1Gy7RUMMiT4Y",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals an emotional or material loss that occurred at a connected location",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.7lJB1Gy7RUMMiT4Y"
     },
     {
-      "text": "Reveals change in power/authority involving a primary suspect",
       "range": [
         64,
         66
       ],
       "_id": "gHpqkVaI2S6eLFKm",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals change in power/authority involving a primary suspect",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.gHpqkVaI2S6eLFKm"
     },
     {
-      "text": "Reveals change in power/authority involving a secondary threat",
       "range": [
         67,
         69
       ],
       "_id": "zQuINIz5wIMmDEqf",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals change in power/authority involving a secondary threat",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.zQuINIz5wIMmDEqf"
     },
     {
-      "text": "Reveals change in power/authority involving a tool used nefariously",
       "range": [
         70,
         72
       ],
       "_id": "B0ufHr165seDmAwj",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals change in power/authority involving a tool used nefariously",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.B0ufHr165seDmAwj"
     },
     {
-      "text": "Reveals change in power/authority that occurred at a connected location",
       "range": [
         73,
         75
       ],
       "_id": "uwdNgro1fMyWKEXn",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Reveals change in power/authority that occurred at a connected location",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.uwdNgro1fMyWKEXn"
     },
     {
-      "text": "Suggests manipulation or blackmail",
       "range": [
         76,
         78
       ],
       "_id": "AH07LUwXkx7n3j6K",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Suggests manipulation or blackmail",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.AH07LUwXkx7n3j6K"
     },
     {
-      "text": "Uncovers a damaging secret involving a connected location",
       "range": [
         79,
         81
       ],
       "_id": "ryzFxM5aNN29WrEQ",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncovers a damaging secret involving a connected location",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.ryzFxM5aNN29WrEQ"
     },
     {
-      "text": "Uncovers a damaging secret involving a primary victim or their friend/family",
       "range": [
         82,
         84
       ],
       "_id": "O1VmfD5LoFftDZc8",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncovers a damaging secret involving a primary victim or their friend/family",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.O1VmfD5LoFftDZc8"
     },
     {
-      "text": "Uncovers a damaging secret involving a site or artifact of power",
       "range": [
         85,
         87
       ],
       "_id": "O82tDyQaSu8dix4I",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncovers a damaging secret involving a site or artifact of power",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.O82tDyQaSu8dix4I"
     },
     {
-      "text": "Uncovers a new rumor or scandal",
       "range": [
         88,
         90
       ],
       "_id": "tEaHTZT63UNuo7SL",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Uncovers a new rumor or scandal",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.tEaHTZT63UNuo7SL"
     },
     {
-      "text": "<a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Descriptor\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dfid=\"Starforged/Oracles/Core/Focus\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
       "range": [
         91,
         100
       ],
       "_id": "liPscgZYad2epvxA",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
       "_key": "!tables.results!YeI3VaHANGw2Yhte.liPscgZYad2epvxA"
     }
   ],
@@ -473,14 +814,23 @@
   "description": "<p>When you @Compendium[foundry-ironsworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} to investigate a mystery, you might uncover clues in the form of messages, rumors, eyewitness reports, data, or physical evidence. You can use this oracle to help reveal what this evidence connects to or implicates. Then, use the outcome of the @Compendium[foundry-ironsworn.starforgedmoves.13b2d777c6fb719d]{Gather Information} roll—strong hit, weak hit, or miss—to guide whether the clue brings clarity or complications.</p>",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Misc/Story_Clue",
+      "category": "Starsmith/Oracles/Misc",
+      "dsid": "oracle_rollable:starforged/misc/story_clue_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.22.8",
-    "coreVersion": "11.313",
+    "coreVersion": "13.351",
     "createdTime": 1692676735919,
     "modifiedTime": 1699036265838,
-    "lastModifiedBy": "mrx6ioSDzeIA0D08"
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "YeI3VaHANGw2Yhte",
   "sort": 475000,

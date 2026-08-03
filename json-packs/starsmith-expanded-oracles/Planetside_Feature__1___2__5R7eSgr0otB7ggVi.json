@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "jewmgHvCLlBqbw7A",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline formations",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.jewmgHvCLlBqbw7A"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "D4sdS4TlOPiRUGBB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Crystalline caves",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.D4sdS4TlOPiRUGBB"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "ic3aaZw5YUEqxPdm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exposed mineral deposits",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.ic3aaZw5YUEqxPdm"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "rRGoJCNL8EPP3jRL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geometric terrain features",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.rRGoJCNL8EPP3jRL"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "Bl56K5BOtCLru9zJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Geothermal vents",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.Bl56K5BOtCLru9zJ"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "D2Wd1Zbmtp0DHusI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Glassy impact craters",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.D2Wd1Zbmtp0DHusI"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "vdAQ3exsbYPLWHTj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Massive dust dunes",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.vdAQ3exsbYPLWHTj"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "PRfjXNbJKah5LgiS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Powerful magnetic fields",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.PRfjXNbJKah5LgiS"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "7D6W4ebHCERWWzVE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rubble-strewn lava fields",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.7D6W4ebHCERWWzVE"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "xighZfaIqCV5ucOl",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Steam-heated caves",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.xighZfaIqCV5ucOl"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "gDEsZ0eY8gSnAEg6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsurface magma flows",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.gDEsZ0eY8gSnAEg6"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "KMuFZ5QuOJLq1RlX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Swirling low-lying gases",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.KMuFZ5QuOJLq1RlX"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "1KcgVUyswuHwcSIG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Towering rocky spires",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.1KcgVUyswuHwcSIG"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "uNqvIexBgn7FrygZ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.uNqvIexBgn7FrygZ"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "hOfNCEtzDGkdg54i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!5R7eSgr0otB7ggVi.hOfNCEtzDGkdg54i"
+    }
+  ],
+  "folder": "F2UgfneAghjUe29m",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Rocky/Feature",
+      "category": "Starsmith/Oracles/Planet/Rocky",
+      "dsid": "oracle_rollable:starforged/planet/rocky/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401983,
+    "modifiedTime": 1699054023948,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "5R7eSgr0otB7ggVi",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!5R7eSgr0otB7ggVi"
+}

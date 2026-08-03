@@ -1,0 +1,894 @@
+{
+  "name": "Settlement Projects (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "tmpGKKjpOAlJ0JHK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Agriculture",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.tmpGKKjpOAlJ0JHK"
+    },
+    {
+      "range": [
+        6,
+        7
+      ],
+      "_id": "Bvb85ueoIeZazTnu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Archaeology",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.Bvb85ueoIeZazTnu"
+    },
+    {
+      "range": [
+        8,
+        9
+      ],
+      "_id": "1bZ7aRJt96uj2UDy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Automation",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.1bZ7aRJt96uj2UDy"
+    },
+    {
+      "range": [
+        10,
+        11
+      ],
+      "_id": "HDGC3sxOPatCkzp6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Black market",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.HDGC3sxOPatCkzp6"
+    },
+    {
+      "range": [
+        12,
+        13
+      ],
+      "_id": "6UZPm5SjZhUgo2jS",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Command",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.6UZPm5SjZhUgo2jS"
+    },
+    {
+      "range": [
+        14,
+        17
+      ],
+      "_id": "UhOOOdVmWeKWIIhb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Defense",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.UhOOOdVmWeKWIIhb"
+    },
+    {
+      "range": [
+        18,
+        22
+      ],
+      "_id": "ZfR2dQHGHj4By2By",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.ZfR2dQHGHj4By2By"
+    },
+    {
+      "range": [
+        23,
+        25
+      ],
+      "_id": "bMBNH1PkJaZqhflW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Engineering",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.bMBNH1PkJaZqhflW"
+    },
+    {
+      "range": [
+        26,
+        27
+      ],
+      "_id": "tuyXmFVmfiOlXhzx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Entertainment",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.tuyXmFVmfiOlXhzx"
+    },
+    {
+      "range": [
+        28,
+        29
+      ],
+      "_id": "mqTRcE8anEEmb8R8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Environmentalism",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.mqTRcE8anEEmb8R8"
+    },
+    {
+      "range": [
+        30,
+        31
+      ],
+      "_id": "bvRilNheh5K3aQrj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Evacuation",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.bvRilNheh5K3aQrj"
+    },
+    {
+      "range": [
+        32,
+        33
+      ],
+      "_id": "nznXXmyYV6YGvOTd",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Expansion",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.nznXXmyYV6YGvOTd"
+    },
+    {
+      "range": [
+        34,
+        37
+      ],
+      "_id": "wcqoHJDgkxfJszBM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exploration",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.wcqoHJDgkxfJszBM"
+    },
+    {
+      "range": [
+        38,
+        39
+      ],
+      "_id": "fchf2JSsX6kYxB0v",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Festival",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.fchf2JSsX6kYxB0v"
+    },
+    {
+      "range": [
+        40,
+        41
+      ],
+      "_id": "TmuY3lHSzu065GrK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "History",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.TmuY3lHSzu065GrK"
+    },
+    {
+      "range": [
+        42,
+        43
+      ],
+      "_id": "HIIkXTvP5iubzeuD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hunting",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.HIIkXTvP5iubzeuD"
+    },
+    {
+      "range": [
+        44,
+        46
+      ],
+      "_id": "tWJJWO6fUgOACKwG",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manufacturing",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.tWJJWO6fUgOACKwG"
+    },
+    {
+      "range": [
+        47,
+        49
+      ],
+      "_id": "maAKcNid8JD9ppJX",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Medical",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.maAKcNid8JD9ppJX"
+    },
+    {
+      "range": [
+        50,
+        51
+      ],
+      "_id": "GJlM2k4NdC8M0AI8",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Migration",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.GJlM2k4NdC8M0AI8"
+    },
+    {
+      "range": [
+        52,
+        57
+      ],
+      "_id": "b1acZg3kenDlnfvF",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mining",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.b1acZg3kenDlnfvF"
+    },
+    {
+      "range": [
+        58,
+        59
+      ],
+      "_id": "Z2weR26LBVlgCuMK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Pacifism",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.Z2weR26LBVlgCuMK"
+    },
+    {
+      "range": [
+        60,
+        62
+      ],
+      "_id": "vQvIJpEL0BkNtE04",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raiding",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.vQvIJpEL0BkNtE04"
+    },
+    {
+      "range": [
+        63,
+        65
+      ],
+      "_id": "CVvXUtho4PMHaM4w",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Research",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.CVvXUtho4PMHaM4w"
+    },
+    {
+      "range": [
+        66,
+        69
+      ],
+      "_id": "QdvnXJfGbshg6DNw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Salvage",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.QdvnXJfGbshg6DNw"
+    },
+    {
+      "range": [
+        70,
+        72
+      ],
+      "_id": "rhP2MTxvIX5oVpUn",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Secrecy",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.rhP2MTxvIX5oVpUn"
+    },
+    {
+      "range": [
+        73,
+        75
+      ],
+      "_id": "Cx0awmnFqUiKP3fY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipbuilding",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.Cx0awmnFqUiKP3fY"
+    },
+    {
+      "range": [
+        76,
+        78
+      ],
+      "_id": "EqCNpRyEhB5rVRZx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Spirituality",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.EqCNpRyEhB5rVRZx"
+    },
+    {
+      "range": [
+        79,
+        84
+      ],
+      "_id": "cSL2GJGh93miRXa5",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsistence",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.cSL2GJGh93miRXa5"
+    },
+    {
+      "range": [
+        85,
+        86
+      ],
+      "_id": "x1uDs13SeCEmFTRK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Surveillance",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.x1uDs13SeCEmFTRK"
+    },
+    {
+      "range": [
+        87,
+        88
+      ],
+      "_id": "toZYRc5fQpCdCkBo",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terraforming",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.toZYRc5fQpCdCkBo"
+    },
+    {
+      "range": [
+        89,
+        92
+      ],
+      "_id": "eoKY5pfIaFeVHC1e",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Trade",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.eoKY5pfIaFeVHC1e"
+    },
+    {
+      "range": [
+        93,
+        95
+      ],
+      "_id": "Nz4L2fcoUlEqkKol",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Warfare",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.Nz4L2fcoUlEqkKol"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "A4LUMsbeaqEK09Pq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!iJbLrynKmB25yxKu.A4LUMsbeaqEK09Pq"
+    }
+  ],
+  "folder": "M0bP1WUZxPqCOHJS",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Check the Settlement Projects table when it’s appropriate for your character to know or uncover these details. Projects are the main industry, function, or focus of a settlement. They do not necessarily represent every activity at the site—particularly at a large settlement—but are the most visible or noteworthy aspects.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Settlement/Projects",
+      "category": "Starsmith/Oracles/Settlement",
+      "dsid": "oracle_rollable:starforged/settlement/projects_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676424388,
+    "modifiedTime": 1699036617773,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "iJbLrynKmB25yxKu",
+  "sort": 396875,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!iJbLrynKmB25yxKu"
+}

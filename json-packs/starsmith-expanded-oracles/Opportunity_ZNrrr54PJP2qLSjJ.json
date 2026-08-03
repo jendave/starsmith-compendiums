@@ -3,78 +3,133 @@
   "formula": "1d100",
   "results": [
     {
-      "text": "Available goods or resources",
       "range": [
         1,
         20
       ],
       "_id": "E1aQKktffWniVmXD",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Available goods or resources",
+      "name": "",
       "_key": "!tables.results!ZNrrr54PJP2qLSjJ.E1aQKktffWniVmXD"
     },
     {
-      "text": "Fortuitous gossip",
       "range": [
         21,
         40
       ],
       "_id": "iLYSjH77zxJt36GB",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fortuitous gossip",
+      "name": "",
       "_key": "!tables.results!ZNrrr54PJP2qLSjJ.iLYSjH77zxJt36GB"
     },
     {
-      "text": "Terminal with access to site details",
       "range": [
         41,
         60
       ],
       "_id": "3AaA72iBY3FdqPrY",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Terminal with access to site details",
+      "name": "",
       "_key": "!tables.results!ZNrrr54PJP2qLSjJ.3AaA72iBY3FdqPrY"
     },
     {
-      "text": "The right person for the job",
       "range": [
         61,
         80
       ],
       "_id": "BmBdvjnyUkmKcKUu",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The right person for the job",
+      "name": "",
       "_key": "!tables.results!ZNrrr54PJP2qLSjJ.BmBdvjnyUkmKcKUu"
     },
     {
-      "text": "Welcoming community offers a moment of peace",
       "range": [
         81,
         100
       ],
       "_id": "ToWhOdHaoOmcaPoe",
-      "type": 0,
-      "documentId": null,
+      "type": "text",
       "weight": 1,
       "drawn": false,
       "flags": {},
       "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Welcoming community offers a moment of peace",
+      "name": "",
       "_key": "!tables.results!ZNrrr54PJP2qLSjJ.ToWhOdHaoOmcaPoe"
     }
   ],
@@ -83,14 +138,23 @@
   "description": "",
   "replacement": true,
   "displayRoll": true,
-  "flags": {},
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/District/Community/Opportunity",
+      "category": "Starsmith/Oracles/District/Community",
+      "dsid": "oracle_rollable:starforged/district/community/opportunity_starsmith"
+    }
+  },
   "_stats": {
     "systemId": "foundry-ironsworn",
     "systemVersion": "1.21.7",
-    "coreVersion": "11.308",
+    "coreVersion": "13.351",
     "createdTime": 1692676658084,
     "modifiedTime": 1693870709306,
-    "lastModifiedBy": "pvGXRm1tqcLrB73Z"
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
   },
   "_id": "ZNrrr54PJP2qLSjJ",
   "sort": 300000,

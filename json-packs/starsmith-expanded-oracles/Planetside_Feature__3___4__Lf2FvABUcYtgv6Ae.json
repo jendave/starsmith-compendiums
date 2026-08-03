@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (3 - 4)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "Dv2dhcvwCF7iuR31",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abandoned engines of war",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.Dv2dhcvwCF7iuR31"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "VuXUkhxr0nHn2UXm",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Boiling lake",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.VuXUkhxr0nHn2UXm"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "toayCwgjHCFePKTR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Breached bunker",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.toayCwgjHCFePKTR"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "Cxd99VNwuxruFnMi",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Destroyed data hubs",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.Cxd99VNwuxruFnMi"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "lMDo7EiW6LCpaYKu",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fireballs from falling space debris",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.lMDo7EiW6LCpaYKu"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "ikw2oM0BNlIvtwoE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Layers of hardened dust from chemical   attacks",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.ikw2oM0BNlIvtwoE"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "s5JSqiVosl5xTPYR",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Looted industrial complexes",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.s5JSqiVosl5xTPYR"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "izcsPAZqxXCCskMM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Messages left by those who perished",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.izcsPAZqxXCCskMM"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "xzWJhkLAwOxKMrcx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mountains of waste",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.xzWJhkLAwOxKMrcx"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "3wnEcGDZV8sPhhtQ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Quagmire of pollution",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.3wnEcGDZV8sPhhtQ"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "olj5ABJCHk9Luo7c",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Remains of a gigantic creature",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.olj5ABJCHk9Luo7c"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "jlRqf5ThLlbE9d4W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shipyard with unfinished starships",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.jlRqf5ThLlbE9d4W"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "BJYjcUyynUuthCYw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Storm swirling with detritus",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.BJYjcUyynUuthCYw"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "c0FhiPKBkT0L4kO4",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.c0FhiPKBkT0L4kO4"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "nvlXfyO5j3zJvraU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!Lf2FvABUcYtgv6Ae.nvlXfyO5j3zJvraU"
+    }
+  ],
+  "folder": "EJoSoFU1mGwf60NT",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Grave/Feature",
+      "category": "Starsmith/Oracles/Planet/Grave",
+      "dsid": "oracle_rollable:starforged/planet/grave/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401813,
+    "modifiedTime": 1699042499411,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "Lf2FvABUcYtgv6Ae",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!Lf2FvABUcYtgv6Ae"
+}

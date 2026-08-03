@@ -1,0 +1,556 @@
+{
+  "name": "Envision the Starship (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "uaJqqOwRXljfJcIp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Air recycler often leaves an unusual odor",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.uaJqqOwRXljfJcIp"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "Opmj7KTshZfbT9k6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Computer has an unusual acknowledgment when responding to commands",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.Opmj7KTshZfbT9k6"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "LSyXSOda6ku1fdRL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Critical piece of equipment requires manual pumping to restart",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.LSyXSOda6ku1fdRL"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "VDP70v3nhsLys5pH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Diagnostic program returns data from the wrong system",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.VDP70v3nhsLys5pH"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "ti0sbtgVUaDeD8ry",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Each piece of major equipment is labeled with an ostentatious name",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.ti0sbtgVUaDeD8ry"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "DlqZKkAPNm7cRGfE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exterior is marred by pits or dimples from micro-strikes during shield failure",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.DlqZKkAPNm7cRGfE"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "yrM6FKd7rOqkDcS0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Exterior sensors lack either visual data or the ability to zoom in visually",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.yrM6FKd7rOqkDcS0"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "IwMcgAKkm1gMAQAa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hull rattles and groans during Eidolon jumps",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.IwMcgAKkm1gMAQAa"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "TObpcb3uEQAG8lvM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Maneuvering thrusters can hiccup before fully firing",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.TObpcb3uEQAG8lvM"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "oAgEB760nJgOB1mp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Manual flight mode requires wearing a headset and pair of chunky tech gloves",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.oAgEB760nJgOB1mp"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "DIpsayb2a0lUV3zH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Restroom is only accessible via a long vertical shaft with a ladder",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.DIpsayb2a0lUV3zH"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "rcVgVlXN3VCMkFrg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rudimentary AI program attempts to add appropriate emojis to logs and fails",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.rcVgVlXN3VCMkFrg"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "f6GlxyNNGDh6RTEk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rudimentary holodeck often malfunctions by disregarding safety protocols",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.f6GlxyNNGDh6RTEk"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "PxZEB59xgIVSMUf9",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ship or system alerts have unnecessarily long beep or chime patterns",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.PxZEB59xgIVSMUf9"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "ajO4uxalFaukJ70l",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Space rodent nests show up randomly despite extermination",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.ajO4uxalFaukJ70l"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "RzWPez2aIhXKDWcN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "The pilot chair is the most uncomfortable chair on the ship",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.RzWPez2aIhXKDWcN"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "oo2Jk51iwVSBiKnc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Video comms often malfunction by adding visual filters",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.oo2Jk51iwVSBiKnc"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "pNurrnHiSOuO8TvD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Voice commands for core computer only respond to absurd name",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.pNurrnHiSOuO8TvD"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "ANH8lzJYRDQBwrbp",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Voice options for the computer system all have outrageous accents",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.ANH8lzJYRDQBwrbp"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "eXSisauG57GlT93V",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Water recycler leaves the water with an unpleasant color",
+      "name": "",
+      "_key": "!tables.results!e8K4CQZ02BaWlPd3.eXSisauG57GlT93V"
+    }
+  ],
+  "folder": "JF59Th1KfiLpvQYr",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Your ship is an important aspect of your character—and a character in its own right. What does it look like? What makes it interesting or uniquely yours? Does it have any particular quirks? If nothing occurs to you now, you can flesh it out in play, or roll once or twice on the table below.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Launching_Your_Campaign/Character/Starship/Quirks",
+      "category": "Starsmith/Oracles/Launching_Your_Campaign/Character/Starship",
+      "dsid": "oracle_rollable:starforged/launching_your_campaign/character/starship/quirks_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676224829,
+    "modifiedTime": 1785569627739,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "e8K4CQZ02BaWlPd3",
+  "sort": 300000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!e8K4CQZ02BaWlPd3"
+}

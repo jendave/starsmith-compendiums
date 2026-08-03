@@ -1,0 +1,610 @@
+{
+  "name": "Interior Peril (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "OBqURg0neF9cjIHD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Broken path",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.OBqURg0neF9cjIHD"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "WupNq7j5SNvBKiw0",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Change in atmosphere or environment",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.WupNq7j5SNvBKiw0"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "ckTJuhnC5DZVrDOs",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Corrosive environment",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.ckTJuhnC5DZVrDOs"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "u2txV75dUlqYRXcO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Dire warning left by other explorers",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.u2txV75dUlqYRXcO"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "xfse2j3U0h1eYtjc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Foes close in",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.xfse2j3U0h1eYtjc"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "gAaMuhfjOlDsL6wg",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Fragile structural integrity",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.gAaMuhfjOlDsL6wg"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "b5r0nJaY6QviwOUC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Hazardous path designed for traversal by other beings",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.b5r0nJaY6QviwOUC"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "jjaG5adEJyNijLpI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Important gear malfunctions",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.jjaG5adEJyNijLpI"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "8SwRWlVWlDTIHLdE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Isolation or fear presses in",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.8SwRWlVWlDTIHLdE"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "oV5oXTLNCNocNTUj",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mechanical trap",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.oV5oXTLNCNocNTUj"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "SozagzddT705zOpa",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Mist or darkness conceals dangers",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.SozagzddT705zOpa"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "odLS2ZEYidKRNFXY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Puzzling mystery blocks the way",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.odLS2ZEYidKRNFXY"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "yJhLr6bpAZGkcEC1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Radioactive hot spot",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.yJhLr6bpAZGkcEC1"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "PKcXZlOxTvDLN4LM",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rivals seek what lay within",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.PKcXZlOxTvDLN4LM"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "4cP5DfXOWRlp7q5U",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a contagion",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.4cP5DfXOWRlp7q5U"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "3mE8A7T0HVahafKL",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Signs of a lurking foe",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.3mE8A7T0HVahafKL"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "N7UwZ4kbzeH4dfOK",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Tempting location or object holds hidden dangers",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.N7UwZ4kbzeH4dfOK"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "hb0ocsNdd0F9LCR7",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Toxic atmosphere",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.hb0ocsNdd0F9LCR7"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "d1XsIPSAUCrCKzTO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unnerving sound or sensation",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.d1XsIPSAUCrCKzTO"
+    },
+    {
+      "range": [
+        96,
+        99
+      ],
+      "_id": "nS5xz4RxpmwEqbpH",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/action_starsmith\"><i class=\"fa fa-caret-right\"></i> Action</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/theme_starsmith\"><i class=\"fa fa-caret-right\"></i> Theme</a>",
+      "name": "",
+      "_key": "!tables.results!4DINDAOyS576i0uC.nS5xz4RxpmwEqbpH"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "VEfz5FVRbOnOoi0b",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Interior Peril (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4DINDAOyS576i0uC",
+      "_key": "!tables.results!4DINDAOyS576i0uC.VEfz5FVRbOnOoi0b"
+    },
+    {
+      "range": [
+        100,
+        100
+      ],
+      "_id": "oU5SE6bYUPVCunyT",
+      "type": "document",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<p>Roll twice</p>",
+      "name": "Interior Peril (1 - 2)",
+      "documentUuid": "Compendium.starsmith-expanded-oracles.starsmithexpandedoracles.RollTable.4DINDAOyS576i0uC",
+      "_key": "!tables.results!4DINDAOyS576i0uC.oU5SE6bYUPVCunyT"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a complication within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision a peril.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Interior/Peril",
+      "category": "Starsmith/Oracles/Precursor_Vault/Interior",
+      "dsid": "oracle_rollable:starforged/precursor_vault/interior/peril_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692316,
+    "modifiedTime": 1699042141936,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "4DINDAOyS576i0uC",
+  "sort": 1000000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!4DINDAOyS576i0uC"
+}

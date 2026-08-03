@@ -1,0 +1,296 @@
+{
+  "name": "Interior Opportunity (5 - 6)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        10
+      ],
+      "_id": "EyrhEYBL7NbvLNHV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Access to data obtained or granted",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.EyrhEYBL7NbvLNHV"
+    },
+    {
+      "range": [
+        11,
+        20
+      ],
+      "_id": "WgYNaILeigQO0bZE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to a rival's weakness",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.WgYNaILeigQO0bZE"
+    },
+    {
+      "range": [
+        21,
+        30
+      ],
+      "_id": "s6IK67jS2b0bIKeN",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Clue to bypassing defensive systems",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.s6IK67jS2b0bIKeN"
+    },
+    {
+      "range": [
+        31,
+        40
+      ],
+      "_id": "PwoyE4DJOlDp0Rlr",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Insight into previous intruders",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.PwoyE4DJOlDp0Rlr"
+    },
+    {
+      "range": [
+        41,
+        50
+      ],
+      "_id": "Y1t8DeX0cUZJ2GRD",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Intriguing augmentation or module for gear",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.Y1t8DeX0cUZJ2GRD"
+    },
+    {
+      "range": [
+        51,
+        60
+      ],
+      "_id": "PlUGKXom64LRdpHB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to drive a wedge between foes",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.PlUGKXom64LRdpHB"
+    },
+    {
+      "range": [
+        61,
+        70
+      ],
+      "_id": "hpCX25qB1MF37JPW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Opening to eliminate a foe",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.hpCX25qB1MF37JPW"
+    },
+    {
+      "range": [
+        71,
+        80
+      ],
+      "_id": "2POGXocCn1Y7kGhT",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sight or experience inspires awe",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.2POGXocCn1Y7kGhT"
+    },
+    {
+      "range": [
+        81,
+        90
+      ],
+      "_id": "5jeVjxn4MbqWlzmI",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unexpected ally appears",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.5jeVjxn4MbqWlzmI"
+    },
+    {
+      "range": [
+        91,
+        100
+      ],
+      "_id": "kFEh9b8ksSvZK0Un",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Usable computer interface",
+      "name": "",
+      "_key": "!tables.results!h9DmNX5Hw3OyNrB6.kFEh9b8ksSvZK0Un"
+    }
+  ],
+  "folder": "reboTGPCPcT7xbZK",
+  "img": "icons/dice/d10black.svg",
+  "description": "<p>Use this table to help envision a favorable circumstance within a vault, such as when you @Compendium[foundry-ironsworn.starforgedmoves.367804b98f30d5f4]{Explore a Waypoint} and are prompted to envision an opportunity.</p>",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Precursor_Vault/Interior/Opportunity",
+      "category": "Starsmith/Oracles/Precursor_Vault/Interior",
+      "dsid": "oracle_rollable:starforged/precursor_vault/interior/opportunity_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676692342,
+    "modifiedTime": 1693867564427,
+    "lastModifiedBy": "pvGXRm1tqcLrB73Z",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "h9DmNX5Hw3OyNrB6",
+  "sort": 900000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!h9DmNX5Hw3OyNrB6"
+}

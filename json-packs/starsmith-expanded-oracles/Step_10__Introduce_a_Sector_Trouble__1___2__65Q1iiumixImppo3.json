@@ -1,0 +1,556 @@
+{
+  "name": "Step 10: Introduce a Sector Trouble (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        5
+      ],
+      "_id": "wIfqzRfMimmFanOV",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Blockade prevents trade with other sectors",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.wIfqzRfMimmFanOV"
+    },
+    {
+      "range": [
+        6,
+        10
+      ],
+      "_id": "5P1mOAP6hEO5H51a",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Bounty hunters search for an infamous fugitive",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.5P1mOAP6hEO5H51a"
+    },
+    {
+      "range": [
+        11,
+        15
+      ],
+      "_id": "Tga1i9TtejxdKIEU",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Chaotic breaches in spacetime spread like wildfire",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.Tga1i9TtejxdKIEU"
+    },
+    {
+      "range": [
+        16,
+        20
+      ],
+      "_id": "8EaurZCX1U228D8h",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Criminal faction corrupts local authorities",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.8EaurZCX1U228D8h"
+    },
+    {
+      "range": [
+        21,
+        25
+      ],
+      "_id": "udlt08HUpoDhWrLc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Devastating superweapon has fallen into the wrong hands",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.udlt08HUpoDhWrLc"
+    },
+    {
+      "range": [
+        26,
+        30
+      ],
+      "_id": "P5w1eJZlHzNaHE5X",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Energy storms are rampant",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.P5w1eJZlHzNaHE5X"
+    },
+    {
+      "range": [
+        31,
+        35
+      ],
+      "_id": "tCjAMrQqGAqY4k7E",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Magnetic disturbances disrupt communication",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.tCjAMrQqGAqY4k7E"
+    },
+    {
+      "range": [
+        36,
+        40
+      ],
+      "_id": "RzE5dKEa1FhOyhtW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Newly found resource lures greedy fortune hunters to the sector",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.RzE5dKEa1FhOyhtW"
+    },
+    {
+      "range": [
+        41,
+        45
+      ],
+      "_id": "piJ09KN5KYTo58JO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Notorious pirate clan preys on starships",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.piJ09KN5KYTo58JO"
+    },
+    {
+      "range": [
+        46,
+        50
+      ],
+      "_id": "AszJVSDefsXHysTe",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Parasitic lifeforms spread like a plague",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.AszJVSDefsXHysTe"
+    },
+    {
+      "range": [
+        51,
+        55
+      ],
+      "_id": "L4NP22cl5XDeWfW1",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Precursor sites throughout the sector emit strange signals",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.L4NP22cl5XDeWfW1"
+    },
+    {
+      "range": [
+        56,
+        60
+      ],
+      "_id": "oOhkKAEmmacGSvis",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Prophecies foretell an imminent awakening of a dreadful power",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.oOhkKAEmmacGSvis"
+    },
+    {
+      "range": [
+        61,
+        65
+      ],
+      "_id": "HBXQhVWBU35lz7Dq",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Raider clan emerges as a dominant threat under a new leader",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.HBXQhVWBU35lz7Dq"
+    },
+    {
+      "range": [
+        66,
+        70
+      ],
+      "_id": "EiaUHdaGPM65weMk",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Religious zealots overrun the sector",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.EiaUHdaGPM65weMk"
+    },
+    {
+      "range": [
+        71,
+        75
+      ],
+      "_id": "kdBEhgfiVAxVzI6W",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Rogue AI infiltrates systems throughout the sector",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.kdBEhgfiVAxVzI6W"
+    },
+    {
+      "range": [
+        76,
+        80
+      ],
+      "_id": "JsohCACfJ0swxcHc",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Settlements or factions are on the brink of war",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.JsohCACfJ0swxcHc"
+    },
+    {
+      "range": [
+        81,
+        85
+      ],
+      "_id": "tlihUOL1DYiQhS4T",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Ships regularly go missing",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.tlihUOL1DYiQhS4T"
+    },
+    {
+      "range": [
+        86,
+        90
+      ],
+      "_id": "UofMYbx8wpD8Q2ha",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Sickness spreads among ships and settlements",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.UofMYbx8wpD8Q2ha"
+    },
+    {
+      "range": [
+        91,
+        95
+      ],
+      "_id": "QovtMAVIxQgbFvoJ",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Supernova is imminent",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.QovtMAVIxQgbFvoJ"
+    },
+    {
+      "range": [
+        96,
+        100
+      ],
+      "_id": "GDxPt2czz3KbAKfC",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic spaceborne lifeform stalks the spaceways",
+      "name": "",
+      "img": null,
+      "_key": "!tables.results!65Q1iiumixImppo3.GDxPt2czz3KbAKfC"
+    }
+  ],
+  "folder": "1FBaNVu2zFr4Aeji",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Launching_Your_Campaign/Starting_Sector/Trouble",
+      "category": "Starsmith/Oracles/Launching_Your_Campaign/Starting_Sector",
+      "dsid": "oracle_rollable:starforged/launching_your_campaign/starting_sector/trouble_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.21.7",
+    "coreVersion": "13.351",
+    "createdTime": 1692676224834,
+    "modifiedTime": 1785569569465,
+    "lastModifiedBy": "OX4yvkc0FcRTWOpP",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "65Q1iiumixImppo3",
+  "sort": 100000,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!65Q1iiumixImppo3"
+}

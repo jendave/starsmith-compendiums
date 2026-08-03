@@ -1,0 +1,426 @@
+{
+  "name": "Planetside Feature (1 - 2)",
+  "formula": "1d100",
+  "results": [
+    {
+      "range": [
+        1,
+        7
+      ],
+      "_id": "kThcoS16iwc3LUZx",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Abyssal trenches",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.kThcoS16iwc3LUZx"
+    },
+    {
+      "range": [
+        8,
+        14
+      ],
+      "_id": "7bQXtauxWnYoRvKB",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Living islands",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.7bQXtauxWnYoRvKB"
+    },
+    {
+      "range": [
+        15,
+        21
+      ],
+      "_id": "lxg3zYqNYbNUohUb",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Luminescent seas",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.lxg3zYqNYbNUohUb"
+    },
+    {
+      "range": [
+        22,
+        28
+      ],
+      "_id": "D1KR7g6e3hmOrsvW",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Roaming icebergs",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.D1KR7g6e3hmOrsvW"
+    },
+    {
+      "range": [
+        29,
+        35
+      ],
+      "_id": "52hUlaN7CbSGGtmO",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Shallow-water plains",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.52hUlaN7CbSGGtmO"
+    },
+    {
+      "range": [
+        36,
+        42
+      ],
+      "_id": "hiaiwDTECwfdoHE6",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Subsurface volcanoes",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.hiaiwDTECwfdoHE6"
+    },
+    {
+      "range": [
+        43,
+        49
+      ],
+      "_id": "QbFGFS9PAVmLx8aY",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Titanic waves",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.QbFGFS9PAVmLx8aY"
+    },
+    {
+      "range": [
+        50,
+        56
+      ],
+      "_id": "NpoBCRP5wyXOnTus",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undersea air pockets",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.NpoBCRP5wyXOnTus"
+    },
+    {
+      "range": [
+        57,
+        63
+      ],
+      "_id": "DpfLRj2kHnaRnvVE",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undersea caves",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.DpfLRj2kHnaRnvVE"
+    },
+    {
+      "range": [
+        64,
+        70
+      ],
+      "_id": "fUFKr9hMqC6oPReh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Undersea forests",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.fUFKr9hMqC6oPReh"
+    },
+    {
+      "range": [
+        71,
+        77
+      ],
+      "_id": "dagrQoaIhGgDTovw",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Unrelenting rainfall",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.dagrQoaIhGgDTovw"
+    },
+    {
+      "range": [
+        78,
+        84
+      ],
+      "_id": "6u8UCa50stqth5nh",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Violent currents",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.6u8UCa50stqth5nh"
+    },
+    {
+      "range": [
+        85,
+        91
+      ],
+      "_id": "Vd3BwkWdoOoCIuuy",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "Windborne waterspouts",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.Vd3BwkWdoOoCIuuy"
+    },
+    {
+      "range": [
+        92,
+        98
+      ],
+      "_id": "lMHpx4hJsNNRqO1Q",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/descriptor_starsmith\"><i class=\"fa fa-caret-right\"></i> Descriptor</a> + <a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_rollable:starforged/core/focus_starsmith\"><i class=\"fa fa-caret-right\"></i> Focus</a>",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.lMHpx4hJsNNRqO1Q"
+    },
+    {
+      "range": [
+        99,
+        100
+      ],
+      "_id": "zqBnfGnaSyB9O97i",
+      "type": "text",
+      "weight": 1,
+      "drawn": false,
+      "flags": {},
+      "img": "icons/dice/d10black.svg",
+      "_stats": {
+        "coreVersion": "13.351",
+        "systemId": null,
+        "systemVersion": null,
+        "createdTime": null,
+        "modifiedTime": null,
+        "lastModifiedBy": null,
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null
+      },
+      "description": "<a class=\"entity-link oracle-category-link\" data-dsid=\"oracle_collection:starforged/precursor_vault\"><i class=\"fa fa-caret-right\"></i> Precursor Vault (planetside)</a>",
+      "name": "",
+      "_key": "!tables.results!raTeFRB4wM1tpaa6.zqBnfGnaSyB9O97i"
+    }
+  ],
+  "folder": "tl9BYoquB8rsJXih",
+  "img": "icons/dice/d10black.svg",
+  "description": "",
+  "replacement": true,
+  "displayRoll": true,
+  "flags": {
+    "foundry-ironsworn": {
+      "dfid": "Starsmith/Oracles/Planet/Ocean/Feature",
+      "category": "Starsmith/Oracles/Planet/Ocean",
+      "dsid": "oracle_rollable:starforged/planet/ocean/feature_starsmith"
+    }
+  },
+  "_stats": {
+    "systemId": "foundry-ironsworn",
+    "systemVersion": "1.22.8",
+    "coreVersion": "13.351",
+    "createdTime": 1692676401952,
+    "modifiedTime": 1699053777083,
+    "lastModifiedBy": "mrx6ioSDzeIA0D08",
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": null
+  },
+  "_id": "raTeFRB4wM1tpaa6",
+  "sort": 0,
+  "ownership": {
+    "default": 0,
+    "pvGXRm1tqcLrB73Z": 3
+  },
+  "_key": "!tables!raTeFRB4wM1tpaa6"
+}
