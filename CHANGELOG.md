@@ -2,7 +2,7 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
-## [3.0.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-07-xx)
+## [3.0.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-08-03)
 
 * Major revamp of oracles.
   * [Add "Roll twice" and "Roll three times" functionality to tables](https://github.com/jendave/starsmith-compendiums/issues/22).
