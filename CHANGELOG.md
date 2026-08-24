@@ -2,6 +2,10 @@
 
 [Starsmith Compendiums for Ironsworn: Starforged](https://foundryvtt.com/packages/starsmith-expanded-oracles)
 
+## [3.0.1](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-08-23)
+
+* Fixed typo in `Faction Relationships (3 - 4)`.
+
 ## [3.0.0](https://github.com/jendave/ironsmith-compendiums/blob/main/CHANGELOG.md) (2026-08-03)
 
 * Major revamp of oracles.
